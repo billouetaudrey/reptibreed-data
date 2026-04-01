@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "species": [
+    { "name": "Pantherophis Guttatus", "venomous": false, "diet": "Rongeur", "repro": "Ovipare" },
+    { "name": "Heterodon Nasicus", "venomous": false, "diet": "Rongeur/Amphibien", "repro": "Ovipare" },
+    { "name": "Dasypeltis Scabra", "venomous": false, "diet": "Oeuf", "repro": "Ovipare" },
+    { "name": "Python Regius", "venomous": false, "diet": "Rongeur", "repro": "Ovipare" },
+    { "name": "Morelia Viridis", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
+    { "name": "Boa Imperator", "venomous": false, "diet": "Rongeur", "repro": "Ovovivipare" },
+    { "name": "Eryx Colubrinus", "venomous": false, "diet": "Rongeur", "repro": "Ovovivipare" },
+    { "name": "Crotalus Atrox", "venomous": true, "diet": "Rongeur/Lapin", "repro": "Ovovivipare" },
+    { "name": "Bitis Arietans", "venomous": true, "diet": "Rongeur/Oiseau", "repro": "Ovovivipare" },
+    { "name": "Naja Kaouthia", "venomous": true, "diet": "Rongeur/Reptile", "repro": "Ovipare" },
+    { "name": "Trimeresurus Albolabris", "venomous": true, "diet": "Rongeur/Lézard", "repro": "Ovovivipare" },
+    { "name": "Dendroaspis Polypelis", "venomous": true, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
+    { "name": "Pogona Vitticeps", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
+    { "name": "Physignathus Cocincinus", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
+    { "name": "Eublepharis Macularius", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
+    { "name": "Correlophus Ciliatus", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
+    { "name": "Varanus Exanthematicus", "venomous": true, "diet": "Carnivore", "repro": "Ovipare" },
+    { "name": "Testudo Hermanni", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
+    { "name": "Centrochelys Sulcata", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
+    { "name": "Ambystoma Mexicanum", "venomous": false, "diet": "Carnivore", "repro": "Ovipare" },
+    { "name": "Brachypelma Hamorii", "venomous": true, "diet": "Insectivore", "repro": "Ovipare" }
+  ]
+}
