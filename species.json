@@ -1,107 +1,470 @@
-{
-  "version": 1,
-  "species": [
-    { "name": "Pantherophis Guttatus", "category": "Serpent", "venomous": false, "diet": "Rongeur", "repro": "Ovipare" },
-    { "name": "Pantherophis Obsoletus", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    { "name": "Lampropeltis Triangulum", "category": "Serpent", "venomous": false, "diet": "Rongeur", "repro": "Ovipare" },
-    { "name": "Lampropeltis Getula", "category": "Serpent", "venomous": false, "diet": "Rongeur/Reptile", "repro": "Ovipare" },
-    { "name": "Pituophis Catenifer", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    { "name": "Thamnophis Sirtalis", "category": "Serpent", "venomous": false, "diet": "Poisson/Amphibien", "repro": "Ovovivipare" },
-    { "name": "Heterodon Nasicus", "category": "Serpent", "venomous": false, "diet": "Rongeur/Amphibien", "repro": "Ovipare" },
-    { "name": "Dasypeltis Scabra", "category": "Serpent", "venomous": false, "diet": "Oeuf", "repro": "Ovipare" },
-    { "name": "Gonyosoma Oxycephalum", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    { "name": "Boiga Dendrophila", "category": "Serpent", "venomous": true, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    
-    { "name": "Python Regius", "category": "Serpent", "venomous": false, "diet": "Rongeur", "repro": "Ovipare" },
-    { "name": "Python Bivittatus", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    { "name": "Python Reticulatus", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    { "name": "Morelia Viridis", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    { "name": "Morelia Spilota", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    { "name": "Antaresia Childreni", "category": "Serpent", "venomous": false, "diet": "Rongeur", "repro": "Ovipare" },
-    { "name": "Aspidites Melanocephalus", "category": "Serpent", "venomous": false, "diet": "Rongeur/Reptile", "repro": "Ovipare" },
-    
-    { "name": "Boa Imperator", "category": "Serpent", "venomous": false, "diet": "Rongeur", "repro": "Ovovivipare" },
-    { "name": "Boa Constrictor", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovovivipare" },
-    { "name": "Epicrates Cenchria", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovovivipare" },
-    { "name": "Eunectes Notaeus", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovovivipare" },
-    { "name": "Corallus Hortulanus", "category": "Serpent", "venomous": false, "diet": "Rongeur/Oiseau", "repro": "Ovovivipare" },
-    { "name": "Eryx Colubrinus", "category": "Serpent", "venomous": false, "diet": "Rongeur", "repro": "Ovovivipare" },
-    
-    { "name": "Crotalus Atrox", "category": "Serpent", "venomous": true, "diet": "Rongeur/Lapin", "repro": "Ovovivipare" },
-    { "name": "Agkistrodon Contortrix", "category": "Serpent", "venomous": true, "diet": "Rongeur", "repro": "Ovovivipare" },
-    { "name": "Bitis Arietans", "category": "Serpent", "venomous": true, "diet": "Rongeur/Oiseau", "repro": "Ovovivipare" },
-    { "name": "Bitis Gabonica", "category": "Serpent", "venomous": true, "diet": "Rongeur/Oiseau", "repro": "Ovovivipare" },
-    { "name": "Atheris Squamigera", "category": "Serpent", "venomous": true, "diet": "Rongeur/Amphibien", "repro": "Ovovivipare" },
-    { "name": "Naja Kaouthia", "category": "Serpent", "venomous": true, "diet": "Rongeur/Reptile", "repro": "Ovipare" },
-    { "name": "Ophiophagus Hannah", "category": "Serpent", "venomous": true, "diet": "Reptile", "repro": "Ovipare" },
-    { "name": "Trimeresurus Albolabris", "category": "Serpent", "venomous": true, "diet": "Rongeur/Lézard", "repro": "Ovovivipare" },
-    { "name": "Dendroaspis Polylepis", "category": "Serpent", "venomous": true, "diet": "Rongeur/Oiseau", "repro": "Ovipare" },
-    
-    { "name": "Pogona Vitticeps", "category": "Lézard", "venomous": false, "diet": "Omnivore", "repro": "Ovipare" },
-    { "name": "Pogona Henrylawsoni", "category": "Lézard", "venomous": false, "diet": "Omnivore", "repro": "Ovipare" },
-    { "name": "Physignathus Cocincinus", "category": "Lézard", "venomous": false, "diet": "Insectivore/Carnivore", "repro": "Ovipare" },
-    { "name": "Chamaeleo Calyptratus", "category": "Lézard", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Furcifer Pardalis", "category": "Lézard", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Anolis Carolinensis", "category": "Lézard", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Basiliscus Plumifrons", "category": "Lézard", "venomous": false, "diet": "Insectivore/Carnivore", "repro": "Ovipare" },
-    
-    { "name": "Eublepharis Macularius", "category": "Lézard", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Hemitheconyx Caudicinctus", "category": "Lézard", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Correlophus Ciliatus", "category": "Lézard", "venomous": false, "diet": "Frugivore/Insectivore", "repro": "Ovipare" },
-    { "name": "Rhacodactylus Leachianus", "category": "Lézard", "venomous": false, "diet": "Frugivore/Insectivore", "repro": "Ovipare" },
-    { "name": "Mniarogekko Chahoua", "category": "Lézard", "venomous": false, "diet": "Frugivore/Insectivore", "repro": "Ovipare" },
-    { "name": "Phelsuma Madagascariensis", "category": "Lézard", "venomous": false, "diet": "Frugivore/Insectivore", "repro": "Ovipare" },
-    { "name": "Uroplatus Fimbriatus", "category": "Lézard", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    
-    { "name": "Tiliqua Scincoides", "category": "Lézard", "venomous": false, "diet": "Omnivore", "repro": "Ovovivipare" },
-    { "name": "Tribolonotus Gracilis", "category": "Lézard", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Uromastyx Geyri", "category": "Lézard", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Iguana Iguana", "category": "Lézard", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Sauromalus Ater", "category": "Lézard", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Ctenosaura Similis", "category": "Lézard", "venomous": false, "diet": "Omnivore", "repro": "Ovipare" },
-    
-    { "name": "Salvator Merianae", "category": "Lézard", "venomous": false, "diet": "Omnivore", "repro": "Ovipare" },
-    { "name": "Salvator Rufescens", "category": "Lézard", "venomous": false, "diet": "Omnivore", "repro": "Ovipare" },
-    { "name": "Varanus Exanthematicus", "category": "Lézard", "venomous": true, "diet": "Carnivore/Insectivore", "repro": "Ovipare" },
-    { "name": "Varanus Acanthurus", "category": "Lézard", "venomous": true, "diet": "Insectivore/Carnivore", "repro": "Ovipare" },
-    { "name": "Varanus Prasinus", "category": "Lézard", "venomous": true, "diet": "Carnivore/Insectivore", "repro": "Ovipare" },
-    { "name": "Varanus Macraei", "category": "Lézard", "venomous": true, "diet": "Carnivore/Insectivore", "repro": "Ovipare" },
-    { "name": "Heloderma Suspectum", "category": "Lézard", "venomous": true, "diet": "Carnivore/Oeuf", "repro": "Ovipare" },
-
-    { "name": "Testudo Hermanni", "category": "Tortue", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Testudo Graeca", "category": "Tortue", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Agrionemys Horsfieldii", "category": "Tortue", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Centrochelys Sulcata", "category": "Tortue", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Stigmochelys Pardalis", "category": "Tortue", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Chelonoidis Carbonaria", "category": "Tortue", "venomous": false, "diet": "Omnivore/Frugivore", "repro": "Ovipare" },
-    { "name": "Geochelone Elegans", "category": "Tortue", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    { "name": "Malacochersus Tornieri", "category": "Tortue", "venomous": false, "diet": "Herbivore", "repro": "Ovipare" },
-    
-    { "name": "Sternotherus Odoratus", "category": "Tortue", "venomous": false, "diet": "Carnivore/Omnivore", "repro": "Ovipare" },
-    { "name": "Trachemys Scripta", "category": "Tortue", "venomous": false, "diet": "Omnivore", "repro": "Ovipare" },
-    { "name": "Kinosternon Subrubrum", "category": "Tortue", "venomous": false, "diet": "Carnivore/Omnivore", "repro": "Ovipare" },
-    { "name": "Pelomedusa Subrufa", "category": "Tortue", "venomous": false, "diet": "Carnivore/Omnivore", "repro": "Ovipare" },
-    { "name": "Chelus Fimbriata", "category": "Tortue", "venomous": false, "diet": "Carnivore/Poisson", "repro": "Ovipare" },
-    { "name": "Macrochelys Temminckii", "category": "Tortue", "venomous": false, "diet": "Carnivore/Poisson", "repro": "Ovipare" },
-
-    { "name": "Paleosuchus Palpebrosus", "category": "Crocodilien", "venomous": false, "diet": "Carnivore", "repro": "Ovipare" },
-    { "name": "Caiman Crocodilus", "category": "Crocodilien", "venomous": false, "diet": "Carnivore", "repro": "Ovipare" },
-
-    { "name": "Ambystoma Mexicanum", "category": "Amphibien", "venomous": false, "diet": "Carnivore", "repro": "Ovipare" },
-    { "name": "Ambystoma Tigrinum", "category": "Amphibien", "venomous": false, "diet": "Carnivore", "repro": "Ovipare" },
-    { "name": "Ceratophrys Ornata", "category": "Amphibien", "venomous": false, "diet": "Carnivore", "repro": "Ovipare" },
-    { "name": "Pyxicephalus Adspersus", "category": "Amphibien", "venomous": false, "diet": "Carnivore", "repro": "Ovipare" },
-    { "name": "Dendrobates Leucomelas", "category": "Amphibien", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Dendrobates Tinctorius", "category": "Amphibien", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Litoria Caerulea", "category": "Amphibien", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Agalychnis Callidryas", "category": "Amphibien", "venomous": false, "diet": "Insectivore", "repro": "Ovipare" },
-    
-    { "name": "Brachypelma Hamorii", "category": "Arachnide", "venomous": true, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Grammostola Pulchra", "category": "Arachnide", "venomous": true, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Chromatopelma Cyaneopubescens", "category": "Arachnide", "venomous": true, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Caribena Versicolor", "category": "Arachnide", "venomous": true, "diet": "Insectivore", "repro": "Ovipare" },
-    { "name": "Theraphosa Blondi", "category": "Arachnide", "venomous": true, "diet": "Insectivore/Carnivore", "repro": "Ovipare" },
-    { "name": "Pandinus Imperator", "category": "Arachnide", "venomous": true, "diet": "Insectivore", "repro": "Vivipare" },
-    { "name": "Heterometrus Spinifer", "category": "Arachnide", "venomous": true, "diet": "Insectivore", "repro": "Vivipare" }
-  ]
-}
+[
+  {
+    "scientific_name": "Pantherophis Guttatus",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": false,
+    "fr": {
+      "name": "Couleuvre à blé",
+      "diet": "Rongeur",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Corn Snake",
+      "diet": "Rodent",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Culebra de maiz",
+      "diet": "Roedor",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Kornnatter",
+      "diet": "Nagetier",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "玉米蛇",
+      "diet": "啮齿动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Korenslang",
+      "diet": "Knaagdier",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Heterodon Nasicus",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": true,
+    "fr": {
+      "name": "Hétérodon",
+      "diet": "Rongeur/Amphibien",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Western Hognose",
+      "diet": "Rodent/Amphibian",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Falsa coral",
+      "diet": "Roedor/Anfibio",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Halsbandnatter",
+      "diet": "Nagetier/Amphibie",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "猪鼻蛇",
+      "diet": "啮齿动物/两栖动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Westelijke haakneusslang",
+      "diet": "Knaagdier/Amfibie",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Dasypeltis Scabra",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": false,
+    "fr": {
+      "name": "Couleuvre mangeuse d'oeufs",
+      "diet": "Oeuf",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Egg-eating Snake",
+      "diet": "Egg",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Culebra comedora de huevos",
+      "diet": "Huevo",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Afrikanische Eierschlange",
+      "diet": "Ei",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "食卵蛇",
+      "diet": "蛋",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Eieretende slang",
+      "diet": "Ei",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Python Regius",
+    "category": "Serpent",
+    "family": "Pythons",
+    "venomous": false,
+    "fr": {
+      "name": "Python Royal",
+      "diet": "Rongeur",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Ball Python",
+      "diet": "Rodent",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Pitón Real",
+      "diet": "Roedor",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Königspython",
+      "diet": "Nagetier",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "球蟒",
+      "diet": "啮齿动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Koningspython",
+      "diet": "Knaagdier",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Morelia Viridis",
+    "category": "Serpent",
+    "family": "Pythons",
+    "venomous": false,
+    "fr": {
+      "name": "Python Vert",
+      "diet": "Rongeur/Oiseau",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Green Tree Python",
+      "diet": "Rodent/Bird",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Pitón de árbol verde",
+      "diet": "Roedor/Ave",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Grüner Baumpython",
+      "diet": "Nagetier/Vogel",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "绿树蟒",
+      "diet": "啮齿动物/鸟类",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Groene boompython",
+      "diet": "Knaagdier/Vogel",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Boa Imperator",
+    "category": "Serpent",
+    "family": "Boas",
+    "venomous": false,
+    "fr": {
+      "name": "Boa Imperator",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare"
+    },
+    "en": {
+      "name": "Boa Imperator",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous"
+    },
+    "es": {
+      "name": "Boa Imperator",
+      "diet": "Roedor",
+      "repro": "Ovovivíparo"
+    },
+    "de": {
+      "name": "Kaiserboa",
+      "diet": "Nagetier",
+      "repro": "Ovovivipar"
+    },
+    "zh": {
+      "name": "巨蚺",
+      "diet": "啮齿动物",
+      "repro": "卵胎生"
+    },
+    "nl": {
+      "name": "Keizerboa",
+      "diet": "Knaagdier",
+      "repro": "Eierlevendbarend"
+    }
+  },
+  {
+    "scientific_name": "Eryx Colubrinus",
+    "category": "Serpent",
+    "family": "Boas",
+    "venomous": false,
+    "fr": {
+      "name": "Boa de sable",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare"
+    },
+    "en": {
+      "name": "Kenyan Sand Boa",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous"
+    },
+    "es": {
+      "name": "Boa de arena",
+      "diet": "Roedor",
+      "repro": "Ovovivíparo"
+    },
+    "de": {
+      "name": "Kenya-Sandboa",
+      "diet": "Nagetier",
+      "repro": "Ovovivipar"
+    },
+    "zh": {
+      "name": "肯尼亚沙蚺",
+      "diet": "啮齿动物",
+      "repro": "卵胎生"
+    },
+    "nl": {
+      "name": "Keniaanse zandboa",
+      "diet": "Knaagdier",
+      "repro": "Eierlevendbarend"
+    }
+  },
+  {
+    "scientific_name": "Crotalus Atrox",
+    "category": "Serpent",
+    "family": "Venimeux",
+    "venomous": true,
+    "fr": {
+      "name": "Crotale diamantin",
+      "diet": "Rongeur/Lapin",
+      "repro": "Ovovivipare"
+    },
+    "en": {
+      "name": "Western Diamondback",
+      "diet": "Rodent/Rabbit",
+      "repro": "Ovoviviparous"
+    },
+    "es": {
+      "name": "Cascabel diamantina",
+      "diet": "Roedor/Conejo",
+      "repro": "Ovovivíparo"
+    },
+    "de": {
+      "name": "Texanische Klapperschlange",
+      "diet": "Nagetier/Kaninchen",
+      "repro": "Ovovivipar"
+    },
+    "zh": {
+      "name": "西部菱背响尾蛇",
+      "diet": "啮齿动物/兔子",
+      "repro": "卵胎生"
+    },
+    "nl": {
+      "name": "Westerse diamantratelslang",
+      "diet": "Knaagdier/Konijn",
+      "repro": "Eierlevendbarend"
+    }
+  },
+  {
+    "scientific_name": "Pogona Vitticeps",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Pogona",
+      "diet": "Insectivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Bearded Dragon",
+      "diet": "Insectivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Dragón Barbudo",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Bartagame",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "鬃狮蜥",
+      "diet": "食虫动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Baardagame",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Eublepharis Macularius",
+    "category": "Lézard",
+    "family": "Geckos",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko Léopard",
+      "diet": "Insectivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Leopard Gecko",
+      "diet": "Insectivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Gecko Leopardo",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Leopardgecko",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "豹纹守宫",
+      "diet": "食虫动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Luipaardgekko",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Correlophus Ciliatus",
+    "category": "Lézard",
+    "family": "Geckos",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko à Crête",
+      "diet": "Insectivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Crested Gecko",
+      "diet": "Insectivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Gecko Crestado",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Kronengecko",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "睫角守宫",
+      "diet": "食虫动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Wimpergekko",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Testudo Hermanni",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue d'Hermann",
+      "diet": "Herbivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Hermann's Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Tortuga de Hermann",
+      "diet": "Herbívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Griechische Landschildkröte",
+      "diet": "Pflanzenfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "赫曼陆龟",
+      "diet": "食草动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Griekse landschildpad",
+      "diet": "Planteneter",
+      "repro": "Eierleggend"
+    }
+  },
+  {
+    "scientific_name": "Ambystoma Mexicanum",
+    "category": "Amphibien",
+    "family": "Urodèles",
+    "venomous": false,
+    "fr": {
+      "name": "Axolotl",
+      "diet": "Carnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Axolotl",
+      "diet": "Carnivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Ajolote",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Axolotl",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "美西螈",
+      "diet": "食肉动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Axolotl",
+      "diet": "Vleeseter",
+      "repro": "Eierleggend"
+    }
+  }
+]
