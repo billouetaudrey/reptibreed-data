@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tip1",
+    "category": "Général",
+    "fr": {
+      "title": "Hydratation",
+      "content": "Assurez-vous que votre reptile a toujours de l'eau fraîche. Certains serpents aiment s'immerger avant la mue."
+    },
+    "en": {
+      "title": "Hydration",
+      "content": "Make sure your reptile always has fresh water. Some snakes like to soak before shedding."
+    },
+    "zh": {
+      "title": "補水",
+      "content": "確保您的爬行動物總是有新鮮的水。有些蛇喜歡在蛻皮前泡水。"
+    },
+    "es": {
+      "title": "Hidratación",
+      "content": "Asegúrese de que su reptil siempre tenga agua fresca. A algunas serpientes les gusta sumergirse antes de la muda."
+    },
+    "de": {
+      "title": "Hydratation",
+      "content": "Stellen Sie sicher, dass Ihr Reptil immer frisches Wasser hat. Einige Schlangen baden gerne vor der Häutung."
+    }
+  },
+  {
+    "id": "regurgitation",
+    "category": "Alimentation",
+    "fr": {
+      "title": "Régurgitation",
+      "content": "Causes fréquentes : manipulation trop tôt après le repas (< 48h), proie trop grosse ou température trop basse. \n\nProtocole : Ne proposez rien pendant 10 à 14 jours pour laisser l'œsophage cicatriser, puis reprenez avec une proie très petite."
+    },
+    "en": {
+      "title": "Regurgitation",
+      "content": "Common causes: handling too soon after meal (< 48h), prey too large, or temperature too low. \n\nProtocol: Do not offer food for 10-14 days to allow the esophagus to heal, then resume with a very small prey."
+    },
+    "zh": {
+      "title": "嘔吐",
+      "content": "常見原因：進食後過早進行手抓操作（< 48小時）、獵物過大或溫度過低。\n\n協議：10 到 14 天內不要提供食物，讓食道癒合，然後從非常小的獵物開始。"
+    },
+    "es": {
+      "title": "Regurgitación",
+      "content": "Causas comunes: manipulación demasiado pronto después de la comida (< 48 h), presa demasiado grande o temperatura demasiado baja.\n\nProtocolo: No ofrezca comida durante 10-14 días para permitir que el esófago sane, luego reanude con una presa muy pequeña."
+    },
+    "de": {
+      "title": "Regurgitation",
+      "content": "Häufige Ursachen: Zu frühes Handling nach der Mahlzeit (< 48 Std.), zu große Beute oder zu niedrige Temperatur.\n\nProtokoll: Bieten Sie 10–14 Tage lang kein Futter an, damit die Speiseröhre heilen kann, und beginnen Sie dann wieder mit einer sehr kleinen Beute."
+    }
+  },
+  {
+    "id": "refusal",
+    "category": "Alimentation",
+    "fr": {
+      "title": "Refus de nourriture",
+      "content": "Un serpent peut refuser de manger pour several raisons :\n1. Mue imminente (fréquent).\n2. Température trop basse.\n3. Stress (terrarium trop exposé, trop de manipulations).\n4. Période de reproduction ou repos hivernal.\n\nConseil : Vérifiez vos paramètres avant de vous inquiéter."
+    },
+    "en": {
+      "title": "Food Refusal",
+      "content": "A snake may refuse food for several reasons:\n1. Imminent shed (common).\n2. Temperature too low.\n3. Stress (cage too exposed, too much handling).\n4. Breeding season or winter rest.\n\nTip: Check your parameters before worrying."
+    },
+    "zh": {
+      "title": "拒食",
+      "content": "蛇拒絕進食的幾個原因：\n1. 即將蛻皮（常見）。\n2. 溫度過低。\n3. 壓力（飼養箱太暴露，過多操作）。\n4. 繁殖期或冬眠。\n\n提示：在擔心之前請先檢查環境參數。"
+    },
+    "es": {
+      "title": "Rechazo de comida",
+      "content": "Una serpiente puede negarse a comer por varias razones:\n1. Muda inminente (común).\n2. Temperatura demasiado baja.\n3. Estrés (terrario demasiado expuesto, demasiada manipulación).\n4. Período de reproducción o descanso invernal.\n\nConsejo: Verifique sus parámetros antes de preocuparse."
+    },
+    "de": {
+      "title": "Futterverweigerung",
+      "content": "Eine Schlange kann die Nahrungsaufnahme aus verschiedenen Gründen verweigern:\n1. Bevorstehende Häutung (häufig).\n2. Zu niedrige Temperatur.\n3. Stress (Terrarium zu exponiert, zu viel Handling).\n4. Paarungszeit oder Winterruhe.\n\nTipp: Überprüfen Sie Ihre Parameter, bevor Sie sich Sorgen machen."
+    }
+  },
+  {
+    "id": "mites",
+    "category": "Santé",
+    "fr": {
+      "title": "Acariens (Mites)",
+      "content": "Petits points noirs qui bougent sur l'animal ou flottent dans le bol d'eau. L'animal se baigne souvent pour se soulager.\n\nTraitement : Nettoyage complet du terrarium, substrat en essuie-tout le temps du traitement, et produit vétérinaire adapté (ex: Taurrus)."
+    },
+    "en": {
+      "title": "Mites",
+      "content": "Small black dots moving on the animal or floating in the water bowl. The animal often soaks to relieve itself.\n\nTreatment: Complete cleaning of the terrarium, paper towel substrate during treatment, and appropriate veterinary product."
+    },
+    "zh": {
+      "title": "蟎蟲",
+      "content": "在動物身上移動的小黑點，或漂浮在水盆中。動物經常泡水以緩解不適。\n\n治療：徹底清潔飼養箱，治療期間使用紙巾作為墊材，並使用合適的獸醫產品。"
+    },
+    "es": {
+      "title": "Ácaros",
+      "content": "Pequeños puntos negros que se mueven sobre el animal o flotan en el cuenco de agua. El animal se baña a menudo para aliviarse.\n\nTratamiento: Limpieza completa del terrario, sustrato de papel de cocina durante el tratamiento y producto veterinario adecuado."
+    },
+    "de": {
+      "title": "Milben",
+      "content": "Kleine schwarze Punkte, die sich auf dem Tier bewegen oder im Wassernapf schwimmen. Das Tier badet oft zur Linderung.\n\nBehandlung: Vollständige Reinigung des Terrariums, Küchenpapier als Bodengrund während der Behandlung und geeignetes Tierarzneimittel."
+    }
+  },
+  {
+    "id": "respiratory",
+    "category": "Santé",
+    "fr": {
+      "title": "Infection Respiratoire",
+      "content": "Symptômes : Sifflements, bulles au nez ou à la bouche, animal qui garde la gueule ouverte.\n\nCause : Souvent liée à un courant d'air ou une humidité/température inadaptée. Une visite vétérinaire est souvent nécessaire."
+    },
+    "en": {
+      "title": "Respiratory Infection",
+      "content": "Symptoms: Wheezing, bubbles at the nose or mouth, animal keeping its mouth open.\n\nCause: Often related to a draft or inappropriate humidity/temperature. A vet visit is often necessary."
+    },
+    "zh": {
+      "title": "呼吸道感染",
+      "content": "症狀：喘鳴聲、鼻子或嘴巴有氣泡、動物保持嘴巴張開。\n\n原因：通常與通風、濕度或溫度不當有關。通常需要看獸醫。"
+    },
+    "es": {
+      "title": "Infección respiratoria",
+      "content": "Síntomas: Sibilancias, burbujas en la nariz o la boca, el animal mantiene la boca abierta.\n\nCausa: A menudo relacionada con una corriente de aire o humedad/temperatura inadecuada. Una visite al veterinario suele ser necesaria."
+    },
+    "de": {
+      "title": "Atemwegsinfektion",
+      "content": "Symptome: Pfeifende Geräusche, Blasen an Nase oder Maul, das Tier hält das Maul offen.\n\nUrsache: Oft verbunden mit Zugluft oder ungeeigneter Luftfeuchtigkeit/Temperatur. Ein Tierarztbesuch ist meist notwendig."
+    }
+  }
+]
