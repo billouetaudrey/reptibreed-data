@@ -1,26 +1,26 @@
 [
   {
-    "id": "help1",
-    "category": "Technique",
+    "id": "help_repti",
+    "category": "Import/Export",
     "fr": {
-      "title": "Utilisation de l'App",
-      "content": "Comment ajouter un nouvel animal ?"
+      "title": "Fichiers .repti",
+      "content": "Les fichiers .repti permettent d'exporter un animal complet avec tout son historique. C'est l'idéal pour transférer une fiche à un acheteur qui utilise aussi ReptiBreed."
     },
     "en": {
-      "title": "App Usage",
-      "content": "How to add a new animal?"
+      "title": ".repti Files",
+      "content": ".repti files allow you to export a complete animal with all its history and photos. It is ideal for transferring a file to a buyer who also uses ReptiBreed."
     },
     "zh": {
-      "title": "應用程序使用",
-      "content": "如何添加新動物？"
+      "title": ".repti 文件",
+      "content": ".repti 文件允許您導出包含所有歷史記錄和照片的完整動物。這非常適合將檔案傳輸給也使用 ReptiBreed 的買家。"
     },
     "es": {
-      "title": "Uso de la aplicación",
-      "content": "¿Cómo añadir un nuevo animal?"
+      "title": "Archivos .repti",
+      "content": "Los archivos .repti permiten exportar un animal completo con todo su historial y fotos. Es ideal para transferir una ficha a un comprador que también use ReptiBreed."
     },
     "de": {
-      "title": "App-Nutzung",
-      "content": "Wie füge ich ein neues Tier hinzu?"
+      "title": ".repti-Dateien",
+      "content": ".repti-Dateien ermöglichen es Ihnen, ein komplettes Tier mit seinem gesamten Verlauf und seinen Fotos zu exportieren. Dies ist ideal, um ein Profil an einen Käufer zu übertragen, der ebenfalls ReptiBreed nutzt."
     }
   },
   {
@@ -48,27 +48,27 @@
     }
   },
   {
-    "id": "help_repti",
-    "category": "Import/Export",
+    "id": "help1",
+    "category": "Technique",
     "fr": {
-      "title": "Fichiers .repti",
-      "content": "Les fichiers .repti permettent d'exporter un animal complet avec tout son historique et ses photos. C'est l'idéal pour transférer une fiche à un acheteur qui utilise aussi ReptiBreed."
+      "title": "Utilisation de l'App",
+      "content": "Comment ajouter un nouvel animal ?"
     },
     "en": {
-      "title": ".repti Files",
-      "content": ".repti files allow you to export a complete animal with all its history and photos. It is ideal for transferring a file to a buyer who also uses ReptiBreed."
+      "title": "App Usage",
+      "content": "How to add a new animal?"
     },
     "zh": {
-      "title": ".repti 文件",
-      "content": ".repti 文件允許您導出包含所有歷史記錄和照片的完整動物。這非常適合將檔案傳輸給也使用 ReptiBreed 的買家。"
+      "title": "應用程序使用",
+      "content": "如何添加新動物？"
     },
     "es": {
-      "title": "Archivos .repti",
-      "content": "Los archivos .repti permiten exportar un animal completo con todo su historial y fotos. Es ideal para transferir una ficha a un comprador que también use ReptiBreed."
+      "title": "Uso de la aplicación",
+      "content": "¿Cómo añadir un nuevo animal?"
     },
     "de": {
-      "title": ".repti-Dateien",
-      "content": ".repti-Dateien ermöglichen es Ihnen, ein komplettes Tier mit seinem gesamten Verlauf und seinen Fotos zu exportieren. Dies ist ideal, um ein Profil an einen Käufer zu übertragen, der ebenfalls ReptiBreed nutzt."
+      "title": "App-Nutzung",
+      "content": "Wie füge ich ein neues Tier hinzu?"
     }
   }
 ]
