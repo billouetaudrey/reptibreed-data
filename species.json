@@ -33,7 +33,8 @@
       "name": "Korenslang",
       "diet": "Knaagdier",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "rodents"
   },
   {
     "scientific_name": "Heterodon Nasicus",
@@ -69,7 +70,8 @@
       "name": "Westelijke haakneusslang",
       "diet": "Knaagdier/Amfibie",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "rodents"
   },
   {
     "scientific_name": "Dasypeltis Scabra",
@@ -105,7 +107,8 @@
       "name": "Eieretende slang",
       "diet": "Ei",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "others"
   },
   {
     "scientific_name": "Python Regius",
@@ -141,7 +144,8 @@
       "name": "Koningspython",
       "diet": "Knaagdier",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "rodents"
   },
   {
     "scientific_name": "Morelia Viridis",
@@ -177,7 +181,8 @@
       "name": "Groene boompython",
       "diet": "Knaagdier/Vogel",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "rodents"
   },
   {
     "scientific_name": "Boa Imperator",
@@ -213,7 +218,8 @@
       "name": "Keizerboa",
       "diet": "Knaagdier",
       "repro": "Eierlevendbarend"
-    }
+    },
+    "feed_category": "rodents"
   },
   {
     "scientific_name": "Eryx Colubrinus",
@@ -249,7 +255,8 @@
       "name": "Keniaanse zandboa",
       "diet": "Knaagdier",
       "repro": "Eierlevendbarend"
-    }
+    },
+    "feed_category": "rodents"
   },
   {
     "scientific_name": "Crotalus Atrox",
@@ -285,7 +292,8 @@
       "name": "Westerse diamantratelslang",
       "diet": "Knaagdier/Konijn",
       "repro": "Eierlevendbarend"
-    }
+    },
+    "feed_category": "rodents"
   },
   {
     "scientific_name": "Pogona Vitticeps",
@@ -321,7 +329,8 @@
       "name": "Baardagame",
       "diet": "Insecteneter",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "insects"
   },
   {
     "scientific_name": "Eublepharis Macularius",
@@ -357,7 +366,8 @@
       "name": "Luipaardgekko",
       "diet": "Insecteneter",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "insects"
   },
   {
     "scientific_name": "Correlophus Ciliatus",
@@ -393,7 +403,8 @@
       "name": "Wimpergekko",
       "diet": "Insecteneter",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "insects"
   },
   {
     "scientific_name": "Testudo Hermanni",
@@ -429,7 +440,8 @@
       "name": "Griekse landschildpad",
       "diet": "Planteneter",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "plants"
   },
   {
     "scientific_name": "Ambystoma Mexicanum",
@@ -465,6 +477,7 @@
       "name": "Axolotl",
       "diet": "Vleeseter",
       "repro": "Eierleggend"
-    }
+    },
+    "feed_category": "others"
   }
 ]
