@@ -55,5 +55,50 @@
       "title": ".repti-Dateien", 
       "content": ".repti-Dateien ermöglichen es Ihnen, ein komplettes Tier mit seinem gesamten Verlauf und seinen Fotos zu exportieren. Dies ist ideal, um ein Profil an einen Käufer zu übertragen, der ebenfalls ReptiBreed nutzt." 
     }
+  },
+  {
+    "id": "help_manage",
+    "category": "Gestion",
+    "fr": { "title": "Gérer vos reptiles", "content": "Ajoutez ou modifiez vos animaux (adultes ou bébés) en remplissant leur fiche : nom, espèce, phase, sexe et date de naissance. Définissez également leur repas par défaut pour simplifier les saisies futures. Vous pouvez ajouter des photos et définir une photo de profil." },
+    "en": { "title": "Manage your reptiles", "content": "Add or edit your animals (adults or babies) by filling out their profile: name, species, morph, sex, and birth date. Set their default meal to simplify future entries. You can add photos and set a profile picture." },
+    "zh": { "title": "管理您的爬行動物", "content": "通過填寫個人資料添加或編輯您的動物（成年或幼年）：姓名、物種、形態、性別和出生日期。設置他們的默認餐點以簡化未來的輸入。您可以添加照片並設置個人資料圖片。" },
+    "es": { "title": "Gestionar sus reptiles", "content": "Añada o edite sus animales (adultos o crías) completando su ficha: nombre, especie, fase, sexo y fecha de nacimiento. Defina también su comida predeterminada para simplificar futuras entradas. Puede añadir fotos y definir una foto de perfil." },
+    "de": { "title": "Verwalten Ihrer Reptilien", "content": "Fügen Sie Ihre Tiere (Erwachsene oder Babys) hinzu oder bearbeiten Sie sie, indem Sie ihr Profil ausfüllen: Name, Art, Phase, Geschlecht und Geburtsdatum. Legen Sie auch ihre Standardmahlzeit fest, um zukünftige Eingaben zu vereinfachen. Sie können Fotos hinzufügen und ein Profilbild festlegen." }
+  },
+  {
+    "id": "help_repro",
+    "category": "Reproduction",
+    "fr": { "title": "Suivi de reproduction", "content": "Le module de reproduction permet de suivre tout le cycle : de l'accouplement à l'éclosion. Enregistrez les dates d'accouplement, suivez l'ovulation et notez la date de ponte. Une fois éclos, l'application peut générer automatiquement les fiches des bébés." },
+    "en": { "title": "Reproduction tracking", "content": "The reproduction module tracks the entire cycle: from mating to hatching. Record mating dates, track ovulation, and note the laying date. Once hatched, the app can automatically generate baby profiles." },
+    "zh": { "title": "繁殖追踪", "content": "繁殖模塊跟踪整個週期：從交配到孵化。記錄交配日期，跟踪排卵，並記錄產卵日期。孵化後，應用程序可以自動生成幼仔檔案。" },
+    "es": { "title": "Seguimiento de reproducción", "content": "El módulo de reproducción permite seguir todo el ciclo: desde el apareamiento hasta la eclosión. Registre las fechas de apareamiento, siga la ovulación y anote la fecha de puesta. Una vez eclosionados, la aplicación puede generar automáticamente las fichas de las crías." },
+    "de": { "title": "Fortpflanzungsverfolgung", "content": "Das Fortpflanzungsmodul verfolgt den gesamten Zyklus: von der Paarung bis zum Schlüpfen. Erfassen Sie Paarungsdaten, verfolgen Sie den Eisprung und notieren Sie das Legedatum. Nach dem Schlüpfen kann die App automatisch Babyprofile erstellen." }
+  },
+  {
+    "id": "help_feeding",
+    "category": "Suivi",
+    "fr": { "title": "Enregistrer des repas", "content": "Gagnez du temps avec la saisie par lot. Sélectionnez plusieurs animaux (filtrez par type de proie ou taille), puis définissez le repas commun. Vous pouvez aussi noter un refus ou mettre un repas en attente (rappel)." },
+    "en": { "title": "Recording meals", "content": "Save time with batch entry. Select multiple animals (filter by prey type or size), then define the common meal. You can also record a refusal or put a meal on hold (reminder)." },
+    "zh": { "title": "記錄餐點", "content": "通過批量輸入節省時間。選擇多個動物（按獵物類型或大小篩選），然後定義共同餐點。您還可以記錄拒食或將餐點設置為待定（提醒）。" },
+    "es": { "title": "Registrar comidas", "content": "Ahorre tiempo con la entrada por lotes. Seleccione varios animales (filtre por tipo de presa o tamaño) y defina la comida común. También puede anotar un rechazo o poner una comida en espera (recordatorio)." },
+    "de": { "title": "Aufzeichnen von Mahlzeiten", "content": "Sparen Sie Zeit mit der Stapeleingabe. Wählen Sie mehrere Tiere aus (filtern Sie nach Beutetyp oder Größe) und legen Sie die gemeinsame Mahlzeit fest. Sie können auch eine Verweigerung notieren oder eine Mahlzeit zurückstellen (Erinnerung)." }
+  },
+  {
+    "id": "help_care",
+    "category": "Santé",
+    "fr": { "title": "Soins et Santé", "content": "Enregistrez les traitements médicaux, les examens ou les périodes d'hivernage. Vous pouvez définir une date de début et une date de fin pour les traitements longs et ajouter des notes détaillées." },
+    "en": { "title": "Care and Health", "content": "Record medical treatments, exams, or hibernation periods. You can set a start and end date for long treatments and add detailed notes." },
+    "zh": { "title": "護理與健康", "content": "記錄醫療護理、檢查或冬眠期。您可以為長期治療設置開始和結束日期，並添加詳細說明。" },
+    "es": { "title": "Cuidado y Salud", "content": "Registre tratamientos médicos, exámenes o períodos de hibernación. Puede definir una fecha de inicio y una fecha de fin para tratamientos largos y añadir notas detalladas." },
+    "de": { "title": "Pflege und Gesundheit", "content": "Erfassen Sie medizinische Behandlungen, Untersuchungen oder Überwinterungszeiten. Sie können ein Start- und Enddatum für Langzeitbehandlungen festlegen und detaillierte Notizen hinzufügen." }
+  },
+  {
+    "id": "help_shed",
+    "category": "Suivi",
+    "fr": { "title": "Suivi des mues", "content": "Notez la date de mue de vos reptiles et précisez si elle était complète, partielle ou s'il s'agit d'un échec. Cela permet de surveiller l'état d'hydratation et de santé de vos animaux." },
+    "en": { "title": "Shedding tracking", "content": "Record your reptiles' shedding date and specify if it was complete, partial, or a failure. This helps monitor your animals' hydration and health status." },
+    "zh": { "title": "脫皮追踪", "content": "記錄您的爬行動物的脫皮日期，並指定它是完全脫皮、部分脫皮還是失敗。這有助於監測動物的水分和健康狀況。" },
+    "es": { "title": "Seguimiento de mudas", "content": "Anote la fecha de muda de sus reptiles y especifique si fue completa, parcial o si se trata de un fallo. Esto permite vigilar el estado de hidratación y salud de sus animales." },
+    "de": { "title": "Häutungsverfolgung", "content": "Notieren Sie das Häutungsdatum Ihrer Reptilien und geben Sie an, ob die Häutung vollständig, teilweise oder fehlgeschlagen war. Dies hilft bei der Überwachung des Hydrations- und Gesundheitszustands Ihrer Tiere." }
   }
 ]
