@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rodents",
+    "fr": { "name": "Rongeurs", "items": "Souris, Rat, Hamster, Mastomys, Gerbille, Cobaye, Lapin, Autres" },
+    "en": { "name": "Rodents", "items": "Mouse, Rat, Hamster, Mastomys, Gerbil, Guinea Pig, Rabbit, Others" },
+    "es": { "name": "Roedores", "items": "Ratón, Rata, Hámster, Mastomys, Gerbo, Cobaya, Conejo, Otros" },
+    "de": { "name": "Nagetier", "items": "Maus, Ratte, Hamster, Vielzitzenmaus, Rennmaus, Meerschweinchen, Kaninchen, Andere" },
+    "zh": { "name": "啮齿动物", "items": "小白鼠, 大白鼠, 仓鼠, 多乳鼠, 沙鼠, 豚鼠, 兔子, 其他" },
+    "nl": { "name": "Knaagdieren", "items": "Muis, Rat, Hamster, Veeltepelmuis, Gerbil, Cavia, Konijn, Anderen" }
+  },
+  {
+    "id": "insects",
+    "fr": { "name": "Insectes", "items": "Grillons, Criquets, Blattes, Vers de farine, Vers morios, Teignes, Drosophiles, Autres" },
+    "en": { "name": "Insects", "items": "Crickets, Locusts, Roaches, Mealworms, Morio worms, Waxworms, Fruit flies, Others" },
+    "es": { "name": "Insectos", "items": "Grillos, Langostas, Cucarachas, Gusanos de la harina, Gusanos morio, Gusanos de la cera, Drosófilas, Otros" },
+    "de": { "name": "Insekten", "items": "Grillen, Heuschrecken, Schaben, Mehlwürmer, Zophobas, Wachsmotten, Fruchtfliegen, Andere" },
+    "zh": { "name": "昆虫", "items": "蟋蟀, 蝗虫, 蟑螂, 面包虫, 大麦虫, 蜡螟, 果蝇, 其他" },
+    "nl": { "name": "Insekten", "items": "Krekels, Sprinkhanen, Kakkerlakken, Meelwormen, Morio-wormen, Wasmotten, Fruitvliegen, Anderen" }
+  },
+  {
+    "id": "plants",
+    "fr": { "name": "Végétaux", "items": "Pissenlit, Trèfle, Endive, Salade, Courgette, Carotte, Fraise, Banane, Autres" },
+    "en": { "name": "Plants", "items": "Dandelion, Clover, Endive, Lettuce, Zucchini, Carrot, Strawberry, Banana, Others" },
+    "es": { "name": "Vegetales", "items": "Diente de león, Trébol, Endivia, Lechuga, Calabacín, Zanahoria, Fresa, Plátano, Otros" },
+    "de": { "name": "Pflanzen", "items": "Löwenzahn, Klee, Endivie, Salat, Zucchini, Karotte, Erdbeere, Banane, Andere" },
+    "zh": { "name": "植物", "items": "蒲公英, 三叶草, 菊苣, 生菜, 西葫芦, 胡萝卜, 草莓, 香蕉, 其他" },
+    "nl": { "name": "Planten", "items": "Paardenbloem, Klaver, Andijvie, Sla, Courgette, Wortel, Aardbei, Banaan, Anderen" }
+  },
+  {
+    "id": "piscivore",
+    "fr": { "name": "Piscivore", "items": "Poisson, Smelt, Crevette, Moule, Autres" },
+    "en": { "name": "Piscivorous", "items": "Fish, Smelt, Shrimp, Mussel, Others" },
+    "es": { "name": "Piscívoro", "items": "Pescado, Smelt, Camarón, Mejillón, Otros" },
+    "de": { "name": "Piscivor", "items": "Fisch, Smelt, Garnele, Muschel, Andere" },
+    "zh": { "name": "食鱼性", "items": "鱼, 斯梅尔特, 虾, 贻贝, 其他" },
+    "nl": { "name": "Visetend", "items": "Vis, Smelt, Garnaal, Mossel, Anderen" }
+  },
+  {
+    "id": "others",
+    "fr": { "name": "Autres", "items": "Poussin, Oeuf, Autres" },
+    "en": { "name": "Others", "items": "Chick, Egg, Others" },
+    "es": { "name": "Otros", "items": "Pollito, Huevo, Otros" },
+    "de": { "name": "Andere", "items": "Küken, Ei, Andere" },
+    "zh": { "name": "其他", "items": "小鸡, 蛋, 其他" },
+    "nl": { "name": "Anderen", "items": "Kuiken, Ei, Anderen" }
+  }
+]
