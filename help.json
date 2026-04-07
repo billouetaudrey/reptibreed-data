@@ -1,338 +1,340 @@
-[
-  {
-    "id": "help_encyclopedia",
-    "category": "Technique",
-    "fr": {
-      "title": "Encyclopédie & Conseils",
-      "content": "Consultez les fiches espèces et les conseils d'experts. Pour les membres Premium, les données peuvent être mises à jour automatiquement via le Cloud."
+{
+  "help": [
+    {
+      "id": "help_backup",
+      "category": "Sauvegarde",
+      "fr": {
+        "title": "Sauvegarde Cloud",
+        "content": "La sauvegarde automatique vers Google Drive nécessite d'être connecté. Elle se déclenche selon le nombre de modifications que vous avez configuré dans les paramètres."
+      },
+      "en": {
+        "title": "Cloud Backup",
+        "content": "Automatic backup to Google Drive requires being logged in. It triggers based on the number of modifications you have configured in the settings."
+      },
+      "zh": {
+        "title": "雲端備份",
+        "content": "自動備份到 Google 雲端硬碟需要登錄。它根據您在設置中配置的修改次數觸發。"
+      },
+      "es": {
+        "title": "Copia de seguridad en la nube",
+        "content": "La copia de seguridad automática en Google Drive requiere haber iniciado sesión. Se activa según el número de modifications que haya configurado en los ajustes."
+      },
+      "de": {
+        "title": "Cloud-Backup",
+        "content": "Die automatische Sicherung auf Google Drive erfordert eine Anmeldung. Sie wird basierend auf der Anzahl der Änderungen ausgelöst, die Sie in den Einstellungen konfiguriert haben."
+      }
     },
-    "en": {
-      "title": "Encyclopedia & Tips",
-      "content": "Consult species profiles and expert tips. For Premium members, data can be updated automatically via the Cloud."
+    {
+      "id": "help_care",
+      "category": "Santé",
+      "fr": {
+        "title": "Soins et Santé",
+        "content": "Enregistrez les traitements médicaux, les examens ou les périodes d'hivernage. Vous pouvez définir une date de début et une date de fin pour les traitements longs et ajouter des notes détaillées."
+      },
+      "en": {
+        "title": "Care and Health",
+        "content": "Record medical treatments, exams, or hibernation periods. You can set a start and end date for long treatments and add detailed notes."
+      },
+      "zh": {
+        "title": "護理與健康",
+        "content": "記錄醫療護理、檢查或冬眠期。您可以為長期治療設置開始和結束日期，並添加詳細說明。"
+      },
+      "es": {
+        "title": "Cuidado y Salud",
+        "content": "Registre tratamientos médicos, exámenes o períodos de hibernación. Puede definir una fecha de inicio y una fecha de fin para tratamientos largos y añadir notas detalladas."
+      },
+      "de": {
+        "title": "Pflege und Gesundheit",
+        "content": "Erfassen Sie medizinische Behandlungen, Untersuchungen oder Überwinterungszeiten. Sie können ein Start- und Enddatum für Langzeitbehandlungen festlegen und detaillierte Notizen hinzufügen."
+      }
     },
-    "zh": {
-      "title": "百科全書與建議",
-      "content": "查閱物種檔案和專家建議。對於 Premium 會員，數據可以通過雲端自動更新。"
+    {
+      "id": "help_encyclopedia",
+      "category": "Technique",
+      "fr": {
+        "title": "Encyclopédie & Conseils",
+        "content": "Consultez les fiches espèces et les conseils d'experts. Pour les membres Premium, les données peuvent être mises à jour automatiquement via le Cloud."
+      },
+      "en": {
+        "title": "Encyclopedia & Tips",
+        "content": "Consult species profiles and expert tips. For Premium members, data can be updated automatically via the Cloud."
+      },
+      "zh": {
+        "title": "百科全書與建議",
+        "content": "查閱物種檔案和專家建議。對於 Premium 會員，數據可以通過雲端自動更新。"
+      },
+      "es": {
+        "title": "Enciclopedia y Consejos",
+        "content": "Consulte fichas de especies y consejos de expertos. Para los miembros Premium, los datos pueden actualizarse automáticamente a través de la Nube."
+      },
+      "de": {
+        "title": "Enzyklopädie & Tipps",
+        "content": "Konsultieren Sie Artenprofile und Experten-Tipps. Für Premium-Mitglieder können die Daten automatisch über die Cloud aktualisiert werden."
+      }
     },
-    "es": {
-      "title": "Enciclopedia y Consejos",
-      "content": "Consulte fichas de especies y consejos de expertos. Para los miembros Premium, los datos pueden actualizarse automáticamente a través de la Nube."
+    {
+      "id": "help_feeding",
+      "category": "Suivi",
+      "fr": {
+        "title": "Enregistrer des repas",
+        "content": "Gagnez du temps avec la saisie par lot. Sélectionnez plusieurs animaux (filtrez par type de proie ou taille), puis définissez le repas commun. Vous pouvez aussi noter un refus ou mettre un repas en attente (rappel)."
+      },
+      "en": {
+        "title": "Recording meals",
+        "content": "Save time with batch entry. Select multiple animals (filter by prey type or size), then define the common meal. You can also record a refusal or put a meal on hold (reminder)."
+      },
+      "zh": {
+        "title": "記錄餐點",
+        "content": "通過批量輸入節省時間。選擇多個動物（按獵物類型或大小篩選），然後定義共同餐點。您還可以記錄拒食或將餐點設置為待定（提醒）。"
+      },
+      "es": {
+        "title": "Registrar comidas",
+        "content": "Ahorre tiempo con la entrada por lotes. Seleccione varios animales (filtre por tipo de presa o tamaño) y defina la comida común. También puede anotar un rechazo o poner una comida en espera (recordatorio)."
+      },
+      "de": {
+        "title": "Aufzeichnen von Mahlzeiten",
+        "content": "Sparen Sie Zeit mit der Stapeleingabe. Wählen Sie mehrere Tiere aus (filtern Sie nach Beutetyp oder Größe) und legen Sie die gemeinsame Mahlzeit fest. Sie können auch eine Verweigerung notieren oder eine Mahlzeit zurückstellen (Erinnerung)."
+      }
     },
-    "de": {
-      "title": "Enzyklopädie & Tipps",
-      "content": "Konsultieren Sie Artenprofile und Experten-Tipps. Für Premium-Mitglieder können die Daten automatisch über die Cloud aktualisiert werden."
+    {
+      "id": "help_finance",
+      "category": "Gestion",
+      "fr": {
+        "title": "Finances & Ventes",
+        "content": "Suivez vos revenus et dépenses. Gérez les réservations avec acompte, enregistrez les infos des acheteurs et générez des rapports financiers en PDF pour un suivi professionnel."
+      },
+      "en": {
+        "title": "Finance & Sales",
+        "content": "Track your income and expenses. Manage reservations with deposits, record buyer info, and generate financial reports in PDF for professional tracking."
+      },
+      "zh": {
+        "title": "財務與銷售",
+        "content": "跟踪您的收入和支出。管理帶定金的預訂，記錄買家信息，並生成 PDF 財務報告以進行專業追踪。"
+      },
+      "es": {
+        "title": "Finanzas y Ventas",
+        "content": "Siga sus ingresos y gastos. Gestione las reservas con depósito, registre la información de los compradores y genere informes financieros en PDF para un seguimiento profesional."
+      },
+      "de": {
+        "title": "Finanzen & Verkäufe",
+        "content": "Verfolgen Sie Ihre Einnahmen und Ausgaben. Verwalten Sie Reservierungen mit Anzahlung, erfassen Sie Käuferinformationen und erstellen Sie Finanzberichte im PDF-Format für eine professionelle Verfolgung."
+      }
+    },
+    {
+      "id": "help_genetics",
+      "category": "Technique",
+      "fr": {
+        "title": "Génétique",
+        "content": "Utilisez le calculateur génétique pour prévoir les phases des bébés. Le mode 'Matchmaker' aide à trouver des partenaires compatibles, tandis que le 'Gene Hunter' cherche les meilleurs couples pour obtenir un combo spécifique."
+      },
+      "en": {
+        "title": "Genetics",
+        "content": "Use the genetic calculator to predict baby morphs. 'Matchmaker' mode helps find compatible partners, while 'Gene Hunter' searches for the best pairs to achieve a specific combo."
+      },
+      "zh": {
+        "title": "遺傳學",
+        "content": "使用遺傳計算器預測幼仔形態。 “配對”模式有助於找到兼容的合作夥伴，而“基因獵人”則搜索最佳配對以實現特定組合。"
+      },
+      "es": {
+        "title": "Genética",
+        "content": "Utilice la calculadora genética para predecir las fases de las crías. El modo 'Matchmaker' ayuda a encontrar parejas compatibles, mientras que el 'Gene Hunter' busca las mejores parejas para obtener un combo específico."
+      },
+      "de": {
+        "title": "Genetik",
+        "content": "Verwenden Sie den Genetik-Rechner, um die Morphen der Babys vorherzusagen. Der 'Matchmaker'-Modus hilft bei der Suche nach kompatiblen Partnern, während der 'Gene Hunter' nach den besten Paaren sucht, um eine bestimmte Kombination zu erzielen."
+      }
+    },
+    {
+      "id": "help_incubation",
+      "category": "Reproduction",
+      "fr": {
+        "title": "Incubation & Naissances",
+        "content": "Suivez l'incubation ou la gestation avec précision (température, humidité). Lors de l'éclosion, l'application génère automatiquement les fiches des bébés avec leur généalogie."
+      },
+      "en": {
+        "title": "Incubation & Births",
+        "content": "Track incubation or gestation accurately (temperature, humidity). Upon hatching, the app automatically generates baby profiles with their lineage."
+      },
+      "zh": {
+        "title": "孵化與出生",
+        "content": "精確跟踪孵化或妊娠（溫度、濕度）。孵化後，應用程序會自動生成具有其血統的幼仔檔案。"
+      },
+      "es": {
+        "title": "Incubación y Nacimientos",
+        "content": "Siga la incubación o la gestación con precisión (temperatura, humedad). Al eclosionar, la aplicación genera automáticamente las fichas de las crías con su genealogía."
+      },
+      "de": {
+        "title": "Inkubation & Geburten",
+        "content": "Verfolgen Sie die Inkubation oder Trächtigkeit genau (Temperatur, Luftfeuchtigkeit). Nach dem Schlüpfen erstellt die App automatisch Babyprofile mit deren Abstammung."
+      }
+    },
+    {
+      "id": "help_manage",
+      "category": "Gestion",
+      "fr": {
+        "title": "Gérer vos reptiles",
+        "content": "Ajoutez ou modifiez vos animaux (adultes ou bébés) en remplissant leur fiche : nom, espèce, phase, sexe et date de naissance. Définissez également leur repas par défaut pour simplifier les saisies futures. Vous pouvez ajouter des photos et définir une photo de profil."
+      },
+      "en": {
+        "title": "Manage your reptiles",
+        "content": "Add or edit your animals (adults or babies) by filling out their profile: name, species, morph, sex, and birth date. Set their default meal to simplify future entries. You can add photos and set a profile picture."
+      },
+      "zh": {
+        "title": "管理您的爬行動物",
+        "content": "通過填寫個人資料添加或編輯您的動物（成年或幼年）：姓名、物種、形態、性別和出生日期。設置他們的默認餐點以簡化未來的輸入。您可以添加照片並設置個人資料圖片。"
+      },
+      "es": {
+        "title": "Gestionar sus reptiles",
+        "content": "Añada o edite sus animales (adultos o crías) completando su ficha: nombre, especie, fase, sexo y fecha de nacimiento. Defina también su comida predeterminada para simplificar futuras entradas. Puede añadir fotos y definir una foto de perfil."
+      },
+      "de": {
+        "title": "Verwalten Ihrer Reptilien",
+        "content": "Fügen Sie Ihre Tiere (Erwachsene oder Babys) hinzu oder bearbeiten Sie sie, indem Sie ihr Profil ausfüllen: Name, Art, Phase, Geschlecht und Geburtsdatum. Legen Sie auch ihre Standardmahlzeit fest, um zukünftige Eingaben zu vereinfachen. Sie können Fotos hinzufügen und ein Profilbild festlegen."
+      }
+    },
+    {
+      "id": "help_repro",
+      "category": "Reproduction",
+      "fr": {
+        "title": "Suivi de reproduction",
+        "content": "Le module de reproduction permet de suivre tout le cycle : de l'accouplement à l'éclosion. Enregistrez les dates d'accouplement, suivez l'ovulation et notez la date de ponte. Une fois éclos, l'application peut générer automatiquement les fiches des bébés."
+      },
+      "en": {
+        "title": "Reproduction tracking",
+        "content": "The reproduction module tracks the entire cycle: from mating to hatching. Record mating dates, track ovulation, and note the laying date. Once hatched, the app can automatically generate baby profiles."
+      },
+      "zh": {
+        "title": "繁殖追踪",
+        "content": "繁殖模塊跟踪整個週期：從交配到孵化。記錄交配日期，跟踪排卵，並記錄產卵日期。孵化後，應用程序可以自動生成幼仔檔案。"
+      },
+      "es": {
+        "title": "Seguimiento de reproducción",
+        "content": "El módulo de reproducción permite seguir todo el ciclo: desde el apareamiento hasta la eclosión. Registre las fechas de apareamiento, siga la ovulación y anote la fecha de puesta. Una vez eclosionados, la aplicación puede generar automáticamente las fichas de las crías."
+      },
+      "de": {
+        "title": "Fortpflanzungsverfolgung",
+        "content": "Das Fortpflanzungsmodul verfolgt den gesamten Zyklus: von der Paarung bis zum Schlüpfen. Erfassen Sie Paarungsdaten, verfolgen Sie den Eisprung und notieren Sie das Legedatum. Nach dem Schlüpfen kann die App automatisch Babyprofile erstellen."
+      }
+    },
+    {
+      "id": "help_repti",
+      "category": "Import/Export",
+      "fr": {
+        "title": "Fichiers .repti",
+        "content": "Les fichiers .repti permettent d'exporter un animal complet avec tout son historique et ses photos. C'est l'idéal pour transférer une fiche à un acheteur qui utilise aussi ReptiBreed."
+      },
+      "en": {
+        "title": ".repti Files",
+        "content": ".repti files allow you to export a complete animal with all its history and photos. It is ideal for transferring a file to a buyer who also uses ReptiBreed."
+      },
+      "zh": {
+        "title": ".repti 文件",
+        "content": ".repti 文件允許您導出包含所有歷史記錄和照片的完整動物。這非常適合將檔案傳輸給也使用 ReptiBreed 的買家。"
+      },
+      "es": {
+        "title": "Archivos .repti",
+        "content": "Los archivos .repti permiten exportar un animal completo con todo su historial y fotos. Es ideal para transferir una ficha a un comprador que también use ReptiBreed."
+      },
+      "de": {
+        "title": ".repti-Dateien",
+        "content": ".repti-Dateien ermöglichen es Ihnen, ein komplettes Tier mit seinem gesamten Verlauf und seinen Fotos zu exportieren. Dies ist ideal, um ein Profil an einen Käufer zu übertragen, der ebenfalls ReptiBreed nutzt."
+      }
+    },
+    {
+      "id": "help_scanner",
+      "category": "Technique",
+      "fr": {
+        "title": "Scanner QR",
+        "content": "Scannez les QR Codes ReptiBreed pour identifier instantanément un animal et accéder à son historique complet. Idéal pour les grands élevages ou lors de bourses."
+      },
+      "en": {
+        "title": "QR Scanner",
+        "content": "Scan ReptiBreed QR Codes to instantly identify an animal and access its complete history. Ideal for large facilities or at reptile shows."
+      },
+      "zh": {
+        "title": "二維碼掃描儀",
+        "content": "掃描 ReptiBreed 二維碼以立即識別動物並訪問其完整的歷史記錄。非常適合大型設施或爬行動物展覽。"
+      },
+      "es": {
+        "title": "Escáner QR",
+        "content": "Escanee los códigos QR de ReptiBreed para identificar instantáneamente a un animal y acceder a su historial completo. Ideal para grandes criaderos o en ferias."
+      },
+      "de": {
+        "title": "QR-Scanner",
+        "content": "Scannen Sie ReptiBreed QR-Codes, um ein Tier sofort zu identifizieren und auf seine vollständige Historie zuzugreifen. Ideal für große Anlagen oder auf Reptilienbörsen."
+      }
+    },
+    {
+      "id": "help_shed",
+      "category": "Suivi",
+      "fr": {
+        "title": "Suivi des mues",
+        "content": "Notez la date de mue de vos reptiles et précisez si elle était complète, partielle ou s'il s'agit d'un échec. Cela permet de surveiller l'état d'hydratation et de santé de vos animaux."
+      },
+      "en": {
+        "title": "Shedding tracking",
+        "content": "Record your reptiles' shedding date and specify if it was complete, partial, or a failure. This helps monitor your animals' hydration and health status."
+      },
+      "zh": {
+        "title": "脫皮追踪",
+        "content": "記錄您的爬行動物的脫皮日期，並指定它是完全脫皮、部分脫皮還是失敗。這有助於監測動物的水分和健康狀況。"
+      },
+      "es": {
+        "title": "Seguimiento de mudas",
+        "content": "Anote la fecha de muda de sus reptiles y especifique si fue completa, parcial o si se trata de un fallo. Esto permite vigilar el estado de hidratación y salud de sus animales."
+      },
+      "de": {
+        "title": "Häutungsverfolgung",
+        "content": "Notieren Sie das Häutungsdatum Ihrer Reptilien und geben Sie an, ob die Häutung vollständig, teilweise oder fehlgeschlagen war. Dies hilft bei der Überwachung des Hydrations- und Gesundheitszustands Ihrer Tiere."
+      }
+    },
+    {
+      "id": "help_stock",
+      "category": "Suivi",
+      "fr": {
+        "title": "Gestion du Stock",
+        "content": "Gérez votre stock de proies (rongeurs, insectes). Définissez un seuil d'alerte pour recevoir une notification quand le stock est faible. La version gratuite est limitée à un seul type de proie."
+      },
+      "en": {
+        "title": "Stock Management",
+        "content": "Manage your prey stock (rodents, insects). Set an alert threshold to receive a notification when stock is low. The free version is limited to a single prey type."
+      },
+      "zh": {
+        "title": "庫存管理",
+        "content": "管理您的獵物庫存（囓齒動物、昆蟲）。設置警報閾值，以便在庫存不足時接收通知。免費版本僅限於單一獵物類型。"
+      },
+      "es": {
+        "title": "Gestión de Stock",
+        "content": "Gestione su stock de presas (roedores, insectos). Defina un umbral de alerta para recibir una notificación cuando el stock sea bajo. La versión gratuita está limitada a un solo tipo de presa."
+      },
+      "de": {
+        "title": "Lagerverwaltung",
+        "content": "Verwalten Sie Ihren Beutevorrat (Nager, Insekten). Legen Sie einen Alarmschwellenwert fest, um eine Benachrichtigung bei niedrigem Lagerbestand zu erhalten. Die kostenlose Version ist auf einen einzigen Beutetyp beschränkt."
+      }
+    },
+    {
+      "id": "help_timeline",
+      "category": "Suivi",
+      "fr": {
+        "title": "Timeline Globale",
+        "content": "Le fil d'actualité regroupe tous les événements de votre élevage par ordre chronologique. Filtrez les derniers événements pour vérifier que rien n'a été oublié."
+      },
+      "en": {
+        "title": "Global Timeline",
+        "content": "The news feed groups all events from your breeding facility in chronological order. Filter the latest events to ensure nothing has been missed."
+      },
+      "zh": {
+        "title": "全局時間線",
+        "content": "新聞提要按時間順序對育種設施中的所有事件進行分組。篩選最新事件以確保沒有遺漏任何內容。"
+      },
+      "es": {
+        "title": "Timeline Global",
+        "content": "El hilo de actualidad agrupa todos los eventos de su criadero por orden cronológico. Filtre los últimos eventos para asegurarse de que no se ha olvidado nada."
+      },
+      "de": {
+        "title": "Globale Timeline",
+        "content": "Der Newsfeed gruppiert alle Ereignisse aus Ihrer Zuchtanlage in chronologischer Reihenfolge. Filtern Sie die neuesten Ereignisse, um sicherzustellen, dass nichts übersehen wurde."
+      }
     }
-  },
-  {
-    "id": "help_feeding",
-    "category": "Suivi",
-    "fr": {
-      "title": "Enregistrer des repas",
-      "content": "Gagnez du temps avec la saisie par lot. Sélectionnez plusieurs animaux (filtrez par type de proie ou taille), puis définissez le repas commun. Vous pouvez aussi noter un refus ou mettre un repas en attente (rappel)."
-    },
-    "en": {
-      "title": "Recording meals",
-      "content": "Save time with batch entry. Select multiple animals (filter by prey type or size), then define the common meal. You can also record a refusal or put a meal on hold (reminder)."
-    },
-    "zh": {
-      "title": "記錄餐點",
-      "content": "通過批量輸入節省時間。選擇多個動物（按獵物類型或大小篩選），然後定義共同餐點。您還可以記錄拒食或將餐點設置為待定（提醒）。"
-    },
-    "es": {
-      "title": "Registrar comidas",
-      "content": "Ahorre tiempo con la entrada por lotes. Seleccione varios animales (filtre por tipo de presa o tamaño) y defina la comida común. También puede anotar un rechazo o poner una comida en espera (recordatorio)."
-    },
-    "de": {
-      "title": "Aufzeichnen von Mahlzeiten",
-      "content": "Sparen Sie Zeit mit der Stapeleingabe. Wählen Sie mehrere Tiere aus (filtern Sie nach Beutetyp oder Größe) und legen Sie die gemeinsame Mahlzeit fest. Sie können auch eine Verweigerung notieren oder eine Mahlzeit zurückstellen (Erinnerung)."
-    }
-  },
-  {
-    "id": "help_repti",
-    "category": "Import/Export",
-    "fr": {
-      "title": "Fichiers .repti",
-      "content": "Les fichiers .repti permettent d'exporter un animal complet avec tout son historique et ses photos. C'est l'idéal pour transférer une fiche à un acheteur qui utilise aussi ReptiBreed."
-    },
-    "en": {
-      "title": ".repti Files",
-      "content": ".repti files allow you to export a complete animal with all its history and photos. It is ideal for transferring a file to a buyer who also uses ReptiBreed."
-    },
-    "zh": {
-      "title": ".repti 文件",
-      "content": ".repti 文件允許您導出包含所有歷史記錄和照片的完整動物。這非常適合將檔案傳輸給也使用 ReptiBreed 的買家。"
-    },
-    "es": {
-      "title": "Archivos .repti",
-      "content": "Los archivos .repti permiten exportar un animal completo con todo su historial y fotos. Es ideal para transferir una ficha a un comprador que también use ReptiBreed."
-    },
-    "de": {
-      "title": ".repti-Dateien",
-      "content": ".repti-Dateien ermöglichen es Ihnen, ein komplettes Tier mit seinem gesamten Verlauf und seinen Fotos zu exportieren. Dies ist ideal, um ein Profil an einen Käufer zu übertragen, der ebenfalls ReptiBreed nutzt."
-    }
-  },
-  {
-    "id": "help_finance",
-    "category": "Gestion",
-    "fr": {
-      "title": "Finances & Ventes",
-      "content": "Suivez vos revenus et dépenses. Gérez les réservations avec acompte, enregistrez les infos des acheteurs et générez des rapports financiers en PDF pour un suivi professionnel."
-    },
-    "en": {
-      "title": "Finance & Sales",
-      "content": "Track your income and expenses. Manage reservations with deposits, record buyer info, and generate financial reports in PDF for professional tracking."
-    },
-    "zh": {
-      "title": "財務與銷售",
-      "content": "跟踪您的收入和支出。管理帶定金的預訂，記錄買家信息，並生成 PDF 財務報告以進行專業追踪。"
-    },
-    "es": {
-      "title": "Finanzas y Ventas",
-      "content": "Siga sus ingresos y gastos. Gestione las reservas con depósito, registre la información de los compradores y genere informes financieros en PDF para un seguimiento profesional."
-    },
-    "de": {
-      "title": "Finanzen & Verkäufe",
-      "content": "Verfolgen Sie Ihre Einnahmen und Ausgaben. Verwalten Sie Reservierungen mit Anzahlung, erfassen Sie Käuferinformationen und erstellen Sie Finanzberichte im PDF-Format für eine professionelle Verfolgung."
-    }
-  },
-  {
-    "id": "help_genetics",
-    "category": "Technique",
-    "fr": {
-      "title": "Génétique",
-      "content": "Utilisez le calculateur génétique pour prévoir les phases des bébés. Le mode 'Matchmaker' aide à trouver des partenaires compatibles, tandis que le 'Gene Hunter' cherche les meilleurs couples pour obtenir un combo spécifique."
-    },
-    "en": {
-      "title": "Genetics",
-      "content": "Use the genetic calculator to predict baby morphs. 'Matchmaker' mode helps find compatible partners, while 'Gene Hunter' searches for the best pairs to achieve a specific combo."
-    },
-    "zh": {
-      "title": "遺傳學",
-      "content": "使用遺傳計算器預測幼仔形態。 “配對”模式有助於找到兼容的合作夥伴，而“基因獵人”則搜索最佳配對以實現特定組合。"
-    },
-    "es": {
-      "title": "Genética",
-      "content": "Utilice la calculadora genética para predecir las fases de las crías. El modo 'Matchmaker' ayuda a encontrar parejas compatibles, mientras que el 'Gene Hunter' busca las mejores parejas para obtener un combo específico."
-    },
-    "de": {
-      "title": "Genetik",
-      "content": "Verwenden Sie den Genetik-Rechner, um die Morphen der Babys vorherzusagen. Der 'Matchmaker'-Modus hilft bei der Suche nach kompatiblen Partnern, während der 'Gene Hunter' nach den besten Paaren sucht, um eine bestimmte Kombination zu erzielen."
-    }
-  },
-  {
-    "id": "help_manage",
-    "category": "Gestion",
-    "fr": {
-      "title": "Gérer vos reptiles",
-      "content": "Ajoutez ou modifiez vos animaux (adultes ou bébés) en remplissant leur fiche : nom, espèce, phase, sexe et date de naissance. Définissez également leur repas par défaut pour simplifier les saisies futures. Vous pouvez ajouter des photos et définir une photo de profil."
-    },
-    "en": {
-      "title": "Manage your reptiles",
-      "content": "Add or edit your animals (adults or babies) by filling out their profile: name, species, morph, sex, and birth date. Set their default meal to simplify future entries. You can add photos and set a profile picture."
-    },
-    "zh": {
-      "title": "管理您的爬行動物",
-      "content": "通過填寫個人資料添加或編輯您的動物（成年或幼年）：姓名、物種、形態、性別和出生日期。設置他們的默認餐點以簡化未來的輸入。您可以添加照片並設置個人資料圖片。"
-    },
-    "es": {
-      "title": "Gestionar sus reptiles",
-      "content": "Añada o edite sus animales (adultos o crías) completando su ficha: nombre, especie, fase, sexo y fecha de nacimiento. Defina también su comida predeterminada para simplificar futuras entradas. Puede añadir fotos y definir una foto de perfil."
-    },
-    "de": {
-      "title": "Verwalten Ihrer Reptilien",
-      "content": "Fügen Sie Ihre Tiere (Erwachsene oder Babys) hinzu oder bearbeiten Sie sie, indem Sie ihr Profil ausfüllen: Name, Art, Phase, Geschlecht und Geburtsdatum. Legen Sie auch ihre Standardmahlzeit fest, um zukünftige Eingaben zu vereinfachen. Sie können Fotos hinzufügen und ein Profilbild festlegen."
-    }
-  },
-  {
-    "id": "help_stock",
-    "category": "Suivi",
-    "fr": {
-      "title": "Gestion du Stock",
-      "content": "Gérez votre stock de proies (rongeurs, insectes). Définissez un seuil d'alerte pour recevoir une notification quand le stock est faible. La version gratuite est limitée à un seul type de proie."
-    },
-    "en": {
-      "title": "Stock Management",
-      "content": "Manage your prey stock (rodents, insects). Set an alert threshold to receive a notification when stock is low. The free version is limited to a single prey type."
-    },
-    "zh": {
-      "title": "庫存管理",
-      "content": "管理您的獵物庫存（囓齒動物、昆蟲）。設置警報閾值，以便在庫存不足時接收通知。免費版本僅限於單一獵物類型。"
-    },
-    "es": {
-      "title": "Gestión de Stock",
-      "content": "Gestione su stock de presas (roedores, insectos). Defina un umbral de alerta para recibir una notificación cuando el stock sea bajo. La versión gratuita está limitada a un solo tipo de presa."
-    },
-    "de": {
-      "title": "Lagerverwaltung",
-      "content": "Verwalten Sie Ihren Beutevorrat (Nager, Insekten). Legen Sie einen Alarmschwellenwert fest, um eine Benachrichtigung bei niedrigem Lagerbestand zu erhalten. Die kostenlose Version ist auf einen einzigen Beutetyp beschränkt."
-    }
-  },
-  {
-    "id": "help_incubation",
-    "category": "Reproduction",
-    "fr": {
-      "title": "Incubation & Naissances",
-      "content": "Suivez l'incubation ou la gestation avec précision (température, humidité). Lors de l'éclosion, l'application génère automatiquement les fiches des bébés avec leur généalogie."
-    },
-    "en": {
-      "title": "Incubation & Births",
-      "content": "Track incubation or gestation accurately (temperature, humidity). Upon hatching, the app automatically generates baby profiles with their lineage."
-    },
-    "zh": {
-      "title": "孵化與出生",
-      "content": "精確跟踪孵化或妊娠（溫度、濕度）。孵化後，應用程序會自動生成具有其血統的幼仔檔案。"
-    },
-    "es": {
-      "title": "Incubación y Nacimientos",
-      "content": "Siga la incubación o la gestación con precisión (temperatura, humedad). Al eclosionar, la aplicación genera automáticamente las fichas de las crías con su genealogía."
-    },
-    "de": {
-      "title": "Inkubation & Geburten",
-      "content": "Verfolgen Sie die Inkubation oder Trächtigkeit genau (Temperatur, Luftfeuchtigkeit). Nach dem Schlüpfen erstellt die App automatisch Babyprofile mit deren Abstammung."
-    }
-  },
-  {
-    "id": "help_backup",
-    "category": "Sauvegarde",
-    "fr": {
-      "title": "Sauvegarde Cloud",
-      "content": "La sauvegarde automatique vers Google Drive nécessite d'être connecté. Elle se déclenche selon le nombre de modifications que vous avez configuré dans les paramètres."
-    },
-    "en": {
-      "title": "Cloud Backup",
-      "content": "Automatic backup to Google Drive requires being logged in. It triggers based on the number of modifications you have configured in the settings."
-    },
-    "zh": {
-      "title": "雲端備份",
-      "content": "自動備份到 Google 雲端硬碟需要登錄。它根據您在設置中配置的修改次數觸發。"
-    },
-    "es": {
-      "title": "Copia de seguridad en la nube",
-      "content": "La copia de seguridad automática en Google Drive requiere haber iniciado sesión. Se activa según el número de modifications que haya configurado en los ajustes."
-    },
-    "de": {
-      "title": "Cloud-Backup",
-      "content": "Die automatische Sicherung auf Google Drive erfordert eine Anmeldung. Sie wird basierend auf der Anzahl der Änderungen ausgelöst, die Sie in den Einstellungen konfiguriert haben."
-    }
-  },
-  {
-    "id": "help_scanner",
-    "category": "Technique",
-    "fr": {
-      "title": "Scanner QR",
-      "content": "Scannez les QR Codes ReptiBreed pour identifier instantanément un animal et accéder à son historique complet. Idéal pour les grands élevages ou lors de bourses."
-    },
-    "en": {
-      "title": "QR Scanner",
-      "content": "Scan ReptiBreed QR Codes to instantly identify an animal and access its complete history. Ideal for large facilities or at reptile shows."
-    },
-    "zh": {
-      "title": "二維碼掃描儀",
-      "content": "掃描 ReptiBreed 二維碼以立即識別動物並訪問其完整的歷史記錄。非常適合大型設施或爬行動物展覽。"
-    },
-    "es": {
-      "title": "Escáner QR",
-      "content": "Escanee los códigos QR de ReptiBreed para identificar instantáneamente a un animal y acceder a su historial completo. Ideal para grandes criaderos o en ferias."
-    },
-    "de": {
-      "title": "QR-Scanner",
-      "content": "Scannen Sie ReptiBreed QR-Codes, um ein Tier sofort zu identifizieren und auf seine vollständige Historie zuzugreifen. Ideal für große Anlagen oder auf Reptilienbörsen."
-    }
-  },
-  {
-    "id": "help_care",
-    "category": "Santé",
-    "fr": {
-      "title": "Soins et Santé",
-      "content": "Enregistrez les traitements médicaux, les examens ou les périodes d'hivernage. Vous pouvez définir une date de début et une date de fin pour les traitements longs et ajouter des notes détaillées."
-    },
-    "en": {
-      "title": "Care and Health",
-      "content": "Record medical treatments, exams, or hibernation periods. You can set a start and end date for long treatments and add detailed notes."
-    },
-    "zh": {
-      "title": "護理與健康",
-      "content": "記錄醫療護理、檢查或冬眠期。您可以為長期治療設置開始和結束日期，並添加詳細說明。"
-    },
-    "es": {
-      "title": "Cuidado y Salud",
-      "content": "Registre tratamientos médicos, exámenes o períodos de hibernación. Puede definir una fecha de inicio y una fecha de fin para tratamientos largos y añadir notas detalladas."
-    },
-    "de": {
-      "title": "Pflege und Gesundheit",
-      "content": "Erfassen Sie medizinische Behandlungen, Untersuchungen oder Überwinterungszeiten. Sie können ein Start- und Enddatum für Langzeitbehandlungen festlegen und detaillierte Notizen hinzufügen."
-    }
-  },
-  {
-    "id": "help_repro",
-    "category": "Reproduction",
-    "fr": {
-      "title": "Suivi de reproduction",
-      "content": "Le module de reproduction permet de suivre tout le cycle : de l'accouplement à l'éclosion. Enregistrez les dates d'accouplement, suivez l'ovulation et notez la date de ponte. Une fois éclos, l'application peut générer automatiquement les fiches des bébés."
-    },
-    "en": {
-      "title": "Reproduction tracking",
-      "content": "The reproduction module tracks the entire cycle: from mating to hatching. Record mating dates, track ovulation, and note the laying date. Once hatched, the app can automatically generate baby profiles."
-    },
-    "zh": {
-      "title": "繁殖追踪",
-      "content": "繁殖模塊跟踪整個週期：從交配到孵化。記錄交配日期，跟踪排卵，並記錄產卵日期。孵化後，應用程序可以自動生成幼仔檔案。"
-    },
-    "es": {
-      "title": "Seguimiento de reproducción",
-      "content": "El módulo de reproducción permite seguir todo el ciclo: desde el apareamiento hasta la eclosión. Registre las fechas de apareamiento, siga la ovulación y anote la fecha de puesta. Una vez eclosionados, la aplicación puede generar automáticamente las fichas de las crías."
-    },
-    "de": {
-      "title": "Fortpflanzungsverfolgung",
-      "content": "Das Fortpflanzungsmodul verfolgt den gesamten Zyklus: von der Paarung bis zum Schlüpfen. Erfassen Sie Paarungsdaten, verfolgen Sie den Eisprung und notieren Sie das Legedatum. Nach dem Schlüpfen kann die App automatisch Babyprofile erstellen."
-    }
-  },
-  {
-    "id": "help_shed",
-    "category": "Suivi",
-    "fr": {
-      "title": "Suivi des mues",
-      "content": "Notez la date de mue de vos reptiles et précisez si elle était complète, partielle ou s'il s'agit d'un échec. Cela permet de surveiller l'état d'hydratation et de santé de vos animaux."
-    },
-    "en": {
-      "title": "Shedding tracking",
-      "content": "Record your reptiles' shedding date and specify if it was complete, partial, or a failure. This helps monitor your animals' hydration and health status."
-    },
-    "zh": {
-      "title": "脫皮追踪",
-      "content": "記錄您的爬行動物的脫皮日期，並指定它是完全脫皮、部分脫皮還是失敗。這有助於監測動物的水分和健康狀況。"
-    },
-    "es": {
-      "title": "Seguimiento de mudas",
-      "content": "Anote la fecha de muda de sus reptiles y especifique si fue completa, parcial o si se trata de un fallo. Esto permite vigilar el estado de hidratación y salud de sus animales."
-    },
-    "de": {
-      "title": "Häutungsverfolgung",
-      "content": "Notieren Sie das Häutungsdatum Ihrer Reptilien und geben Sie an, ob die Häutung vollständig, teilweise oder fehlgeschlagen war. Dies hilft bei der Überwachung des Hydrations- und Gesundheitszustands Ihrer Tiere."
-    }
-  },
-  {
-    "id": "help_timeline",
-    "category": "Suivi",
-    "fr": {
-      "title": "Timeline Globale",
-      "content": "Le fil d'actualité regroupe tous les événements de votre élevage par ordre chronologique. Filtrez les derniers événements pour vérifier que rien n'a été oublié."
-    },
-    "en": {
-      "title": "Global Timeline",
-      "content": "The news feed groups all events from your breeding facility in chronological order. Filter the latest events to ensure nothing has been missed."
-    },
-    "zh": {
-      "title": "全局時間線",
-      "content": "新聞提要按時間順序對育種設施中的所有事件進行分組。篩選最新事件以確保沒有遺漏任何內容。"
-    },
-    "es": {
-      "title": "Timeline Global",
-      "content": "El hilo de actualidad agrupa todos los eventos de su criadero por orden cronológico. Filtre los últimos eventos para asegurarse de que no se ha olvidado nada."
-    },
-    "de": {
-      "title": "Globale Timeline",
-      "content": "Der Newsfeed gruppiert alle Ereignisse aus Ihrer Zuchtanlage in chronologischer Reihenfolge. Filtern Sie die neuesten Ereignisse, um sicherzustellen, dass nichts übersehen wurde."
-    }
-  }
-]
+  ]
+}
