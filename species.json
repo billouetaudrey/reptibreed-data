@@ -1,5 +1,55 @@
 [
   {
+    "scientific_name": "Pogona Vitticeps",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Agame barbu (Pogona)",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "expert_advice": "L'éclairage UVB (10 à 12%) et le calcium sont obligatoires pour éviter les maladies osseuses métaboliques (MBD).",
+      "repro_advice": "Une seule fécondation peut permettre à la femelle de pondre plusieurs fois (rétention de sperme).",
+      "notes": "L'alimentation adulte doit être composée à 70% de végétaux et 30% d'insectes."
+    },
+    "en": {
+      "name": "Bearded Dragon",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Dragón Barbudo",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Bartagame",
+      "diet": "Allesfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "鬃狮蜥",
+      "diet": "杂食动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Baardagame",
+      "diet": "Alleseter",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "65",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
     "scientific_name": "Ambystoma Mexicanum",
     "category": "Amphibien",
     "family": "Urodèles",
@@ -448,56 +498,6 @@
     "incubation_days": "55",
     "incubation_temp": "28",
     "incubation_humidity": "70"
-  },
-  {
-    "scientific_name": "Pogona Vitticeps",
-    "category": "Lézard",
-    "family": "Agames",
-    "venomous": false,
-    "fr": {
-      "name": "Agame barbu (Pogona)",
-      "diet": "Omnivore",
-      "repro": "Ovipare",
-      "expert_advice": "L'éclairage UVB (10 à 12%) et le calcium sont obligatoires pour éviter les maladies osseuses métaboliques (MBD).",
-      "repro_advice": "Une seule fécondation peut permettre à la femelle de pondre plusieurs fois (rétention de sperme).",
-      "notes": "L'alimentation adulte doit être composée à 70% de végétaux et 30% d'insectes."
-    },
-    "en": {
-      "name": "Bearded Dragon",
-      "diet": "Omnivore",
-      "repro": "Oviparous"
-    },
-    "es": {
-      "name": "Dragón Barbudo",
-      "diet": "Omnívoro",
-      "repro": "Ovíparo"
-    },
-    "de": {
-      "name": "Bartagame",
-      "diet": "Allesfresser",
-      "repro": "Ovipar"
-    },
-    "zh": {
-      "name": "鬃狮蜥",
-      "diet": "杂食动物",
-      "repro": "卵生"
-    },
-    "nl": {
-      "name": "Baardagame",
-      "diet": "Alleseter",
-      "repro": "Eierleggend"
-    },
-    "feed_category": "insects",
-    "temp_hot_min": "35",
-    "temp_hot_max": "40",
-    "temp_cold_min": "25",
-    "temp_cold_max": "28",
-    "humidity_min": "30",
-    "humidity_max": "40",
-    "gestation_days": "25",
-    "incubation_days": "65",
-    "incubation_temp": "29",
-    "incubation_humidity": "80"
   },
   {
     "scientific_name": "Python Regius",
