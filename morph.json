@@ -1,0 +1,121 @@
+[
+  {
+    "species_scientific": "Python Regius",
+    "name": {
+      "fr": "Python Royal",
+      "en": "Ball Python",
+      "es": "Pitón Real",
+      "de": "Königspython",
+      "zh": "球蟒",
+      "nl": "Koningspython"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "Albinos", "en": "Albino", "es": "Albino", "de": "Albino", "zh": "白化", "nl": "Albino" },
+      { "fr": "Banana", "en": "Banana", "es": "Banana", "de": "Banana", "zh": "香蕉", "nl": "Banaan" },
+      { "fr": "Piebald", "en": "Piebald", "es": "Piebald", "de": "Piebald", "zh": "派博", "nl": "Piebald" },
+      { "fr": "Pastel", "en": "Pastel", "es": "Pastel", "de": "Pastel", "zh": "蜡笔", "nl": "Pastel" },
+      { "fr": "Spider", "en": "Spider", "es": "Spider", "de": "Spider", "zh": "蜘蛛", "nl": "Spider" },
+      { "fr": "Mojave", "en": "Mojave", "es": "Mojave", "de": "Mojave", "zh": "莫哈韦", "nl": "Mojave" },
+      { "fr": "Lesser", "en": "Lesser", "es": "Lesser", "de": "Lesser", "zh": "次级", "nl": "Lesser" }
+    ]
+  },
+  {
+    "species_scientific": "Pantherophis Guttatus",
+    "name": {
+      "fr": "Couleuvre à blé",
+      "en": "Corn Snake",
+      "es": "Culebra de maíz",
+      "de": "Kornnatter",
+      "zh": "玉米蛇",
+      "nl": "Korenslang"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "Amel", "en": "Amel", "es": "Amel", "de": "Amel", "zh": "白化", "nl": "Amel" },
+      { "fr": "Anery", "en": "Anery", "es": "Anery", "de": "Anery", "zh": "缺红", "nl": "Anery" },
+      { "fr": "Snow", "en": "Snow", "es": "Snow", "de": "Snow", "zh": "雪花", "nl": "Snow" },
+      { "fr": "Fantôme", "en": "Ghost", "es": "Fantasma", "de": "Ghost", "zh": "幽灵", "nl": "Ghost" },
+      { "fr": "Bloodred", "en": "Bloodred", "es": "Bloodred", "de": "Bloodred", "zh": "血红", "nl": "Bloodred" },
+      { "fr": "Palmetto", "en": "Palmetto", "es": "Palmetto", "de": "Palmetto", "zh": "棕榈", "nl": "Palmetto" },
+      { "fr": "Sans écailles", "en": "Scaleless", "es": "Sin escamas", "de": "Scaleless", "zh": "无鳞", "nl": "Schubloos" }
+    ]
+  },
+  {
+    "species_scientific": "Eublepharis Macularius",
+    "name": {
+      "fr": "Gecko Léopard",
+      "en": "Leopard Gecko",
+      "es": "Gecko Leopardo",
+      "de": "Leopardgecko",
+      "zh": "豹纹守宫",
+      "nl": "Luipaardgekko"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "High Yellow", "en": "High Yellow", "es": "High Yellow", "de": "High Yellow", "zh": "高黄", "nl": "High Yellow" },
+      { "fr": "Albino", "en": "Albino", "es": "Albino", "de": "Albino", "zh": "白化", "nl": "Albino" },
+      { "fr": "Blizzard", "en": "Blizzard", "es": "Blizzard", "de": "Blizzard", "zh": "暴风雪", "nl": "Blizzard" },
+      { "fr": "Tangerine", "en": "Tangerine", "es": "Tangerine", "de": "Tangerine", "zh": "橘化", "nl": "Tangerine" },
+      { "fr": "Mack Snow", "en": "Mack Snow", "es": "Mack Snow", "de": "Mack Snow", "zh": "马克雪花", "nl": "Mack Snow" },
+      { "fr": "RAPTOR", "en": "RAPTOR", "es": "RAPTOR", "de": "RAPTOR", "zh": "猛禽", "nl": "RAPTOR" },
+      { "fr": "Enigma", "en": "Enigma", "es": "Enigma", "de": "Enigma", "zh": "谜团", "nl": "Enigma" }
+    ]
+  },
+  {
+    "species_scientific": "Pogona Vitticeps",
+    "name": {
+      "fr": "Agame Barbu",
+      "en": "Bearded Dragon",
+      "es": "Dragón Barbudo",
+      "de": "Bartagame",
+      "zh": "鬃狮蜥",
+      "nl": "Baardagaam"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "Dos de cuir", "en": "Leatherback", "es": "Leatherback", "de": "Leatherback", "zh": "皮背", "nl": "Leatherback" },
+      { "fr": "Translucide", "en": "Translucent", "es": "Translúcido", "de": "Translucent", "zh": "果冻", "nl": "Translucent" },
+      { "fr": "Hypomélanistique", "en": "Hypo", "es": "Hipo", "de": "Hypo", "zh": "减黑", "nl": "Hypo" },
+      { "fr": "Zero", "en": "Zero", "es": "Zero", "de": "Zero", "zh": "零", "nl": "Zero" },
+      { "fr": "Silkback", "en": "Silkback", "es": "Silkback", "de": "Silkback", "zh": "丝背", "nl": "Silkback" }
+    ]
+  },
+  {
+    "species_scientific": "Correlophus Ciliatus",
+    "name": {
+      "fr": "Gecko à crête",
+      "en": "Crested Gecko",
+      "es": "Gecko Crestado",
+      "de": "Kronengecko",
+      "zh": "睫角守宫",
+      "nl": "Wimpergekko"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "Flamme", "en": "Flame", "es": "Llama", "de": "Flame", "zh": "火焰", "nl": "Flame" },
+      { "fr": "Arlequin", "en": "Harlequin", "es": "Arlequín", "de": "Harlekin", "zh": "小丑", "nl": "Harlekijn" },
+      { "fr": "Pinstripe", "en": "Pinstripe", "es": "Pinstripe", "de": "Pinstripe", "zh": "细条纹", "nl": "Pinstripe" },
+      { "fr": "Dalmatien", "en": "Dalmatian", "es": "Dálmata", "de": "Dalmatiner", "zh": "大麦町", "nl": "Dalmatiër" },
+      { "fr": "Extreme Harlequin", "en": "Extreme Harlequin", "es": "Arlequín Extremo", "de": "Extreme Harlekin", "zh": "极端小丑", "nl": "Extreme Harlekijn" }
+    ]
+  },
+  {
+    "species_scientific": "Heterodon Nasicus",
+    "name": {
+      "fr": "Couleuvre à nez plat",
+      "en": "Western Hognose Snake",
+      "es": "Serpiente hocico de cerdo",
+      "de": "Westliche Hakennasennatter",
+      "zh": "西部猪鼻蛇",
+      "nl": "Westelijke haakneuslang"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "Albinos", "en": "Albino", "es": "Albino", "de": "Albino", "zh": "白化", "nl": "Albino" },
+      { "fr": "Anaconda", "en": "Anaconda (Conda)", "es": "Anaconda", "de": "Anaconda", "zh": "水蟒", "nl": "Anaconda" },
+      { "fr": "Super Anaconda", "en": "Super Conda", "es": "Super Anaconda", "de": "Super Anaconda", "zh": "超级水蟒", "nl": "Super Anaconda" },
+      { "fr": "Axanthique", "en": "Axanthic", "es": "Axántico", "de": "Axanthisch", "zh": "缺黄", "nl": "Axanthisch" }
+    ]
+  }
+]
