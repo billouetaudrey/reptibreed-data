@@ -1,0 +1,29 @@
+{
+  "species_scientific": "Trachemys Scripta Elegans",
+  "name": {
+    "fr": "Tortue de Floride",
+    "en": "Red-eared Slider"
+  },
+  "morphs": [
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "type": "wildtype"
+    },
+    {
+      "fr": "Albino",
+      "en": "Albino",
+      "type": "recessive"
+    },
+    {
+      "fr": "Pastel",
+      "en": "Pastel",
+      "type": "recessive"
+    },
+    {
+      "fr": "Caramel Pink",
+      "en": "Caramel Pink",
+      "type": "recessive"
+    }
+  ]
+}
