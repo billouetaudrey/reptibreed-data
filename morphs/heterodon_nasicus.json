@@ -161,6 +161,150 @@
       "zh": "Axanthic Anaconda",
       "nl": "Axanthic Anaconda",
       "type": "combo"
+    },
+    {
+      "fr": "Caramel",
+      "en": "Caramel",
+      "es": "Caramel",
+      "de": "Caramel",
+      "zh": "Caramel",
+      "nl": "Caramel",
+      "type": "recessive"
+    },
+    {
+      "fr": "Toffee Belly",
+      "en": "Toffee Belly",
+      "es": "Toffee Belly",
+      "de": "Toffee Belly",
+      "zh": "Toffee Belly",
+      "nl": "Toffee Belly",
+      "type": "recessive"
+    },
+    {
+      "fr": "Super Arctic",
+      "en": "Super Arctic",
+      "es": "Super Arctic",
+      "de": "Super Arctic",
+      "zh": "Super Arctic",
+      "nl": "Super Arctic",
+      "type": "codominant"
+    },
+    {
+      "fr": "RBE Pastel",
+      "en": "RBE Pastel",
+      "es": "RBE Pastel",
+      "de": "RBE Pastel",
+      "zh": "RBE Pastel",
+      "nl": "RBE Pastel",
+      "type": "dominant"
+    },
+    {
+      "fr": "Shadow",
+      "en": "Shadow",
+      "es": "Shadow",
+      "de": "Shadow",
+      "zh": "Shadow",
+      "nl": "Shadow",
+      "type": "dominant"
+    },
+    {
+      "fr": "Swiss Chocolate",
+      "en": "Swiss Chocolate",
+      "es": "Swiss Chocolate",
+      "de": "Swiss Chocolate",
+      "zh": "Swiss Chocolate",
+      "nl": "Swiss Chocolate",
+      "type": "recessive"
+    },
+    {
+      "fr": "Pistachio",
+      "en": "Pistachio",
+      "es": "Pistachio",
+      "de": "Pistachio",
+      "zh": "Pistachio",
+      "nl": "Pistachio",
+      "type": "recessive"
+    },
+    {
+      "fr": "Evans Hypo",
+      "en": "Evans Hypo",
+      "es": "Evans Hypo",
+      "de": "Evans Hypo",
+      "zh": "Evans Hypo",
+      "nl": "Evans Hypo",
+      "type": "recessive"
+    },
+    {
+      "fr": "Dutch Hypo",
+      "en": "Dutch Hypo",
+      "es": "Dutch Hypo",
+      "de": "Dutch Hypo",
+      "zh": "Dutch Hypo",
+      "nl": "Dutch Hypo",
+      "type": "recessive"
+    },
+    {
+      "fr": "True Hypo",
+      "en": "True Hypo",
+      "es": "True Hypo",
+      "de": "True Hypo",
+      "zh": "True Hypo",
+      "nl": "True Hypo",
+      "type": "recessive"
+    },
+    {
+      "fr": "Mocha",
+      "en": "Mocha",
+      "es": "Mocha",
+      "de": "Mocha",
+      "zh": "Mocha",
+      "nl": "Mocha",
+      "type": "codominant"
+    },
+    {
+      "fr": "Yeti",
+      "en": "Yeti",
+      "es": "Yeti",
+      "de": "Yeti",
+      "zh": "Yeti",
+      "nl": "Yeti",
+      "type": "combo"
+    },
+    {
+      "fr": "Moonstone",
+      "en": "Moonstone",
+      "es": "Moonstone",
+      "de": "Moonstone",
+      "zh": "Moonstone",
+      "nl": "Moonstone",
+      "type": "combo"
+    },
+    {
+      "fr": "Sunburst",
+      "en": "Sunburst",
+      "es": "Sunburst",
+      "de": "Sunburst",
+      "zh": "Sunburst",
+      "nl": "Sunburst",
+      "type": "combo"
+    },
+    {
+      "fr": "Purple Ice",
+      "en": "Purple Ice",
+      "es": "Purple Ice",
+      "de": "Purple Ice",
+      "zh": "Purple Ice",
+      "nl": "Purple Ice",
+      "type": "combo"
+    },
+    {
+      "fr": "Toxic Conda",
+      "en": "Toxic Conda",
+      "es": "Toxic Conda",
+      "de": "Toxic Conda",
+      "zh": "Toxic Conda",
+      "nl": "Toxic Conda",
+      "type": "combo"
     }
   ]
 }
