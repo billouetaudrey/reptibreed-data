@@ -1,36 +1,445 @@
-[
-  {
-    "species_scientific": "Python Regius",
-    "name": {
-      "fr": "Python Royal",
-      "en": "Ball Python",
-      "es": "Pitón Real",
-      "de": "Königspython",
-      "zh": "球蟒",
-      "nl": "Koningspython"
-    },
-    "morphs": [
-      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
-      { "fr": "Albinos", "en": "Albino", "es": "Albino", "de": "Albino", "zh": "白化", "nl": "Albino" },
-      { "fr": "Banana", "en": "Banana", "es": "Banana", "de": "Banana", "zh": "香蕉", "nl": "Banaan" },
-      { "fr": "Piebald", "en": "Piebald", "es": "Piebald", "de": "Piebald", "zh": "派博", "nl": "Piebald" },
-      { "fr": "Pastel", "en": "Pastel", "es": "Pastel", "de": "Pastel", "zh": "蜡笔", "nl": "Pastel" },
-      { "fr": "Spider", "en": "Spider", "es": "Spider", "de": "Spider", "zh": "蜘蛛", "nl": "Spider" },
-      { "fr": "Mojave", "en": "Mojave", "es": "Mojave", "de": "Mojave", "zh": "莫哈韦", "nl": "Mojave" },
-      { "fr": "Lesser", "en": "Lesser", "es": "Lesser", "de": "Lesser", "zh": "次级", "nl": "Lesser" }
-    ]
+{
+  "species_scientific": "Heterodon Nasicus",
+  "name": {
+    "fr": "Couleuvre à nez plat",
+    "en": "Western Hognose Snake",
+    "es": "Serpiente hocico de cerdo",
+    "de": "Westliche Hakennasennatter",
+    "zh": "西部猪鼻蛇",
+    "nl": "Westelijke haakneuslang"
   },
-  {
-    "species_scientific": "Pantherophis Guttatus",
-    "name": {
-      "fr": "Couleuvre à blé",
-      "en": "Corn Snake",
-      "es": "Culebra de maíz",
-      "de": "Kornnatter",
-      "zh": "玉米蛇",
-      "nl": "Korenslang"
+  "morphs": [
+    {
+      "fr": "Albino",
+      "en": "Albino",
+      "es": "Albino",
+      "de": "Albino",
+      "zh": "Albino",
+      "nl": "Albino"
     },
-    "morphs": [
-      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
-      { "fr": "Amel", "en": "Amel", "es": "Amel", "de": "Amel", "zh": "白化", "nl": "Amel" },
-      { "fr": "Anery", "en": "Anery", "es": "Anery", "de": "Anery", "zh": "缺红", "nl": "Anery" },
+    {
+      "fr": "Albino Anaconda",
+      "en": "Albino Anaconda",
+      "es": "Albino Anaconda",
+      "de": "Albino Anaconda",
+      "zh": "Albino Anaconda",
+      "nl": "Albino Anaconda"
+    },
+    {
+      "fr": "Albino Arctic",
+      "en": "Albino Arctic",
+      "es": "Albino Arctic",
+      "de": "Albino Arctic",
+      "zh": "Albino Arctic",
+      "nl": "Albino Arctic"
+    },
+    {
+      "fr": "Albino Arctic Anaconda",
+      "en": "Albino Arctic Anaconda",
+      "es": "Albino Arctic Anaconda",
+      "de": "Albino Arctic Anaconda",
+      "zh": "Albino Arctic Anaconda",
+      "nl": "Albino Arctic Anaconda"
+    },
+    {
+      "fr": "Albino Superconda",
+      "en": "Albino Superconda",
+      "es": "Albino Superconda",
+      "de": "Albino Superconda",
+      "zh": "Albino Superconda",
+      "nl": "Albino Superconda"
+    },
+    {
+      "fr": "Anaconda",
+      "en": "Anaconda",
+      "es": "Anaconda",
+      "de": "Anaconda",
+      "zh": "Anaconda",
+      "nl": "Anaconda"
+    },
+    {
+      "fr": "Arctic",
+      "en": "Arctic",
+      "es": "Arctic",
+      "de": "Arctic",
+      "zh": "Arctic",
+      "nl": "Arctic"
+    },
+    {
+      "fr": "Axanthic",
+      "en": "Axanthic",
+      "es": "Axanthic",
+      "de": "Axanthic",
+      "zh": "Axanthic",
+      "nl": "Axanthic"
+    },
+    {
+      "fr": "Axanthic Anaconda",
+      "en": "Axanthic Anaconda",
+      "es": "Axanthic Anaconda",
+      "de": "Axanthic Anaconda",
+      "zh": "Axanthic Anaconda",
+      "nl": "Axanthic Anaconda"
+    },
+    {
+      "fr": "Axanthic Superconda",
+      "en": "Axanthic Superconda",
+      "es": "Axanthic Superconda",
+      "de": "Axanthic Superconda",
+      "zh": "Axanthic Superconda",
+      "nl": "Axanthic Superconda"
+    },
+    {
+      "fr": "Black Ice",
+      "en": "Black Ice",
+      "es": "Black Ice",
+      "de": "Black Ice",
+      "zh": "Black Ice",
+      "nl": "Black Ice"
+    },
+    {
+      "fr": "Blucifer",
+      "en": "Blucifer",
+      "es": "Blucifer",
+      "de": "Blucifer",
+      "zh": "Blucifer",
+      "nl": "Blucifer"
+    },
+    {
+      "fr": "Candy",
+      "en": "Candy",
+      "es": "Candy",
+      "de": "Candy",
+      "zh": "Candy",
+      "nl": "Candy"
+    },
+    {
+      "fr": "Candy Cocktail",
+      "en": "Candy Cocktail",
+      "es": "Candy Cocktail",
+      "de": "Candy Cocktail",
+      "zh": "Candy Cocktail",
+      "nl": "Candy Cocktail"
+    },
+    {
+      "fr": "Caramel",
+      "en": "Caramel",
+      "es": "Caramel",
+      "de": "Caramel",
+      "zh": "Caramel",
+      "nl": "Caramel"
+    },
+    {
+      "fr": "Caramel Anaconda",
+      "en": "Caramel Anaconda",
+      "es": "Caramel Anaconda",
+      "de": "Caramel Anaconda",
+      "zh": "Caramel Anaconda",
+      "nl": "Caramel Anaconda"
+    },
+    {
+      "fr": "Caramel Superconda",
+      "en": "Caramel Superconda",
+      "es": "Caramel Superconda",
+      "de": "Caramel Superconda",
+      "zh": "Caramel Superconda",
+      "nl": "Caramel Superconda"
+    },
+    {
+      "fr": "Cinnamon Anaconda",
+      "en": "Cinnamon Anaconda",
+      "es": "Cinnamon Anaconda",
+      "de": "Cinnamon Anaconda",
+      "zh": "Cinnamon Anaconda",
+      "nl": "Cinnamon Anaconda"
+    },
+    {
+      "fr": "Coral",
+      "en": "Coral",
+      "es": "Coral",
+      "de": "Coral",
+      "zh": "Coral",
+      "nl": "Coral"
+    },
+    {
+      "fr": "Electric",
+      "en": "Electric",
+      "es": "Electric",
+      "de": "Electric",
+      "zh": "Electric",
+      "nl": "Electric"
+    },
+    {
+      "fr": "Evan's Hypo",
+      "en": "Evan's Hypo",
+      "es": "Evan's Hypo",
+      "de": "Evan's Hypo",
+      "zh": "Evan's Hypo",
+      "nl": "Evan's Hypo"
+    },
+    {
+      "fr": "Extreme Red Tomato Anaconda",
+      "en": "Extreme Red Tomato Anaconda",
+      "es": "Extreme Red Tomato Anaconda",
+      "de": "Extreme Red Tomato Anaconda",
+      "zh": "Extreme Red Tomato Anaconda",
+      "nl": "Extreme Red Tomato Anaconda"
+    },
+    {
+      "fr": "Grey Fog",
+      "en": "Grey Fog",
+      "es": "Grey Fog",
+      "de": "Grey Fog",
+      "zh": "Grey Fog",
+      "nl": "Grey Fog"
+    },
+    {
+      "fr": "Lavender",
+      "en": "Lavender",
+      "es": "Lavender",
+      "de": "Lavender",
+      "zh": "Lavender",
+      "nl": "Lavender"
+    },
+    {
+      "fr": "Lavender Anaconda",
+      "en": "Lavender Anaconda",
+      "es": "Lavender Anaconda",
+      "de": "Lavender Anaconda",
+      "zh": "Lavender Anaconda",
+      "nl": "Lavender Anaconda"
+    },
+    {
+      "fr": "Leucistic",
+      "en": "Leucistic",
+      "es": "Leucistic",
+      "de": "Leucistic",
+      "zh": "Leucistic",
+      "nl": "Leucistic"
+    },
+    {
+      "fr": "Maitai",
+      "en": "Maitai",
+      "es": "Maitai",
+      "de": "Maitai",
+      "zh": "Maitai",
+      "nl": "Maitai"
+    },
+    {
+      "fr": "Maitai Anaconda",
+      "en": "Maitai Anaconda",
+      "es": "Maitai Anaconda",
+      "de": "Maitai Anaconda",
+      "zh": "Maitai Anaconda",
+      "nl": "Maitai Anaconda"
+    },
+    {
+      "fr": "Maitai Superarctic",
+      "en": "Maitai Superarctic",
+      "es": "Maitai Superarctic",
+      "de": "Maitai Superarctic",
+      "zh": "Maitai Superarctic",
+      "nl": "Maitai Superarctic"
+    },
+    {
+      "fr": "Maitai Superarctic Anaconda",
+      "en": "Maitai Superarctic Anaconda",
+      "es": "Maitai Superarctic Anaconda",
+      "de": "Maitai Superarctic Anaconda",
+      "zh": "Maitai Superarctic Anaconda",
+      "nl": "Maitai Superarctic Anaconda"
+    },
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal"
+    },
+    {
+      "fr": "Pink Punch",
+      "en": "Pink Punch",
+      "es": "Pink Punch",
+      "de": "Pink Punch",
+      "zh": "Pink Punch",
+      "nl": "Pink Punch"
+    },
+    {
+      "fr": "Pistachio",
+      "en": "Pistachio",
+      "es": "Pistachio",
+      "de": "Pistachio",
+      "zh": "Pistachio",
+      "nl": "Pistachio"
+    },
+    {
+      "fr": "Platinum",
+      "en": "Platinum",
+      "es": "Platinum",
+      "de": "Platinum",
+      "zh": "Platinum",
+      "nl": "Platinum"
+    },
+    {
+      "fr": "Sable",
+      "en": "Sable",
+      "es": "Sable",
+      "de": "Sable",
+      "zh": "Sable",
+      "nl": "Sable"
+    },
+    {
+      "fr": "Sable Artic Superconda",
+      "en": "Sable Artic Superconda",
+      "es": "Sable Artic Superconda",
+      "de": "Sable Artic Superconda",
+      "zh": "Sable Artic Superconda",
+      "nl": "Sable Artic Superconda"
+    },
+    {
+      "fr": "Snowburst",
+      "en": "Snowburst",
+      "es": "Snowburst",
+      "de": "Snowburst",
+      "zh": "Snowburst",
+      "nl": "Snowburst"
+    },
+    {
+      "fr": "Solar Storm",
+      "en": "Solar Storm",
+      "es": "Solar Storm",
+      "de": "Solar Storm",
+      "zh": "Solar Storm",
+      "nl": "Solar Storm"
+    },
+    {
+      "fr": "Stormcloud",
+      "en": "Stormcloud",
+      "es": "Stormcloud",
+      "de": "Stormcloud",
+      "zh": "Stormcloud",
+      "nl": "Stormcloud"
+    },
+    {
+      "fr": "Stormcloud Anaconda",
+      "en": "Stormcloud Anaconda",
+      "es": "Stormcloud Anaconda",
+      "de": "Stormcloud Anaconda",
+      "zh": "Stormcloud Anaconda",
+      "nl": "Stormcloud Anaconda"
+    },
+    {
+      "fr": "Subzero",
+      "en": "Subzero",
+      "es": "Subzero",
+      "de": "Subzero",
+      "zh": "Subzero",
+      "nl": "Subzero"
+    },
+    {
+      "fr": "Super Yeti",
+      "en": "Super Yeti",
+      "es": "Super Yeti",
+      "de": "Super Yeti",
+      "zh": "Super Yeti",
+      "nl": "Super Yeti"
+    },
+    {
+      "fr": "Superarctic",
+      "en": "Superarctic",
+      "es": "Superarctic",
+      "de": "Superarctic",
+      "zh": "Superarctic",
+      "nl": "Superarctic"
+    },
+    {
+      "fr": "Superarctic Anaconda",
+      "en": "Superarctic Anaconda",
+      "es": "Superarctic Anaconda",
+      "de": "Superarctic Anaconda",
+      "zh": "Superarctic Anaconda",
+      "nl": "Superarctic Anaconda"
+    },
+    {
+      "fr": "Superarctic Superconda",
+      "en": "Superarctic Superconda",
+      "es": "Superarctic Superconda",
+      "de": "Superarctic Superconda",
+      "zh": "Superarctic Superconda",
+      "nl": "Superarctic Superconda"
+    },
+    {
+      "fr": "Superconda",
+      "en": "Superconda",
+      "es": "Superconda",
+      "de": "Superconda",
+      "zh": "Superconda",
+      "nl": "Superconda"
+    },
+    {
+      "fr": "Swiss Chocolate",
+      "en": "Swiss Chocolate",
+      "es": "Swiss Chocolate",
+      "de": "Swiss Chocolate",
+      "zh": "Swiss Chocolate",
+      "nl": "Swiss Chocolate"
+    },
+    {
+      "fr": "Thallium",
+      "en": "Thallium",
+      "es": "Thallium",
+      "de": "Thallium",
+      "zh": "Thallium",
+      "nl": "Thallium"
+    },
+    {
+      "fr": "Toffee Arctic Anaconda",
+      "en": "Toffee Arctic Anaconda",
+      "es": "Toffee Arctic Anaconda",
+      "de": "Toffee Arctic Anaconda",
+      "zh": "Toffee Arctic Anaconda",
+      "nl": "Toffee Arctic Anaconda"
+    },
+    {
+      "fr": "Toffee Arctic Superconda",
+      "en": "Toffee Arctic Superconda",
+      "es": "Toffee Arctic Superconda",
+      "de": "Toffee Arctic Superconda",
+      "zh": "Toffee Arctic Superconda",
+      "nl": "Toffee Arctic Superconda"
+    },
+    {
+      "fr": "Toffeebelly",
+      "en": "Toffeebelly",
+      "es": "Toffeebelly",
+      "de": "Toffeebelly",
+      "zh": "Toffeebelly",
+      "nl": "Toffeebelly"
+    },
+    {
+      "fr": "Toffeeconda",
+      "en": "Toffeeconda",
+      "es": "Toffeeconda",
+      "de": "Toffeeconda",
+      "zh": "Toffeeconda",
+      "nl": "Toffeeconda"
+    },
+    {
+      "fr": "Toxic Superconda",
+      "en": "Toxic Superconda",
+      "es": "Toxic Superconda",
+      "de": "Toxic Superconda",
+      "zh": "Toxic Superconda",
+      "nl": "Toxic Superconda"
+    },
+    {
+      "fr": "Yeti",
+      "en": "Yeti",
+      "es": "Yeti",
+      "de": "Yeti",
+      "zh": "Yeti",
+      "nl": "Yeti"
+    }
+  ]
+}
