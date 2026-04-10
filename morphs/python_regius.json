@@ -2,492 +2,57 @@
   "species_scientific": "Python Regius",
   "name": {
     "fr": "Python Royal",
-    "en": "Ball Python",
-    "es": "Pitón Real",
-    "de": "Königspython",
-    "zh": "球蟒",
-    "nl": "Koningspython"
+    "en": "Ball Python"
   },
   "morphs": [
-    {
-      "fr": "Albino",
-      "en": "Albino",
-      "es": "Albino",
-      "de": "Albino",
-      "zh": "Albino",
-      "nl": "Albino"
-    },
-    {
-      "fr": "Asphalt",
-      "en": "Asphalt",
-      "es": "Asphalt",
-      "de": "Asphalt",
-      "zh": "Asphalt",
-      "nl": "Asphalt"
-    },
-    {
-      "fr": "Axanthic",
-      "en": "Axanthic",
-      "es": "Axanthic",
-      "de": "Axanthic",
-      "zh": "Axanthic",
-      "nl": "Axanthic"
-    },
-    {
-      "fr": "Bamboo",
-      "en": "Bamboo",
-      "es": "Bamboo",
-      "de": "Bamboo",
-      "zh": "Bamboo",
-      "nl": "Bamboo"
-    },
-    {
-      "fr": "Banana",
-      "en": "Banana",
-      "es": "Banana",
-      "de": "Banana",
-      "zh": "Banana",
-      "nl": "Banana"
-    },
-    {
-      "fr": "Bel",
-      "en": "Bel",
-      "es": "Bel",
-      "de": "Bel",
-      "zh": "Bel",
-      "nl": "Bel"
-    },
-    {
-      "fr": "Black Eyed Leucistic",
-      "en": "Black Eyed Leucistic",
-      "es": "Black Eyed Leucistic",
-      "de": "Black Eyed Leucistic",
-      "zh": "Black Eyed Leucistic",
-      "nl": "Black Eyed Leucistic"
-    },
-    {
-      "fr": "Black Pastel",
-      "en": "Black Pastel",
-      "es": "Black Pastel",
-      "de": "Black Pastel",
-      "zh": "Black Pastel",
-      "nl": "Black Pastel"
-    },
-    {
-      "fr": "Blue Eyed Leucistic",
-      "en": "Blue Eyed Leucistic",
-      "es": "Blue Eyed Leucistic",
-      "de": "Blue Eyed Leucistic",
-      "zh": "Blue Eyed Leucistic",
-      "nl": "Blue Eyed Leucistic"
-    },
-    {
-      "fr": "Bumblebee",
-      "en": "Bumblebee",
-      "es": "Bumblebee",
-      "de": "Bumblebee",
-      "zh": "Bumblebee",
-      "nl": "Bumblebee"
-    },
-    {
-      "fr": "Butter",
-      "en": "Butter",
-      "es": "Butter",
-      "de": "Butter",
-      "zh": "Butter",
-      "nl": "Butter"
-    },
-    {
-      "fr": "Calico",
-      "en": "Calico",
-      "es": "Calico",
-      "de": "Calico",
-      "zh": "Calico",
-      "nl": "Calico"
-    },
-    {
-      "fr": "Candy",
-      "en": "Candy",
-      "es": "Candy",
-      "de": "Candy",
-      "zh": "Candy",
-      "nl": "Candy"
-    },
-    {
-      "fr": "Champagne",
-      "en": "Champagne",
-      "es": "Champagne",
-      "de": "Champagne",
-      "zh": "Champagne",
-      "nl": "Champagne"
-    },
-    {
-      "fr": "Cinnamon",
-      "en": "Cinnamon",
-      "es": "Cinnamon",
-      "de": "Cinnamon",
-      "zh": "Cinnamon",
-      "nl": "Cinnamon"
-    },
-    {
-      "fr": "Clown",
-      "en": "Clown",
-      "es": "Clown",
-      "de": "Clown",
-      "zh": "Clown",
-      "nl": "Clown"
-    },
-    {
-      "fr": "Desert Ghost",
-      "en": "Desert Ghost",
-      "es": "Desert Ghost",
-      "de": "Desert Ghost",
-      "zh": "Desert Ghost",
-      "nl": "Desert Ghost"
-    },
-    {
-      "fr": "Enchi",
-      "en": "Enchi",
-      "es": "Enchi",
-      "de": "Enchi",
-      "zh": "Enchi",
-      "nl": "Enchi"
-    },
-    {
-      "fr": "Fire",
-      "en": "Fire",
-      "es": "Fire",
-      "de": "Fire",
-      "zh": "Fire",
-      "nl": "Fire"
-    },
-    {
-      "fr": "GHI",
-      "en": "GHI",
-      "es": "GHI",
-      "de": "GHI",
-      "zh": "GHI",
-      "nl": "GHI"
-    },
-    {
-      "fr": "Genetic Stripe",
-      "en": "Genetic Stripe",
-      "es": "Genetic Stripe",
-      "de": "Genetic Stripe",
-      "zh": "Genetic Stripe",
-      "nl": "Genetic Stripe"
-    },
-    {
-      "fr": "Ghost",
-      "en": "Ghost",
-      "es": "Ghost",
-      "de": "Ghost",
-      "zh": "Ghost",
-      "nl": "Ghost"
-    },
-    {
-      "fr": "Gravel",
-      "en": "Gravel",
-      "es": "Gravel",
-      "de": "Gravel",
-      "zh": "Gravel",
-      "nl": "Gravel"
-    },
-    {
-      "fr": "Hidden Gene Woma",
-      "en": "Hidden Gene Woma",
-      "es": "Hidden Gene Woma",
-      "de": "Hidden Gene Woma",
-      "zh": "Hidden Gene Woma",
-      "nl": "Hidden Gene Woma"
-    },
-    {
-      "fr": "Hypo",
-      "en": "Hypo",
-      "es": "Hypo",
-      "de": "Hypo",
-      "zh": "Hypo",
-      "nl": "Hypo"
-    },
-    {
-      "fr": "Ivory",
-      "en": "Ivory",
-      "es": "Ivory",
-      "de": "Ivory",
-      "zh": "Ivory",
-      "nl": "Ivory"
-    },
-    {
-      "fr": "Killer Clown",
-      "en": "Killer Clown",
-      "es": "Killer Clown",
-      "de": "Killer Clown",
-      "zh": "Killer Clown",
-      "nl": "Killer Clown"
-    },
-    {
-      "fr": "Lavender Albino",
-      "en": "Lavender Albino",
-      "es": "Lavender Albino",
-      "de": "Lavender Albino",
-      "zh": "Lavender Albino",
-      "nl": "Lavender Albino"
-    },
-    {
-      "fr": "Lesser",
-      "en": "Lesser",
-      "es": "Lesser",
-      "de": "Lesser",
-      "zh": "Lesser",
-      "nl": "Lesser"
-    },
-    {
-      "fr": "Lori",
-      "en": "Lori",
-      "es": "Lori",
-      "de": "Lori",
-      "zh": "Lori",
-      "nl": "Lori"
-    },
-    {
-      "fr": "Mocha",
-      "en": "Mocha",
-      "es": "Mocha",
-      "de": "Mocha",
-      "zh": "Mocha",
-      "nl": "Mocha"
-    },
-    {
-      "fr": "Mojave",
-      "en": "Mojave",
-      "es": "Mojave",
-      "de": "Mojave",
-      "zh": "Mojave",
-      "nl": "Mojave"
-    },
-    {
-      "fr": "Mystic",
-      "en": "Mystic",
-      "es": "Mystic",
-      "de": "Mystic",
-      "zh": "Mystic",
-      "nl": "Mystic"
-    },
-    {
-      "fr": "Normal",
-      "en": "Normal",
-      "es": "Normal",
-      "de": "Normal",
-      "zh": "Normal",
-      "nl": "Normal"
-    },
-    {
-      "fr": "Orange Dream",
-      "en": "Orange Dream",
-      "es": "Orange Dream",
-      "de": "Orange Dream",
-      "zh": "Orange Dream",
-      "nl": "Orange Dream"
-    },
-    {
-      "fr": "Panda Pied",
-      "en": "Panda Pied",
-      "es": "Panda Pied",
-      "de": "Panda Pied",
-      "zh": "Panda Pied",
-      "nl": "Panda Pied"
-    },
-    {
-      "fr": "Pastel",
-      "en": "Pastel",
-      "es": "Pastel",
-      "de": "Pastel",
-      "zh": "Pastel",
-      "nl": "Pastel"
-    },
-    {
-      "fr": "Phantom",
-      "en": "Phantom",
-      "es": "Phantom",
-      "de": "Phantom",
-      "zh": "Phantom",
-      "nl": "Phantom"
-    },
-    {
-      "fr": "Piebald",
-      "en": "Piebald",
-      "es": "Piebald",
-      "de": "Piebald",
-      "zh": "Piebald",
-      "nl": "Piebald"
-    },
-    {
-      "fr": "Pied",
-      "en": "Pied",
-      "es": "Pied",
-      "de": "Pied",
-      "zh": "Pied",
-      "nl": "Pied"
-    },
-    {
-      "fr": "Pinstripe",
-      "en": "Pinstripe",
-      "es": "Pinstripe",
-      "de": "Pinstripe",
-      "zh": "Pinstripe",
-      "nl": "Pinstripe"
-    },
-    {
-      "fr": "Russo",
-      "en": "Russo",
-      "es": "Russo",
-      "de": "Russo",
-      "zh": "Russo",
-      "nl": "Russo"
-    },
-    {
-      "fr": "Sable",
-      "en": "Sable",
-      "es": "Sable",
-      "de": "Sable",
-      "zh": "Sable",
-      "nl": "Sable"
-    },
-    {
-      "fr": "Scaleless Head",
-      "en": "Scaleless Head",
-      "es": "Scaleless Head",
-      "de": "Scaleless Head",
-      "zh": "Scaleless Head",
-      "nl": "Scaleless Head"
-    },
-    {
-      "fr": "Spark",
-      "en": "Spark",
-      "es": "Spark",
-      "de": "Spark",
-      "zh": "Spark",
-      "nl": "Spark"
-    },
-    {
-      "fr": "Special",
-      "en": "Special",
-      "es": "Special",
-      "de": "Special",
-      "zh": "Special",
-      "nl": "Special"
-    },
-    {
-      "fr": "Specter",
-      "en": "Specter",
-      "es": "Specter",
-      "de": "Specter",
-      "zh": "Specter",
-      "nl": "Specter"
-    },
-    {
-      "fr": "Spider",
-      "en": "Spider",
-      "es": "Spider",
-      "de": "Spider",
-      "zh": "Spider",
-      "nl": "Spider"
-    },
-    {
-      "fr": "Spinypied",
-      "en": "Spinypied",
-      "es": "Spinypied",
-      "de": "Spinypied",
-      "zh": "Spinypied",
-      "nl": "Spinypied"
-    },
-    {
-      "fr": "Spotnose",
-      "en": "Spotnose",
-      "es": "Spotnose",
-      "de": "Spotnose",
-      "zh": "Spotnose",
-      "nl": "Spotnose"
-    },
-    {
-      "fr": "Sugar",
-      "en": "Sugar",
-      "es": "Sugar",
-      "de": "Sugar",
-      "zh": "Sugar",
-      "nl": "Sugar"
-    },
-    {
-      "fr": "Super Enchi",
-      "en": "Super Enchi",
-      "es": "Super Enchi",
-      "de": "Super Enchi",
-      "zh": "Super Enchi",
-      "nl": "Super Enchi"
-    },
-    {
-      "fr": "Super Fire",
-      "en": "Super Fire",
-      "es": "Super Fire",
-      "de": "Super Fire",
-      "zh": "Super Fire",
-      "nl": "Super Fire"
-    },
-    {
-      "fr": "Super Pastel",
-      "en": "Super Pastel",
-      "es": "Super Pastel",
-      "de": "Super Pastel",
-      "zh": "Super Pastel",
-      "nl": "Super Pastel"
-    },
-    {
-      "fr": "Toffee",
-      "en": "Toffee",
-      "es": "Toffee",
-      "de": "Toffee",
-      "zh": "Toffee",
-      "nl": "Toffee"
-    },
-    {
-      "fr": "Tri-stripe",
-      "en": "Tri-stripe",
-      "es": "Tri-stripe",
-      "de": "Tri-stripe",
-      "zh": "Tri-stripe",
-      "nl": "Tri-stripe"
-    },
-    {
-      "fr": "Ultramel",
-      "en": "Ultramel",
-      "es": "Ultramel",
-      "de": "Ultramel",
-      "zh": "Ultramel",
-      "nl": "Ultramel"
-    },
-    {
-      "fr": "Vanilla",
-      "en": "Vanilla",
-      "es": "Vanilla",
-      "de": "Vanilla",
-      "zh": "Vanilla",
-      "nl": "Vanilla"
-    },
-    {
-      "fr": "Woma",
-      "en": "Woma",
-      "es": "Woma",
-      "de": "Woma",
-      "zh": "Woma",
-      "nl": "Woma"
-    },
-    {
-      "fr": "Yellow Belly",
-      "en": "Yellow Belly",
-      "es": "Yellow Belly",
-      "de": "Yellow Belly",
-      "zh": "Yellow Belly",
-      "nl": "Yellow Belly"
-    }
+    { "fr": "Normal", "en": "Normal", "type": "wildtype" },
+    { "fr": "Albino", "en": "Albino", "type": "recessive" },
+    { "fr": "Axanthic", "en": "Axanthic", "type": "recessive" },
+    { "fr": "Clown", "en": "Clown", "type": "recessive" },
+    { "fr": "Desert Ghost", "en": "Desert Ghost", "type": "recessive" },
+    { "fr": "Genetic Stripe", "en": "Genetic Stripe", "type": "recessive" },
+    { "fr": "Ghost", "en": "Ghost", "type": "recessive" },
+    { "fr": "Hypo", "en": "Hypo", "type": "recessive" },
+    { "fr": "Piebald", "en": "Piebald", "type": "recessive" },
+    { "fr": "Ultramel", "en": "Ultramel", "type": "recessive" },
+    { "fr": "Toffee", "en": "Toffee", "type": "recessive" },
+    { "fr": "Tri-stripe", "en": "Tri-stripe", "type": "recessive" },
+    { "fr": "Asphalt", "en": "Asphalt", "type": "codominant" },
+    { "fr": "Bamboo", "en": "Bamboo", "type": "codominant" },
+    { "fr": "Banana", "en": "Banana", "type": "codominant" },
+    { "fr": "Black Pastel", "en": "Black Pastel", "type": "codominant" },
+    { "fr": "Butter", "en": "Butter", "type": "codominant" },
+    { "fr": "Calico", "en": "Calico", "type": "codominant" },
+    { "fr": "Candy", "en": "Candy", "type": "codominant" },
+    { "fr": "Champagne", "en": "Champagne", "type": "dominant" },
+    { "fr": "Cinnamon", "en": "Cinnamon", "type": "codominant" },
+    { "fr": "Enchi", "en": "Enchi", "type": "codominant" },
+    { "fr": "Fire", "en": "Fire", "type": "codominant" },
+    { "fr": "GHI", "en": "GHI", "type": "codominant" },
+    { "fr": "Gravel", "en": "Gravel", "type": "codominant" },
+    { "fr": "Ivory", "en": "Ivory", "type": "codominant" },
+    { "fr": "Lesser", "en": "Lesser", "type": "codominant" },
+    { "fr": "Mocha", "en": "Mocha", "type": "codominant" },
+    { "fr": "Mojave", "en": "Mojave", "type": "codominant" },
+    { "fr": "Mystic", "en": "Mystic", "type": "codominant" },
+    { "fr": "Orange Dream", "en": "Orange Dream", "type": "codominant" },
+    { "fr": "Pastel", "en": "Pastel", "type": "codominant" },
+    { "fr": "Phantom", "en": "Phantom", "type": "codominant" },
+    { "fr": "Pinstripe", "en": "Pinstripe", "type": "dominant" },
+    { "fr": "Russo", "en": "Russo", "type": "codominant" },
+    { "fr": "Sable", "en": "Sable", "type": "codominant" },
+    { "fr": "Spark", "en": "Spark", "type": "codominant" },
+    { "fr": "Special", "en": "Special", "type": "codominant" },
+    { "fr": "Specter", "en": "Specter", "type": "codominant" },
+    { "fr": "Spider", "en": "Spider", "type": "dominant" },
+    { "fr": "Spotnose", "en": "Spotnose", "type": "codominant" },
+    { "fr": "Sugar", "en": "Sugar", "type": "codominant" },
+    { "fr": "Vanilla", "en": "Vanilla", "type": "codominant" },
+    { "fr": "Woma", "en": "Woma", "type": "dominant" },
+    { "fr": "Yellow Belly", "en": "Yellow Belly", "type": "codominant" },
+    { "fr": "BEL (Blue Eyed Leucistic)", "en": "BEL (Blue Eyed Leucistic)", "type": "combo" },
+    { "fr": "Bumblebee", "en": "Bumblebee", "type": "combo" },
+    { "fr": "Killer Clown", "en": "Killer Clown", "type": "combo" },
+    { "fr": "Panda Pied", "en": "Panda Pied", "type": "combo" }
   ]
 }
