@@ -1,654 +1,742 @@
-{
-  "species": [
-    {
-      "scientific_name": "Ambystoma Mexicanum",
-      "category": "Amphibien",
-      "family": "Urodèles",
-      "venomous": false,
-      "fr": {
-        "name": "Axolotl",
-        "diet": "Carnivore",
-        "repro": "Ovipare",
-        "expert_advice": "Maintenir l'eau toujours propre et fraîche. La température ne doit jamais dépasser 22°C sous peine de stress grave ou de mort.",
-        "repro_advice": "Un changement d'eau fraîche ou une baisse naturelle des températures en hiver stimule la reproduction.",
-        "notes": "Espèce 100% aquatique (néoténique), ne jamais manipuler hors de l'eau."
-      },
-      "en": {
-        "name": "Axolotl",
-        "diet": "Carnivore",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Ajolote",
-        "diet": "Carnívoro",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Axolotl",
-        "diet": "Fleischfresser",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "美西螈",
-        "diet": "食肉动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Axolotl",
-        "diet": "Vleeseter",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "others",
-      "temp_hot_min": "18",
-      "temp_hot_max": "20",
-      "temp_cold_min": "14",
-      "temp_cold_max": "18",
-      "humidity_min": "100",
-      "humidity_max": "100",
-      "gestation_days": "12",
-      "incubation_days": "14",
-      "incubation_temp": "18",
-      "incubation_humidity": "100"
+[
+  {
+    "scientific_name": "Pogona Vitticeps",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Agame barbu (Pogona)",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "expert_advice": "L'éclairage UVB (10 à 12%) et le calcium sont obligatoires pour éviter les maladies osseuses métaboliques (MBD).",
+      "repro_advice": "Une seule fécondation peut permettre à la femelle de pondre plusieurs fois (rétention de sperme).",
+      "notes": "L'alimentation adulte doit être composée à 70% de végétaux et 30% d'insectes."
     },
-    {
-      "scientific_name": "Boa Imperator",
-      "category": "Serpent",
-      "family": "Boas",
-      "venomous": false,
-      "fr": {
-        "name": "Boa Imperator",
-        "diet": "Rongeur",
-        "repro": "Ovovivipare",
-        "expert_advice": "Fournir un grand terrarium avec des branches robustes, l'espèce apprécie grimper, surtout juvénile.",
-        "repro_advice": "Diminuer les températures nocturnes de quelques degrés en hiver pour lancer la saison de reproduction.",
-        "notes": "Peut atteindre 2 mètres et plus, nécessite une manipulation régulière pour rester calme."
-      },
-      "en": {
-        "name": "Boa Imperator",
-        "diet": "Rodent",
-        "repro": "Ovoviviparous"
-      },
-      "es": {
-        "name": "Boa Imperator",
-        "diet": "Roedor",
-        "repro": "Ovovivíparo"
-      },
-      "de": {
-        "name": "Kaiserboa",
-        "diet": "Nagetier",
-        "repro": "Ovovivipar"
-      },
-      "zh": {
-        "name": "巨蚺",
-        "diet": "啮齿动物",
-        "repro": "卵胎生"
-      },
-      "nl": {
-        "name": "Keizerboa",
-        "diet": "Knaagdier",
-        "repro": "Eierlevendbarend"
-      },
-      "feed_category": "rodents",
-      "temp_hot_min": "30",
-      "temp_hot_max": "32",
-      "temp_cold_min": "26",
-      "temp_cold_max": "28",
-      "humidity_min": "60",
-      "humidity_max": "70",
-      "gestation_days": "100",
-      "incubation_days": "0",
-      "incubation_temp": "N/A",
-      "incubation_humidity": "N/A"
+    "en": {
+      "name": "Bearded Dragon",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
     },
-    {
-      "scientific_name": "Correlophus Ciliatus",
-      "category": "Lézard",
-      "family": "Geckos",
-      "venomous": false,
-      "fr": {
-        "name": "Gecko à Crête",
-        "diet": "Frugivore/Insectivore",
-        "repro": "Ovipare",
-        "expert_advice": "Terrarium en hauteur (arboricole). Ne pas chauffer de manière excessive, ils supportent très mal les chaleurs au-delà de 28°C.",
-        "repro_advice": "Mettre une boîte de ponte avec de la sphaigne ou fibre de coco humide. Pond généralement 2 œufs par mois en saison.",
-        "notes": "S'il perd sa queue (autotomie), elle ne repoussera jamais."
-      },
-      "en": {
-        "name": "Crested Gecko",
-        "diet": "Frugivore/Insectivore",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Gecko Crestado",
-        "diet": "Frugívoro/Insectívoro",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Kronengecko",
-        "diet": "Frucht-/Insektenfresser",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "睫角守宫",
-        "diet": "食果动物/食虫动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Wimpergekko",
-        "diet": "Fruiteter/Insecteneter",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "insects",
-      "temp_hot_min": "24",
-      "temp_hot_max": "26",
-      "temp_cold_min": "20",
-      "temp_cold_max": "22",
-      "humidity_min": "60",
-      "humidity_max": "80",
-      "gestation_days": "30",
-      "incubation_days": "65",
-      "incubation_temp": "23",
-      "incubation_humidity": "80"
+    "es": {
+      "name": "Dragón Barbudo",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo"
     },
-    {
-      "scientific_name": "Crotalus Atrox",
-      "category": "Serpent",
-      "family": "Vipéridés",
-      "venomous": true,
-      "fr": {
-        "name": "Crotale diamantin",
-        "diet": "Rongeur/Lapin",
-        "repro": "Ovovivipare",
-        "expert_advice": "Espèce mortelle réservée uniquement aux capacitaires expérimentés. Terrarium verrouillé obligatoire.",
-        "repro_advice": "Combats rituels très impressionnants entre mâles. Éviter toute manipulation pendant cette période.",
-        "notes": "Possède un venin hémotoxique très puissant."
-      },
-      "en": {
-        "name": "Western Diamondback",
-        "diet": "Rodent/Rabbit",
-        "repro": "Ovoviviparous"
-      },
-      "es": {
-        "name": "Cascabel diamantina",
-        "diet": "Roedor/Conejo",
-        "repro": "Ovovivíparo"
-      },
-      "de": {
-        "name": "Texanische Klapperschlange",
-        "diet": "Nagetier/Kaninchen",
-        "repro": "Ovovivipar"
-      },
-      "zh": {
-        "name": "西部菱背响尾蛇",
-        "diet": "啮齿动物/兔子",
-        "repro": "卵胎生"
-      },
-      "nl": {
-        "name": "Westerse diamantratelslang",
-        "diet": "Knaagdier/Konijn",
-        "repro": "Eierlevendbarend"
-      },
-      "feed_category": "rodents",
-      "temp_hot_min": "32",
-      "temp_hot_max": "35",
-      "temp_cold_min": "25",
-      "temp_cold_max": "28",
-      "humidity_min": "40",
-      "humidity_max": "50",
-      "gestation_days": "160",
-      "incubation_days": "0",
-      "incubation_temp": "N/A",
-      "incubation_humidity": "N/A"
+    "de": {
+      "name": "Bartagame",
+      "diet": "Allesfresser",
+      "repro": "Ovipar"
     },
-    {
-      "scientific_name": "Dasypeltis Scabra",
-      "category": "Serpent",
-      "family": "Colubridés",
-      "venomous": false,
-      "fr": {
-        "name": "Couleuvre mangeuse d'oeufs",
-        "diet": "Oeuf",
-        "repro": "Ovipare",
-        "expert_advice": "Il peut être difficile de trouver des œufs de taille adaptée (œufs de pinsons ou de cailles) en quantité suffisante.",
-        "repro_advice": "La femelle a besoin de cachettes légèrement humides pour pondre ses oeufs.",
-        "notes": "Serpent aglyphe (sans dents), avale l'oeuf entier et recrache la coquille."
-      },
-      "en": {
-        "name": "Egg-eating Snake",
-        "diet": "Egg",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Culebra comedora de huevos",
-        "diet": "Huevo",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Afrikanische Eierschlange",
-        "diet": "Ei",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "食卵蛇",
-        "diet": "蛋",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Eieretende slang",
-        "diet": "Ei",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "others",
-      "temp_hot_min": "28",
-      "temp_hot_max": "32",
-      "temp_cold_min": "22",
-      "temp_cold_max": "25",
-      "humidity_min": "40",
-      "humidity_max": "50",
-      "gestation_days": "35",
-      "incubation_days": "65",
-      "incubation_temp": "28",
-      "incubation_humidity": "80"
+    "zh": {
+      "name": "鬃狮蜥",
+      "diet": "杂食动物",
+      "repro": "卵生"
     },
-    {
-      "scientific_name": "Eryx Colubrinus",
-      "category": "Serpent",
-      "family": "Boas",
-      "venomous": false,
-      "fr": {
-        "name": "Boa de sable du Kenya",
-        "diet": "Rongeur",
-        "repro": "Ovovivipare",
-        "expert_advice": "Prévoir au moins 10 cm de substrat meuble (éclats de hêtre, sable adapté) pour qu'il puisse s'enfouir.",
-        "repro_advice": "Une période de repos hivernal (brumation) légère est conseillée pour stimuler les accouplements.",
-        "notes": "Serpent fouisseur très docile et excellent pour les débutants."
-      },
-      "en": {
-        "name": "Kenyan Sand Boa",
-        "diet": "Rodent",
-        "repro": "Ovoviviparous"
-      },
-      "es": {
-        "name": "Boa de arena",
-        "diet": "Roedor",
-        "repro": "Ovovivíparo"
-      },
-      "de": {
-        "name": "Kenia-Sandboa",
-        "diet": "Nagetier",
-        "repro": "Ovovivipar"
-      },
-      "zh": {
-        "name": "肯尼亚沙蚺",
-        "diet": "啮齿动物",
-        "repro": "卵胎生"
-      },
-      "nl": {
-        "name": "Keniaanse zandboa",
-        "diet": "Knaagdier",
-        "repro": "Eierlevendbarend"
-      },
-      "feed_category": "rodents",
-      "temp_hot_min": "32",
-      "temp_hot_max": "35",
-      "temp_cold_min": "25",
-      "temp_cold_max": "28",
-      "humidity_min": "30",
-      "humidity_max": "40",
-      "gestation_days": "120",
-      "incubation_days": "0",
-      "incubation_temp": "N/A",
-      "incubation_humidity": "N/A"
+    "nl": {
+      "name": "Baardagame",
+      "diet": "Alleseter",
+      "repro": "Eierleggend"
     },
-    {
-      "scientific_name": "Eublepharis Macularius",
-      "category": "Lézard",
-      "family": "Geckos",
-      "venomous": false,
-      "fr": {
-        "name": "Gecko Léopard",
-        "diet": "Insectivore",
-        "repro": "Ovipare",
-        "expert_advice": "Une boîte à mue (cachette avec substrat humide) est indispensable pour éviter les problèmes de mue aux orteils.",
-        "repro_advice": "La température d'incubation détermine le sexe des futurs geckos (TSD).",
-        "notes": "Stocke ses réserves de graisse dans sa queue."
-      },
-      "en": {
-        "name": "Leopard Gecko",
-        "diet": "Insectivore",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Gecko Leopardo",
-        "diet": "Insectívoro",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Leopardgecko",
-        "diet": "Insektenfresser",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "豹纹守宫",
-        "diet": "食虫动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Luipaardgekko",
-        "diet": "Insecteneter",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "insects",
-      "temp_hot_min": "30",
-      "temp_hot_max": "32",
-      "temp_cold_min": "24",
-      "temp_cold_max": "26",
-      "humidity_min": "40",
-      "humidity_max": "50",
-      "gestation_days": "21",
-      "incubation_days": "50",
-      "incubation_temp": "28",
-      "incubation_humidity": "80"
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "65",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Ambystoma Mexicanum",
+    "category": "Amphibien",
+    "family": "Urodèles",
+    "venomous": false,
+    "fr": {
+      "name": "Axolotl",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "expert_advice": "Maintenir l'eau toujours propre et fraîche. La température ne doit jamais dépasser 22°C sous peine de stress grave ou de mort.",
+      "repro_advice": "Un changement d'eau fraîche ou une baisse naturelle des températures en hiver stimule la reproduction.",
+      "notes": "Espèce 100% aquatique (néoténique), ne jamais manipuler hors de l'eau."
     },
-    {
-      "scientific_name": "Heterodon Nasicus",
-      "category": "Serpent",
-      "family": "Colubridés",
-      "venomous": true,
-      "fr": {
-        "name": "Hétérodon Nasicus (Serpent à nez de cochon)",
-        "diet": "Rongeur/Amphibien",
-        "repro": "Ovipare",
-        "expert_advice": "Espèce opistoglyphe (crochets à l'arrière). Venin très faible mais peut causer un gonflement. Éviter les morsures prolongées.",
-        "repro_advice": "Les femelles doivent être bien nourries car la ponte de grands œufs leur demande beaucoup d'énergie.",
-        "notes": "Utilise son nez retroussé pour creuser. Peut feindre la mort s'il est très stressé."
-      },
-      "en": {
-        "name": "Western Hognose",
-        "diet": "Rodent/Amphibian",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Serpiente hocico de cerdo",
-        "diet": "Roedor/Anfibio",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Westliche Hakennasennatter",
-        "diet": "Nagetier/Amphibie",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "猪鼻蛇",
-        "diet": "啮齿动物/两栖动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Westelijke haakneusslang",
-        "diet": "Knaagdier/Amfibie",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "rodents",
-      "temp_hot_min": "30",
-      "temp_hot_max": "32",
-      "temp_cold_min": "23",
-      "temp_cold_max": "25",
-      "humidity_min": "30",
-      "humidity_max": "40",
-      "gestation_days": "40",
-      "incubation_days": "55",
-      "incubation_temp": "28",
-      "incubation_humidity": "70"
+    "en": {
+      "name": "Axolotl",
+      "diet": "Carnivore",
+      "repro": "Oviparous"
     },
-    {
-      "scientific_name": "Morelia Viridis",
-      "category": "Serpent",
-      "family": "Pythons",
-      "venomous": false,
-      "fr": {
-        "name": "Python Vert",
-        "diet": "Rongeur/Oiseau",
-        "repro": "Ovipare",
-        "expert_advice": "Un terrarium arboricole avec de multiples perchoirs horizontaux en PVC ou bambou est indispensable.",
-        "repro_advice": "La femelle nécessite une surveillance accrue après la ponte car elle peut s'épuiser rapidement.",
-        "notes": "Les juvéniles naissent jaunes ou rouges vifs et obtiennent leur couleur verte en grandissant (changement ontogénique)."
-      },
-      "en": {
-        "name": "Green Tree Python",
-        "diet": "Rodent/Bird",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Pitón de árbol verde",
-        "diet": "Roedor/Ave",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Grüner Baumpython",
-        "diet": "Nagetier/Vogel",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "绿树蟒",
-        "diet": "啮齿动物/鸟类",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Groene boompython",
-        "diet": "Knaagdier/Vogel",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "rodents",
-      "temp_hot_min": "30",
-      "temp_hot_max": "32",
-      "temp_cold_min": "25",
-      "temp_cold_max": "27",
-      "humidity_min": "60",
-      "humidity_max": "80",
-      "gestation_days": "35",
-      "incubation_days": "50",
-      "incubation_temp": "31",
-      "incubation_humidity": "85"
+    "es": {
+      "name": "Ajolote",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo"
     },
-    {
-      "scientific_name": "Pantherophis Guttatus",
-      "category": "Serpent",
-      "family": "Colubridés",
-      "venomous": false,
-      "fr": {
-        "name": "Serpent des blés",
-        "diet": "Rongeur",
-        "repro": "Ovipare",
-        "expert_advice": "Le serpent idéal pour les débutants. S'assurer que le terrarium soit anti-évasion (ils sont doués pour s'échapper).",
-        "repro_advice": "Une période d'hibernation stricte d'environ 2 à 3 mois à 12-15°C est recommandée avant l'accouplement.",
-        "notes": "Excellent mangeur, très actif et curieux."
-      },
-      "en": {
-        "name": "Corn Snake",
-        "diet": "Rodent",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Culebra de maíz",
-        "diet": "Roedor",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Kornnatter",
-        "diet": "Nagetier",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "玉米蛇",
-        "diet": "啮齿动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Korenslang",
-        "diet": "Knaagdier",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "rodents",
-      "temp_hot_min": "28",
-      "temp_hot_max": "30",
-      "temp_cold_min": "22",
-      "temp_cold_max": "24",
-      "humidity_min": "40",
-      "humidity_max": "60",
-      "gestation_days": "35",
-      "incubation_days": "60",
-      "incubation_temp": "28",
-      "incubation_humidity": "80"
+    "de": {
+      "name": "Axolotl",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar"
     },
-    {
-      "scientific_name": "Pogona Vitticeps",
-      "category": "Lézard",
-      "family": "Agames",
-      "venomous": false,
-      "fr": {
-        "name": "Agame barbu (Pogona)",
-        "diet": "Omnivore",
-        "repro": "Ovipare",
-        "expert_advice": "L'éclairage UVB (10 à 12%) et le calcium sont obligatoires pour éviter les maladies osseuses métaboliques (MBD).",
-        "repro_advice": "Une seule fécondation peut permettre à la femelle de pondre plusieurs fois (rétention de sperme).",
-        "notes": "L'alimentation adulte doit être composée à 70% de végétaux et 30% d'insectes."
-      },
-      "en": {
-        "name": "Bearded Dragon",
-        "diet": "Omnivore",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Dragón Barbudo",
-        "diet": "Omnívoro",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Bartagame",
-        "diet": "Allesfresser",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "鬃狮蜥",
-        "diet": "杂食动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Baardagame",
-        "diet": "Alleseter",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "insects",
-      "temp_hot_min": "35",
-      "temp_hot_max": "40",
-      "temp_cold_min": "25",
-      "temp_cold_max": "28",
-      "humidity_min": "30",
-      "humidity_max": "40",
-      "gestation_days": "25",
-      "incubation_days": "65",
-      "incubation_temp": "29",
-      "incubation_humidity": "80"
+    "zh": {
+      "name": "美西螈",
+      "diet": "食肉动物",
+      "repro": "卵生"
     },
-    {
-      "scientific_name": "Python Regius",
-      "category": "Serpent",
-      "family": "Pythons",
-      "venomous": false,
-      "fr": {
-        "name": "Python Royal",
-        "diet": "Rongeur",
-        "repro": "Ovipare",
-        "expert_advice": "Fournir de nombreuses cachettes très étroites. Ce serpent a besoin de se sentir confiné pour ne pas stresser.",
-        "repro_advice": "Les femelles couvent activement leurs œufs. En captivité, on préfère souvent une incubation artificielle.",
-        "notes": "Espèce sujette aux périodes de jeûne hivernal, même sans raison apparente."
-      },
-      "en": {
-        "name": "Ball Python",
-        "diet": "Rodent",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Pitón Real",
-        "diet": "Roedor",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Königspython",
-        "diet": "Nagetier",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "球蟒",
-        "diet": "啮齿动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Koningspython",
-        "diet": "Knaagdier",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "rodents",
-      "temp_hot_min": "31",
-      "temp_hot_max": "33",
-      "temp_cold_min": "25",
-      "temp_cold_max": "27",
-      "humidity_min": "50",
-      "humidity_max": "60",
-      "gestation_days": "35",
-      "incubation_days": "60",
-      "incubation_temp": "31",
-      "incubation_humidity": "85"
+    "nl": {
+      "name": "Axolotl",
+      "diet": "Vleeseter",
+      "repro": "Eierleggend"
     },
-    {
-      "scientific_name": "Testudo Hermanni",
-      "category": "Tortue",
-      "family": "Terrestre",
-      "venomous": false,
-      "fr": {
-        "name": "Tortue d'Hermann",
-        "diet": "Herbivore",
-        "repro": "Ovipare",
-        "expert_advice": "Idéalement à maintenir en enclos extérieur bien sécurisé, ne pas utiliser de terrarium en verre pour des adultes.",
-        "repro_advice": "L'incubation se fait avec une forte hygrométrie. La température d'incubation joue sur le sexe des petites (TSD).",
-        "notes": "Régime 100% végétarien : pissenlit, trèfle, plantain. Éviter la salade et les fruits."
-      },
-      "en": {
-        "name": "Hermann's Tortoise",
-        "diet": "Herbivore",
-        "repro": "Oviparous"
-      },
-      "es": {
-        "name": "Tortuga de Hermann",
-        "diet": "Herbívoro",
-        "repro": "Ovíparo"
-      },
-      "de": {
-        "name": "Griechische Landschildkröte",
-        "diet": "Pflanzenfresser",
-        "repro": "Ovipar"
-      },
-      "zh": {
-        "name": "赫曼陆龟",
-        "diet": "食草动物",
-        "repro": "卵生"
-      },
-      "nl": {
-        "name": "Griekse landschildpad",
-        "diet": "Planteneter",
-        "repro": "Eierleggend"
-      },
-      "feed_category": "plants",
-      "temp_hot_min": "30",
-      "temp_hot_max": "35",
-      "temp_cold_min": "20",
-      "temp_cold_max": "22",
-      "humidity_min": "50",
-      "humidity_max": "60",
-      "gestation_days": "35",
-      "incubation_days": "75",
-      "incubation_temp": "31",
-      "incubation_humidity": "80"
-    }
-  ]
-}
+    "feed_category": "others",
+    "temp_hot_min": "18",
+    "temp_hot_max": "20",
+    "temp_cold_min": "14",
+    "temp_cold_max": "18",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "12",
+    "incubation_days": "14",
+    "incubation_temp": "18",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Eryx Colubrinus",
+    "category": "Serpent",
+    "family": "Boas",
+    "venomous": false,
+    "fr": {
+      "name": "Boa de sable du Kenya",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "expert_advice": "Prévoir au moins 10 cm de substrat meuble (éclats de hêtre, sable adapté) pour qu'il puisse s'enfouir.",
+      "repro_advice": "Une période de repos hivernal (brumation) légère est conseillée pour stimuler les accouplements.",
+      "notes": "Serpent fouisseur très docile et excellent pour les débutants."
+    },
+    "en": {
+      "name": "Kenyan Sand Boa",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous"
+    },
+    "es": {
+      "name": "Boa de arena",
+      "diet": "Roedor",
+      "repro": "Ovovivíparo"
+    },
+    "de": {
+      "name": "Kenia-Sandboa",
+      "diet": "Nagetier",
+      "repro": "Ovovivipar"
+    },
+    "zh": {
+      "name": "肯尼亚沙蚺",
+      "diet": "啮齿动物",
+      "repro": "卵胎生"
+    },
+    "nl": {
+      "name": "Keniaanse zandboa",
+      "diet": "Knaagdier",
+      "repro": "Eierlevendbarend"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "120",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Boa Imperator",
+    "category": "Serpent",
+    "family": "Boas",
+    "venomous": false,
+    "fr": {
+      "name": "Boa Imperator",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "expert_advice": "Fournir un grand terrarium avec des branches robustes, l'espèce apprécie grimper, surtout juvénile.",
+      "repro_advice": "Diminuer les températures nocturnes de quelques degrés en hiver pour lancer la saison de reproduction.",
+      "notes": "Peut atteindre 2 mètres et plus, nécessite une manipulation régulière pour rester calme."
+    },
+    "en": {
+      "name": "Boa Imperator",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous"
+    },
+    "es": {
+      "name": "Boa Imperator",
+      "diet": "Roedor",
+      "repro": "Ovovivíparo"
+    },
+    "de": {
+      "name": "Kaiserboa",
+      "diet": "Nagetier",
+      "repro": "Ovovivipar"
+    },
+    "zh": {
+      "name": "巨蚺",
+      "diet": "啮齿动物",
+      "repro": "卵胎生"
+    },
+    "nl": {
+      "name": "Keizerboa",
+      "diet": "Knaagdier",
+      "repro": "Eierlevendbarend"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "60",
+    "humidity_max": "70",
+    "gestation_days": "100",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Pantherophis Guttatus",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": false,
+    "fr": {
+      "name": "Serpent des blés",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "expert_advice": "Le serpent idéal pour les débutants. S'assurer que le terrarium soit anti-évasion (ils sont doués pour s'échapper).",
+      "repro_advice": "Une période d'hibernation stricte d'environ 2 à 3 mois à 12-15°C est recommandée avant l'accouplement.",
+      "notes": "Excellent mangeur, très actif et curieux."
+    },
+    "en": {
+      "name": "Corn Snake",
+      "diet": "Rodent",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Culebra de maíz",
+      "diet": "Roedor",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Kornnatter",
+      "diet": "Nagetier",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "玉米蛇",
+      "diet": "啮齿动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Korenslang",
+      "diet": "Knaagdier",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "40",
+    "humidity_max": "60",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Dasypeltis Scabra",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": false,
+    "fr": {
+      "name": "Couleuvre mangeuse d'oeufs",
+      "diet": "Oeuf",
+      "repro": "Ovipare",
+      "expert_advice": "Il peut être difficile de trouver des œufs de taille adaptée (œufs de pinsons ou de cailles) en quantité suffisante.",
+      "repro_advice": "La femelle a besoin de cachettes légèrement humides pour pondre ses oeufs.",
+      "notes": "Serpent aglyphe (sans dents), avale l'oeuf entier et recrache la coquille."
+    },
+    "en": {
+      "name": "Egg-eating Snake",
+      "diet": "Egg",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Culebra comedora de huevos",
+      "diet": "Huevo",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Afrikanische Eierschlange",
+      "diet": "Ei",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "食卵蛇",
+      "diet": "蛋",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Eieretende slang",
+      "diet": "Ei",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "others",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "35",
+    "incubation_days": "65",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Crotalus Atrox",
+    "category": "Serpent",
+    "family": "Vipéridés",
+    "venomous": true,
+    "fr": {
+      "name": "Crotale diamantin",
+      "diet": "Rongeur/Lapin",
+      "repro": "Ovovivipare",
+      "expert_advice": "Espèce mortelle réservée uniquement aux capacitaires expérimentés. Terrarium verrouillé obligatoire.",
+      "repro_advice": "Combats rituels très impressionnants entre mâles. Éviter toute manipulation pendant cette période.",
+      "notes": "Possède un venin hémotoxique très puissant."
+    },
+    "en": {
+      "name": "Western Diamondback",
+      "diet": "Rodent/Rabbit",
+      "repro": "Ovoviviparous"
+    },
+    "es": {
+      "name": "Cascabel diamantina",
+      "diet": "Roedor/Conejo",
+      "repro": "Ovovivíparo"
+    },
+    "de": {
+      "name": "Texanische Klapperschlange",
+      "diet": "Nagetier/Kaninchen",
+      "repro": "Ovovivipar"
+    },
+    "zh": {
+      "name": "西部菱背响尾蛇",
+      "diet": "啮齿动物/兔子",
+      "repro": "卵胎生"
+    },
+    "nl": {
+      "name": "Westerse diamantratelslang",
+      "diet": "Knaagdier/Konijn",
+      "repro": "Eierlevendbarend"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "160",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Correlophus Ciliatus",
+    "category": "Lézard",
+    "family": "Geckos",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko à Crête",
+      "diet": "Frugivore/Insectivore",
+      "repro": "Ovipare",
+      "expert_advice": "Terrarium en hauteur (arboricole). Ne pas chauffer de manière excessive, ils supportent très mal les chaleurs au-delà de 28°C.",
+      "repro_advice": "Mettre une boîte de ponte avec de la sphaigne ou fibre de coco humide. Pond généralement 2 œufs par mois en saison.",
+      "notes": "S'il perd sa queue (autotomie), elle ne repoussera jamais."
+    },
+    "en": {
+      "name": "Crested Gecko",
+      "diet": "Frugivore/Insectivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Gecko Crestado",
+      "diet": "Frugívoro/Insectívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Kronengecko",
+      "diet": "Frucht-/Insektenfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "睫角守宫",
+      "diet": "食果动物/食虫动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Wimpergekko",
+      "diet": "Fruiteter/Insecteneter",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "65",
+    "incubation_temp": "23",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Eublepharis Macularius",
+    "category": "Lézard",
+    "family": "Geckos",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko Léopard",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "expert_advice": "Une boîte à mue (cachette avec substrat humide) est indispensable pour éviter les problèmes de mue aux orteils.",
+      "repro_advice": "La température d'incubation détermine le sexe des futurs geckos (TSD).",
+      "notes": "Stocke ses réserves de graisse dans sa queue."
+    },
+    "en": {
+      "name": "Leopard Gecko",
+      "diet": "Insectivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Gecko Leopardo",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Leopardgecko",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "豹纹守宫",
+      "diet": "食虫动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Luipaardgekko",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "21",
+    "incubation_days": "50",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Heterodon Nasicus",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": true,
+    "fr": {
+      "name": "Hétérodon Nasicus (Serpent à nez de cochon)",
+      "diet": "Rongeur/Amphibien",
+      "repro": "Ovipare",
+      "expert_advice": "Espèce opistoglyphe (crochets à l'arrière). Venin très faible mais peut causer un gonflement. Éviter les morsures prolongées.",
+      "repro_advice": "Les femelles doivent être bien nourries car la ponte de grands œufs leur demande beaucoup d'énergie.",
+      "notes": "Utilise son nez retroussé pour creuser. Peut feindre la mort s'il est très stressé."
+    },
+    "en": {
+      "name": "Western Hognose",
+      "diet": "Rodent/Amphibian",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Serpiente hocico de cerdo",
+      "diet": "Roedor/Anfibio",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Westliche Hakennasennatter",
+      "diet": "Nagetier/Amphibie",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "猪鼻蛇",
+      "diet": "啮齿动物/两栖动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Westelijke haakneusslang",
+      "diet": "Knaagdier/Amfibie",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "23",
+    "temp_cold_max": "25",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "40",
+    "incubation_days": "55",
+    "incubation_temp": "28",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Python Regius",
+    "category": "Serpent",
+    "family": "Pythons",
+    "venomous": false,
+    "fr": {
+      "name": "Python Royal",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "expert_advice": "Fournir de nombreuses cachettes très étroites. Ce serpent a besoin de se sentir confiné pour ne pas stresser.",
+      "repro_advice": "Les femelles couvent activement leurs œufs. En captivité, on préfère souvent une incubation artificielle.",
+      "notes": "Espèce sujette aux périodes de jeûne hivernal, même sans raison apparente."
+    },
+    "en": {
+      "name": "Ball Python",
+      "diet": "Rodent",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Pitón Real",
+      "diet": "Roedor",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Königspython",
+      "diet": "Nagetier",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "球蟒",
+      "diet": "啮齿动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Koningspython",
+      "diet": "Knaagdier",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "31",
+    "temp_hot_max": "33",
+    "temp_cold_min": "25",
+    "temp_cold_max": "27",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "31",
+    "incubation_humidity": "85"
+  },
+  {
+    "scientific_name": "Morelia Viridis",
+    "category": "Serpent",
+    "family": "Pythons",
+    "venomous": false,
+    "fr": {
+      "name": "Python Vert",
+      "diet": "Rongeur/Oiseau",
+      "repro": "Ovipare",
+      "expert_advice": "Un terrarium arboricole avec de multiples perchoirs horizontaux en PVC ou bambou est indispensable.",
+      "repro_advice": "La femelle nécessite une surveillance accrue après la ponte car elle peut s'épuiser rapidement.",
+      "notes": "Les juvéniles naissent jaunes ou rouges vifs et obtiennent leur couleur verte en grandissant (changement ontogénique)."
+    },
+    "en": {
+      "name": "Green Tree Python",
+      "diet": "Rodent/Bird",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Pitón de árbol verde",
+      "diet": "Roedor/Ave",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Grüner Baumpython",
+      "diet": "Nagetier/Vogel",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "绿树蟒",
+      "diet": "啮齿动物/鸟类",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Groene boompython",
+      "diet": "Knaagdier/Vogel",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "25",
+    "temp_cold_max": "27",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "50",
+    "incubation_temp": "31",
+    "incubation_humidity": "85"
+  },
+  {
+    "scientific_name": "Testudo Hermanni",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue d'Hermann",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "expert_advice": "Idéalement à maintenir en enclos extérieur bien sécurisé, ne pas utiliser de terrarium en verre pour des adultes.",
+      "repro_advice": "L'incubation se fait avec une forte hygrométrie. La température d'incubation joue sur le sexe des petites (TSD).",
+      "notes": "Régime 100% végétarien : pissenlit, trèfle, plantain. Éviter la salade et les fruits."
+    },
+    "en": {
+      "name": "Hermann's Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Tortuga de Hermann",
+      "diet": "Herbívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Griechische Landschildkröte",
+      "diet": "Pflanzenfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "赫曼陆龟",
+      "diet": "食草动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Griekse landschildpad",
+      "diet": "Planteneter",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "30",
+    "temp_hot_max": "35",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "35",
+    "incubation_days": "75",
+    "incubation_temp": "31",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Centrochelys Sulcata",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue sillonnée (Sulcata)",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "expert_advice": "C'est la troisième plus grosse tortue terrestre. Prévoir un enclos extérieur de très grande taille ou une pièce chauffée dédiée.",
+      "repro_advice": "La femelle peut pondre jusqu'à 20 à 30 oeufs par portée.",
+      "notes": "Régime très riche en fibres, pauvre en protéines."
+    },
+    "en": {
+      "name": "African Spurred Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "60",
+    "incubation_days": "100",
+    "incubation_temp": "30",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Trachemys Scripta Elegans",
+    "category": "Tortue",
+    "family": "Aquatique",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue de Floride",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "expert_advice": "L'aquaterrarium doit comporter une large zone de nage et une plage sèche sous lampe chauffante et UV.",
+      "repro_advice": "Une phase d'hivernage à 10-15°C est essentielle pour déclencher la reproduction au printemps.",
+      "notes": "Législations strictes en vigueur selon les pays (espèce invasive)."
+    },
+    "en": {
+      "name": "Red-eared Slider",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Testudo Graeca",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue mauresque",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "expert_advice": "Sensible à l'humidité excessive, nécessite un enclos sec et bien drainé.",
+      "repro_advice": "Ressemble à Testudo Hermanni mais avec des ergots sur les cuisses.",
+      "notes": "Inscrite à l'Annexe A de la CITES."
+    },
+    "en": {
+      "name": "Spur-thighed Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "40",
+    "incubation_days": "80",
+    "incubation_temp": "31",
+    "incubation_humidity": "80"
+  }
+]
