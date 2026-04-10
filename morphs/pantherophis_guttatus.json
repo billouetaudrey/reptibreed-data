@@ -10,6 +10,15 @@
   },
   "morphs": [
     {
+      "fr": "Microscaleless",
+      "en": "Microscaleless",
+      "es": "Microscaleless",
+      "de": "Microscaleless",
+      "zh": "Microscaleless",
+      "nl": "Microscaleless",
+      "type": "combo"
+    },
+    {
       "fr": "Normal",
       "en": "Normal",
       "es": "Normal",
