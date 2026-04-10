@@ -1,70 +1,122 @@
-{
-  "morph": [
-    {
-      "species_scientific": "Heterodon Nasicus",
-      "name": {
-        "fr": "Couleuvre à nez plat",
-        "en": "Western Hognose Snake",
-        "es": "Western Hognose Snake",
-        "de": "Western Hognose Snake",
-        "zh": "Western Hognose Snake",
-        "nl": "Western Hognose Snake"
-      },
-      "file": "morphs/heterodon_nasicus.json",
-      "count": 21
+[
+  {
+    "species_scientific": "Heterodon Nasicus",
+    "name": {
+      "fr": "Couleuvre à nez plat",
+      "en": "Western Hognose Snake",
+      "es": "Western Hognose Snake",
+      "de": "Western Hognose Snake",
+      "zh": "Western Hognose Snake",
+      "nl": "Western Hognose Snake"
     },
-    {
-      "species_scientific": "Python Regius",
-      "name": {
-        "fr": "Python Royal",
-        "en": "Ball Python",
-        "es": "Ball Python",
-        "de": "Ball Python",
-        "zh": "Ball Python",
-        "nl": "Ball Python"
-      },
-      "file": "morphs/python_regius.json",
-      "count": 53
+    "file": "morphs/heterodon_nasicus.json",
+    "count": 21
+  },
+  {
+    "species_scientific": "Pantherophis Guttatus",
+    "name": {
+      "fr": "Serpent des blés",
+      "en": "Corn Snake",
+      "es": "Corn Snake",
+      "de": "Corn Snake",
+      "zh": "Corn Snake",
+      "nl": "Corn Snake"
     },
-    {
-      "species_scientific": "Pantherophis Guttatus",
-      "name": {
-        "fr": "Serpent des blés",
-        "en": "Corn Snake",
-        "es": "Corn Snake",
-        "de": "Corn Snake",
-        "zh": "Corn Snake",
-        "nl": "Corn Snake"
-      },
-      "file": "morphs/pantherophis_guttatus.json",
-      "count": 53
+    "file": "morphs/pantherophis_guttatus.json",
+    "count": 42
+  },
+  {
+    "species_scientific": "Python Regius",
+    "name": {
+      "fr": "Python Royal",
+      "en": "Ball Python",
+      "es": "Ball Python",
+      "de": "Ball Python",
+      "zh": "Ball Python",
+      "nl": "Ball Python"
     },
-    {
-      "species_scientific": "Testudo Hermanni",
-      "name": {
-        "fr": "Tortue d'Hermann",
-        "en": "Hermann's Tortoise"
-      },
-      "file": "morphs/testudo_hermanni.json",
-      "count": 3
+    "file": "morphs/python_regius.json",
+    "count": 53
+  },
+  {
+    "species_scientific": "Testudo Hermanni",
+    "name": {
+      "fr": "Tortue d'Hermann",
+      "en": "Hermann's Tortoise"
     },
-    {
-      "species_scientific": "Trachemys Scripta Elegans",
-      "name": {
-        "fr": "Tortue de Floride",
-        "en": "Red-eared Slider"
-      },
-      "file": "morphs/trachemys_scripta_elegans.json",
-      "count": 4
+    "file": "morphs/testudo_hermanni.json",
+    "count": 3
+  },
+  {
+    "species_scientific": "Centrochelys Sulcata",
+    "name": {
+      "fr": "Tortue sillonnée (Sulcata)",
+      "en": "African Spurred Tortoise"
     },
-    {
-      "species_scientific": "Centrochelys Sulcata",
-      "name": {
-        "fr": "Tortue sillonnée (Sulcata)",
-        "en": "African Spurred Tortoise"
-      },
-      "file": "morphs/centrochelys_sulcata.json",
-      "count": 4
-    }
-  ]
-}
+    "file": "morphs/centrochelys_sulcata.json",
+    "count": 4
+  },
+  {
+    "species_scientific": "Trachemys Scripta Elegans",
+    "name": {
+      "fr": "Tortue de Floride",
+      "en": "Red-eared Slider"
+    },
+    "file": "morphs/trachemys_scripta_elegans.json",
+    "count": 4
+  },
+  {
+    "species_scientific": "Testudo Graeca",
+    "name": {
+      "fr": "Tortue mauresque",
+      "en": "Spur-thighed Tortoise"
+    },
+    "file": "morphs/testudo_graeca.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Geochelone Elegans",
+    "name": {
+      "fr": "Tortue étoilée de l'Inde",
+      "en": "Indian Star Tortoise"
+    },
+    "file": "morphs/geochelone_elegans.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Mauremys Sinensis",
+    "name": {
+      "fr": "Émyde de Chine",
+      "en": "Chinese Stripe-necked Turtle"
+    },
+    "file": "morphs/mauremys_sinensis.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Sternotherus Odoratus",
+    "name": {
+      "fr": "Tortue musquée",
+      "en": "Common Musk Turtle"
+    },
+    "file": "morphs/sternotherus_odoratus.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Terrapene Carolina",
+    "name": {
+      "fr": "Tortue-boîte de Caroline",
+      "en": "Common Box Turtle"
+    },
+    "file": "morphs/terrapene_carolina.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Cuora Flavomarginata",
+    "name": {
+      "fr": "Tortue-boîte à bords jaunes",
+      "en": "Yellow-margined Box Turtle"
+    },
+    "file": "morphs/cuora_flavomarginata.json",
+    "count": 1
+  }
+]
