@@ -1,0 +1,143 @@
+{
+  "species": "Pantherophis Guttatus",
+  "combos": [
+    {
+      "name": "Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic A"
+      ]
+    },
+    {
+      "name": "Blizzard",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic B (Charcoal)"
+      ]
+    },
+    {
+      "name": "Butter",
+      "genes": [
+        "Amelanistic",
+        "Caramel"
+      ]
+    },
+    {
+      "name": "Ghost",
+      "genes": [
+        "Hypomelanistic",
+        "Anerythristic A"
+      ]
+    },
+    {
+      "name": "Opal",
+      "genes": [
+        "Amelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Granite",
+      "genes": [
+        "Diffused",
+        "Anerythristic A"
+      ]
+    },
+    {
+      "name": "Pewter",
+      "genes": [
+        "Diffused",
+        "Anerythristic B (Charcoal)"
+      ]
+    },
+    {
+      "name": "Plasma",
+      "genes": [
+        "Diffused",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lavender Ice",
+      "genes": [
+        "Lavender",
+        "Anerythristic C (Cinder)"
+      ]
+    },
+    {
+      "name": "Peppermint",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic C (Cinder)"
+      ]
+    },
+    {
+      "name": "Phantom",
+      "genes": [
+        "Hypomelanistic",
+        "Anerythristic B (Charcoal)"
+      ]
+    },
+    {
+      "name": "Amber",
+      "genes": [
+        "Hypomelanistic",
+        "Caramel"
+      ]
+    },
+    {
+      "name": "Sulphur",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Avalanche",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic A",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Whiteout",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic B (Charcoal)",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Fire",
+      "genes": [
+        "Amelanistic",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Sunglow",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Professor",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic A",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Coral Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic A",
+        "Strawberry"
+      ]
+    }
+  ]
+}
