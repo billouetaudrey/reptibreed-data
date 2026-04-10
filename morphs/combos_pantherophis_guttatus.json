@@ -204,6 +204,6730 @@
         "Microscale",
         "Scaleless"
       ]
+    },
+    {
+      "name": "Amber Upper Keys",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Keys"
+      ]
+    },
+    {
+      "name": "Amel Cinder",
+      "genes": [
+        "Amelanistic",
+        "Cinder"
+      ]
+    },
+    {
+      "name": "Amel Masque",
+      "genes": [
+        "Amelanistic",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Amel Microscale",
+      "genes": [
+        "Amelanistic",
+        "Microscale"
+      ]
+    },
+    {
+      "name": "Amel Motley",
+      "genes": [
+        "Amelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Amel Palmetto",
+      "genes": [
+        "Amelanistic",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Amel Stripe",
+      "genes": [
+        "Amelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Amel Sunrise",
+      "genes": [
+        "Amelanistic",
+        "Sunrise"
+      ]
+    },
+    {
+      "name": "Amel Terrazzo",
+      "genes": [
+        "Amelanistic",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Amel Tessera",
+      "genes": [
+        "Amelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Anery Charcoal",
+      "genes": [
+        "Anerythristic",
+        "Charcoal"
+      ]
+    },
+    {
+      "name": "Anery Lavender",
+      "genes": [
+        "Anerythristic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Anery Masque",
+      "genes": [
+        "Anerythristic",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Anery Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Anery Palmetto",
+      "genes": [
+        "Anerythristic",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Anery Stripe",
+      "genes": [
+        "Anerythristic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Anery Tessera",
+      "genes": [
+        "Anerythristic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Anery Toffee",
+      "genes": [
+        "Anerythristic",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Anerythristic Caramel",
+      "genes": [
+        "Anerythristic",
+        "Caramel"
+      ]
+    },
+    {
+      "name": "Auratum",
+      "genes": [
+        "Amelanistic",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Buf Anery",
+      "genes": [
+        "Anerythristic",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Buf Motley",
+      "genes": [
+        "Motley",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Buf Tessera",
+      "genes": [
+        "Buf",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Candycane Tessera",
+      "genes": [
+        "Amelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Cinder",
+      "genes": [
+        "Caramel",
+        "Cinder"
+      ]
+    },
+    {
+      "name": "Caramel Kastanie",
+      "genes": [
+        "Caramel",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Caramel Masque",
+      "genes": [
+        "Caramel",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Caramel Motley",
+      "genes": [
+        "Caramel",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Caramel Palmetto",
+      "genes": [
+        "Caramel",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Caramel Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Caramel Terrazzo",
+      "genes": [
+        "Caramel",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Caramel Tessera",
+      "genes": [
+        "Caramel",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Charcoal Lavender",
+      "genes": [
+        "Charcoal",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Charcoal Masque",
+      "genes": [
+        "Charcoal",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Charcoal Motley",
+      "genes": [
+        "Charcoal",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Charcoal Palmetto",
+      "genes": [
+        "Charcoal",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Charcoal Stripe",
+      "genes": [
+        "Charcoal",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Charcoal Terrazzo",
+      "genes": [
+        "Charcoal",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Charcoal Tessera",
+      "genes": [
+        "Charcoal",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Cinder Charcoal",
+      "genes": [
+        "Charcoal",
+        "Cinder"
+      ]
+    },
+    {
+      "name": "Cinder Lava",
+      "genes": [
+        "Cinder",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Cinder Lavender",
+      "genes": [
+        "Cinder",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Cinder Motley",
+      "genes": [
+        "Cinder",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Cinder Stripe",
+      "genes": [
+        "Cinder",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Cinder Terrazzo",
+      "genes": [
+        "Cinder",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Cinder Tessera",
+      "genes": [
+        "Cinder",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Coral Ghost",
+      "genes": [
+        "Anerythristic",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Crimson Motley",
+      "genes": [
+        "Hypomelanistic",
+        "Motley",
+        "Miami"
+      ]
+    },
+    {
+      "name": "Diamond",
+      "genes": [
+        "Charcoal",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Diffused Caramel",
+      "genes": [
+        "Caramel",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Diffused Cinder",
+      "genes": [
+        "Cinder",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Diffused Kastanie",
+      "genes": [
+        "Diffused",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Diffused Lava",
+      "genes": [
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Diffused Masque",
+      "genes": [
+        "Diffused",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Diffused Motley",
+      "genes": [
+        "Diffused",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Diffused Stripe",
+      "genes": [
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Tessera",
+      "genes": [
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Dilute Anery",
+      "genes": [
+        "Anerythristic",
+        "Dilute"
+      ]
+    },
+    {
+      "name": "Dilute Caramel",
+      "genes": [
+        "Caramel",
+        "Dilute"
+      ]
+    },
+    {
+      "name": "Dilute Cinder",
+      "genes": [
+        "Cinder",
+        "Dilute"
+      ]
+    },
+    {
+      "name": "Dilute Diffused",
+      "genes": [
+        "Diffused",
+        "Dilute"
+      ]
+    },
+    {
+      "name": "Dilute Motley",
+      "genes": [
+        "Dilute",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hazel",
+      "genes": [
+        "Sunkissed",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Hypo Amel",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Black Diamond",
+      "genes": [
+        "Black Diamond",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Buf",
+      "genes": [
+        "Hypomelanistic",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Hypo Cinder",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Diffused",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Kastanie",
+      "genes": [
+        "Hypomelanistic",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Hypo Lavender",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Hypo Masque",
+      "genes": [
+        "Hypomelanistic",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Hypo Motley",
+      "genes": [
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Palmetto",
+      "genes": [
+        "Hypomelanistic",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Hypo Strawberry",
+      "genes": [
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Hypo Stripe",
+      "genes": [
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed",
+      "genes": [
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Terrazzo",
+      "genes": [
+        "Hypomelanistic",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Hypo Tessera",
+      "genes": [
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Vanishing Stripe",
+      "genes": [
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Ice Ghost",
+      "genes": [
+        "Anerythristic",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Kastanie Motley",
+      "genes": [
+        "Kastanie",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Kastanie Stripe",
+      "genes": [
+        "Kastanie",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Kastanie Terrazzo",
+      "genes": [
+        "Kastanie",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Kastanie Tessera",
+      "genes": [
+        "Kastanie",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Lava Lavender",
+      "genes": [
+        "Lava",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lava Masque",
+      "genes": [
+        "Lava",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Lava Motley",
+      "genes": [
+        "Lava",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Lava Stripe",
+      "genes": [
+        "Lava",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lava Terrazzo",
+      "genes": [
+        "Lava",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Lava Tessera",
+      "genes": [
+        "Lava",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Lavamel",
+      "genes": [
+        "Amelanistic",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Lavender Caramel",
+      "genes": [
+        "Caramel",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lavender Kastanie",
+      "genes": [
+        "Kastanie",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lavender Masque",
+      "genes": [
+        "Lavender",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Lavender Motley",
+      "genes": [
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Lavender Stripe",
+      "genes": [
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lavender Terrazzo",
+      "genes": [
+        "Lavender",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Lavender Tessera",
+      "genes": [
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Mandarin",
+      "genes": [
+        "Amelanistic",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Masque Cinder",
+      "genes": [
+        "Cinder",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Masque Tessera",
+      "genes": [
+        "Tessera",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Motley Masque",
+      "genes": [
+        "Motley",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Orange",
+      "genes": [
+        "Amelanistic",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Orchid",
+      "genes": [
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Persimmon",
+      "genes": [
+        "Kastanie",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Pied Sided Bloodred",
+      "genes": [
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Red Coat Lava",
+      "genes": [
+        "Lava",
+        "Red Coat"
+      ]
+    },
+    {
+      "name": "Rosy Bloodred",
+      "genes": [
+        "Diffused",
+        "Kastanie",
+        "Keys"
+      ]
+    },
+    {
+      "name": "Scaleless Amel",
+      "genes": [
+        "Amelanistic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Anery",
+      "genes": [
+        "Anerythristic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Caramel",
+      "genes": [
+        "Caramel",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Diffused",
+      "genes": [
+        "Diffused",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Hypo",
+      "genes": [
+        "Hypomelanistic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Lava",
+      "genes": [
+        "Lava",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Lavender",
+      "genes": [
+        "Lavender",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Motley",
+      "genes": [
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Palmetto",
+      "genes": [
+        "Scaleless",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Scaleless Stripe",
+      "genes": [
+        "Scaleless",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Scaleless Terrazzo",
+      "genes": [
+        "Scaleless",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Scaleless Tessera",
+      "genes": [
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Solar",
+      "genes": [
+        "Sunkissed",
+        "Sunrise"
+      ]
+    },
+    {
+      "name": "Strawberry Amel",
+      "genes": [
+        "Amelanistic",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Strawberry Charcoal",
+      "genes": [
+        "Charcoal",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Strawberry Masque",
+      "genes": [
+        "Strawberry",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Strawberry Motley",
+      "genes": [
+        "Motley",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Sunkissed Amel",
+      "genes": [
+        "Amelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Anery",
+      "genes": [
+        "Anerythristic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Buf",
+      "genes": [
+        "Sunkissed",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Sunkissed Charcoal",
+      "genes": [
+        "Charcoal",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Cinder",
+      "genes": [
+        "Cinder",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Crimson",
+      "genes": [
+        "Hypomelanistic",
+        "Sunkissed",
+        "Miami"
+      ]
+    },
+    {
+      "name": "Sunkissed Diffused",
+      "genes": [
+        "Diffused",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Dilute",
+      "genes": [
+        "Dilute",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Kastanie",
+      "genes": [
+        "Kastanie",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Lava",
+      "genes": [
+        "Lava",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Motley",
+      "genes": [
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Strawberry",
+      "genes": [
+        "Strawberry",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Stripe",
+      "genes": [
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Terrazzo",
+      "genes": [
+        "Sunkissed",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Sunkissed Tessera",
+      "genes": [
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Sunrise Stripe",
+      "genes": [
+        "Stripe",
+        "Sunrise"
+      ]
+    },
+    {
+      "name": "Tessera Motley",
+      "genes": [
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Tessera Stripe",
+      "genes": [
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Toffee Caramel",
+      "genes": [
+        "Caramel",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Lava",
+      "genes": [
+        "Lava",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Masque",
+      "genes": [
+        "Masque",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Motley",
+      "genes": [
+        "Motley",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Stripe",
+      "genes": [
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Tessera",
+      "genes": [
+        "Tessera",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Topaz",
+      "genes": [
+        "Caramel",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Ultra Caramel",
+      "genes": [
+        "Caramel",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Motley",
+      "genes": [
+        "Motley",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Stripe",
+      "genes": [
+        "Stripe",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Sunkissed",
+      "genes": [
+        "Sunkissed",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Almond Tessera",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Amber Cinder",
+      "genes": [
+        "Caramel",
+        "Cinder",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Amber Lavender",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Amber Motley",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Amber Palmetto",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Amber Stripe",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Amber Tessera",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Amel Motley Tessera",
+      "genes": [
+        "Amelanistic",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Amel Orchid",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Amel Shatter",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Amel Stripe Tessera",
+      "genes": [
+        "Amelanistic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Anery Caramel Motley",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Anery Caramel Stripe",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Anery Charcoal Tessera",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Anery Cinder Stripe",
+      "genes": [
+        "Anerythristic",
+        "Cinder",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Anery Lavender Motley",
+      "genes": [
+        "Anerythristic",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Anery Lavender Stripe",
+      "genes": [
+        "Anerythristic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Anery Motley Kastanie",
+      "genes": [
+        "Anerythristic",
+        "Kastanie",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Anery Pewter",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Anery Plasma",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Anery Stripe Kastanie",
+      "genes": [
+        "Anerythristic",
+        "Kastanie",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Anery Stripe Tessera",
+      "genes": [
+        "Anerythristic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Anery Tessera Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Auratum Motley",
+      "genes": [
+        "Amelanistic",
+        "Motley",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Auratum Stripe",
+      "genes": [
+        "Amelanistic",
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Auratum Tessera",
+      "genes": [
+        "Amelanistic",
+        "Toffee",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Aurora",
+      "genes": [
+        "Sunrise",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Blaze",
+      "genes": [
+        "Amelanistic",
+        "Sunkissed",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Blizzard Masque",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Blizzard Motley",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Blizzard Palmetto",
+      "genes": [
+        "Charcoal",
+        "Amelanistic",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Blizzard Tessera",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Blue Tessera",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Buf Caramel Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Butter Berry",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Butter Charcoal",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Charcoal"
+      ]
+    },
+    {
+      "name": "Butter Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Butter Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Butter Tessera",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Candyfloss",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Cinder"
+      ]
+    },
+    {
+      "name": "Caramel Anery Tessera",
+      "genes": [
+        "Caramel",
+        "Anerythristic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Cinder Motley",
+      "genes": [
+        "Caramel",
+        "Cinder",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Caramel Ghost",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Caramel Granite",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Caramel Ice",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Caramel Mandarin",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Caramel Motley Tessera",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Pewter",
+      "genes": [
+        "Caramel",
+        "Charcoal",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Caramel Shatter",
+      "genes": [
+        "Caramel",
+        "Cinder",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Caramel Terrazzo Motley",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Caramel Tessera Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Toffee Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Charcoal Lavender Stripe",
+      "genes": [
+        "Charcoal",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Charcoal Moonstone",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Charcoal Plasma",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Charcoal Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Charcoal"
+      ]
+    },
+    {
+      "name": "Charcoal Tessera Motley",
+      "genes": [
+        "Charcoal",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Cinder Lava Dilute",
+      "genes": [
+        "Cinder",
+        "Dilute",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Cinder Lava Stripe",
+      "genes": [
+        "Cinder",
+        "Lava",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Cinder Lava Tessera",
+      "genes": [
+        "Cinder",
+        "Lava",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Cinder Lavender Motley",
+      "genes": [
+        "Cinder",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Cinder Motley Tessera",
+      "genes": [
+        "Cinder",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Cinder Pewter",
+      "genes": [
+        "Charcoal",
+        "Cinder",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Cinder Strawberry Motley",
+      "genes": [
+        "Cinder",
+        "Motley",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Coral Ghost Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Coral Ghost Stripe",
+      "genes": [
+        "Anerythristic",
+        "Strawberry",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Coral Ghost Sunspot",
+      "genes": [
+        "Sunspot",
+        "Anerythristic",
+        "Strawberry",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Coral Ghost Tessera",
+      "genes": [
+        "Anerythristic",
+        "Strawberry",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Dark Yellow",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Diffused Amber",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Diffused Caramel Kastanie",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Diffused Caramel Motley",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Diffused Caramel Stripe",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Caramel Tessera",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Cinder Stripe",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Cinder Tessera",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Coral Ghost",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Diffused Diamond",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Diffused Honey",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Diffused Ice",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Diffused Ice Stripe",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Lava",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Mandarin",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Diffused Masque Motley",
+      "genes": [
+        "Diffused",
+        "Motley",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Diffused Motley Tessera",
+      "genes": [
+        "Diffused",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Opal",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Diffused Orchid",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Diffused Peppermint",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Diffused Pied Sided Caramel",
+      "genes": [
+        "Diffused",
+        "Caramel",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Diffused Shatter",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Diffused Stripe Tessera",
+      "genes": [
+        "Diffused",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Sunkissed Lava",
+      "genes": [
+        "Diffused",
+        "Lava",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Diffused Toffee Stripe",
+      "genes": [
+        "Diffused",
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Diffused Topaz",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Diffused Ultra Anery",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Ultra Stripe",
+      "genes": [
+        "Diffused",
+        "Stripe",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Ultramel",
+      "genes": [
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Dilute Amel Motley",
+      "genes": [
+        "Amelanistic",
+        "Dilute",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Dilute Anery Motley",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Dilute Anery Stripe",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Dilute Caramel Motley",
+      "genes": [
+        "Caramel",
+        "Dilute",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Dilute Cinder Motley",
+      "genes": [
+        "Cinder",
+        "Dilute",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Dilute Cinder Stripe",
+      "genes": [
+        "Cinder",
+        "Dilute",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Dilute Lavender Motley",
+      "genes": [
+        "Dilute",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Dilute Pastel Motley",
+      "genes": [
+        "Dilute",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Eclipse",
+      "genes": [
+        "Anerythristic",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Fire Motley",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Fire Stripe",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Fire Tessera",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ghost Bloodred",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Ghost Motley",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Ghost Stripe",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Ghost Terrazzo",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Ghost Tessera",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Gold Dust",
+      "genes": [
+        "Caramel",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Granite Masque",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Granite Motley",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Granite Stripe",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Granite Tessera",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Green Blotch Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Green Blotch"
+      ]
+    },
+    {
+      "name": "Halo Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Halo"
+      ]
+    },
+    {
+      "name": "Honey Motley",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Honey Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Honey Tessera",
+      "genes": [
+        "Caramel",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Amel Motley",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Amel Stripe",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Blizzard",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Butter",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Caramel Berry",
+      "genes": [
+        "Caramel",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Hypo Charcoal Lavender",
+      "genes": [
+        "Charcoal",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Lavender",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Motley",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Palmetto",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Stripe",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Terrazzo",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Tessera",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Cinder",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Masque",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Motley",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Stripe",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Tessera",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Fire",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Kastanie Motley",
+      "genes": [
+        "Hypo",
+        "Kastanie",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Kastanie Stripe",
+      "genes": [
+        "Hypomelanistic",
+        "Kastanie",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Kastanie Tessera",
+      "genes": [
+        "Hypomelanistic",
+        "Kastanie",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Lavender Masque",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Hypo Lavender Motley",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Lavender Stripe",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Lavender Terrazzo",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Hypo Lavender Tessera",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Opal",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Hypo Orchid",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Pewter",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Pied Sided Bloodred",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Hypo Plasma",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Hypo Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Strawberry Lavender",
+      "genes": [
+        "Lavender",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Hypo Strawberry Motley",
+      "genes": [
+        "Motley",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Hypo Strawberry Tessera",
+      "genes": [
+        "het Hypomelanistic",
+        "het Strawberry",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Amel",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Cinder",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Masque",
+      "genes": [
+        "Hypomelanistic",
+        "Sunkissed",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Motley",
+      "genes": [
+        "Hypomelanistic",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Stripe",
+      "genes": [
+        "Hypomelanistic",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Terrazzo",
+      "genes": [
+        "Hypomelanistic",
+        "Sunkissed",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Tessera",
+      "genes": [
+        "Hypomelanistic",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Tessera Motley",
+      "genes": [
+        "Hypomelanistic",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypoberry Anery",
+      "genes": [
+        "Anerythristic",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Hypomelanistic Stripe Tessera",
+      "genes": [
+        "Hypomelanistic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ice Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Ice Stripe",
+      "genes": [
+        "Anerythristic",
+        "Lava",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Ice Tessera",
+      "genes": [
+        "Anerythristic",
+        "Lava",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Kastanie Ghost",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Kastanie"
+      ]
+    },
+    {
+      "name": "Kastanie Terrazzo Motley",
+      "genes": [
+        "Kastanie",
+        "Motley",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Lava Butter",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Lava Fire",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Lava Lavender Stripe",
+      "genes": [
+        "Lava",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lava Moonstone",
+      "genes": [
+        "Anerythristic",
+        "Lava",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lava Opal",
+      "genes": [
+        "Amelanistic",
+        "Lava",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lava Orchid",
+      "genes": [
+        "Lava",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Lava Pied Sided Bloodred",
+      "genes": [
+        "Diffused",
+        "Lava",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Lava Shatter",
+      "genes": [
+        "Cinder",
+        "Lava",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Lava Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Lava Sunkissed Tessera",
+      "genes": [
+        "Lava",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Lava Toffee Stripe",
+      "genes": [
+        "Lava",
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Lavamel Cinder",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Lavamel Masque",
+      "genes": [
+        "Amelanistic",
+        "Lava",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Lavamel Terrazzo",
+      "genes": [
+        "Amelanistic",
+        "Lava",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Lavender Butter",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lavender Caramel Motley",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Lavender Caramel Stripe",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lavender Ghost",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lavender Motley Tessera",
+      "genes": [
+        "Lavender",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Mandarin Motley",
+      "genes": [
+        "Amelanistic",
+        "Kastanie",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Mandarin Stripe",
+      "genes": [
+        "Amelanistic",
+        "Kastanie",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Mandarin Tessera",
+      "genes": [
+        "Amelanistic",
+        "Kastanie",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Masque Charcoal Tessera",
+      "genes": [
+        "Charcoal",
+        "Tessera",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Microscale Blizzard",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Microscale"
+      ]
+    },
+    {
+      "name": "Opal Masque",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Opal Motley",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Opal Stripe",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Opal Terrazzo",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Opal Tessera",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Orange Motley",
+      "genes": [
+        "Amelanistic",
+        "Motley",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Orange Tessera",
+      "genes": [
+        "Amelanistic",
+        "Buf",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Orchid Stripe",
+      "genes": [
+        "Lavender",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Peppermint Motley",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Peppermint Stripe",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Peppermint Tessera",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Pewter Masque",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Pewter Motley",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Pewter Stripe",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Pewter Tessera",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Phantom Motley",
+      "genes": [
+        "Charcoal",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Phantom Stripe",
+      "genes": [
+        "Charcoal",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Pied Sided Bloodred Tessera",
+      "genes": [
+        "Diffused",
+        "Tessera",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Diffused Cinder",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Diffused Motley",
+      "genes": [
+        "Diffused",
+        "Motley",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Fire",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Granite",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Pewter",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Plasma Caramel",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Plasma Cinder",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Plasma Motley",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Plasma Stripe",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Plasma Tessera",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Platinum",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Salmon Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Scaleless Amber",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Amel Stripe",
+      "genes": [
+        "Amelanistic",
+        "Scaleless",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Scaleless Amel Tessera",
+      "genes": [
+        "Amelanistic",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Anery Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Anery Stripe",
+      "genes": [
+        "Anerythristic",
+        "Scaleless",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Scaleless Anery Tessera",
+      "genes": [
+        "Anerythristic",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Blizzard",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Butter",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Caramel Motley",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Caramel Stripe",
+      "genes": [
+        "Caramel",
+        "Scaleless",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Scaleless Caramel Tessera",
+      "genes": [
+        "Scaleless",
+        "Caramel",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Diffused Caramel",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Fire",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Ghost",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Hypo Amel",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Hypo Sunkissed",
+      "genes": [
+        "Hypomelanistic",
+        "Scaleless",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Scaleless Pied Sided Diffused",
+      "genes": [
+        "Diffused",
+        "Scaleless",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Scaleless Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Tessera Motley",
+      "genes": [
+        "Motley",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Ultramel",
+      "genes": [
+        "Scaleless",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Shatter Motley",
+      "genes": [
+        "Cinder",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Shatter Stripe",
+      "genes": [
+        "Cinder",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Snopal",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Snow Palmetto",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Snow Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Snow Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Strawberry Blizzard",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Strawberry Cinder Anery",
+      "genes": [
+        "Anerythristic",
+        "Cinder",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Strawberry Granite",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Strawberry Lavender Tessera",
+      "genes": [
+        "Lavender",
+        "Strawberry",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Strawberry Plasma",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Sulfur",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Sunburst",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Sunrise"
+      ]
+    },
+    {
+      "name": "Sunkissed Almond",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Amber",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Amel Motley",
+      "genes": [
+        "Amelanistic",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Amel Stripe",
+      "genes": [
+        "Amelanistic",
+        "Stipe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Amel Tessera",
+      "genes": [
+        "Amelanistic",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Sunkissed Anery Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Anery Stripe",
+      "genes": [
+        "Anerythristic",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Butter",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Cinder Tessera",
+      "genes": [
+        "Cinder",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Sunkissed Diamond",
+      "genes": [
+        "Charcoal",
+        "Lava",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Diffused Stripe",
+      "genes": [
+        "Diffused",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Dilute Anery",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Fire",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Ghost",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Granite",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Mandarin",
+      "genes": [
+        "Amelanistic",
+        "Kastanie",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Pewter",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Pied Sided Bloodred",
+      "genes": [
+        "Diffused",
+        "Sunkissed",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Sunkissed Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Ultra Anery",
+      "genes": [
+        "Anerythristic",
+        "Sunkissed",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Tessera Cinder Stripe",
+      "genes": [
+        "Cinder",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Tessera Orchid",
+      "genes": [
+        "Lavender",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Toffee Anery Tessera",
+      "genes": [
+        "Anerythristic",
+        "Tessera",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Granite",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Tessera Stripe",
+      "genes": [
+        "Stripe",
+        "Tessera",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Topaz Cinder",
+      "genes": [
+        "Caramel",
+        "Cinder",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Topaz Masque",
+      "genes": [
+        "Caramel",
+        "Lava",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Topaz Motley",
+      "genes": [
+        "Caramel",
+        "Lava",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Ultra Anery Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Anery Stripe",
+      "genes": [
+        "Anerythristic",
+        "Stripe",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Anery Tessera",
+      "genes": [
+        "Anerythristic",
+        "Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultra Caramel Motley",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Caramel Tessera",
+      "genes": [
+        "Caramel",
+        "Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultra Cinder Motley",
+      "genes": [
+        "Cinder",
+        "Motley",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Honey",
+      "genes": [
+        "Caramel",
+        "Sunkissed",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Anery",
+      "genes": [
+        "Anerythristic",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Charcoal",
+      "genes": [
+        "Charcoal",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Cinder",
+      "genes": [
+        "Cinder",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Kastanie",
+      "genes": [
+        "Kastanie",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Lavender",
+      "genes": [
+        "Lavender",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Motley",
+      "genes": [
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Stripe",
+      "genes": [
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Sunkissed",
+      "genes": [
+        "Sunkissed",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Tessera",
+      "genes": [
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Xanthic Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel"
+      ]
+    },
+    {
+      "name": "Amaretto Tessera",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Amber Lavender Masque",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Amber Lavender Motley",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Amber Lavender Stripe",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Amber Moonstone",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Amber Opal",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Amber Shatter",
+      "genes": [
+        "Carame;",
+        "Cinder",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Amber Stripe Tessera",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Amel Caramel Diffused Lavender",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Amel Caramel Lavender Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Amel Diffused Hypo Stripe",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Amel Orchid Stripe",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Amel Shatter Stripe",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Amel Sunkissed Ghost",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Ameretto Palmetto",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Anery Caramel Ultramel",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Anery Diffused Lavender Stripe",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Anery Pewter Tessera",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Anery Ultra Motley Scaleless",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Scaleless",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Auratum Caramel Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Aurora Motley",
+      "genes": [
+        "Motley",
+        "Sunrise",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Aurora Tessera",
+      "genes": [
+        "Sunrise",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Avalanche Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Avalanche Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Blizzard Stripe Tessera",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Blue Blood Motley",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Dilute",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Buf Butter Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Motley",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Buf Butter Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Stripe",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Buf Gold Dust",
+      "genes": [
+        "Caramel",
+        "het Amelanistic",
+        "het Ultra",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Buf Granite Motley",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Motley",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Butter Motley Masque",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Motley",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Butter Tessera Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Butter Tessera Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Buttermint Masque",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Cinder",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Caramel Anery Tessera Motley",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Cinder Motley Tessera",
+      "genes": [
+        "Caramel",
+        "Cinder",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Diffused Motley Tessera",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Diffused Motley Ultra",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Motley",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Caramel Ghost Motley",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Caramel Ghost Stripe",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Caramel Kastanie Terrazzo Motley",
+      "genes": [
+        "Caramel",
+        "Kastanie",
+        "Motley",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Caramel Lavender Ultramel",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Caramel Mandarin Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Kastanie",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Caramel Mandarin Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Kastanie",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Caramel Whiteout",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Charcoal",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Cinder Diffused Tessera Motley",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Citrine",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Diffused Amber Stripe",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Amber Tessera",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Caramel Stripe Tessera",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Gold Dust",
+      "genes": [
+        "Diffused",
+        "Caramel",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Hypo Motley Tessera",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Hypo Stripe Tessera",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Ice Motley",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Motley",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Diffused Opal Motley",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Diffused Opal Stripe",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Opal Tessera",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Peppermint Stripe",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Platinum",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Diffused Ultramel Anery",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Ultramel Kastanie",
+      "genes": [
+        "Diffused",
+        "Kastanie",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Ultramel Lavender",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Ultramel Motley",
+      "genes": [
+        "Diffused",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Ultramel Stripe",
+      "genes": [
+        "Diffused",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Dilute Ghost Motley",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Dilute Ghost Stripe",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Dilute Opal Stripe",
+      "genes": [
+        "Amelanistic",
+        "Dilute",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Dilute Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Dilute",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Dilute Snow Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Dilute",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Eclipse Motley",
+      "genes": [
+        "Anerythristic",
+        "Lavender",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Eclipse Stripe",
+      "genes": [
+        "Anerythristic",
+        "Lavender",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Etna",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lava",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Fire Motley Masque",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Motley",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Fire Motley Scaleless",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Fire Stripe Tessera",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ghost Bloodred Motley",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Ghost Bloodred Stripe",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Ghost Cinder Motley",
+      "genes": [
+        "Anerythristic",
+        "Cinder",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Ghost Cinder Stripe",
+      "genes": [
+        "Anerythristic",
+        "Cinder",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Ghost Motley Tessera",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ghost Orchid",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Ghost Stripe Tessera",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Gold Dust Cinder",
+      "genes": [
+        "Caramel",
+        "Cinder",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Gold Dust Lavender",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Gold Dust Motley",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Gold Dust Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Gold Dust Tessera",
+      "genes": [
+        "Caramel",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Gold Dust Tessera Motley",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Granite Stripe Tessera",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Green Blotch Avalanche",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Green Blotch"
+      ]
+    },
+    {
+      "name": "Honey Stripe Tessera",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Avalanche",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Butter Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Butter Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Lavender Stripe",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Cinder Stripe Scaleless",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Scaleless",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Cinder Lavender",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Cinder Patternless Stripe",
+      "genes": [
+        "Cinder",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Peppermint",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Stripe Masque",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Hypo Fire Stripe",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Gold Dust",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Hypo Kastanie Scaleless Stripe",
+      "genes": [
+        "Hypomelanistic",
+        "Kastanie",
+        "Scaleless",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Moonstone Motley",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Moonstone Tessera",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Opal Stripe",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Opal Tessera",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Orchid Motley",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Orchid Stripe",
+      "genes": [
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Pewter Motley",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Pewter Stripe",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Pewter Tessera",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Pied Sided Bloodred Stripe",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Hypo Pied Sided Pewter",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Hypo Plasma Motley",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Plasma Stripe",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Saffron",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Shatter Microscaleless",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Microscale",
+        "Scaleless",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Shatter Stripe",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Hypo Snopal",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Hypo Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Hypo Snow Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Snow Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Strawberry Anery Tessera",
+      "genes": [
+        "Anerythristic",
+        "het Hypomelanistic",
+        "het Strawberry",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Strawberry Granite",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Hypo Sulfur",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypo Sunkissed Tessera Motley",
+      "genes": [
+        "Hypomelanistic",
+        "Motley",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Whiteout",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Hypoberry Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Ice Pewter",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Ice Stripe Tessera",
+      "genes": [
+        "Anerythristic",
+        "Lava",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Iceberg",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Lava Butter Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Lava",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lava Fire Masque",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lava",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Lava Orchid Stripe",
+      "genes": [
+        "Lava",
+        "Lavender",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Lava Whiteout",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Lavalanche",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Lava"
+      ]
+    },
+    {
+      "name": "Lavamel Cinder Motley",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Lava",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Lavamel Cinder Stripe",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Lava",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lavamel Cinder Tessera",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Lava",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Lavamint Stripe",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Lava",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lavender Ghost Stripe",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Lemon Motley",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Lemon Stripe",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Lemon Tessera",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Mandarin Motley Tessera",
+      "genes": [
+        "Amelanistic",
+        "Kastanie",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Mandarin Terrazzo Motley",
+      "genes": [
+        "Amelanistic",
+        "Kastanie",
+        "Motley",
+        "Terrazzo"
+      ]
+    },
+    {
+      "name": "Masque Buf Caramel Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "Buf",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Opal Caramot",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Peppermint Stripe Tessera",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Pewter Stripe Tessera",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Pewter Tessera Motley",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Pewter Tessera Pied Sided",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Tessera",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Anery Pewter",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Avalanche",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Diffused Ultramel",
+      "genes": [
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Fire Tessera",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Tessera",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Ghost Bloodred",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Lava Fire",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Lava",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Plasma Caramel Motley",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Plasma Ghost",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Plasma Phantom",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Plasma Sunkissed Motley",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Platinum Stripe",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Platinum Tessera",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Powder",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Charcoal",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Red Coat Sunkissed Ghost",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Red Coat",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Saffron Tessera",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Salmon Snow Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Strawberry",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Salmon Snow Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Strawberry",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Avalanche",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Butter Tessera",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Caramel Berry Motley",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Scaleless",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Scaleless Diffused Hypo Motley",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Ghost Bloodred",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Hypo Amel Motley",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Palmetto Ultramel",
+      "genes": [
+        "Scaleless",
+        "het Amelanistic",
+        "het Ultra",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Scaleless Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Scaleless Snow Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Shatter Tessera Stripe",
+      "genes": [
+        "Cinder",
+        "Stripe",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Snopal Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Snow Motley Buf",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Snow Motley Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Snow Stripe Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Snow Toffee Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Spettro Masque",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Lava",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Strawberry Moonstone Tessera",
+      "genes": [
+        "Anerythristic",
+        "Lavender",
+        "Strawberry",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Strawberry Motley Plasma",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Motley",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Strawberry Plasma Motley",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Motley",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Sulfur Masque",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Sulfur Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Sulfur Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Sulfur Tessera",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Sulfur Toffee",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Sundust",
+      "genes": [
+        "Caramel",
+        "Sunkissed",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Sunkissed Amaretto",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Auratum Stripe",
+      "genes": [
+        "Amelanistic",
+        "Stripe",
+        "Sunkissed",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Sunkissed Blue Motley",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Butter Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Butter Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Ghost Motley",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Ghost Stripe",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Platinum",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Snow Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Tessera Caramel Motley Scaleless",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Toffee Butter Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Motley",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Snow Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Tessera",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Ultra Caramel Motley Scaleless",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Scaleless",
+        "Ultra"
+      ]
+    },
+    {
+      "name": "Ultra Caramel Motley Tessera",
+      "genes": [
+        "Caramel",
+        "Motley",
+        "Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Scaleless",
+      "genes": [
+        "Anerythristic",
+        "Scaleless",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Stripe",
+      "genes": [
+        "Anerythristic",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Tessera",
+      "genes": [
+        "Anerythristic",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Buf Motley",
+      "genes": [
+        "Motley",
+        "het Amelanistic",
+        "het Ultra",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Ultramel Charcoal Motley",
+      "genes": [
+        "Charcoal",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Cinder Motley",
+      "genes": [
+        "Cinder",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Cinder Stripe",
+      "genes": [
+        "Cinder",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Dilute Stripe",
+      "genes": [
+        "Dilute",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Ghost",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Granite",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Hypo Strawberry",
+      "genes": [
+        "het Amelanistic",
+        "het Ultra",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Ultramel Kastanie Motley",
+      "genes": [
+        "Kastanie",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Lavender Motley",
+      "genes": [
+        "Lavender",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Lavender Stripe",
+      "genes": [
+        "Lavender",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Lavender Tessera",
+      "genes": [
+        "Lavender",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Motley Scaleless",
+      "genes": [
+        "Motley",
+        "Scaleless",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Motley Tessera",
+      "genes": [
+        "Motley",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Pewter",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Shatter",
+      "genes": [
+        "Cinder",
+        "Sunkissed",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Sunkissed Motley",
+      "genes": [
+        "Motley",
+        "Sunkissed",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Tessera Stripe",
+      "genes": [
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Toffee Motley",
+      "genes": [
+        "Motley",
+        "het Amelanistic",
+        "het Ultra",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Whiteout Motley",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Diffused",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Whiteout Stripe",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Diffused",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Whiteout Tessera",
+      "genes": [
+        "Amelanistic",
+        "Charcoal",
+        "Diffused",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Xanthic Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Xanthic Snow Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Amaretto Motley Tessera",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Amber Shatter Tessera",
+      "genes": [
+        "Carame;",
+        "Cinder",
+        "Hypomelanistic",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Amel Caramel Diffused Lavender Motley",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Amel Caramel Diffused Lavender Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Apricot",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Buf Gold Dust Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra",
+        "Buf"
+      ]
+    },
+    {
+      "name": "Buttermint Masque Vanishing Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Cinder",
+        "Stripe",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Caramel Diffused Lavender Ultramel",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Lavender",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Caramel Lavender Stripe Ultramel",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Caramel Snow Tessera Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Snow Tessera Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Strawberry Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Motley",
+        "Strawberry"
+      ]
+    },
+    {
+      "name": "Cinder Golddust Masque",
+      "genes": [
+        "Caramel",
+        "Cinder",
+        "het Amelanistic",
+        "het Ultra",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Citrine Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Diffused Amber Lavender Stripe",
+      "genes": [
+        "Diffused",
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Gold Dust Motley",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Gold Dust Stripe",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Diffused Gold Dust Tessera",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Masque Lemon",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Sunkissed",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Diffused Motley Tessera Ultramel",
+      "genes": [
+        "Diffused",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Peppermint Stripe Tessera",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Diffused",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Platinum Motley",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Diffused Powder",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Diffused Snopal Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Diffused Snopal Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Ultramel Stripe Tessera",
+      "genes": [
+        "Diffused",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Dilute Snopal Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Dilute",
+        "Lavender",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Fire Amaretto",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Ghost Bloodred Tessera Stripe",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ghost Plasma Tessera",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Gold Dust Tessera Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Amel Sunkissed Tessera Motley",
+      "genes": [
+        "Amelanistic",
+        "Hypomelanistic",
+        "Motley",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Avalanche Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe"
+      ]
+    },
+    {
+      "name": "Hypo Diffused Opal Tessera",
+      "genes": [
+        "Amelanistic",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Shatter Tessera Scaleless",
+      "genes": [
+        "Cinder",
+        "Hypomelanistic",
+        "Scaleless",
+        "Sunkissed",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Snopal Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Sulfur Tessera",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Lavender Gold Dust Motley",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Lavender Gold Dust Tessera",
+      "genes": [
+        "Caramel",
+        "Lavender",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Pied Sided Avalanche Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused",
+        "Motley",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Hypo Diffused Tessera Stripe",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Stripe",
+        "Tessera",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Hypo Sulfur",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Platinum",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pied Sided Quartz",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Pink Panther Motley",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "Lavender",
+        "Lava",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Plasma Phantom Motley",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Motley"
+      ]
+    },
+    {
+      "name": "Pumpkin",
+      "genes": [
+        "Motley",
+        "Scaleless",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Blue Motley Tessera",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Motley",
+        "Scaleless",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Hypo Motley Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Hypomelanistic",
+        "Motley",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Snorchid Stripe",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Lavender",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Snow Motley Toffee Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Tessera",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Sulfur Ghost",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic"
+      ]
+    },
+    {
+      "name": "Sulfur Stripe Tessera",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Sulfur Toffee Stripe",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Stripe",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Sundust Stripe",
+      "genes": [
+        "Caramel",
+        "Stripe",
+        "Sunkissed",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Sunkissed Amaretto Stripe",
+      "genes": [
+        "Caramel",
+        "Hypomelanistic",
+        "Lavender",
+        "Stripe",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Diffused Platinum",
+      "genes": [
+        "Anerythristic",
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Sunkissed"
+      ]
+    },
+    {
+      "name": "Sunkissed Lava Halo Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Lava",
+        "Sunkissed",
+        "Halo"
+      ]
+    },
+    {
+      "name": "Toffee Snow Motley Sunkissed",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Sunkissed",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffee Ultramel Motley Sunkissed",
+      "genes": [
+        "Motley",
+        "Sunkissed",
+        "het Amelanistic",
+        "het Ultra",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Caramel Motley",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Caramel Stripe",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Motley Tessera",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Strawberry Tessera",
+      "genes": [
+        "Anerythristic",
+        "Strawberry",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Anery Stripe Tessera",
+      "genes": [
+        "Anerythristic",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Charcoal Scaleless Palmetto",
+      "genes": [
+        "Charcoal",
+        "Scaleless",
+        "het Amelanistic",
+        "het Ultra",
+        "Palmetto"
+      ]
+    },
+    {
+      "name": "Ultramel Dilute Anery Stripe",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Dilute Lava Anery",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Lava",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Dilute Lavender Stripe",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Ghost Stripe",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Granite Tessera",
+      "genes": [
+        "Anerythristic",
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Ultramel Moonstone Motley",
+      "genes": [
+        "Anerythristic",
+        "Lavender",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Pewter Motley",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Pied Sided Tessera",
+      "genes": [
+        "Diffused",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Anery Caramel Diffused Motley Ultramel",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Diffused",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Buf Ultramel Anery Motley Tessera",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "het Amelanistic",
+        "het Ultra",
+        "Buf",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Caramel Diffused Lavender Stripe Ultramel",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Lavender",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Caramel Hypo Anery Diffused Motley Tessera",
+      "genes": [
+        "Anerythristic",
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Motley",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Diffused Gold Dust Stripe Tessera",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Fire Amaretto Tessera",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Charcoal Plasma Tessera Masque",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Masque",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Hypo Strawberry Sunkissed Snow Motley",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Sunkissed",
+        "het Hypomelanistic",
+        "het Strawberry"
+      ]
+    },
+    {
+      "name": "Iceberg Ultramel",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Scaleless",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Lava Buttermint Motley Masque",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Cinder",
+        "Lava",
+        "Motley",
+        "Masque"
+      ]
+    },
+    {
+      "name": "Patternless Apricot Scaleless",
+      "genes": [
+        "Caramel",
+        "Diffused",
+        "Hypomelanistic",
+        "Scaleless",
+        "Stripe",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Hypo Plasma Motley Pied Sided",
+      "genes": [
+        "Diffused",
+        "Hypomelanistic",
+        "Lavender",
+        "Motley",
+        "Scaleless",
+        "Pied Sided"
+      ]
+    },
+    {
+      "name": "Toffee Snow Motley Sunkissed Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Motley",
+        "Sunkissed",
+        "Tessera",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Ultramel Dilute Moonstone Stripe",
+      "genes": [
+        "Anerythristic",
+        "Dilute",
+        "Lavender",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra"
+      ]
+    },
+    {
+      "name": "Ultramel Ghost Stripe Tessera",
+      "genes": [
+        "Anerythristic",
+        "Hypomelanistic",
+        "Stripe",
+        "het Amelanistic",
+        "het Ultra",
+        "Tessera"
+      ]
+    },
+    {
+      "name": "Scaleless Reverse Okeetee",
+      "genes": [
+        "Reverse Okeetee",
+        "Amelanistic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Amel Gene X",
+      "genes": [
+        "Amelanistic",
+        "Gene X"
+      ]
+    },
+    {
+      "name": "Amel Motley Gene X",
+      "genes": [
+        "Amelanistic",
+        "Motley",
+        "Gene X"
+      ]
+    },
+    {
+      "name": "Butter Gene X",
+      "genes": [
+        "Amelanistic",
+        "Caramel",
+        "Gene X"
+      ]
+    },
+    {
+      "name": "Chimera Scaleless Anery",
+      "genes": [
+        "Anerythristic",
+        "Scaleless"
+      ]
+    },
+    {
+      "name": "Paradox Anery",
+      "genes": [
+        "Anerythristic",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Paradox Anery Motley",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Paradox Gravalanche",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Diffused"
+      ]
+    },
+    {
+      "name": "Paradox Opal",
+      "genes": [
+        "Amelanistic",
+        "Lavender",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Paradox Peppermint",
+      "genes": [
+        "Amelanistic",
+        "Cinder",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Paradox Pewter",
+      "genes": [
+        "Charcoal",
+        "Diffused",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Paradox Plasma",
+      "genes": [
+        "Diffused",
+        "Lavender",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Paradox Snow",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Paradox Snow Tessera",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Tessera",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Ruby Freckled",
+      "genes": [
+        "Amelanistic",
+        "Anerythristic",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Ultra Anery Motley Paradox",
+      "genes": [
+        "Anerythristic",
+        "Motley",
+        "Ultra",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "White Paradox Mandarin",
+      "genes": [
+        "Amelanistic",
+        "Kastanie",
+        "Unknown"
+      ]
     }
   ]
 }
