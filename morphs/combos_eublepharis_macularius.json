@@ -1,0 +1,104 @@
+{
+  "species": "Eublepharis Macularius",
+  "combos": [
+    {
+      "name": "Mack Super Snow",
+      "genes": [
+        "Mack Snow",
+        "Mack Snow"
+      ]
+    },
+    {
+      "name": "Super Giant",
+      "genes": [
+        "Giant",
+        "Giant"
+      ]
+    },
+    {
+      "name": "APTOR",
+      "genes": [
+        "Tangerine",
+        "Tremper Albino",
+        "Murphy Patternless"
+      ]
+    },
+    {
+      "name": "RAPTOR",
+      "genes": [
+        "Tremper Albino",
+        "Murphy Patternless",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "RADAR",
+      "genes": [
+        "Bell Albino",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Diablo Blanco",
+      "genes": [
+        "Blizzard",
+        "Tremper Albino",
+        "Eclipse",
+        "Murphy Patternless"
+      ]
+    },
+    {
+      "name": "Black Hole",
+      "genes": [
+        "Enigma",
+        "Mack Snow",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Dreamsickle",
+      "genes": [
+        "Enigma",
+        "Tremper Albino",
+        "Murphy Patternless",
+        "Eclipse",
+        "Mack Snow"
+      ]
+    },
+    {
+      "name": "Galaxy",
+      "genes": [
+        "Mack Snow",
+        "Mack Snow",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Total Eclipse",
+      "genes": [
+        "Mack Snow",
+        "Mack Snow",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Sunglow",
+      "genes": [
+        "Tremper Albino",
+        "Super Hypo",
+        "Tangerine",
+        "Carrot Tail"
+      ]
+    },
+    {
+      "name": "Super Raptor",
+      "genes": [
+        "Mack Snow",
+        "Mack Snow",
+        "Tremper Albino",
+        "Murphy Patternless",
+        "Eclipse"
+      ]
+    }
+  ]
+}
