@@ -738,5 +738,90 @@
     "incubation_days": "80",
     "incubation_temp": "31",
     "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Geochelone Elegans",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue étoilée de l'Inde",
+      "diet": "Herbivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Indian Star Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "plants"
+  },
+  {
+    "scientific_name": "Mauremys Sinensis",
+    "category": "Tortue",
+    "family": "Aquatique",
+    "venomous": false,
+    "fr": {
+      "name": "Émyde de Chine",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Chinese Stripe-necked Turtle",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
+  },
+  {
+    "scientific_name": "Sternotherus Odoratus",
+    "category": "Tortue",
+    "family": "Aquatique",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue musquée",
+      "diet": "Carnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Common Musk Turtle",
+      "diet": "Carnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
+  },
+  {
+    "scientific_name": "Terrapene Carolina",
+    "category": "Tortue",
+    "family": "Boîte",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue-boîte de Caroline",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Common Box Turtle",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
+  },
+  {
+    "scientific_name": "Cuora Flavomarginata",
+    "category": "Tortue",
+    "family": "Boîte",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue-boîte à bords jaunes",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Yellow-margined Box Turtle",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
   }
 ]
