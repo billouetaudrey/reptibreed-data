@@ -54,5 +54,19 @@
     "file": "feed.json",
     "icon": "Beef",
     "type": "feed"
+  },
+  {
+    "id": "morph",
+    "title": {
+      "fr": "Morphs",
+      "en": "Morphs",
+      "es": "Morphs",
+      "de": "Morphen",
+      "zh": "变异",
+      "nl": "Morphen"
+    },
+    "file": "morph.json",
+    "icon": "Palette",
+    "type": "morph"
   }
 ]
