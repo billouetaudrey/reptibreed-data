@@ -1,0 +1,382 @@
+{
+  "species_scientific": "Eublepharis Macularius",
+  "name": {
+    "fr": "Gecko Léopard",
+    "en": "Leopard Gecko",
+    "es": "Gecko Leopardo",
+    "de": "Leopardgecko",
+    "zh": "豹纹守宫",
+    "nl": "Luipaardgekko"
+  },
+  "morphs": [
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal",
+      "type": "wildtype"
+    },
+    {
+      "fr": "Tremper Albino",
+      "en": "Tremper Albino",
+      "es": "Tremper Albino",
+      "de": "Tremper Albino",
+      "zh": "Tremper Albino",
+      "nl": "Tremper Albino",
+      "type": "recessive"
+    },
+    {
+      "fr": "Bell Albino",
+      "en": "Bell Albino",
+      "es": "Bell Albino",
+      "de": "Bell Albino",
+      "zh": "Bell Albino",
+      "nl": "Bell Albino",
+      "type": "recessive"
+    },
+    {
+      "fr": "Rainwater Albino",
+      "en": "Rainwater Albino",
+      "es": "Rainwater Albino",
+      "de": "Rainwater Albino",
+      "zh": "Rainwater Albino",
+      "nl": "Rainwater Albino",
+      "type": "recessive"
+    },
+    {
+      "fr": "Blizzard",
+      "en": "Blizzard",
+      "es": "Blizzard",
+      "de": "Blizzard",
+      "zh": "Blizzard",
+      "nl": "Blizzard",
+      "type": "recessive"
+    },
+    {
+      "fr": "Midnight Blizzard",
+      "en": "Midnight Blizzard",
+      "es": "Midnight Blizzard",
+      "de": "Midnight Blizzard",
+      "zh": "Midnight Blizzard",
+      "nl": "Midnight Blizzard",
+      "type": "recessive"
+    },
+    {
+      "fr": "Murphy Patternless",
+      "en": "Murphy Patternless",
+      "es": "Murphy Patternless",
+      "de": "Murphy Patternless",
+      "zh": "Murphy Patternless",
+      "nl": "Murphy Patternless",
+      "type": "recessive"
+    },
+    {
+      "fr": "Eclipse",
+      "en": "Eclipse",
+      "es": "Eclipse",
+      "de": "Eclipse",
+      "zh": "Eclipse",
+      "nl": "Eclipse",
+      "type": "recessive"
+    },
+    {
+      "fr": "Enigma",
+      "en": "Enigma",
+      "es": "Enigma",
+      "de": "Enigma",
+      "zh": "Enigma",
+      "nl": "Enigma",
+      "type": "dominant"
+    },
+    {
+      "fr": "Mack Snow",
+      "en": "Mack Snow",
+      "es": "Mack Snow",
+      "de": "Mack Snow",
+      "zh": "Mack Snow",
+      "nl": "Mack Snow",
+      "type": "codominant"
+    },
+    {
+      "fr": "Giant",
+      "en": "Giant",
+      "es": "Giant",
+      "de": "Giant",
+      "zh": "Giant",
+      "nl": "Giant",
+      "type": "codominant"
+    },
+    {
+      "fr": "White and Yellow",
+      "en": "White and Yellow",
+      "es": "White and Yellow",
+      "de": "White and Yellow",
+      "zh": "White and Yellow",
+      "nl": "White and Yellow",
+      "type": "dominant"
+    },
+    {
+      "fr": "Tangerine",
+      "en": "Tangerine",
+      "es": "Tangerine",
+      "de": "Tangerine",
+      "zh": "Tangerine",
+      "nl": "Tangerine",
+      "type": "trait"
+    },
+    {
+      "fr": "Jungle",
+      "en": "Jungle",
+      "es": "Jungle",
+      "de": "Jungle",
+      "zh": "Jungle",
+      "nl": "Jungle",
+      "type": "trait"
+    },
+    {
+      "fr": "Red Stripe",
+      "en": "Red Stripe",
+      "es": "Red Stripe",
+      "de": "Red Stripe",
+      "zh": "Red Stripe",
+      "nl": "Red Stripe",
+      "type": "trait"
+    },
+    {
+      "fr": "Reverse Stripe",
+      "en": "Reverse Stripe",
+      "es": "Reverse Stripe",
+      "de": "Reverse Stripe",
+      "zh": "Reverse Stripe",
+      "nl": "Reverse Stripe",
+      "type": "trait"
+    },
+    {
+      "fr": "Bandit",
+      "en": "Bandit",
+      "es": "Bandit",
+      "de": "Bandit",
+      "zh": "Bandit",
+      "nl": "Bandit",
+      "type": "trait"
+    },
+    {
+      "fr": "Black Night",
+      "en": "Black Night",
+      "es": "Black Night",
+      "de": "Black Night",
+      "zh": "Black Night",
+      "nl": "Black Night",
+      "type": "trait"
+    },
+    {
+      "fr": "Black Pearl",
+      "en": "Black Pearl",
+      "es": "Black Pearl",
+      "de": "Black Pearl",
+      "zh": "Black Pearl",
+      "nl": "Black Pearl",
+      "type": "trait"
+    },
+    {
+      "fr": "Blood",
+      "en": "Blood",
+      "es": "Blood",
+      "de": "Blood",
+      "zh": "Blood",
+      "nl": "Blood",
+      "type": "trait"
+    },
+    {
+      "fr": "Bold",
+      "en": "Bold",
+      "es": "Bold",
+      "de": "Bold",
+      "zh": "Bold",
+      "nl": "Bold",
+      "type": "trait"
+    },
+    {
+      "fr": "Carrot Head",
+      "en": "Carrot Head",
+      "es": "Carrot Head",
+      "de": "Carrot Head",
+      "zh": "Carrot Head",
+      "nl": "Carrot Head",
+      "type": "trait"
+    },
+    {
+      "fr": "Carrot Tail",
+      "en": "Carrot Tail",
+      "es": "Carrot Tail",
+      "de": "Carrot Tail",
+      "zh": "Carrot Tail",
+      "nl": "Carrot Tail",
+      "type": "trait"
+    },
+    {
+      "fr": "Lavender",
+      "en": "Lavender",
+      "es": "Lavender",
+      "de": "Lavender",
+      "zh": "Lavender",
+      "nl": "Lavender",
+      "type": "trait"
+    },
+    {
+      "fr": "Super Hypo",
+      "en": "Super Hypo",
+      "es": "Super Hypo",
+      "de": "Super Hypo",
+      "zh": "Super Hypo",
+      "nl": "Super Hypo",
+      "type": "trait"
+    },
+    {
+      "fr": "Hypomelanistic",
+      "en": "Hypomelanistic",
+      "es": "Hypomelanistic",
+      "de": "Hypomelanistic",
+      "zh": "Hypomelanistic",
+      "nl": "Hypomelanistic",
+      "type": "trait"
+    },
+    {
+      "fr": "Aberrant",
+      "en": "Aberrant",
+      "es": "Aberrant",
+      "de": "Aberrant",
+      "zh": "Aberrant",
+      "nl": "Aberrant",
+      "type": "trait"
+    },
+    {
+      "fr": "Abyssinian",
+      "en": "Abyssinian",
+      "es": "Abyssinian",
+      "de": "Abyssinian",
+      "zh": "Abyssinian",
+      "nl": "Abyssinian",
+      "type": "trait"
+    },
+    {
+      "fr": "Baldy",
+      "en": "Baldy",
+      "es": "Baldy",
+      "de": "Baldy",
+      "zh": "Baldy",
+      "nl": "Baldy",
+      "type": "trait"
+    },
+    {
+      "fr": "Mack Super Snow",
+      "en": "Mack Super Snow",
+      "es": "Mack Super Snow",
+      "de": "Mack Super Snow",
+      "zh": "Mack Super Snow",
+      "nl": "Mack Super Snow",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Giant",
+      "en": "Super Giant",
+      "es": "Super Giant",
+      "de": "Super Giant",
+      "zh": "Super Giant",
+      "nl": "Super Giant",
+      "type": "combo"
+    },
+    {
+      "fr": "APTOR",
+      "en": "APTOR",
+      "es": "APTOR",
+      "de": "APTOR",
+      "zh": "APTOR",
+      "nl": "APTOR",
+      "type": "combo"
+    },
+    {
+      "fr": "RAPTOR",
+      "en": "RAPTOR",
+      "es": "RAPTOR",
+      "de": "RAPTOR",
+      "zh": "RAPTOR",
+      "nl": "RAPTOR",
+      "type": "combo"
+    },
+    {
+      "fr": "RADAR",
+      "en": "RADAR",
+      "es": "RADAR",
+      "de": "RADAR",
+      "zh": "RADAR",
+      "nl": "RADAR",
+      "type": "combo"
+    },
+    {
+      "fr": "Diablo Blanco",
+      "en": "Diablo Blanco",
+      "es": "Diablo Blanco",
+      "de": "Diablo Blanco",
+      "zh": "Diablo Blanco",
+      "nl": "Diablo Blanco",
+      "type": "combo"
+    },
+    {
+      "fr": "Black Hole",
+      "en": "Black Hole",
+      "es": "Black Hole",
+      "de": "Black Hole",
+      "zh": "Black Hole",
+      "nl": "Black Hole",
+      "type": "combo"
+    },
+    {
+      "fr": "Dreamsickle",
+      "en": "Dreamsickle",
+      "es": "Dreamsickle",
+      "de": "Dreamsickle",
+      "zh": "Dreamsickle",
+      "nl": "Dreamsickle",
+      "type": "combo"
+    },
+    {
+      "fr": "Galaxy",
+      "en": "Galaxy",
+      "es": "Galaxy",
+      "de": "Galaxy",
+      "zh": "Galaxy",
+      "nl": "Galaxy",
+      "type": "combo"
+    },
+    {
+      "fr": "Total Eclipse",
+      "en": "Total Eclipse",
+      "es": "Total Eclipse",
+      "de": "Total Eclipse",
+      "zh": "Total Eclipse",
+      "nl": "Total Eclipse",
+      "type": "combo"
+    },
+    {
+      "fr": "Sunglow",
+      "en": "Sunglow",
+      "es": "Sunglow",
+      "de": "Sunglow",
+      "zh": "Sunglow",
+      "nl": "Sunglow",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Raptor",
+      "en": "Super Raptor",
+      "es": "Super Raptor",
+      "de": "Super Raptor",
+      "zh": "Super Raptor",
+      "nl": "Super Raptor",
+      "type": "combo"
+    }
+  ]
+}
