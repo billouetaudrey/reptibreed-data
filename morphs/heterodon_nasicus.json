@@ -1,0 +1,36 @@
+[
+  {
+    "species_scientific": "Python Regius",
+    "name": {
+      "fr": "Python Royal",
+      "en": "Ball Python",
+      "es": "Pitón Real",
+      "de": "Königspython",
+      "zh": "球蟒",
+      "nl": "Koningspython"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "Albinos", "en": "Albino", "es": "Albino", "de": "Albino", "zh": "白化", "nl": "Albino" },
+      { "fr": "Banana", "en": "Banana", "es": "Banana", "de": "Banana", "zh": "香蕉", "nl": "Banaan" },
+      { "fr": "Piebald", "en": "Piebald", "es": "Piebald", "de": "Piebald", "zh": "派博", "nl": "Piebald" },
+      { "fr": "Pastel", "en": "Pastel", "es": "Pastel", "de": "Pastel", "zh": "蜡笔", "nl": "Pastel" },
+      { "fr": "Spider", "en": "Spider", "es": "Spider", "de": "Spider", "zh": "蜘蛛", "nl": "Spider" },
+      { "fr": "Mojave", "en": "Mojave", "es": "Mojave", "de": "Mojave", "zh": "莫哈韦", "nl": "Mojave" },
+      { "fr": "Lesser", "en": "Lesser", "es": "Lesser", "de": "Lesser", "zh": "次级", "nl": "Lesser" }
+    ]
+  },
+  {
+    "species_scientific": "Pantherophis Guttatus",
+    "name": {
+      "fr": "Couleuvre à blé",
+      "en": "Corn Snake",
+      "es": "Culebra de maíz",
+      "de": "Kornnatter",
+      "zh": "玉米蛇",
+      "nl": "Korenslang"
+    },
+    "morphs": [
+      { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "原始", "nl": "Normaal" },
+      { "fr": "Amel", "en": "Amel", "es": "Amel", "de": "Amel", "zh": "白化", "nl": "Amel" },
+      { "fr": "Anery", "en": "Anery", "es": "Anery", "de": "Anery", "zh": "缺红", "nl": "Anery" },
