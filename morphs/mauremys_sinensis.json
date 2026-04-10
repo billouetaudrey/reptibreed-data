@@ -1,0 +1,14 @@
+{
+  "species_scientific": "Mauremys Sinensis",
+  "name": {
+    "fr": "Émyde de Chine",
+    "en": "Chinese Stripe-necked Turtle"
+  },
+  "morphs": [
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "type": "wildtype"
+    }
+  ]
+}
