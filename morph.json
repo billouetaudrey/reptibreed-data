@@ -4,38 +4,65 @@
     "name": {
       "fr": "Couleuvre à nez plat",
       "en": "Western Hognose Snake",
-      "es": "Serpiente hocico de cerdo",
-      "de": "Westliche Hakennasennatter",
-      "zh": "西部猪鼻蛇",
-      "nl": "Westelijke haakneuslang"
+      "es": "Western Hognose Snake",
+      "de": "Western Hognose Snake",
+      "zh": "Western Hognose Snake",
+      "nl": "Western Hognose Snake"
     },
     "file": "morphs/heterodon_nasicus.json",
-    "count": 54
+    "count": 21
   },
   {
     "species_scientific": "Pantherophis Guttatus",
     "name": {
       "fr": "Serpent des blés",
       "en": "Corn Snake",
-      "es": "Culebra de maíz",
-      "de": "Kornnatter",
-      "zh": "玉米蛇",
-      "nl": "Korenslang"
+      "es": "Corn Snake",
+      "de": "Corn Snake",
+      "zh": "Corn Snake",
+      "nl": "Corn Snake"
     },
     "file": "morphs/pantherophis_guttatus.json",
-    "count": 1010
+    "count": 41
   },
   {
     "species_scientific": "Python Regius",
     "name": {
       "fr": "Python Royal",
       "en": "Ball Python",
-      "es": "Pitón Real",
-      "de": "Königspython",
-      "zh": "球蟒",
-      "nl": "Koningspython"
+      "es": "Ball Python",
+      "de": "Ball Python",
+      "zh": "Ball Python",
+      "nl": "Ball Python"
     },
     "file": "morphs/python_regius.json",
-    "count": 60
+    "count": 53
+  },
+  {
+    "species_scientific": "Testudo Hermanni",
+    "name": {
+      "fr": "Tortue d'Hermann",
+      "en": "Hermann's Tortoise"
+    },
+    "file": "morphs/testudo_hermanni.json",
+    "count": 3
+  },
+  {
+    "species_scientific": "Centrochelys Sulcata",
+    "name": {
+      "fr": "Tortue sillonnée (Sulcata)",
+      "en": "African Spurred Tortoise"
+    },
+    "file": "morphs/centrochelys_sulcata.json",
+    "count": 4
+  },
+  {
+    "species_scientific": "Trachemys Scripta Elegans",
+    "name": {
+      "fr": "Tortue de Floride",
+      "en": "Red-eared Slider"
+    },
+    "file": "morphs/trachemys_scripta_elegans.json",
+    "count": 4
   }
 ]
