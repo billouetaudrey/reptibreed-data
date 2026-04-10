@@ -2,12 +2,12 @@
   {
     "species_scientific": "Heterodon Nasicus",
     "name": {
-      "fr": "Couleuvre à nez plat",
-      "en": "Western Hognose Snake",
-      "es": "Western Hognose Snake",
-      "de": "Western Hognose Snake",
-      "zh": "Western Hognose Snake",
-      "nl": "Western Hognose Snake"
+      "fr": "Hétérodon",
+      "en": "Western Hognose",
+      "es": "Western Hognose",
+      "de": "Western Hognose",
+      "zh": "Western Hognose",
+      "nl": "Western Hognose"
     },
     "file": "morphs/heterodon_nasicus.json",
     "count": 21
@@ -23,7 +23,7 @@
       "nl": "Corn Snake"
     },
     "file": "morphs/pantherophis_guttatus.json",
-    "count": 42
+    "count": 1024
   },
   {
     "species_scientific": "Python Regius",
@@ -36,7 +36,33 @@
       "nl": "Ball Python"
     },
     "file": "morphs/python_regius.json",
-    "count": 53
+    "count": 101
+  },
+  {
+    "species_scientific": "Pogona Vitticeps",
+    "name": {
+      "fr": "Agame barbu (Pogona)",
+      "en": "Bearded Dragon",
+      "es": "Dragón Barbudo",
+      "de": "Bartagame",
+      "zh": "鬃狮蜥",
+      "nl": "Baardagame"
+    },
+    "file": "morphs/pogona_vitticeps.json",
+    "count": 14
+  },
+  {
+    "species_scientific": "Eublepharis Macularius",
+    "name": {
+      "fr": "Gecko Léopard",
+      "en": "Leopard Gecko",
+      "es": "Gecko Leopardo",
+      "de": "Leopardgecko",
+      "zh": "豹纹守宫",
+      "nl": "Luipaardgekko"
+    },
+    "file": "morphs/eublepharis_macularius.json",
+    "count": 40
   },
   {
     "species_scientific": "Testudo Hermanni",
