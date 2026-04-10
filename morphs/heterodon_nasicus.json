@@ -2,23 +2,29 @@
   "species_scientific": "Heterodon Nasicus",
   "name": {
     "fr": "Hétérodon",
-    "en": "Hognose"
+    "en": "Hognose",
+    "es": "Hognose",
+    "de": "Hognose",
+    "zh": "Hognose",
+    "nl": "Hognose"
   },
   "morphs": [
-    { "fr": "Normal", "en": "Normal", "type": "wildtype" },
-    { "fr": "Albino", "en": "Albino", "type": "recessive" },
-    { "fr": "Axanthic", "en": "Axanthic", "type": "recessive" },
-    { "fr": "Hypo", "en": "Hypo", "type": "recessive" },
-    { "fr": "Lavender", "en": "Lavender", "type": "recessive" },
-    { "fr": "Sable", "en": "Sable", "type": "recessive" },
-    { "fr": "Toffee", "en": "Toffee", "type": "recessive" },
-    { "fr": "Leucistic", "en": "Leucistic", "type": "recessive" },
-    { "fr": "Arctic", "en": "Arctic", "type": "codominant" },
-    { "fr": "Conda", "en": "Conda", "type": "codominant" },
-    { "fr": "Super Conda", "en": "Super Conda", "type": "codominant" },
-    { "fr": "Jaguar", "en": "Jaguar", "type": "dominant" },
-    { "fr": "Albino Anaconda", "en": "Albino Anaconda", "type": "combo" },
-    { "fr": "Toxic", "en": "Toxic", "type": "combo" },
-    { "fr": "Snow", "en": "Snow", "type": "combo" }
+    { "fr": "Normal", "en": "Normal", "es": "Normal", "de": "Normal", "zh": "Normal", "nl": "Normal", "type": "wildtype" },
+    { "fr": "Albino", "en": "Albino", "es": "Albino", "de": "Albino", "zh": "Albino", "nl": "Albino", "type": "recessive" },
+    { "fr": "Axanthic", "en": "Axanthic", "es": "Axanthic", "de": "Axanthic", "zh": "Axanthic", "nl": "Axanthic", "type": "recessive" },
+    { "fr": "Hypo", "en": "Hypo", "es": "Hypo", "de": "Hypo", "zh": "Hypo", "nl": "Hypo", "type": "recessive" },
+    { "fr": "Lavender", "en": "Lavender", "es": "Lavender", "de": "Lavender", "zh": "Lavender", "nl": "Lavender", "type": "recessive" },
+    { "fr": "Sable", "en": "Sable", "es": "Sable", "de": "Sable", "zh": "Sable", "nl": "Sable", "type": "recessive" },
+    { "fr": "Toffee", "en": "Toffee", "es": "Toffee", "de": "Toffee", "zh": "Toffee", "nl": "Toffee", "type": "recessive" },
+    { "fr": "Leucistic", "en": "Leucistic", "es": "Leucistic", "de": "Leucistic", "zh": "Leucistic", "nl": "Leucistic", "type": "recessive" },
+    { "fr": "Arctic", "en": "Arctic", "es": "Arctic", "de": "Arctic", "zh": "Arctic", "nl": "Arctic", "type": "codominant" },
+    { "fr": "Conda", "en": "Conda", "es": "Conda", "de": "Conda", "zh": "Conda", "nl": "Conda", "type": "codominant" },
+    { "fr": "Super Conda", "en": "Super Conda", "es": "Super Conda", "de": "Super Conda", "zh": "Super Conda", "nl": "Super Conda", "type": "codominant" },
+    { "fr": "Jaguar", "en": "Jaguar", "es": "Jaguar", "de": "Jaguar", "zh": "Jaguar", "nl": "Jaguar", "type": "dominant" },
+    { "fr": "Albino Anaconda", "en": "Albino Anaconda", "es": "Albino Anaconda", "de": "Albino Anaconda", "zh": "Albino Anaconda", "nl": "Albino Anaconda", "type": "combo" },
+    { "fr": "Super Conda Albino", "en": "Super Conda Albino", "es": "Super Conda Albino", "de": "Super Conda Albino", "zh": "Super Conda Albino", "nl": "Super Conda Albino", "type": "combo" },
+    { "fr": "Toxic", "en": "Toxic", "es": "Toxic", "de": "Toxic", "zh": "Toxic", "nl": "Toxic", "type": "combo" },
+    { "fr": "Snow", "en": "Snow", "es": "Snow", "de": "Snow", "zh": "Snow", "nl": "Snow", "type": "combo" },
+    { "fr": "Axanthic Anaconda", "en": "Axanthic Anaconda", "es": "Axanthic Anaconda", "de": "Axanthic Anaconda", "zh": "Axanthic Anaconda", "nl": "Axanthic Anaconda", "type": "combo" }
   ]
 }
