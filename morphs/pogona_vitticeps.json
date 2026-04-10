@@ -1,0 +1,135 @@
+{
+  "species_scientific": "Pogona Vitticeps",
+  "name": {
+    "fr": "Agame barbu",
+    "en": "Bearded Dragon"
+  },
+  "morphs": [
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal",
+      "type": "wildtype"
+    },
+    {
+      "fr": "Hypomelanistic",
+      "en": "Hypomelanistic",
+      "es": "Hypomelanistic",
+      "de": "Hypomelanistic",
+      "zh": "Hypomelanistic",
+      "nl": "Hypomelanistic",
+      "type": "recessive"
+    },
+    {
+      "fr": "Translucent",
+      "en": "Translucent",
+      "es": "Translucent",
+      "de": "Translucent",
+      "zh": "Translucent",
+      "nl": "Translucent",
+      "type": "recessive"
+    },
+    {
+      "fr": "Leatherback",
+      "en": "Leatherback",
+      "es": "Leatherback",
+      "de": "Leatherback",
+      "zh": "Leatherback",
+      "nl": "Leatherback",
+      "type": "codominant"
+    },
+    {
+      "fr": "Silkback",
+      "en": "Silkback",
+      "es": "Silkback",
+      "de": "Silkback",
+      "zh": "Silkback",
+      "nl": "Silkback",
+      "type": "codominant"
+    },
+    {
+      "fr": "Dunner",
+      "en": "Dunner",
+      "es": "Dunner",
+      "de": "Dunner",
+      "zh": "Dunner",
+      "nl": "Dunner",
+      "type": "dominant"
+    },
+    {
+      "fr": "Witblits",
+      "en": "Witblits",
+      "es": "Witblits",
+      "de": "Witblits",
+      "zh": "Witblits",
+      "nl": "Witblits",
+      "type": "recessive"
+    },
+    {
+      "fr": "Zero",
+      "en": "Zero",
+      "es": "Zero",
+      "de": "Zero",
+      "zh": "Zero",
+      "nl": "Zero",
+      "type": "recessive"
+    },
+    {
+      "fr": "Wero",
+      "en": "Wero",
+      "es": "Wero",
+      "de": "Wero",
+      "zh": "Wero",
+      "nl": "Wero",
+      "type": "recessive"
+    },
+    {
+      "fr": "Paradox",
+      "en": "Paradox",
+      "es": "Paradox",
+      "de": "Paradox",
+      "zh": "Paradox",
+      "nl": "Paradox",
+      "type": "trait"
+    },
+    {
+      "fr": "German Giant",
+      "en": "German Giant",
+      "es": "German Giant",
+      "de": "German Giant",
+      "zh": "German Giant",
+      "nl": "German Giant",
+      "type": "trait"
+    },
+    {
+      "fr": "Hypo Trans",
+      "en": "Hypo Trans",
+      "es": "Hypo Trans",
+      "de": "Hypo Trans",
+      "zh": "Hypo Trans",
+      "nl": "Hypo Trans",
+      "type": "combo"
+    },
+    {
+      "fr": "Hypo Zero",
+      "en": "Hypo Zero",
+      "es": "Hypo Zero",
+      "de": "Hypo Zero",
+      "zh": "Hypo Zero",
+      "nl": "Hypo Zero",
+      "type": "combo"
+    },
+    {
+      "fr": "Hypo Witblits",
+      "en": "Hypo Witblits",
+      "es": "Hypo Witblits",
+      "de": "Hypo Witblits",
+      "zh": "Hypo Witblits",
+      "nl": "Hypo Witblits",
+      "type": "combo"
+    }
+  ]
+}
