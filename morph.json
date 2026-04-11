@@ -144,5 +144,18 @@
     },
     "file": "morphs/cuora_flavomarginata.json",
     "count": 1
+  },
+  {
+    "species_scientific": "Eryx Colubrinus",
+    "name": {
+      "fr": "Boa des sables du Kenya",
+      "en": "Kenyan Sand Boa",
+      "es": "Boa de arena de Kenia",
+      "de": "Kenianische Sandboa",
+      "zh": "肯尼亚沙蚺",
+      "nl": "Keniaanse zandboa"
+    },
+    "file": "morphs/eryx_colubrinus.json",
+    "count": 22
   }
 ]
