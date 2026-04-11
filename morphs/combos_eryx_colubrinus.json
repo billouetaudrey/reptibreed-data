@@ -1,0 +1,41 @@
+{
+  "species": "Eryx Colubrinus",
+  "combos": [
+    {
+      "name": "Snow",
+      "genes": [
+        "Albino",
+        "Anerythristic"
+      ]
+    },
+    {
+      "name": "Ghost",
+      "genes": [
+        "Anerythristic",
+        "Nuclear (Hypo)"
+      ]
+    },
+    {
+      "name": "Albino Splash",
+      "genes": [
+        "Albino",
+        "Splash"
+      ]
+    },
+    {
+      "name": "Anery Splash",
+      "genes": [
+        "Anerythristic",
+        "Splash"
+      ]
+    },
+    {
+      "name": "Snow Splash",
+      "genes": [
+        "Albino",
+        "Anerythristic",
+        "Splash"
+      ]
+    }
+  ]
+}
