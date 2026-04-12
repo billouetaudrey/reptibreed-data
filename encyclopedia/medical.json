@@ -1,0 +1,52 @@
+{
+  "medical": [
+    {
+      "id": "acariens",
+      "category": "Médical",
+      "fr": {
+        "title": "Acariens",
+        "content": "Petits parasites externes (souvent noirs ou rouges). Symptômes : points mobiles sur l'animal, séjours prolongés dans le bac à eau. Traitement : bain d'eau tiède, nettoyage complet du terrarium, utilisation de produits spécifiques (Taurrus, Frontline en spray sur un sopalin - attention aux yeux/bouche)."
+      },
+      "en": {
+        "title": "Mites",
+        "content": "Small external parasites (often black or red). Symptoms: moving dots on the animal, prolonged soaking in the water bowl. Treatment: warm water bath, complete cleaning of the terrarium, use of specific products (Taurrus, Frontline spray on a paper towel - avoid eyes/mouth)."
+      }
+    },
+    {
+      "id": "mauvaise_mue",
+      "category": "Médical",
+      "fr": {
+        "title": "Mauvaise mue",
+        "content": "Restes de peau sur le corps, les yeux (lunettes) ou le bout de la queue. Cause : manque d'humidité ou de points d'appui. Solution : bain tiède (28°C) pendant 20min, boîte humide avec sphaigne. Ne jamais forcer le retrait des lunettes sans avis expert."
+      },
+      "en": {
+        "title": "Bad Shed",
+        "content": "Skin remains on the body, eyes (eye caps), or the tip of the tail. Cause: lack of humidity or rough surfaces. Solution: warm bath (28°C) for 20min, humid box with sphagnum moss. Never force eye cap removal without expert advice."
+      }
+    },
+    {
+      "id": "refus_repas",
+      "category": "Médical",
+      "fr": {
+        "title": "Refus de repas",
+        "content": "Fréquent chez les reptiles. Vérifiez d'abord : températures (trop froid = pas de digestion), période de mue, stress ou cycle de reproduction. Si l'animal ne perd pas de poids, ne pas s'inquiéter immédiatement. Essayez de proposer une proie plus petite ou différente (ex: souris vs rat)."
+      },
+      "en": {
+        "title": "Meal Refusal",
+        "content": "Common in reptiles. Check first: temperatures (too cold = no digestion), shedding period, stress, or breeding cycle. If the animal is not losing weight, do not worry immediately. Try offering a smaller or different prey (e.g., mouse vs rat)."
+      }
+    },
+    {
+      "id": "regurgitation",
+      "category": "Médical",
+      "fr": {
+        "title": "Régurgitation",
+        "content": "L'animal rejette son repas. Causes : température trop basse, stress après repas, proie trop grosse ou problème interne. IMPORTANT : Ne pas nourrir pendant 10 à 14 jours après une régurgitation pour laisser l'œsophage et l'estomac cicatriser. Vérifier les paramètres."
+      },
+      "en": {
+        "title": "Regurgitation",
+        "content": "The animal rejects its meal. Causes: too low temperature, stress after meal, prey too large, or internal issue. IMPORTANT: Do not feed for 10 to 14 days after regurgitation to allow the esophagus and stomach to heal. Check parameters."
+      }
+    }
+  ]
+}
