@@ -1,0 +1,13 @@
+{
+  "agames": [
+    { "name": "Pogona Vitticeps", "venomous": false, "repro": "Ovipare", "diet": "Insectivore" },
+    { "name": "Physignathus Cocincinus", "venomous": false, "repro": "Ovipare", "diet": "Insectivore" }
+  ],
+  "geckos": [
+    { "name": "Eublepharis Macularius", "venomous": false, "repro": "Ovipare", "diet": "Insectivore" },
+    { "name": "Correlophus Ciliatus", "venomous": false, "repro": "Ovipare", "diet": "Insectivore" }
+  ],
+  "varans": [
+    { "name": "Varanus Exanthematicus", "venomous": true, "repro": "Ovipare", "diet": "Carnivore" }
+  ]
+}
