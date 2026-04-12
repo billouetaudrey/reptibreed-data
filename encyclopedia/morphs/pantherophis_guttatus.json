@@ -1,0 +1,341 @@
+{
+  "species_scientific": "Pantherophis Guttatus",
+  "name": {
+    "fr": "Serpent des blés",
+    "en": "Corn Snake",
+    "es": "Corn Snake",
+    "de": "Corn Snake",
+    "zh": "Corn Snake",
+    "nl": "Corn Snake"
+  },
+  "morphs": [
+    {
+      "fr": "Abbotts Okeetee",
+      "en": "Abbotts Okeetee",
+      "es": "Abbotts Okeetee",
+      "de": "Abbotts Okeetee",
+      "zh": "Abbotts Okeetee",
+      "nl": "Abbotts Okeetee"
+    },
+    {
+      "fr": "Amelanistic",
+      "en": "Amelanistic",
+      "es": "Amelanistic",
+      "de": "Amelanistic",
+      "zh": "Amelanistic",
+      "nl": "Amelanistic"
+    },
+    {
+      "fr": "Anerythristic A",
+      "en": "Anerythristic A",
+      "es": "Anerythristic A",
+      "de": "Anerythristic A",
+      "zh": "Anerythristic A",
+      "nl": "Anerythristic A"
+    },
+    {
+      "fr": "Anerythristic B (Charcoal)",
+      "en": "Anerythristic B (Charcoal)",
+      "es": "Anerythristic B (Charcoal)",
+      "de": "Anerythristic B (Charcoal)",
+      "zh": "Anerythristic B (Charcoal)",
+      "nl": "Anerythristic B (Charcoal)"
+    },
+    {
+      "fr": "Anerythristic C (Cinder)",
+      "en": "Anerythristic C (Cinder)",
+      "es": "Anerythristic C (Cinder)",
+      "de": "Anerythristic C (Cinder)",
+      "zh": "Anerythristic C (Cinder)",
+      "nl": "Anerythristic C (Cinder)"
+    },
+    {
+      "fr": "Avalanche",
+      "en": "Avalanche",
+      "es": "Avalanche",
+      "de": "Avalanche",
+      "zh": "Avalanche",
+      "nl": "Avalanche"
+    },
+    {
+      "fr": "Blizzard",
+      "en": "Blizzard",
+      "es": "Blizzard",
+      "de": "Blizzard",
+      "zh": "Blizzard",
+      "nl": "Blizzard"
+    },
+    {
+      "fr": "Butter",
+      "en": "Butter",
+      "es": "Butter",
+      "de": "Butter",
+      "zh": "Butter",
+      "nl": "Butter"
+    },
+    {
+      "fr": "Candy Cane",
+      "en": "Candy Cane",
+      "es": "Candy Cane",
+      "de": "Candy Cane",
+      "zh": "Candy Cane",
+      "nl": "Candy Cane"
+    },
+    {
+      "fr": "Caramel",
+      "en": "Caramel",
+      "es": "Caramel",
+      "de": "Caramel",
+      "zh": "Caramel",
+      "nl": "Caramel"
+    },
+    {
+      "fr": "Crimson",
+      "en": "Crimson",
+      "es": "Crimson",
+      "de": "Crimson",
+      "zh": "Crimson",
+      "nl": "Crimson"
+    },
+    {
+      "fr": "Diffused",
+      "en": "Diffused",
+      "es": "Diffused",
+      "de": "Diffused",
+      "zh": "Diffused",
+      "nl": "Diffused"
+    },
+    {
+      "fr": "Dilute",
+      "en": "Dilute",
+      "es": "Dilute",
+      "de": "Dilute",
+      "zh": "Dilute",
+      "nl": "Dilute"
+    },
+    {
+      "fr": "Fire",
+      "en": "Fire",
+      "es": "Fire",
+      "de": "Fire",
+      "zh": "Fire",
+      "nl": "Fire"
+    },
+    {
+      "fr": "Ghost",
+      "en": "Ghost",
+      "es": "Ghost",
+      "de": "Ghost",
+      "zh": "Ghost",
+      "nl": "Ghost"
+    },
+    {
+      "fr": "Granite",
+      "en": "Granite",
+      "es": "Granite",
+      "de": "Granite",
+      "zh": "Granite",
+      "nl": "Granite"
+    },
+    {
+      "fr": "Hypomelanistic",
+      "en": "Hypomelanistic",
+      "es": "Hypomelanistic",
+      "de": "Hypomelanistic",
+      "zh": "Hypomelanistic",
+      "nl": "Hypomelanistic"
+    },
+    {
+      "fr": "Kastanie",
+      "en": "Kastanie",
+      "es": "Kastanie",
+      "de": "Kastanie",
+      "zh": "Kastanie",
+      "nl": "Kastanie"
+    },
+    {
+      "fr": "Lava",
+      "en": "Lava",
+      "es": "Lava",
+      "de": "Lava",
+      "zh": "Lava",
+      "nl": "Lava"
+    },
+    {
+      "fr": "Lavender",
+      "en": "Lavender",
+      "es": "Lavender",
+      "de": "Lavender",
+      "zh": "Lavender",
+      "nl": "Lavender"
+    },
+    {
+      "fr": "Masque",
+      "en": "Masque",
+      "es": "Masque",
+      "de": "Masque",
+      "zh": "Masque",
+      "nl": "Masque"
+    },
+    {
+      "fr": "Miami",
+      "en": "Miami",
+      "es": "Miami",
+      "de": "Miami",
+      "zh": "Miami",
+      "nl": "Miami"
+    },
+    {
+      "fr": "Microscale",
+      "en": "Microscale",
+      "es": "Microscale",
+      "de": "Microscale",
+      "zh": "Microscale",
+      "nl": "Microscale"
+    },
+    {
+      "fr": "Motley",
+      "en": "Motley",
+      "es": "Motley",
+      "de": "Motley",
+      "zh": "Motley",
+      "nl": "Motley"
+    },
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal"
+    },
+    {
+      "fr": "Opal",
+      "en": "Opal",
+      "es": "Opal",
+      "de": "Opal",
+      "zh": "Opal",
+      "nl": "Opal"
+    },
+    {
+      "fr": "Palmetto",
+      "en": "Palmetto",
+      "es": "Palmetto",
+      "de": "Palmetto",
+      "zh": "Palmetto",
+      "nl": "Palmetto"
+    },
+    {
+      "fr": "Pewter",
+      "en": "Pewter",
+      "es": "Pewter",
+      "de": "Pewter",
+      "zh": "Pewter",
+      "nl": "Pewter"
+    },
+    {
+      "fr": "Plasma",
+      "en": "Plasma",
+      "es": "Plasma",
+      "de": "Plasma",
+      "zh": "Plasma",
+      "nl": "Plasma"
+    },
+    {
+      "fr": "Red Factor",
+      "en": "Red Factor",
+      "es": "Red Factor",
+      "de": "Red Factor",
+      "zh": "Red Factor",
+      "nl": "Red Factor"
+    },
+    {
+      "fr": "Reverse Okeetee",
+      "en": "Reverse Okeetee",
+      "es": "Reverse Okeetee",
+      "de": "Reverse Okeetee",
+      "zh": "Reverse Okeetee",
+      "nl": "Reverse Okeetee"
+    },
+    {
+      "fr": "Scaleless",
+      "en": "Scaleless",
+      "es": "Scaleless",
+      "de": "Scaleless",
+      "zh": "Scaleless",
+      "nl": "Scaleless"
+    },
+    {
+      "fr": "Snow",
+      "en": "Snow",
+      "es": "Snow",
+      "de": "Snow",
+      "zh": "Snow",
+      "nl": "Snow"
+    },
+    {
+      "fr": "Strawberry",
+      "en": "Strawberry",
+      "es": "Strawberry",
+      "de": "Strawberry",
+      "zh": "Strawberry",
+      "nl": "Strawberry"
+    },
+    {
+      "fr": "Stripe",
+      "en": "Stripe",
+      "es": "Stripe",
+      "de": "Stripe",
+      "zh": "Stripe",
+      "nl": "Stripe"
+    },
+    {
+      "fr": "Sunglow",
+      "en": "Sunglow",
+      "es": "Sunglow",
+      "de": "Sunglow",
+      "zh": "Sunglow",
+      "nl": "Sunglow"
+    },
+    {
+      "fr": "Sunkissed",
+      "en": "Sunkissed",
+      "es": "Sunkissed",
+      "de": "Sunkissed",
+      "zh": "Sunkissed",
+      "nl": "Sunkissed"
+    },
+    {
+      "fr": "Sunrise",
+      "en": "Sunrise",
+      "es": "Sunrise",
+      "de": "Sunrise",
+      "zh": "Sunrise",
+      "nl": "Sunrise"
+    },
+    {
+      "fr": "Terrazzo",
+      "en": "Terrazzo",
+      "es": "Terrazzo",
+      "de": "Terrazzo",
+      "zh": "Terrazzo",
+      "nl": "Terrazzo"
+    },
+    {
+      "fr": "Tessera",
+      "en": "Tessera",
+      "es": "Tessera",
+      "de": "Tessera",
+      "zh": "Tessera",
+      "nl": "Tessera"
+    },
+    {
+      "fr": "Ultra",
+      "en": "Ultra",
+      "es": "Ultra",
+      "de": "Ultra",
+      "zh": "Ultra",
+      "nl": "Ultra"
+    }
+  ]
+}
