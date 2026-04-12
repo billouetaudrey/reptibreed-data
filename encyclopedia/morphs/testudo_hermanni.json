@@ -1,0 +1,12 @@
+{
+  "species_scientific": "Testudo Hermanni",
+  "name": {
+    "fr": "Tortue d'Hermann",
+    "en": "Hermann's Tortoise"
+  },
+  "morphs": [
+    { "fr": "Normal", "en": "Normal", "type": "wildtype" },
+    { "fr": "Albino", "en": "Albino", "type": "recessive" },
+    { "fr": "Hypo", "en": "Hypo", "type": "recessive" }
+  ]
+}
