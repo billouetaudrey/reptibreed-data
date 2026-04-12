@@ -1,0 +1,33 @@
+{
+  "species": "Pogona Vitticeps",
+  "combos": [
+    {
+      "name": "Wero",
+      "genes": [
+        "Zero",
+        "Witblits"
+      ]
+    },
+    {
+      "name": "Hypo Trans",
+      "genes": [
+        "Hypomelanistic",
+        "Translucent"
+      ]
+    },
+    {
+      "name": "Hypo Zero",
+      "genes": [
+        "Hypomelanistic",
+        "Zero"
+      ]
+    },
+    {
+      "name": "Hypo Witblits",
+      "genes": [
+        "Hypomelanistic",
+        "Witblits"
+      ]
+    }
+  ]
+}
