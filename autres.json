@@ -1,0 +1,12 @@
+{
+  "tortues": [
+    { "name": "Testudo Hermanni", "venomous": false, "repro": "Ovipare", "diet": "Herbivore" },
+    { "name": "Centrochelys Sulcata", "venomous": false, "repro": "Ovipare", "diet": "Herbivore" }
+  ],
+  "amphibiens": [
+    { "name": "Ambystoma Mexicanum", "venomous": false, "repro": "Ovipare", "diet": "Carnivore" }
+  ],
+  "arthropodes": [
+    { "name": "Brachypelma Hamorii", "venomous": true, "repro": "Ovipare", "diet": "Insectivore" }
+  ]
+}
