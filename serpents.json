@@ -1,22 +1,94 @@
 {
   "colubrides": [
-    { "name": "Pantherophis Guttatus", "venom": "None", "repro": "Ovipare", "diet": "Rongeur" },
-    { "name": "Heterodon Nasicus", "venom": "Opistoglyphe (faible)", "repro": "Ovipare", "diet": "Rongeur/Amphibien" },
-    { "name": "Dasypeltis Scabra", "venom": "None", "repro": "Ovipare", "diet": "Oeuf" }
+    {
+      "name": "Pantherophis Guttatus",
+      "venom": "None",
+      "repro": "Ovipare",
+      "diet": "Rongeur",
+      "category": "Serpent"
+    },
+    {
+      "name": "Heterodon Nasicus",
+      "venom": "Opistoglyphe (faible)",
+      "repro": "Ovipare",
+      "diet": "Rongeur/Amphibien",
+      "category": "Serpent"
+    },
+    {
+      "name": "Dasypeltis Scabra",
+      "venom": "None",
+      "repro": "Ovipare",
+      "diet": "Oeuf",
+      "category": "Serpent"
+    }
   ],
   "pythons": [
-    { "name": "Python Regius", "venom": "None", "repro": "Ovipare", "diet": "Rongeur" },
-    { "name": "Morelia Viridis", "venom": "None", "repro": "Ovipare", "diet": "Rongeur/Oiseau" }
+    {
+      "name": "Python Regius",
+      "venom": "None",
+      "repro": "Ovipare",
+      "diet": "Rongeur",
+      "category": "Serpent"
+    },
+    {
+      "name": "Morelia Viridis",
+      "venom": "None",
+      "repro": "Ovipare",
+      "diet": "Rongeur/Oiseau",
+      "category": "Serpent"
+    }
   ],
   "boas": [
-    { "name": "Boa Imperator", "venom": "None", "repro": "Ovovivipare", "diet": "Rongeur" },
-    { "name": "Eryx Colubrinus", "venom": "None", "repro": "Ovovivipare", "diet": "Rongeur" }
+    {
+      "name": "Boa Imperator",
+      "venom": "None",
+      "repro": "Ovovivipare",
+      "diet": "Rongeur",
+      "category": "Serpent"
+    },
+    {
+      "name": "Eryx Colubrinus",
+      "venom": "None",
+      "repro": "Ovovivipare",
+      "diet": "Rongeur",
+      "category": "Serpent"
+    }
   ],
   "venomous": [
-    { "name": "Crotalus Atrox", "venom": "Solénoglyphe (Hémotoxique)", "repro": "Ovovivipare", "diet": "Rongeur/Lapin" },
-    { "name": "Bitis Arietans", "venom": "Solénoglyphe (Cytotoxique)", "repro": "Ovovivipare", "diet": "Rongeur/Oiseau" },
-    { "name": "Naja Kaouthia", "venom": "Protéroglyphe (Neurotoxique)", "repro": "Ovipare", "diet": "Rongeur/Reptile" },
-    { "name": "Trimeresurus Albolabris", "venom": "Solénoglyphe (Hémotoxique)", "repro": "Ovovivipare", "diet": "Rongeur/Lézard" },
-    { "name": "Dendroaspis Polypelis", "venom": "Protéroglyphe (Neurotoxique)", "repro": "Ovipare", "diet": "Rongeur/Oiseau" }
+    {
+      "name": "Crotalus Atrox",
+      "venom": "Solénoglyphe (Hémotoxique)",
+      "repro": "Ovovivipare",
+      "diet": "Rongeur/Lapin",
+      "category": "Serpent"
+    },
+    {
+      "name": "Bitis Arietans",
+      "venom": "Solénoglyphe (Cytotoxique)",
+      "repro": "Ovovivipare",
+      "diet": "Rongeur/Oiseau",
+      "category": "Serpent"
+    },
+    {
+      "name": "Naja Kaouthia",
+      "venom": "Protéroglyphe (Neurotoxique)",
+      "repro": "Ovipare",
+      "diet": "Rongeur/Reptile",
+      "category": "Serpent"
+    },
+    {
+      "name": "Trimeresurus Albolabris",
+      "venom": "Solénoglyphe (Hémotoxique)",
+      "repro": "Ovovivipare",
+      "diet": "Rongeur/Lézard",
+      "category": "Serpent"
+    },
+    {
+      "name": "Dendroaspis Polypelis",
+      "venom": "Protéroglyphe (Neurotoxique)",
+      "repro": "Ovipare",
+      "diet": "Rongeur/Oiseau",
+      "category": "Serpent"
+    }
   ]
 }
