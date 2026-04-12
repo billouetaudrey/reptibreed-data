@@ -1,0 +1,41 @@
+[
+  {
+    "species_scientific": "Heterodon Nasicus",
+    "name": {
+      "fr": "Couleuvre à nez plat",
+      "en": "Western Hognose Snake",
+      "es": "Western Hognose Snake",
+      "de": "Western Hognose Snake",
+      "zh": "Western Hognose Snake",
+      "nl": "Western Hognose Snake"
+    },
+    "file": "morphs/heterodon_nasicus.json",
+    "count": 21
+  },
+  {
+    "species_scientific": "Pantherophis Guttatus",
+    "name": {
+      "fr": "Serpent des blés",
+      "en": "Corn Snake",
+      "es": "Corn Snake",
+      "de": "Corn Snake",
+      "zh": "Corn Snake",
+      "nl": "Corn Snake"
+    },
+    "file": "morphs/pantherophis_guttatus.json",
+    "count": 41
+  },
+  {
+    "species_scientific": "Python Regius",
+    "name": {
+      "fr": "Python Royal",
+      "en": "Ball Python",
+      "es": "Ball Python",
+      "de": "Ball Python",
+      "zh": "Ball Python",
+      "nl": "Ball Python"
+    },
+    "file": "morphs/python_regius.json",
+    "count": 53
+  }
+]
