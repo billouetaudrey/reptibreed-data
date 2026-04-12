@@ -2,12 +2,12 @@
   {
     "species_scientific": "Heterodon Nasicus",
     "name": {
-      "fr": "Couleuvre à nez plat",
-      "en": "Western Hognose Snake",
-      "es": "Western Hognose Snake",
-      "de": "Western Hognose Snake",
-      "zh": "Western Hognose Snake",
-      "nl": "Western Hognose Snake"
+      "fr": "Hétérodon",
+      "en": "Western Hognose",
+      "es": "Western Hognose",
+      "de": "Western Hognose",
+      "zh": "Western Hognose",
+      "nl": "Western Hognose"
     },
     "file": "morphs/heterodon_nasicus.json",
     "count": 21
@@ -23,7 +23,7 @@
       "nl": "Corn Snake"
     },
     "file": "morphs/pantherophis_guttatus.json",
-    "count": 41
+    "count": 1024
   },
   {
     "species_scientific": "Python Regius",
@@ -36,6 +36,126 @@
       "nl": "Ball Python"
     },
     "file": "morphs/python_regius.json",
-    "count": 53
+    "count": 101
+  },
+  {
+    "species_scientific": "Pogona Vitticeps",
+    "name": {
+      "fr": "Agame barbu (Pogona)",
+      "en": "Bearded Dragon",
+      "es": "Dragón Barbudo",
+      "de": "Bartagame",
+      "zh": "鬃狮蜥",
+      "nl": "Baardagame"
+    },
+    "file": "morphs/pogona_vitticeps.json",
+    "count": 14
+  },
+  {
+    "species_scientific": "Eublepharis Macularius",
+    "name": {
+      "fr": "Gecko Léopard",
+      "en": "Leopard Gecko",
+      "es": "Gecko Leopardo",
+      "de": "Leopardgecko",
+      "zh": "豹纹守宫",
+      "nl": "Luipaardgekko"
+    },
+    "file": "morphs/eublepharis_macularius.json",
+    "count": 40
+  },
+  {
+    "species_scientific": "Testudo Hermanni",
+    "name": {
+      "fr": "Tortue d'Hermann",
+      "en": "Hermann's Tortoise"
+    },
+    "file": "morphs/testudo_hermanni.json",
+    "count": 3
+  },
+  {
+    "species_scientific": "Centrochelys Sulcata",
+    "name": {
+      "fr": "Tortue sillonnée (Sulcata)",
+      "en": "African Spurred Tortoise"
+    },
+    "file": "morphs/centrochelys_sulcata.json",
+    "count": 4
+  },
+  {
+    "species_scientific": "Trachemys Scripta Elegans",
+    "name": {
+      "fr": "Tortue de Floride",
+      "en": "Red-eared Slider"
+    },
+    "file": "morphs/trachemys_scripta_elegans.json",
+    "count": 4
+  },
+  {
+    "species_scientific": "Testudo Graeca",
+    "name": {
+      "fr": "Tortue mauresque",
+      "en": "Spur-thighed Tortoise"
+    },
+    "file": "morphs/testudo_graeca.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Geochelone Elegans",
+    "name": {
+      "fr": "Tortue étoilée de l'Inde",
+      "en": "Indian Star Tortoise"
+    },
+    "file": "morphs/geochelone_elegans.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Mauremys Sinensis",
+    "name": {
+      "fr": "Émyde de Chine",
+      "en": "Chinese Stripe-necked Turtle"
+    },
+    "file": "morphs/mauremys_sinensis.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Sternotherus Odoratus",
+    "name": {
+      "fr": "Tortue musquée",
+      "en": "Common Musk Turtle"
+    },
+    "file": "morphs/sternotherus_odoratus.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Terrapene Carolina",
+    "name": {
+      "fr": "Tortue-boîte de Caroline",
+      "en": "Common Box Turtle"
+    },
+    "file": "morphs/terrapene_carolina.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Cuora Flavomarginata",
+    "name": {
+      "fr": "Tortue-boîte à bords jaunes",
+      "en": "Yellow-margined Box Turtle"
+    },
+    "file": "morphs/cuora_flavomarginata.json",
+    "count": 1
+  },
+  {
+    "species_scientific": "Eryx Colubrinus",
+    "name": {
+      "fr": "Boa des sables du Kenya",
+      "en": "Kenyan Sand Boa",
+      "es": "Boa de arena de Kenia",
+      "de": "Kenianische Sandboa",
+      "zh": "肯尼亚沙蚺",
+      "nl": "Keniaanse zandboa"
+    },
+    "file": "morphs/eryx_colubrinus.json",
+    "count": 22
   }
 ]
