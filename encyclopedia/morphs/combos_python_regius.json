@@ -1,0 +1,2895 @@
+{
+  "species": "Python Regius",
+  "combos": [
+    {
+      "name": "Albino Black Pastel",
+      "genes": [
+        "Albino",
+        "Black Pastel"
+      ]
+    },
+    {
+      "name": "Albino Butter",
+      "genes": [
+        "Albino",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Albino Butter Black Pastel",
+      "genes": [
+        "Albino",
+        "Black Pastel",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Albino Butter Enchi",
+      "genes": [
+        "Albino",
+        "Butter",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Albino Calico Spider",
+      "genes": [
+        "Albino",
+        "Calico",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Albino Cinnamon",
+      "genes": [
+        "Albino",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Albino Enchi",
+      "genes": [
+        "Albino",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Albino Java",
+      "genes": [
+        "Albino",
+        "Java"
+      ]
+    },
+    {
+      "name": "Albino Java Piebald",
+      "genes": [
+        "Albino",
+        "Java",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Albino Pastel",
+      "genes": [
+        "Albino",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Albino Piebald",
+      "genes": [
+        "Albino",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Albino Spider",
+      "genes": [
+        "Albino",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Axanthic Pastel Piebald",
+      "genes": [
+        "Axanthic MJ",
+        "Pastel",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Axanthic Piebald (Lightning &#8211; Low White)",
+      "genes": [
+        "Axanthic MJ",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Axanthic Piebald (Lightning Pied)",
+      "genes": [
+        "Axanthic MJ",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Axanthic Piebald Spider",
+      "genes": [
+        "Axanthic MJ",
+        "Piebald",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Axanthic Spider",
+      "genes": [
+        "Axanthic MJ",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Bamboo Enchi",
+      "genes": [
+        "Bamboo",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Bamboo Yellow Belly",
+      "genes": [
+        "Bamboo",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Banana Black Pastel",
+      "genes": [
+        "Banana",
+        "Black Pastel"
+      ]
+    },
+    {
+      "name": "Banana Black Pastel Butter",
+      "genes": [
+        "Banana",
+        "Black Pastel",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Banana Black Pastel Cinnamon",
+      "genes": [
+        "Banana",
+        "Black Pastel",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Banana Blade",
+      "genes": [
+        "Banana",
+        "Blade"
+      ]
+    },
+    {
+      "name": "Banana Blade Clown",
+      "genes": [
+        "Banana",
+        "Blade",
+        "Clown"
+      ]
+    },
+    {
+      "name": "Banana Blade Pastel Clown",
+      "genes": [
+        "Banana",
+        "Blade",
+        "Clown",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Banana Bumble Bee Enchi",
+      "genes": [
+        "Banana",
+        "Enchi",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Banana Butter Cinnamon",
+      "genes": [
+        "Banana",
+        "Butter",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Banana Butter Cinnamon Enchi",
+      "genes": [
+        "Banana",
+        "Butter",
+        "Cinnamon",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Banana Butter Enchi",
+      "genes": [
+        "Banana",
+        "Butter",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Banana Butter Enchi Spider",
+      "genes": [
+        "Banana",
+        "Butter",
+        "Enchi",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Banana Butter Fire",
+      "genes": [
+        "Banana",
+        "Butter",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Banana Butter Leopard",
+      "genes": [
+        "Banana",
+        "Butter",
+        "Leopard"
+      ]
+    },
+    {
+      "name": "Banana Cinnamon",
+      "genes": [
+        "Banana",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Banana Cinnamon Enchi",
+      "genes": [
+        "Banana",
+        "Cinnamon",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Banana Enchi",
+      "genes": [
+        "Banana",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Banana Enchi Cinnamon Spider",
+      "genes": [
+        "Banana",
+        "Cinnamon",
+        "Enchi",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Banana Enchi Java",
+      "genes": [
+        "Banana",
+        "Enchi",
+        "Java"
+      ]
+    },
+    {
+      "name": "Banana Enchi Spider",
+      "genes": [
+        "Banana",
+        "Enchi",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Banana Java Spider",
+      "genes": [
+        "Banana",
+        "Java",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Banana Leopard",
+      "genes": [
+        "Banana",
+        "Leopard"
+      ]
+    },
+    {
+      "name": "Banana Leopard Lesser Pastel",
+      "genes": [
+        "Banana",
+        "Leopard",
+        "Lesser",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Banana Leopard Spider",
+      "genes": [
+        "Banana",
+        "Leopard",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Banana Lesser Pastel Enchi",
+      "genes": [
+        "Banana",
+        "Enchi",
+        "Lesser",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Banana Pastel",
+      "genes": [
+        "Banana",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Banana Pastel Blade",
+      "genes": [
+        "Banana",
+        "Blade",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Banana Pastel Pinstripe",
+      "genes": [
+        "Banana",
+        "Pastel",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Banana Pastel Spinner",
+      "genes": [
+        "Banana",
+        "Pastel",
+        "Pinstripe",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Banana Piebald",
+      "genes": [
+        "Banana",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Banana Pinstripe",
+      "genes": [
+        "Banana",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Banana Pumpkin Piebald",
+      "genes": [
+        "Banana",
+        "Piebald",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Banana Super Blade",
+      "genes": [
+        "Banana",
+        "Blade",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Banana Yellow Belly",
+      "genes": [
+        "Banana",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Black Pastel Lavender",
+      "genes": [
+        "Black Pastel",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Black Pastel Leopard",
+      "genes": [
+        "Black Pastel",
+        "Leopard"
+      ]
+    },
+    {
+      "name": "Blade Clown",
+      "genes": [
+        "Blade",
+        "Clown"
+      ]
+    },
+    {
+      "name": "Blade Fire",
+      "genes": [
+        "Blade",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Blue Eyed Leusistic",
+      "genes": [
+        "Bamboo",
+        "Butter",
+        "Lesser",
+        "Mojave",
+        "Russo"
+      ]
+    },
+    {
+      "name": "Bumble Bee",
+      "genes": [
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Bumble Bee Enchi",
+      "genes": [
+        "Enchi",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Bumble Bee Fire",
+      "genes": [
+        "Fire",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Bumble Bee Fire (Eyeless)",
+      "genes": [
+        "Fire",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Bumble Bee Toffino",
+      "genes": [
+        "Albino",
+        "Pastel",
+        "Spider",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Butter Blade",
+      "genes": [
+        "Blade",
+        "Butter"
+      ]
+    },
+    {
+      "name": "Butter Bumble Bee",
+      "genes": [
+        "Butter",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Butter Cinnamon",
+      "genes": [
+        "Butter",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Butter Clown",
+      "genes": [
+        "Butter",
+        "Clown"
+      ]
+    },
+    {
+      "name": "Butter Emperor Pin",
+      "genes": [
+        "Butter",
+        "Pastel",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Butter Enchi",
+      "genes": [
+        "Butter",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Butter Enchi Pastel Pinstripe",
+      "genes": [
+        "Butter",
+        "Enchi",
+        "Pastel",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Butter Enchi Spider",
+      "genes": [
+        "Butter",
+        "Enchi",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Butter Pastel",
+      "genes": [
+        "Butter",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Butter Pastel Enchi",
+      "genes": [
+        "Butter",
+        "Enchi",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Butter Pastel Fader",
+      "genes": [
+        "Butter",
+        "Fader",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Butter Pastel Jaguar",
+      "genes": [
+        "Butter",
+        "Jaguar",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Butter Pastel Leopard",
+      "genes": [
+        "Butter",
+        "Leopard",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Butter Pastel Special",
+      "genes": [
+        "Butter",
+        "Pastel",
+        "Special"
+      ]
+    },
+    {
+      "name": "Butter Pewter",
+      "genes": [
+        "Butter",
+        "Cinnamon",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Butter Pin",
+      "genes": [
+        "Butter",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Butter Spinner",
+      "genes": [
+        "Butter",
+        "Pinstripe",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Butter Sulphur",
+      "genes": [
+        "Butter",
+        "Sulphur"
+      ]
+    },
+    {
+      "name": "Butter Vanilla",
+      "genes": [
+        "Butter",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Butter/Lesser",
+      "genes": [
+        "Butter",
+        "Lesser"
+      ]
+    },
+    {
+      "name": "Butterfly",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Butterfly Paradox",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Paradox",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Calico Bumble Bee",
+      "genes": [
+        "Calico",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Calico Enchi",
+      "genes": [
+        "Calico",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Calico Mojave Bumble Bee",
+      "genes": [
+        "Mojave",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Calico Pastave",
+      "genes": [
+        "Calico",
+        "Mojave",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Calico Pastel",
+      "genes": [
+        "Calico",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Calico Pastel Enchi",
+      "genes": [
+        "Calico",
+        "Enchi",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Calico Pastel Fader",
+      "genes": [
+        "Calico",
+        "Fader",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Calico Pastel Paradox",
+      "genes": [
+        "Calico",
+        "Paradox",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Calico Spider",
+      "genes": [
+        "Calico",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Calico Spider Ringer",
+      "genes": [
+        "Calico",
+        "Ringer",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Caramel Butter Pastel",
+      "genes": [
+        "Butter",
+        "Caramel",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Caramel Cinnamon",
+      "genes": [
+        "Caramel",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Caramel Mojave",
+      "genes": [
+        "Caramel",
+        "Mojave"
+      ]
+    },
+    {
+      "name": "Caramel Pinstripe",
+      "genes": [
+        "Caramel",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Caramel Spider",
+      "genes": [
+        "Caramel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Caravanah",
+      "genes": [
+        "Caramel",
+        "Cinnamon",
+        "Mojave"
+      ]
+    },
+    {
+      "name": "Champagne (Paradox)",
+      "genes": [
+        "Champagne",
+        "Paradox"
+      ]
+    },
+    {
+      "name": "Champagne Pewter",
+      "genes": [
+        "Champagne",
+        "Cinnamon",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Cinnamon Champagne",
+      "genes": [
+        "Champagne",
+        "Cinnamon"
+      ]
+    },
+    {
+      "name": "Cinnamon Enchi",
+      "genes": [
+        "Cinnamon",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Cinnamon Enchi Spider",
+      "genes": [
+        "Cinnamon",
+        "Enchi",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Cinnamon Mojave",
+      "genes": [
+        "Cinnamon",
+        "Mojave"
+      ]
+    },
+    {
+      "name": "Cinnamon Pinstripe",
+      "genes": [
+        "Cinnamon",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Cinnamon Specter",
+      "genes": [
+        "Cinnamon",
+        "Specter"
+      ]
+    },
+    {
+      "name": "Cinnamon Specter Fire",
+      "genes": [
+        "Cinnamon",
+        "Fire",
+        "Specter"
+      ]
+    },
+    {
+      "name": "Cinnamon Spider",
+      "genes": [
+        "Cinnamon",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Cinnamon Yellow Belly",
+      "genes": [
+        "Cinnamon",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Citrus Pastel Highway",
+      "genes": [
+        "Citrus Pastel",
+        "Gravel",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Citrus Pastel Specter",
+      "genes": [
+        "Citrus Pastel",
+        "Specter"
+      ]
+    },
+    {
+      "name": "Citrus Pastel Yellow Belly",
+      "genes": [
+        "Citrus Pastel",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Citrus Pastel Yellow Belly Ghost",
+      "genes": [
+        "Citrus Pastel",
+        "Ghost",
+        "Orange Ghost",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Clown Bumble Bee",
+      "genes": [
+        "Clown",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Clown Butter Blade",
+      "genes": [
+        "Blade",
+        "Butter",
+        "Clown"
+      ]
+    },
+    {
+      "name": "Clown Butter Blade Leopard",
+      "genes": [
+        "Blade",
+        "Butter",
+        "Clown",
+        "Leopard"
+      ]
+    },
+    {
+      "name": "Clown Butter Cinnamon",
+      "genes": [
+        "Butter",
+        "Cinnamon",
+        "Clown"
+      ]
+    },
+    {
+      "name": "Clown Butter Pastel",
+      "genes": [
+        "Butter",
+        "Clown",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Clown Enchi Blade",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Enchi"
+      ]
+    },
+    {
+      "name": "Clown Pastel",
+      "genes": [
+        "Clown",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Coral Glow HGW Super Pastel Specter",
+      "genes": [
+        "Coral Glow",
+        "Hidden Gene Woma",
+        "Pastel",
+        "Specter",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Crystal",
+      "genes": [
+        "Mojave",
+        "Special"
+      ]
+    },
+    {
+      "name": "Desert Bumble Bee",
+      "genes": [
+        "Desert",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Desert Butter Pastel",
+      "genes": [
+        "Butter",
+        "Desert",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Desert Firefly",
+      "genes": [
+        "Desert",
+        "Fire",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Desert Ghost Butter",
+      "genes": [
+        "Butter",
+        "Desert Ghost"
+      ]
+    },
+    {
+      "name": "Desert Ghost Butter Cinnamon",
+      "genes": [
+        "Butter",
+        "Cinnamon",
+        "Desert Ghost"
+      ]
+    },
+    {
+      "name": "Desert Ghost Butter Cinnamon Pastel",
+      "genes": [
+        "Butter",
+        "Cinnamon",
+        "Desert Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "desert ghost butter pastel",
+      "genes": [
+        "Butter",
+        "Desert Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Desert Ghost Caramel Butter Cinnamon",
+      "genes": [
+        "Butter",
+        "Caramel",
+        "Cinnamon",
+        "Desert Ghost"
+      ]
+    },
+    {
+      "name": "Desert Ghost Caramel Butter Pastel",
+      "genes": [
+        "Butter",
+        "Caramel",
+        "Desert Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Desert Ghost Caramel Cinnamon",
+      "genes": [
+        "Caramel",
+        "Cinnamon",
+        "Desert Ghost"
+      ]
+    },
+    {
+      "name": "Desert Ghost Pewter",
+      "genes": [
+        "Cinnamon",
+        "Desert Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Desert Pastel",
+      "genes": [
+        "Desert",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Disco Sulphur",
+      "genes": [
+        "Disco",
+        "Sulphur"
+      ]
+    },
+    {
+      "name": "Enchi Fire",
+      "genes": [
+        "Enchi",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Enchi Firefly",
+      "genes": [
+        "Enchi",
+        "Fire",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Enchi Ghost",
+      "genes": [
+        "Enchi",
+        "Ghost"
+      ]
+    },
+    {
+      "name": "Enchi Ivory",
+      "genes": [
+        "Enchi",
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Enchi Pastel Pinstripe",
+      "genes": [
+        "Enchi",
+        "Pastel",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Enchi Pastel Yellow Belly",
+      "genes": [
+        "Enchi",
+        "Pastel",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Enchi Specter",
+      "genes": [
+        "Enchi",
+        "Specter"
+      ]
+    },
+    {
+      "name": "Enchi Spider Fire",
+      "genes": [
+        "Enchi",
+        "Fire",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Enchi Spinner",
+      "genes": [
+        "Enchi",
+        "Pinstripe",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Enchi Toffino",
+      "genes": [
+        "Albino",
+        "Enchi",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Firefly",
+      "genes": [
+        "Fire",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "GHI Firefly",
+      "genes": [
+        "Fire",
+        "GHI",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "GHI Firefly Mojave",
+      "genes": [
+        "Fire",
+        "GHI",
+        "Mojave",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "GHI Mojave",
+      "genes": [
+        "GHI",
+        "Mojave"
+      ]
+    },
+    {
+      "name": "GHI Mojave Champagne",
+      "genes": [
+        "Champagne",
+        "GHI",
+        "Mojave"
+      ]
+    },
+    {
+      "name": "GHI Pastave",
+      "genes": [
+        "GHI",
+        "Mojave",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "GHI Pastel",
+      "genes": [
+        "GHI",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "GHI Pastel Russo",
+      "genes": [
+        "GHI",
+        "Pastel",
+        "Russo"
+      ]
+    },
+    {
+      "name": "GHI Pastel Special",
+      "genes": [
+        "GHI",
+        "Pastel",
+        "Special"
+      ]
+    },
+    {
+      "name": "GHI Phantom",
+      "genes": [
+        "GHI",
+        "Phantom"
+      ]
+    },
+    {
+      "name": "GHI Russo",
+      "genes": [
+        "GHI",
+        "Russo"
+      ]
+    },
+    {
+      "name": "Ghost Mojave Spider",
+      "genes": [
+        "Ghost",
+        "Mojave",
+        "Orange Ghost",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Ghost Pastave",
+      "genes": [
+        "Ghost",
+        "Mojave",
+        "Orange Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Ghost Pastel",
+      "genes": [
+        "Ghost",
+        "Orange Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Highway",
+      "genes": [
+        "Gravel",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Honey Bee",
+      "genes": [
+        "Ghost",
+        "Orange Ghost",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Humble Bee",
+      "genes": [
+        "Ghost",
+        "Orange Ghost",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Ivory",
+      "genes": [
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Java Enchi",
+      "genes": [
+        "Enchi",
+        "Java"
+      ]
+    },
+    {
+      "name": "Java Enchi Pastel",
+      "genes": [
+        "Enchi",
+        "Java",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Java Enchi Yellow Belly",
+      "genes": [
+        "Enchi",
+        "Java",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Java Pastel",
+      "genes": [
+        "Java",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Java Piebald",
+      "genes": [
+        "Java",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Java Spider",
+      "genes": [
+        "Java",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Killer Bee",
+      "genes": [
+        "Pastel",
+        "Spider",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Killer Bee Butter",
+      "genes": [
+        "Butter",
+        "Pastel",
+        "Spider",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Killer Bee Enchi",
+      "genes": [
+        "Enchi",
+        "Pastel",
+        "Spider",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Killer Bee Enchi Pinstripe",
+      "genes": [
+        "Enchi",
+        "Pastel",
+        "Pinstripe",
+        "Spider",
+        "Sulphur"
+      ]
+    },
+    {
+      "name": "Killer Bee Fire",
+      "genes": [
+        "Fire",
+        "Pastel",
+        "Spider",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Killer Blast",
+      "genes": [
+        "Pastel",
+        "Pinstripe",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Killer Butter Clown",
+      "genes": [
+        "Butter",
+        "Clown",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Killer Firefly Blade Clown",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Fire",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Lavender Albino",
+      "genes": [
+        "Albino",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lavender Albino Pastel",
+      "genes": [
+        "Albino",
+        "Lavender",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Lavender Java",
+      "genes": [
+        "Java",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Lemon Blast",
+      "genes": [
+        "Pastel",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Leopard Blade",
+      "genes": [
+        "Blade",
+        "Leopard"
+      ]
+    },
+    {
+      "name": "Leopard Bumble Bee",
+      "genes": [
+        "Leopard",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Leopard Butter",
+      "genes": [
+        "Butter",
+        "Leopard"
+      ]
+    },
+    {
+      "name": "Leopard Butter Spider",
+      "genes": [
+        "Butter",
+        "Leopard",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Leopard Cinnamon",
+      "genes": [
+        "Cinnamon",
+        "Leopard"
+      ]
+    },
+    {
+      "name": "Leopard Pastel",
+      "genes": [
+        "Leopard",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Leopard Pewter",
+      "genes": [
+        "Cinnamon",
+        "Leopard",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Leopard Spider",
+      "genes": [
+        "Leopard",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Leopard Yellow Belly",
+      "genes": [
+        "Leopard",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Lesser Ghost",
+      "genes": [
+        "Butter",
+        "Ghost",
+        "Lesser",
+        "Orange Ghost"
+      ]
+    },
+    {
+      "name": "Lithium Blaze",
+      "genes": [
+        "Butter",
+        "Cinnamon",
+        "Fire",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Marvel Ball",
+      "genes": [
+        "Citrus Pastel",
+        "Specter",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Mojave Bumble Bee",
+      "genes": [
+        "Mojave",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Mojave Cinnamon Enchi",
+      "genes": [
+        "Cinnamon",
+        "Enchi",
+        "Mojave"
+      ]
+    },
+    {
+      "name": "Mojave Diamond",
+      "genes": [
+        "Mojave",
+        "Russo"
+      ]
+    },
+    {
+      "name": "Mojave Ghost",
+      "genes": [
+        "Ghost",
+        "Mojave",
+        "Orange Ghost"
+      ]
+    },
+    {
+      "name": "Mojave Spider",
+      "genes": [
+        "Mojave",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Mystic Potion",
+      "genes": [
+        "Mojave",
+        "Mystic"
+      ]
+    },
+    {
+      "name": "Nuclear Spider",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Blade",
+      "genes": [
+        "Blade",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Bumblebee",
+      "genes": [
+        "Orange Dream",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Bumblebee Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Butter",
+      "genes": [
+        "Butter",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Butter Bumblebee Fire",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Orange Dream",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Butter Pastel",
+      "genes": [
+        "Butter",
+        "Orange Dream",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Orange Dream Butter Pinstripe",
+      "genes": [
+        "Butter",
+        "Orange Dream",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Orange Dream Butter Pinstripe Fire",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Orange Dream",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Orange Dream Calico",
+      "genes": [
+        "Calico",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Calico Enchi Fire",
+      "genes": [
+        "Calico",
+        "Enchi",
+        "Fire",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Calico Fire",
+      "genes": [
+        "Calico",
+        "Fire",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Calico Firefly",
+      "genes": [
+        "Calico",
+        "Fire",
+        "Orange Dream",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Orange Dream Calico Ghost",
+      "genes": [
+        "Calico",
+        "Ghost",
+        "Orange Dream",
+        "Orange Ghost"
+      ]
+    },
+    {
+      "name": "Orange Dream Champagne",
+      "genes": [
+        "Champagne",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Champagne Fire",
+      "genes": [
+        "Champagne",
+        "Fire",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Cinnamon Ghost",
+      "genes": [
+        "Cinnamon",
+        "Ghost",
+        "Orange Dream",
+        "Orange Ghost"
+      ]
+    },
+    {
+      "name": "Orange Dream Enchi",
+      "genes": [
+        "Enchi",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Enchi Fire",
+      "genes": [
+        "Enchi",
+        "Fire",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Enchi Vanilla Fire",
+      "genes": [
+        "Enchi",
+        "Fire",
+        "Orange Dream",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Orange Dream Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Fire Calico Spider",
+      "genes": [
+        "Calico",
+        "Fire",
+        "Orange Dream",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Firefly",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Orange Dream Firefly Yellow Belly",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Pastel",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Orange Dream Ghost",
+      "genes": [
+        "Ghost",
+        "Orange Dream",
+        "Orange Ghost"
+      ]
+    },
+    {
+      "name": "Orange Dream Java",
+      "genes": [
+        "Java",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Java Fire",
+      "genes": [
+        "Fire",
+        "Java",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Leopard",
+      "genes": [
+        "Leopard",
+        "Orange Dream"
+      ]
+    },
+    {
+      "name": "Orange Dream Leopard Spider",
+      "genes": [
+        "Leopard",
+        "Orange Dream",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Lesser Pastel Enchi",
+      "genes": [
+        "Enchi",
+        "Lesser",
+        "Orange Dream",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Orange Dream Mojave Ghost",
+      "genes": [
+        "Ghost",
+        "Mojave",
+        "Orange Dream",
+        "Orange Ghost"
+      ]
+    },
+    {
+      "name": "Orange Dream Pastel",
+      "genes": [
+        "Orange Dream",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Orange Dream Pastel Blade",
+      "genes": [
+        "Blade",
+        "Orange Dream",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Orange Dream Pastel Calico",
+      "genes": [
+        "Calico",
+        "Orange Dream",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Orange Dream Pastel Super Blade",
+      "genes": [
+        "Blade",
+        "Orange Dream",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Orange Dream Pastel Super Stripe",
+      "genes": [
+        "Orange Dream",
+        "Pastel",
+        "Specter",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Orange Dream Pastel Vanilla",
+      "genes": [
+        "Orange Dream",
+        "Pastel",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Orange Dream Pinstripe Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Orange Dream Spider",
+      "genes": [
+        "Orange Dream",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Spider Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Orange Dream Super Blade",
+      "genes": [
+        "Blade",
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Orange Dream Super Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Orange Dream Super Stripe",
+      "genes": [
+        "Orange Dream",
+        "Specter",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Orange Dream Super Stripe Pewter Fire",
+      "genes": [
+        "Cinnamon",
+        "Fire",
+        "Pastel",
+        "Specter",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Orange Dream Vanilla",
+      "genes": [
+        "Orange Dream",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Orange Dream Vanilla Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Orange Dream Yellow Belly",
+      "genes": [
+        "Orange Dream",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Orange Dream Yellow Belly Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Orange Ghost",
+      "genes": [
+        "Ghost",
+        "Orange Ghost"
+      ]
+    },
+    {
+      "name": "Paradox Toffino",
+      "genes": [
+        "Albino",
+        "Paradox",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Pastel Blade",
+      "genes": [
+        "Blade",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Blade Clown",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Champagne",
+      "genes": [
+        "Champagne",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Desert Ghost",
+      "genes": [
+        "Desert Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Disco Sulphur",
+      "genes": [
+        "Disco",
+        "Pastel",
+        "Sulphur"
+      ]
+    },
+    {
+      "name": "Pastel Enchi",
+      "genes": [
+        "Enchi",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Enchi Ghost",
+      "genes": [
+        "Enchi",
+        "Ghost",
+        "Orange Ghost",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Enchi Spinner",
+      "genes": [
+        "Enchi",
+        "Pastel",
+        "Pinstripe",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Pastel Lesser",
+      "genes": [
+        "Lesser",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Lesser Blade Clown",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Lesser",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Lesser Enchi",
+      "genes": [
+        "Enchi",
+        "Lesser",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pastel Special",
+      "genes": [
+        "Pastel",
+        "Special"
+      ]
+    },
+    {
+      "name": "Pastel Super Blade",
+      "genes": [
+        "Blade",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Pastel Yellow Belly",
+      "genes": [
+        "Pastel",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Pewter",
+      "genes": [
+        "Cinnamon",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pewter Bee",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Pewter Blade",
+      "genes": [
+        "Blade",
+        "Cinnamon",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pewter Clown",
+      "genes": [
+        "Cinnamon",
+        "Clown",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pewter Fader",
+      "genes": [
+        "Cinnamon",
+        "Fader",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pewter Fire",
+      "genes": [
+        "Cinnamon",
+        "Fire",
+        "Pastel"
+      ]
+    },
+    {
+      "name": "Pewter Pinstripe",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Pinstripe"
+      ]
+    },
+    {
+      "name": "Pewter Specter",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Specter"
+      ]
+    },
+    {
+      "name": "Piebald (Paradox)",
+      "genes": [
+        "Paradox",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Piebald Java Toffino",
+      "genes": [
+        "Albino",
+        "Java",
+        "Piebald",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Piebald Leopard",
+      "genes": [
+        "Leopard",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Piebald Pewter",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Piebald"
+      ]
+    },
+    {
+      "name": "Piebald Spider",
+      "genes": [
+        "Piebald",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Piebald Sterling",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Piebald",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Piebald Toffino",
+      "genes": [
+        "Albino",
+        "Piebald",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Puma",
+      "genes": [
+        "Spark",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Pumpkin Piebald",
+      "genes": [
+        "Piebald",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Purple Passion",
+      "genes": [
+        "Mojave",
+        "Phantom"
+      ]
+    },
+    {
+      "name": "Special Diamond",
+      "genes": [
+        "Mojave",
+        "Russo",
+        "Special"
+      ]
+    },
+    {
+      "name": "Spider Fire",
+      "genes": [
+        "Fire",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Spinner",
+      "genes": [
+        "Pinstripe",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Spinner Blast",
+      "genes": [
+        "Pastel",
+        "Pinstripe",
+        "Spider"
+      ]
+    },
+    {
+      "name": "Spotnose Yellow Belly",
+      "genes": [
+        "Spotnose",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Sterling",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Sterling Champagne",
+      "genes": [
+        "Champagne",
+        "Cinnamon",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Sterling Clown",
+      "genes": [
+        "Cinnamon",
+        "Clown",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Sterling Pinstripe",
+      "genes": [
+        "Pastel",
+        "Pinstripe",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Banana",
+      "genes": [
+        "Banana",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Banana Spider",
+      "genes": [
+        "Banana",
+        "Spider",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Blade",
+      "genes": [
+        "Blade",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Blade Butter Clown",
+      "genes": [
+        "Blade",
+        "Butter",
+        "Clown",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Blade Butter Pastel Clown",
+      "genes": [
+        "Blade",
+        "Butter",
+        "Clown",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Blade Butterfly Clown",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Fire",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Blade Clown",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Blade Orange Dream Clown",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Blade Pastel Clown",
+      "genes": [
+        "Blade",
+        "Clown",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Butter Pastel",
+      "genes": [
+        "Butter",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Cinnamon",
+      "genes": [
+        "Cinnamon",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Cinnamon Pastel Ringer",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Ringer",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Cinnamon Ringer",
+      "genes": [
+        "Cinnamon",
+        "Ringer",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Citrus Pastel Specter!",
+      "genes": [
+        "Citrus Pastel",
+        "Specter",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Enchi",
+      "genes": [
+        "Enchi",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Enchi Java",
+      "genes": [
+        "Enchi",
+        "Java",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Enchi Yellow Belly Fire",
+      "genes": [
+        "Enchi",
+        "Fire",
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Fire",
+      "genes": [
+        "Fire",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Hero",
+      "genes": [
+        "Citrus Pastel",
+        "Specter",
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Java",
+      "genes": [
+        "Java",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Java Piebald",
+      "genes": [
+        "Java",
+        "Piebald",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Leopard",
+      "genes": [
+        "Leopard",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Mojave",
+      "genes": [
+        "Mojave",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream",
+      "genes": [
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Butter Fire",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Butter Pinstripe Fire",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Orange Dream",
+        "Pinstripe",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Champagne",
+      "genes": [
+        "Champagne",
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Champagne Fire",
+      "genes": [
+        "Champagne",
+        "Fire",
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Pastel",
+      "genes": [
+        "Orange Dream",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Yellow Belly",
+      "genes": [
+        "Orange Dream",
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Yellow Belly Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Orange Dream Yellow Belly Spider Fire",
+      "genes": [
+        "Fire",
+        "Orange Dream",
+        "Spider",
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Pastel",
+      "genes": [
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Butter Blade Fire",
+      "genes": [
+        "Blade",
+        "Butter",
+        "Fire",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Butter Fire",
+      "genes": [
+        "Butter",
+        "Fire",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Butter Vanilla",
+      "genes": [
+        "Butter",
+        "Pastel",
+        "Supers",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Super Pastel Calico",
+      "genes": [
+        "Calico",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Cinnamon Enchi",
+      "genes": [
+        "Cinnamon",
+        "Enchi",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Desert Ghost",
+      "genes": [
+        "Desert Ghost",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Enchi",
+      "genes": [
+        "Enchi",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Ghost",
+      "genes": [
+        "Ghost",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Vanilla",
+      "genes": [
+        "Lesser",
+        "Pastel",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Pastel Vanilla Fire",
+      "genes": [
+        "Fire",
+        "Pastel",
+        "Supers",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Super Pastel Yellow Belly",
+      "genes": [
+        "Pastel",
+        "Supers",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Pewter Ringer",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Ringer",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Super Stripe",
+      "genes": [
+        "Specter",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Stripe Pastel Ghost",
+      "genes": [
+        "Ghost",
+        "Orange Ghost",
+        "Pastel",
+        "Specter",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Stripe Pewter Fire",
+      "genes": [
+        "Cinnamon",
+        "Fire",
+        "Pastel",
+        "Specter",
+        "Yellow Belly"
+      ]
+    },
+    {
+      "name": "Super Vanilla",
+      "genes": [
+        "Supers",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Super Vanilla Pastel",
+      "genes": [
+        "Pastel",
+        "Supers",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Super Vanilla Pastel Ghost",
+      "genes": [
+        "Ghost",
+        "Orange Ghost",
+        "Pastel",
+        "Supers",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "The White Walker",
+      "genes": [
+        "Butter",
+        "Enchi",
+        "Pastel",
+        "Spider",
+        "Supers"
+      ]
+    },
+    {
+      "name": "Toffino",
+      "genes": [
+        "Albino",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffino Cinnamon",
+      "genes": [
+        "Albino",
+        "Cinnamon",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffino Pastel",
+      "genes": [
+        "Albino",
+        "Pastel",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Toffino Pastel Paradox",
+      "genes": [
+        "Albino",
+        "Paradox",
+        "Toffee"
+      ]
+    },
+    {
+      "name": "Vanilla Cinnamon Fire",
+      "genes": [
+        "Cinnamon",
+        "Fire",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Cinnamon Firefly",
+      "genes": [
+        "Cinnamon",
+        "Fire",
+        "Pastel",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Firefly",
+      "genes": [
+        "Fire",
+        "Pastel",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Ghost",
+      "genes": [
+        "Ghost",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Honey Bee",
+      "genes": [
+        "Ghost",
+        "Spider",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Killer Bee",
+      "genes": [
+        "Pastel",
+        "Spider",
+        "Supers",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Pastel",
+      "genes": [
+        "Pastel",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Pastel Butter",
+      "genes": [
+        "Fire",
+        "Pastel",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Pastel Disco Sulphur",
+      "genes": [
+        "Disco",
+        "Pastel",
+        "Sulphur",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Pastel Ghost",
+      "genes": [
+        "Ghost",
+        "Pastel",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Pastel Sulphur",
+      "genes": [
+        "Pastel",
+        "Sulphur",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Pewter",
+      "genes": [
+        "Cinnamon",
+        "Pastel",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Spider",
+      "genes": [
+        "Spider",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Sulphur",
+      "genes": [
+        "Sulphur",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Vanilla Super Pastel",
+      "genes": [
+        "Pastel",
+        "Supers",
+        "Vanilla"
+      ]
+    },
+    {
+      "name": "Womafino",
+      "genes": [
+        "Albino",
+        "Toffee",
+        "Woma"
+      ]
+    },
+    {
+      "name": "Yellow Belly Firefly",
+      "genes": [
+        "Fire",
+        "Pastel",
+        "Yellow Belly"
+      ]
+    }
+  ]
+}
