@@ -1,8 +1,71 @@
 {
-  "terrestres": [
-    "Testudo Hermanni",
-    "Lissachatina Fulica",
-    "Gromphadorhina Portentosa",
-    "Coenobita Clypeatus"
+  "terrestre": [
+    {
+      "name": "Testudo Hermanni",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Herbivore",
+      "category": "Tortue"
+    },
+    {
+      "name": "Centrochelys Sulcata",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Herbivore",
+      "category": "Tortue"
+    },
+    {
+      "name": "Testudo Graeca",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Herbivore",
+      "category": "Tortue"
+    },
+    {
+      "name": "Geochelone Elegans",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Herbivore",
+      "category": "Tortue"
+    }
+  ],
+  "aquatique": [
+    {
+      "name": "Trachemys Scripta Elegans",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Omnivore",
+      "category": "Tortue"
+    },
+    {
+      "name": "Mauremys Sinensis",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Omnivore",
+      "category": "Tortue"
+    },
+    {
+      "name": "Sternotherus Odoratus",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Carnivore",
+      "category": "Tortue"
+    }
+  ],
+  "boîte": [
+    {
+      "name": "Terrapene Carolina",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Omnivore",
+      "category": "Tortue"
+    },
+    {
+      "name": "Cuora Flavomarginata",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Omnivore",
+      "category": "Tortue"
+    }
   ]
 }
