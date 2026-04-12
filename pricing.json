@@ -1,0 +1,12 @@
+{
+  "android": {
+    "fallback_price": "6.99€",
+    "promo_original_price": "6.99€",
+    "promo_threshold": 6.00
+  },
+  "ios": {
+    "fallback_price": "5.90€",
+    "promo_original_price": "9.99€",
+    "promo_threshold": 7.00
+  }
+}
