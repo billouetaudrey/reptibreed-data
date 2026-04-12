@@ -1,0 +1,31 @@
+export default {
+  "morph": "Morph",
+  "species": "Especie",
+  "all_species": "Todas las especies",
+  "delete_species_title": "¿Eliminar especie?",
+  "delete_species_msg": "¿Quieres eliminar esta especie:",
+  "no_morph": "Sin fase",
+  "unknown_morph": "Morfología/Fase desconocida",
+  "species_placeholder": "Nombre de la especie",
+  "other_species": "Nombre de la especie...",
+  "mother_species": "Especie de la madre",
+  "father_species": "Especie del padre",
+  "possible_morphs": "Morphs posibles (% Probabilidad)",
+  "target_morph_placeholder": "Ej: Palmetto Scaleless...",
+  "common_species": [
+    "Pantherophis Guttatus",
+    "Heterodon Nasicus",
+    "Python Regius",
+    "Otros"
+  ],
+  "select_species_placeholder": "Seleccionar una especie...",
+  "update_species": "Actualizar especies",
+  "update_species_desc": "Descarga las últimas especies comunitarias desde la comunidad.",
+  "suggest_species": "Sugerir una especie",
+  "suggest_species_email_subject": "Sugerencia de especie - ReptiBreed",
+  "suggest_species_email_body": "Hola,\\n\\nMe gustaría sugerir la adición de la siguiente espèce:\\n\\nNombre: \\nTipo de animal (Serpiente, Lagarto...): \\nDieta: \\nReproducción: \\nVenenosa: Sí/No\\n\\n¡Gracias!",
+  "search_species": "Buscar especie...",
+  "no_species_found": "No se encontró contenido",
+  "group_by_morph": "Fase",
+  "by_species": "Por especie"
+};
