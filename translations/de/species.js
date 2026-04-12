@@ -1,0 +1,31 @@
+export default {
+  "morph": "Morph",
+  "species": "Art",
+  "all_species": "Alle Arten",
+  "delete_species_title": "Art löschen?",
+  "delete_species_msg": "Möchten Sie diese Art löschen:",
+  "no_morph": "Keine Morphe",
+  "unknown_morph": "Unbekannte Morph/Phase",
+  "species_placeholder": "Artname",
+  "other_species": "Nom de l'espèce...",
+  "mother_species": "Art der Mutter",
+  "father_species": "Art des Vaters",
+  "possible_morphs": "Mögliche Morphen (% Chance)",
+  "target_morph_placeholder": "Z.B.: Palmetto Scaleless...",
+  "common_species": [
+    "Pantherophis Guttatus",
+    "Hognose",
+    "Python Regius",
+    "Andere"
+  ],
+  "select_species_placeholder": "Wähle eine Art...",
+  "update_species": "Arten aktualisieren",
+  "update_species_desc": "Lade die neuesten Gemeinschaftsarten von der Gemeinschaft herunter.",
+  "suggest_species": "Eine Art vorschlagen",
+  "suggest_species_email_subject": "Art-Vorschlag - ReptiBreed",
+  "suggest_species_email_body": "Hallo,\\n\\nich möchte die folgende Art zur Aufnahme vorschlagen:\\n\\nName: \\nArt der Tiere (Schlange, Echse...): \\nErnährung: \\nFortpflanzung: \\nGiftig: Ja/Nein\\n\\nDanke!",
+  "search_species": "Art suchen...",
+  "no_species_found": "Kein Inhalt gefunden",
+  "group_by_morph": "Morph",
+  "by_species": "Nach Art"
+};
