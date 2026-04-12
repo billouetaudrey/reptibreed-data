@@ -73,5 +73,6 @@ export default {
   "photo_backup_alert_msg": "Has añadido %d fotos nuevas. ¿Deseas realizar una copia de seguridad completa (ZIP con fotos) ahora?",
   "backup_threshold_reached_title": "Límite de fotos alcanzado",
   "backup_threshold_reached_desc": "Has añadido varias fotos recientemente. ¿Deseas realizar una copia de seguridad completa (incluyendo fotos) ahora? Esto puede tardar unos momentos.",
-  "no_cloud_backup_found": "Error: No se encontró ninguna copia de seguridad en su nube"
+  "no_cloud_backup_found": "Error: No se encontró ninguna copia de seguridad en su nube",
+  "last_sync_encyclopedia": "Última actualización"
 };
