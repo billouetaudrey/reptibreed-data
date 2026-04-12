@@ -1,0 +1,458 @@
+[
+  {
+    "id": "uvb_lighting",
+    "category": "Environnement",
+    "fr": {
+      "title": "Éclairage UVB",
+      "content": "Indispensable pour les reptiles diurnes (comme l'Agame barbu ou la Tortue d'Hermann) pour synthétiser la vitamine D3 et absorber le calcium. Les lampes doivent être changées tous les 6 à 12 mois."
+    },
+    "en": {
+      "title": "UVB Lighting",
+      "content": "Essential for diurnal reptiles (like Bearded Dragons or Hermann's Tortoises) to synthesize vitamin D3 and absorb calcium. Bulbs must be replaced every 6 to 12 months."
+    },
+    "zh": {
+      "title": "UVB 照明",
+      "content": "對於日行性爬行動物（如鬆獅蜥或赫曼陸龜）合成維生素 D3 和吸收鈣質至關重要。燈泡必須每 6 到 12 個月更換一次。"
+    },
+    "es": {
+      "title": "Iluminación UVB",
+      "content": "Indispensable para los reptiles diurnos (como el Dragón barbudo o la Tortuga mora) para sintetizar la vitamina D3 y absorber el calcio. Las bombillas deben cambiarse cada 6 a 12 meses."
+    },
+    "de": {
+      "title": "UVB-Beleuchtung",
+      "content": "Unerlässlich für tagaktive Reptilien (wie Bartagamen oder Griechische Landschildkröten), um Vitamin D3 zu synthetisieren und Kalzium aufzunehmen. Lampen müssen alle 6 bis 12 Monate gewechselt werden."
+    }
+  },
+  {
+    "id": "thermal_gradient",
+    "category": "Environnement",
+    "fr": {
+      "title": "Gradient Thermique",
+      "content": "Les reptiles sont ectothermes. Le terrarium doit toujours proposer un point chaud (pour digérer et s'activer) et un point froid (pour se réguler et éviter la surchauffe)."
+    },
+    "en": {
+      "title": "Thermal Gradient",
+      "content": "Reptiles are ectothermic. The terrarium must always offer a basking spot (to digest and become active) and a cool end (to regulate and avoid overheating)."
+    },
+    "zh": {
+      "title": "溫度梯度",
+      "content": "爬行動物是變溫動物。飼養箱必須始終提供一個熱區（用於消化和活動）和一個冷區（用於調節體溫和避免過熱）。"
+    },
+    "es": {
+      "title": "Gradiente Térmico",
+      "content": "Los reptiles son ectotermos. El terrario siempre debe ofrecer un punto caliente (para digerir y activarse) y un punto frío (para regularse y evitar el sobrecalentamiento)."
+    },
+    "de": {
+      "title": "Temperaturgefälle",
+      "content": "Reptilien sind wechselwarm. Das Terrarium muss immer einen Sonnenplatz (zur Verdauung und Aktivierung) und einen kühlen Bereich (zur Regulation und Vermeidung von Überhitzung) bieten."
+    }
+  },
+  {
+    "id": "mbd",
+    "category": "Santé",
+    "fr": {
+      "title": "Maladie Osseuse Métabolique (MOM)",
+      "content": "Carence grave en calcium ou en UVB. Symptômes : tremblements, mâchoire molle, déformation des membres ou de la colonne vertébrale. Nécessite une intervention vétérinaire urgente."
+    },
+    "en": {
+      "title": "Metabolic Bone Disease (MBD)",
+      "content": "Severe calcium or UVB deficiency. Symptoms: tremors, rubber jaw, deformed limbs or spine. Requires urgent veterinary intervention."
+    },
+    "zh": {
+      "title": "代謝性骨病 (MBD)",
+      "content": "嚴重的鈣或 UVB 缺乏。症狀：震顫、下巴變軟、四肢或脊椎變形。需要緊急獸醫干預。"
+    },
+    "es": {
+      "title": "Enfermedad Ósea Metabólica (EOM)",
+      "content": "Deficiencia grave de calcio o UVB. Síntomas: temblores, mandíbula blanda, deformación de las extremidades o la columna vertebral. Requiere intervención veterinaria urgente."
+    },
+    "de": {
+      "title": "Metabolische Knochenerkrankung (MBD)",
+      "content": "Schwerer Kalzium- oder UVB-Mangel. Symptome: Zittern, weicher Kiefer, verformte Gliedmaßen oder Wirbelsäule. Erfordert dringende tierärztliche Hilfe."
+    }
+  },
+  {
+    "id": "dysecdysis",
+    "category": "Santé",
+    "fr": {
+      "title": "Mue problématique (Dysecdysis)",
+      "content": "Morceaux de peau morte restant collés (souvent sur les yeux, la queue ou les orteils des lézards). Cause : manque d'humidité. Solution : bains tièdes et augmentation de l'hygrométrie."
+    },
+    "en": {
+      "title": "Problematic Shedding (Dysecdysis)",
+      "content": "Patches of dead skin remaining stuck (often on the eyes, tail, or toes of lizards). Cause: lack of humidity. Solution: lukewarm soaks and increased hygrometry."
+    },
+    "zh": {
+      "title": "蛻皮困難",
+      "content": "殘留的死皮（通常在蜥蜴的眼睛、尾巴或腳趾上）。原因：缺乏濕度。解決方案：溫水浸泡並增加環境濕度。"
+    },
+    "es": {
+      "title": "Muda problemática (Disecdisis)",
+      "content": "Trozos de piel muerta que quedan pegados (a menudo en los ojos, la cola o los dedos de los lagartos). Causa: falta de humedad. Solución: baños tibios y aumento de la higrometría."
+    },
+    "de": {
+      "title": "Häutungsprobleme (Dysecdysis)",
+      "content": "Hängen gebliebene Reste toter Haut (oft an Augen, Schwanz oder Zehen von Eidechsen). Ursache: Mangelnde Luftfeuchtigkeit. Lösung: Lauwarme Bäder und Erhöhung der Luftfeuchtigkeit."
+    }
+  },
+  {
+    "id": "impaction",
+    "category": "Santé",
+    "fr": {
+      "title": "Occlusion intestinale (Impaction)",
+      "content": "Blocage du système digestif, souvent dû à l'ingestion de substrat (comme le sable chez le Gecko léopard) ou à des températures trop basses empêchant la digestion."
+    },
+    "en": {
+      "title": "Intestinal Impaction",
+      "content": "Blockage of the digestive system, often due to ingestion of substrate (like sand in Leopard Geckos) or temperatures too low to allow digestion."
+    },
+    "zh": {
+      "title": "腸道阻塞",
+      "content": "消化系統阻塞，通常是由於誤食底材（如豹紋守宮吃下沙子）或溫度過低導致無法消化。"
+    },
+    "es": {
+      "title": "Impactación intestinal",
+      "content": "Bloqueo del sistema digestivo, a menudo debido a la ingestión de sustrato (como arena en el Gecko leopardo) o temperaturas demasiado bajas que impiden la digestión."
+    },
+    "de": {
+      "title": "Darmverschluss (Impaktion)",
+      "content": "Verstopfung des Verdauungssystems, oft durch Verschlucken von Bodengrund (wie Sand bei Leopardgeckos) oder zu niedrige Temperaturen, die die Verdauung behindern."
+    }
+  },
+  {
+    "id": "species_leopard_gecko",
+    "category": "Espèce",
+    "fr": {
+      "title": "Gecko Léopard (Eublepharis macularius)",
+      "content": "Lézard nocturne idéal pour débuter. Insectivore strict. Ne nécessite pas d'UVB puissants mais a besoin de suppléments de calcium. Attention au substrat meuble (risque d'occlusion)."
+    },
+    "en": {
+      "title": "Leopard Gecko (Eublepharis macularius)",
+      "content": "Ideal nocturnal lizard for beginners. Strictly insectivorous. Does not require strong UVB but needs calcium supplements. Beware of loose substrate (impaction risk)."
+    },
+    "zh": {
+      "title": "豹紋守宮 (Eublepharis macularius)",
+      "content": "非常適合初學者的夜行性蜥蜴。嚴格的食蟲動物。不需要強烈的 UVB，但需要補充鈣質。當心鬆散的底材（阻塞風險）。"
+    },
+    "es": {
+      "title": "Gecko Leopardo (Eublepharis macularius)",
+      "content": "Lagarto nocturno ideal para principiantes. Estrictamente insectívoro. No requiere UVB potentes pero necesita suplementos de calcio. Cuidado con el sustrato suelto (riesgo de impactación)."
+    },
+    "de": {
+      "title": "Leopardgecko (Eublepharis macularius)",
+      "content": "Ideale nachtaktive Eidechse für Anfänger. Streng insektenfressend. Benötigt kein starkes UVB, aber Kalziumpräparate. Vorsicht bei losem Bodengrund (Verstopfungsgefahr)."
+    }
+  },
+  {
+    "id": "species_ball_python",
+    "category": "Espèce",
+    "fr": {
+      "title": "Python Royal (Python regius)",
+      "content": "Serpent constricteur docile. Mangeur parfois capricieux (refus fréquents en hiver). Nécessite une humidité autour de 60-70% pour des mues parfaites. Terrarium très sécurisé requis."
+    },
+    "en": {
+      "title": "Ball Python (Python regius)",
+      "content": "Docile constrictor snake. Sometimes a picky eater (frequent refusals in winter). Requires humidity around 60-70% for perfect sheds. Highly secure terrarium required."
+    },
+    "zh": {
+      "title": "球蟒 (Python regius)",
+      "content": "溫順的蟒蛇。有時會挑食（冬季經常拒食）。需要大約 60-70% 的濕度才能完美蛻皮。需要非常安全的飼養箱。"
+    },
+    "es": {
+      "title": "Pitón Real (Python regius)",
+      "content": "Serpiente constrictora dócil. Comedor a veces caprichoso (rechazos frecuentes en invierno). Requiere una humedad alrededor del 60-70% para mudas perfectas. Se requiere un terrario muy seguro."
+    },
+    "de": {
+      "title": "Königspython (Python regius)",
+      "content": "Fügsame Würgeschlange. Manchmal wählerischer Esser (häufige Verweigerung im Winter). Benötigt eine Luftfeuchtigkeit von ca. 60-70% für perfekte Häutungen. Sehr sicheres Terrarium erforderlich."
+    }
+  },
+  {
+    "id": "species_bearded_dragon",
+    "category": "Espèce",
+    "fr": {
+      "title": "Agame Barbu (Pogona vitticeps)",
+      "content": "Lézard diurne d'Australie. Omnivore : nécessite des insectes et des végétaux frais tous les jours. Demande un point chaud très élevé (40°C+) et des UVB très puissants."
+    },
+    "en": {
+      "title": "Bearded Dragon (Pogona vitticeps)",
+      "content": "Diurnal lizard from Australia. Omnivorous: requires insects and fresh vegetables daily. Needs a very high basking spot (40°C/104°F+) and very strong UVB."
+    },
+    "zh": {
+      "title": "鬆獅蜥 (Pogona vitticeps)",
+      "content": "來自澳洲的日行性蜥蜴。雜食性：每天需要昆蟲和新鮮蔬菜。需要非常高的熱點（40°C+）和非常強的 UVB。"
+    },
+    "es": {
+      "title": "Dragón Barbudo (Pogona vitticeps)",
+      "content": "Lagarto diurno de Australia. Omnívoro: requiere insectos y vegetales frescos todos los días. Necesita un punto caliente muy alto (40°C+) y UVB muy potentes."
+    },
+    "de": {
+      "title": "Bartagame (Pogona vitticeps)",
+      "content": "Tagaktive Eidechse aus Australien. Allesfresser: benötigt täglich Insekten und frisches Gemüse. Braucht einen sehr heißen Sonnenplatz (40°C+) und sehr starkes UVB."
+    }
+  },
+  {
+    "id": "species_hermann_tortoise",
+    "category": "Espèce",
+    "fr": {
+      "title": "Tortue d'Hermann (Testudo hermanni)",
+      "content": "Tortue terrestre méditerranéenne. Herbivore stricte (mauvaises herbes, pissenlits). L'hibernation hivernale est cruciale pour sa santé à long terme. La vie en extérieur est fortement recommandée."
+    },
+    "en": {
+      "title": "Hermann's Tortoise (Testudo hermanni)",
+      "content": "Mediterranean tortoise. Strictly herbivorous (weeds, dandelions). Winter hibernation is crucial for its long-term health. Outdoor living is highly recommended."
+    },
+    "zh": {
+      "title": "赫曼陸龜 (Testudo hermanni)",
+      "content": "地中海陸龜。嚴格的草食性動物（雜草、蒲公英）。冬眠對其長期健康至關重要。強烈建議在戶外飼養。"
+    },
+    "es": {
+      "title": "Tortuga Mora (Testudo hermanni)",
+      "content": "Tortuga terrestre mediterránea. Estrictamente herbívora (malas hierbas, dientes de león). La hibernación invernal es crucial para su salud a largo plazo. Se recomienda encarecidamente la vida al aire libre."
+    },
+    "de": {
+      "title": "Griechische Landschildkröte (Testudo hermanni)",
+      "content": "Mediterrane Landschildkröte. Strenger Pflanzenfresser (Unkraut, Löwenzahn). Der Winterschlaf ist entscheidend für ihre langfristige Gesundheit. Freilandhaltung wird dringend empfohlen."
+    }
+  },
+  {
+    "id": "brumation",
+    "category": "Comportement",
+    "fr": {
+      "title": "Brumation (Repos hivernal)",
+      "content": "Repos hivernal naturel chez de nombreux reptiles (baisse d'activité et d'appétit). À ne pas confondre avec la maladie. La température et la lumière doivent être réduites progressivement."
+    },
+    "en": {
+      "title": "Brumation",
+      "content": "Natural winter rest in many reptiles (decreased activity and appetite). Not to be confused with illness. Temperature and light should be reduced gradually."
+    },
+    "zh": {
+      "title": "冬眠 / 休眠",
+      "content": "許多爬行動物自然的冬季休息（活動和食慾下降）。不要與生病混淆。應逐漸降低溫度和光照。"
+    },
+    "es": {
+      "title": "Brumación",
+      "content": "Descanso invernal natural en muchos reptiles (disminución de actividad y apetito). No debe confundirse con enfermedad. La temperatura y la luz deben reducirse gradualmente."
+    },
+    "de": {
+      "title": "Winterruhe (Brumation)",
+      "content": "Natürliche Ruhephase im Winter bei vielen Reptilien (verminderte Aktivität und Appetit). Nicht mit Krankheit zu verwechseln. Temperatur und Licht sollten schrittweise reduziert werden."
+    }
+  },
+  {
+    "id": "handling",
+    "category": "Comportement",
+    "fr": {
+      "title": "Manipulation",
+      "content": "À faire avec parcimonie pour éviter le stress. Ne jamais attraper un lézard par la queue (risque d'autotomie/perte de la queue) ou un animal par la tête."
+    },
+    "en": {
+      "title": "Handling",
+      "content": "To be done sparingly to avoid stress. Never grab a lizard by the tail (risk of autotomy/tail loss) or any animal by the head."
+    },
+    "zh": {
+      "title": "把玩 / 抓取",
+      "content": "應盡量少做以避免壓力。切勿抓取蜥蜴的尾巴（有斷尾風險）或任何動物的頭部。"
+    },
+    "es": {
+      "title": "Manipulación",
+      "content": "Debe hacerse con moderación para evitar el estrés. Nunca agarre a un lagarto por la cola (riesgo de autotomía/pérdida de la cola) ni a ningún animal por la cabeza."
+    },
+    "de": {
+      "title": "Handhabung",
+      "content": "Sparsam durchführen, um Stress zu vermeiden. Greifen Sie eine Eidechse niemals am Schwanz (Gefahr der Autotomie/Schwanzverlust) oder ein Tier am Kopf."
+    }
+  },
+  {
+    "id": "quarantine",
+    "category": "Santé",
+    "fr": {
+      "title": "Quarantaine",
+      "content": "Période d'isolement (1 à 3 mois) sur substrat stérile (essuie-tout) pour tout nouvel animal afin de détecter maladies ou parasites avant de l'introduire avec d'autres."
+    },
+    "en": {
+      "title": "Quarantine",
+      "content": "Isolation period (1 to 3 months) on sterile substrate (paper towels) for any new animal to detect diseases or parasites before introducing it to others."
+    },
+    "zh": {
+      "title": "隔離",
+      "content": "任何新動物的隔離期（1 到 3 個月），使用無菌底材（紙巾），以在與其他動物接觸前檢測疾病或寄生蟲。"
+    },
+    "es": {
+      "title": "Cuarentena",
+      "content": "Período de aislamiento (1 a 3 meses) sobre sustrato estéril (papel de cocina) para cualquier animal nuevo con el fin de detectar enfermedades o parásitos antes de introducirlo con otros."
+    },
+    "de": {
+      "title": "Quarantäne",
+      "content": "Isolationszeit (1 bis 3 Monate) auf sterilem Substrat (Küchenpapier) für jedes neue Tier, um Krankheiten oder Parasiten vor der Vergesellschaftung zu erkennen."
+    }
+  },
+  {
+    "id": "stomatitis",
+    "category": "Santé",
+    "fr": {
+      "title": "Stomatite infectieuse (Pourriture de la bouche)",
+      "content": "Infection bactérienne fréquente chez les reptiles immunodéprimés ou blessés. Symptômes : gencives rouges, pus caséeux, perte d'appétit. Visite vétérinaire urgente."
+    },
+    "en": {
+      "title": "Infectious Stomatitis (Mouth Rot)",
+      "content": "Bacterial infection common in immunosuppressed or injured reptiles. Symptoms: red gums, caseous pus, loss of appetite. Urgent vet visit required."
+    },
+    "zh": {
+      "title": "傳染性口腔炎（口腔腐爛）",
+      "content": "免疫力低下或受傷的爬行動物常見的細菌感染。症狀：牙齦發紅、乾酪樣膿液、食慾不振。需緊急就醫。"
+    },
+    "es": {
+      "title": "Estomatitis infecciosa (Pudrición de la boca)",
+      "content": "Infección bacteriana común en reptiles inmunodeprimidos o heridos. Síntomas: encías rojas, pus caseoso, pérdida de apetito. Visita veterinaria urgente."
+    },
+    "de": {
+      "title": "Infektiöse Stomatitis (Maulfäule)",
+      "content": "Häufige bakterielle Infektion bei immunsupprimierten oder verletzten Reptilien. Symptome: rotes Zahnfleisch, käsiger Eiter, Appetitlosigkeit. Dringender Tierarztbesuch erforderlich."
+    }
+  },
+  {
+    "id": "thermostat",
+    "category": "Matériel",
+    "fr": {
+      "title": "Thermostat",
+      "content": "Matériel de sécurité strictement obligatoire pour TOUTE source de chaleur (tapis, câble, lampe céramique). Prévient les brûlures graves et les incendies en régulant la température."
+    },
+    "en": {
+      "title": "Thermostat",
+      "content": "Strictly mandatory safety equipment for ANY heat source (mat, cable, ceramic heat emitter). Prevents severe burns and fires by regulating the temperature."
+    },
+    "zh": {
+      "title": "溫控器",
+      "content": "任何熱源（加熱墊、加熱線、陶瓷加熱燈）絕對必需的安全設備。透過調節溫度來防止嚴重燒傷和火災。"
+    },
+    "es": {
+      "title": "Termostato",
+      "content": "Equipo de seguridad estrictamente obligatorio para CUALQUIER fuente de calor (manta, cable, lámpara de cerámica). Previene quemaduras graves e incendios regulando la temperatura."
+    },
+    "de": {
+      "title": "Thermostat",
+      "content": "Zwingend vorgeschriebene Sicherheitsausrüstung für JEDE Wärmequelle (Heizmatte, Kabel, Keramikstrahler). Verhindert schwere Verbrennungen und Brände durch Temperaturregelung."
+    }
+  },
+  {
+    "id": "species_corn_snake",
+    "category": "Espèce",
+    "fr": {
+      "title": "Serpent des blés (Pantherophis guttatus)",
+      "content": "Excellent premier serpent. Très tolérant aux erreurs de débutant, excellent mangeur et diurne/crépusculaire. Morphologies de couleurs très variées."
+    },
+    "en": {
+      "title": "Corn Snake (Pantherophis guttatus)",
+      "content": "Excellent first snake. Very forgiving of beginner mistakes, great eater, and diurnal/crepuscular. Huge variety of color morphs."
+    },
+    "zh": {
+      "title": "玉米蛇 (Pantherophis guttatus)",
+      "content": "極佳的入門蛇。對初學者的錯誤容忍度高，食慾極佳，屬日行/晨昏性。有多種顏色變異。"
+    },
+    "es": {
+      "title": "Serpiente del maíz (Pantherophis guttatus)",
+      "content": "Excelente primera serpiente. Muy tolerante a los errores de principiante, gran comedora y diurna/crepuscular. Enorme variedad de fases de color."
+    },
+    "de": {
+      "title": "Kornnatter (Pantherophis guttatus)",
+      "content": "Hervorragende Anfängerschlange. Verzeiht Anfängerfehler sehr gut, hervorragender Fresser und tag-/dämmerungsaktiv. Riesige Vielfalt an Farbvarianten."
+    }
+  },
+  {
+    "id": "species_crested_gecko",
+    "category": "Espèce",
+    "fr": {
+      "title": "Gecko à crête (Correlophus ciliatus)",
+      "content": "Espèce arboricole nocturne facile à maintenir. Son alimentation est principalement basée sur des poudres de fruits réhydratées (ex: Pangea, Repashy). Vit à température ambiante de maison."
+    },
+    "en": {
+      "title": "Crested Gecko (Correlophus ciliatus)",
+      "content": "Easy-to-keep nocturnal arboreal species. Diet is mostly based on rehydrated fruit powders (e.g., Pangea, Repashy). Thrives at normal room temperatures."
+    },
+    "zh": {
+      "title": "睫角守宮 (Correlophus ciliatus)",
+      "content": "易於飼養的夜行性樹棲物種。飲食主要以加水還原的水果粉（如 Pangea, Repashy）為基礎。在正常的室溫下生長良好。"
+    },
+    "es": {
+      "title": "Gecko crestado (Correlophus ciliatus)",
+      "content": "Especie arborícola nocturna fácil de mantener. Su dieta se basa principalmente en polvos de frutas rehidratados (ej. Pangea, Repashy). Vive bien a temperatura ambiente normal."
+    },
+    "de": {
+      "title": "Kronengecko (Correlophus ciliatus)",
+      "content": "Leicht zu haltende nachtaktive, baumbewohnende Art. Die Ernährung basiert hauptsächlich auf rehydrierten Fruchtpulvern (z.B. Pangea, Repashy). Gedeiht bei normalen Raumtemperaturen."
+    }
+  },
+  {
+    "id": "species_blue_tongue_skink",
+    "category": "Espèce",
+    "fr": {
+      "title": "Scinque à langue bleue (Tiliqua)",
+      "content": "Lézard terrestre trapu, réputé pour son intelligence et sa docilité. Omnivore opportuniste (mange insectes, légumes, et même parfois de la nourriture pour chat haut de gamme)."
+    },
+    "en": {
+      "title": "Blue-Tongued Skink (Tiliqua)",
+      "content": "Stout terrestrial lizard, known for its intelligence and docility. Opportunistic omnivore (eats insects, veggies, and sometimes high-quality cat food)."
+    },
+    "zh": {
+      "title": "藍舌石龍子 (Tiliqua)",
+      "content": "粗壯的陸棲蜥蜴，以其聰明和溫順而聞名。機會主義雜食動物（吃昆蟲、蔬菜，有時吃優質貓糧）。"
+    },
+    "es": {
+      "title": "Eslizón de lengua azul (Tiliqua)",
+      "content": "Lagarto terrestre robusto, conocido por su inteligencia y docilidad. Omnívoro oportunista (come insectos, verduras y, a veces, comida para gatos de alta calidad)."
+    },
+    "de": {
+      "title": "Blauzungenskink (Tiliqua)",
+      "content": "Stämmige bodenbewohnende Eidechse, bekannt für ihre Intelligenz und Fügsamkeit. Opportunistischer Allesfresser (frisst Insekten, Gemüse und manchmal hochwertiges Katzenfutter)."
+    }
+  },
+  {
+    "id": "species_pacman_frog",
+    "category": "Amphibien",
+    "fr": {
+      "title": "Grenouille Pacman (Ceratophrys)",
+      "content": "Amphibien fouisseur peu actif. Extrêmement vorace, elle essaiera d'avaler tout ce qui passe devant sa bouche. Nécessite un substrat très humide (fibre de coco) et une hygiène irréprochable."
+    },
+    "en": {
+      "title": "Pacman Frog (Ceratophrys)",
+      "content": "Inactive burrowing amphibian. Extremely voracious, it will try to swallow anything passing in front of its mouth. Requires very moist substrate (coco coir) and pristine hygiene."
+    },
+    "zh": {
+      "title": "角蛙 (Ceratophrys)",
+      "content": "不活躍的穴居兩棲動物。極度貪吃，會試圖吞下從牠嘴前經過的任何東西。需要非常潮濕的底材（椰纖）和無可挑剔的衛生條件。"
+    },
+    "es": {
+      "title": "Rana Pacman (Ceratophrys)",
+      "content": "Anfibio excavador poco activo. Extremadamente voraz, intentará tragar cualquier cosa que pase frente a su boca. Requiere un sustrato muy húmedo (fibra de coco) y una higiene impecable."
+    },
+    "de": {
+      "title": "Schmuckhornfrosch / Pacman-Frosch (Ceratophrys)",
+      "content": "Wenig aktive grabende Amphibie. Extrem gefräßig, versucht alles zu verschlucken, was an seinem Maul vorbeikommt. Benötigt sehr feuchtes Substrat (Kokosfaser) und makellose Hygiene."
+    }
+  },
+  {
+    "id": "species_axolotl",
+    "category": "Amphibien",
+    "fr": {
+      "title": "Axolotl (Ambystoma mexicanum)",
+      "content": "Salamandre strictement aquatique qui conserve ses branchies à l'âge adulte (néoténie). Impératif : une eau froide (15-18°C), un système de filtration doux et pas de petits graviers qu'il pourrait avaler."
+    },
+    "en": {
+      "title": "Axolotl (Ambystoma mexicanum)",
+      "content": "Strictly aquatic salamander that keeps its gills into adulthood (neoteny). Mandatory: cold water (15-18°C / 59-64°F), gentle filtration, and no small gravel it could swallow."
+    },
+    "zh": {
+      "title": "墨西哥鈍口螈 / 六角恐龍 (Ambystoma mexicanum)",
+      "content": "嚴格水生的蠑螈，成年後仍保留鰓（幼態延續）。必須條件：冷水（15-18°C）、溫和的過濾系統，且不能有牠可能吞下的小碎石。"
+    },
+    "es": {
+      "title": "Ajolote (Ambystoma mexicanum)",
+      "content": "Salamandra estrictamente acuática que conserva sus branquias en la edad adulta (neotenia). Imprescindible: agua fría (15-18°C), filtración suave y sin grava pequeña que pueda tragar."
+    },
+    "de": {
+      "title": "Axolotl (Ambystoma mexicanum)",
+      "content": "Streng aquatischer Salamander, der seine Kiemen bis ins Erwachsenenalter behält (Neotenie). Zwingend erforderlich: kaltes Wasser (15-18°C), sanfte Filterung und kein kleiner Kies, den er verschlucken könnte."
+    }
+  }
+]
