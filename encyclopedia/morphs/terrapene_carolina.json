@@ -1,0 +1,7 @@
+{
+  "species_scientific": "Terrapene Carolina",
+  "name": { "fr": "Tortue-boîte de Caroline", "en": "Common Box Turtle" },
+  "morphs": [
+    { "fr": "Normal", "en": "Normal", "type": "wildtype" }
+  ]
+}
