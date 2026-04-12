@@ -1,0 +1,7 @@
+{
+  "species_scientific": "Testudo Graeca",
+  "name": { "fr": "Tortue mauresque", "en": "Spur-thighed Tortoise" },
+  "morphs": [
+    { "fr": "Normal", "en": "Normal", "type": "wildtype" }
+  ]
+}
