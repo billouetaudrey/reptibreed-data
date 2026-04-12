@@ -28,46 +28,18 @@
     "type": "animal"
   },
   {
-    "id": "tips",
+    "id": "medical",
     "title": {
-      "fr": "Conseils",
-      "en": "Tips",
-      "es": "Consejos",
-      "de": "Tipps",
-      "zh": "提示",
-      "nl": "Tips"
+      "fr": "Guides/Médical",
+      "en": "Guides/Medical",
+      "es": "Guías/Médico",
+      "de": "Ratgeber/Medizinisch",
+      "zh": "指南/医疗",
+      "nl": "Gidsen/Medisch"
     },
-    "file": "tips.json",
-    "icon": "Lightbulb",
-    "type": "content"
-  },
-  {
-    "id": "help",
-    "title": {
-      "fr": "Aides",
-      "en": "Help",
-      "es": "Ayudas",
-      "de": "Hilfen",
-      "zh": "帮助",
-      "nl": "Hulp"
-    },
-    "file": "help.json",
+    "file": "medical.json",
     "icon": "Stethoscope",
     "type": "content"
-  },
-  {
-    "id": "diet",
-    "title": {
-      "fr": "Nourriture",
-      "en": "Food",
-      "es": "Comida",
-      "de": "Futter",
-      "zh": "食物",
-      "nl": "Voedsel"
-    },
-    "file": "diet.json",
-    "icon": "Beef",
-    "type": "feed"
   },
   {
     "id": "morph",
