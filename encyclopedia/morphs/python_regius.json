@@ -1,0 +1,437 @@
+{
+  "species_scientific": "Python Regius",
+  "name": {
+    "fr": "Python Royal",
+    "en": "Ball Python",
+    "es": "Ball Python",
+    "de": "Ball Python",
+    "zh": "Ball Python",
+    "nl": "Ball Python"
+  },
+  "morphs": [
+    {
+      "fr": "Albino",
+      "en": "Albino",
+      "es": "Albino",
+      "de": "Albino",
+      "zh": "Albino",
+      "nl": "Albino"
+    },
+    {
+      "fr": "Asphalt",
+      "en": "Asphalt",
+      "es": "Asphalt",
+      "de": "Asphalt",
+      "zh": "Asphalt",
+      "nl": "Asphalt"
+    },
+    {
+      "fr": "Axanthic",
+      "en": "Axanthic",
+      "es": "Axanthic",
+      "de": "Axanthic",
+      "zh": "Axanthic",
+      "nl": "Axanthic"
+    },
+    {
+      "fr": "BEL (Blue Eyed Leucistic)",
+      "en": "BEL (Blue Eyed Leucistic)",
+      "es": "BEL (Blue Eyed Leucistic)",
+      "de": "BEL (Blue Eyed Leucistic)",
+      "zh": "BEL (Blue Eyed Leucistic)",
+      "nl": "BEL (Blue Eyed Leucistic)"
+    },
+    {
+      "fr": "Bamboo",
+      "en": "Bamboo",
+      "es": "Bamboo",
+      "de": "Bamboo",
+      "zh": "Bamboo",
+      "nl": "Bamboo"
+    },
+    {
+      "fr": "Banana",
+      "en": "Banana",
+      "es": "Banana",
+      "de": "Banana",
+      "zh": "Banana",
+      "nl": "Banana"
+    },
+    {
+      "fr": "Black Pastel",
+      "en": "Black Pastel",
+      "es": "Black Pastel",
+      "de": "Black Pastel",
+      "zh": "Black Pastel",
+      "nl": "Black Pastel"
+    },
+    {
+      "fr": "Bumblebee",
+      "en": "Bumblebee",
+      "es": "Bumblebee",
+      "de": "Bumblebee",
+      "zh": "Bumblebee",
+      "nl": "Bumblebee"
+    },
+    {
+      "fr": "Butter",
+      "en": "Butter",
+      "es": "Butter",
+      "de": "Butter",
+      "zh": "Butter",
+      "nl": "Butter"
+    },
+    {
+      "fr": "Calico",
+      "en": "Calico",
+      "es": "Calico",
+      "de": "Calico",
+      "zh": "Calico",
+      "nl": "Calico"
+    },
+    {
+      "fr": "Candy",
+      "en": "Candy",
+      "es": "Candy",
+      "de": "Candy",
+      "zh": "Candy",
+      "nl": "Candy"
+    },
+    {
+      "fr": "Champagne",
+      "en": "Champagne",
+      "es": "Champagne",
+      "de": "Champagne",
+      "zh": "Champagne",
+      "nl": "Champagne"
+    },
+    {
+      "fr": "Cinnamon",
+      "en": "Cinnamon",
+      "es": "Cinnamon",
+      "de": "Cinnamon",
+      "zh": "Cinnamon",
+      "nl": "Cinnamon"
+    },
+    {
+      "fr": "Clown",
+      "en": "Clown",
+      "es": "Clown",
+      "de": "Clown",
+      "zh": "Clown",
+      "nl": "Clown"
+    },
+    {
+      "fr": "Desert Ghost",
+      "en": "Desert Ghost",
+      "es": "Desert Ghost",
+      "de": "Desert Ghost",
+      "zh": "Desert Ghost",
+      "nl": "Desert Ghost"
+    },
+    {
+      "fr": "Enchi",
+      "en": "Enchi",
+      "es": "Enchi",
+      "de": "Enchi",
+      "zh": "Enchi",
+      "nl": "Enchi"
+    },
+    {
+      "fr": "Fire",
+      "en": "Fire",
+      "es": "Fire",
+      "de": "Fire",
+      "zh": "Fire",
+      "nl": "Fire"
+    },
+    {
+      "fr": "GHI",
+      "en": "GHI",
+      "es": "GHI",
+      "de": "GHI",
+      "zh": "GHI",
+      "nl": "GHI"
+    },
+    {
+      "fr": "Genetic Stripe",
+      "en": "Genetic Stripe",
+      "es": "Genetic Stripe",
+      "de": "Genetic Stripe",
+      "zh": "Genetic Stripe",
+      "nl": "Genetic Stripe"
+    },
+    {
+      "fr": "Ghost",
+      "en": "Ghost",
+      "es": "Ghost",
+      "de": "Ghost",
+      "zh": "Ghost",
+      "nl": "Ghost"
+    },
+    {
+      "fr": "Gravel",
+      "en": "Gravel",
+      "es": "Gravel",
+      "de": "Gravel",
+      "zh": "Gravel",
+      "nl": "Gravel"
+    },
+    {
+      "fr": "Hypo",
+      "en": "Hypo",
+      "es": "Hypo",
+      "de": "Hypo",
+      "zh": "Hypo",
+      "nl": "Hypo"
+    },
+    {
+      "fr": "Ivory",
+      "en": "Ivory",
+      "es": "Ivory",
+      "de": "Ivory",
+      "zh": "Ivory",
+      "nl": "Ivory"
+    },
+    {
+      "fr": "Killer Clown",
+      "en": "Killer Clown",
+      "es": "Killer Clown",
+      "de": "Killer Clown",
+      "zh": "Killer Clown",
+      "nl": "Killer Clown"
+    },
+    {
+      "fr": "Lavender Albino",
+      "en": "Lavender Albino",
+      "es": "Lavender Albino",
+      "de": "Lavender Albino",
+      "zh": "Lavender Albino",
+      "nl": "Lavender Albino"
+    },
+    {
+      "fr": "Lesser",
+      "en": "Lesser",
+      "es": "Lesser",
+      "de": "Lesser",
+      "zh": "Lesser",
+      "nl": "Lesser"
+    },
+    {
+      "fr": "Lori",
+      "en": "Lori",
+      "es": "Lori",
+      "de": "Lori",
+      "zh": "Lori",
+      "nl": "Lori"
+    },
+    {
+      "fr": "Mocha",
+      "en": "Mocha",
+      "es": "Mocha",
+      "de": "Mocha",
+      "zh": "Mocha",
+      "nl": "Mocha"
+    },
+    {
+      "fr": "Mojave",
+      "en": "Mojave",
+      "es": "Mojave",
+      "de": "Mojave",
+      "zh": "Mojave",
+      "nl": "Mojave"
+    },
+    {
+      "fr": "Mystic",
+      "en": "Mystic",
+      "es": "Mystic",
+      "de": "Mystic",
+      "zh": "Mystic",
+      "nl": "Mystic"
+    },
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal"
+    },
+    {
+      "fr": "Orange Dream",
+      "en": "Orange Dream",
+      "es": "Orange Dream",
+      "de": "Orange Dream",
+      "zh": "Orange Dream",
+      "nl": "Orange Dream"
+    },
+    {
+      "fr": "Panda Pied",
+      "en": "Panda Pied",
+      "es": "Panda Pied",
+      "de": "Panda Pied",
+      "zh": "Panda Pied",
+      "nl": "Panda Pied"
+    },
+    {
+      "fr": "Pastel",
+      "en": "Pastel",
+      "es": "Pastel",
+      "de": "Pastel",
+      "zh": "Pastel",
+      "nl": "Pastel"
+    },
+    {
+      "fr": "Phantom",
+      "en": "Phantom",
+      "es": "Phantom",
+      "de": "Phantom",
+      "zh": "Phantom",
+      "nl": "Phantom"
+    },
+    {
+      "fr": "Piebald",
+      "en": "Piebald",
+      "es": "Piebald",
+      "de": "Piebald",
+      "zh": "Piebald",
+      "nl": "Piebald"
+    },
+    {
+      "fr": "Pied",
+      "en": "Pied",
+      "es": "Pied",
+      "de": "Pied",
+      "zh": "Pied",
+      "nl": "Pied"
+    },
+    {
+      "fr": "Pinstripe",
+      "en": "Pinstripe",
+      "es": "Pinstripe",
+      "de": "Pinstripe",
+      "zh": "Pinstripe",
+      "nl": "Pinstripe"
+    },
+    {
+      "fr": "Russo",
+      "en": "Russo",
+      "es": "Russo",
+      "de": "Russo",
+      "zh": "Russo",
+      "nl": "Russo"
+    },
+    {
+      "fr": "Sable",
+      "en": "Sable",
+      "es": "Sable",
+      "de": "Sable",
+      "zh": "Sable",
+      "nl": "Sable"
+    },
+    {
+      "fr": "Spark",
+      "en": "Spark",
+      "es": "Spark",
+      "de": "Spark",
+      "zh": "Spark",
+      "nl": "Spark"
+    },
+    {
+      "fr": "Special",
+      "en": "Special",
+      "es": "Special",
+      "de": "Special",
+      "zh": "Special",
+      "nl": "Special"
+    },
+    {
+      "fr": "Specter",
+      "en": "Specter",
+      "es": "Specter",
+      "de": "Specter",
+      "zh": "Specter",
+      "nl": "Specter"
+    },
+    {
+      "fr": "Spider",
+      "en": "Spider",
+      "es": "Spider",
+      "de": "Spider",
+      "zh": "Spider",
+      "nl": "Spider"
+    },
+    {
+      "fr": "Spinypied",
+      "en": "Spinypied",
+      "es": "Spinypied",
+      "de": "Spinypied",
+      "zh": "Spinypied",
+      "nl": "Spinypied"
+    },
+    {
+      "fr": "Spotnose",
+      "en": "Spotnose",
+      "es": "Spotnose",
+      "de": "Spotnose",
+      "zh": "Spotnose",
+      "nl": "Spotnose"
+    },
+    {
+      "fr": "Sugar",
+      "en": "Sugar",
+      "es": "Sugar",
+      "de": "Sugar",
+      "zh": "Sugar",
+      "nl": "Sugar"
+    },
+    {
+      "fr": "Toffee",
+      "en": "Toffee",
+      "es": "Toffee",
+      "de": "Toffee",
+      "zh": "Toffee",
+      "nl": "Toffee"
+    },
+    {
+      "fr": "Tri-stripe",
+      "en": "Tri-stripe",
+      "es": "Tri-stripe",
+      "de": "Tri-stripe",
+      "zh": "Tri-stripe",
+      "nl": "Tri-stripe"
+    },
+    {
+      "fr": "Ultramel",
+      "en": "Ultramel",
+      "es": "Ultramel",
+      "de": "Ultramel",
+      "zh": "Ultramel",
+      "nl": "Ultramel"
+    },
+    {
+      "fr": "Vanilla",
+      "en": "Vanilla",
+      "es": "Vanilla",
+      "de": "Vanilla",
+      "zh": "Vanilla",
+      "nl": "Vanilla"
+    },
+    {
+      "fr": "Woma",
+      "en": "Woma",
+      "es": "Woma",
+      "de": "Woma",
+      "zh": "Woma",
+      "nl": "Woma"
+    },
+    {
+      "fr": "Yellow Belly",
+      "en": "Yellow Belly",
+      "es": "Yellow Belly",
+      "de": "Yellow Belly",
+      "zh": "Yellow Belly",
+      "nl": "Yellow Belly"
+    }
+  ]
+}
