@@ -73,5 +73,6 @@ export default {
   "photo_backup_alert_msg": "您已添加 %d 张新照片。是否立即执行完整备份（包含照片的 ZIP 文件）？",
   "backup_threshold_reached_title": "已达到照片上限",
   "backup_threshold_reached_desc": "您最近添加了多张照片。您现在要进行完整备份（包括照片）吗？这可能需要一点时间。",
-  "no_cloud_backup_found": "错误：在您的云端未找到备份"
+  "no_cloud_backup_found": "错误：在您的云端未找到备份",
+  "last_sync_encyclopedia": "最后更新"
 };
