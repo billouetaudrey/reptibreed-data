@@ -1,0 +1,31 @@
+export default {
+  "morph": "Phase / Morph",
+  "species": "Espèce",
+  "all_species": "Toutes les espèces",
+  "delete_species_title": "Supprimer l'espèce ?",
+  "delete_species_msg": "Voulez-vous supprimer cette espèce :",
+  "no_morph": "Inconnue",
+  "unknown_morph": "Morph non indiqué",
+  "species_placeholder": "Nom de l'espèce",
+  "other_species": "Nom de l'espèce...",
+  "mother_species": "Espèce mère",
+  "father_species": "Espèce père",
+  "possible_morphs": "Morphs possibles",
+  "target_morph_placeholder": "Ex : Palmetto Scaleless...",
+  "common_species": [
+    "Pantherophis Guttatus",
+    "Hétérodon",
+    "Python Regius",
+    "Autre"
+  ],
+  "select_species_placeholder": "Choisir une espèce...",
+  "update_species": "Mettre à jour les espèces",
+  "update_species_desc": "Télécharger les dernières espèces communautaires depuis la communauté.",
+  "suggest_species": "Suggérer une espèce",
+  "suggest_species_email_subject": "Suggestion d'espèce - ReptiBreed",
+  "suggest_species_email_body": "Bonjour,\\n\\nJe souhaiterais suggérer l'ajout de l'espèce suivante :\\n\\nNom : \\nType d'animal (Serpent, Lézard...) : \\nRégime : \\nReproduction : \\nVenimeux : Oui/Non\\n\\nMerci !",
+  "search_species": "Rechercher une espèce...",
+  "no_species_found": "Aucune espèce trouvée",
+  "group_by_morph": "Phase",
+  "by_species": "Par espèce"
+};
