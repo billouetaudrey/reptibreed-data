@@ -1,0 +1,211 @@
+{
+  "species_scientific": "Eryx Colubrinus",
+  "name": {
+    "fr": "Boa des sables du Kenya",
+    "en": "Kenyan Sand Boa",
+    "es": "Boa de arena de Kenia",
+    "de": "Kenianische Sandboa",
+    "zh": "肯尼亚沙蚺",
+    "nl": "Keniaanse zandboa"
+  },
+  "morphs": [
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal",
+      "type": "wildtype"
+    },
+    {
+      "fr": "Albino",
+      "en": "Albino",
+      "es": "Albino",
+      "de": "Albino",
+      "zh": "Albino",
+      "nl": "Albino",
+      "type": "recessive"
+    },
+    {
+      "fr": "Anerythristic",
+      "en": "Anerythristic",
+      "es": "Anerythristic",
+      "de": "Anerythristic",
+      "zh": "Anerythristic",
+      "nl": "Anerythristic",
+      "type": "recessive"
+    },
+    {
+      "fr": "Splash",
+      "en": "Splash",
+      "es": "Splash",
+      "de": "Splash",
+      "zh": "Splash",
+      "nl": "Splash",
+      "type": "recessive"
+    },
+    {
+      "fr": "Stripe",
+      "en": "Stripe",
+      "es": "Stripe",
+      "de": "Stripe",
+      "zh": "Stripe",
+      "nl": "Stripe",
+      "type": "dominant"
+    },
+    {
+      "fr": "Paradox",
+      "en": "Paradox",
+      "es": "Paradox",
+      "de": "Paradox",
+      "zh": "Paradox",
+      "nl": "Paradox",
+      "type": "trait"
+    },
+    {
+      "fr": "Tiger",
+      "en": "Tiger",
+      "es": "Tiger",
+      "de": "Tiger",
+      "zh": "Tiger",
+      "nl": "Tiger",
+      "type": "dominant"
+    },
+    {
+      "fr": "Nuclear (Hypo)",
+      "en": "Nuclear (Hypo)",
+      "es": "Nuclear (Hypo)",
+      "de": "Nuclear (Hypo)",
+      "zh": "Nuclear (Hypo)",
+      "nl": "Nuclear (Hypo)",
+      "type": "recessive"
+    },
+    {
+      "fr": "Paint",
+      "en": "Paint",
+      "es": "Paint",
+      "de": "Paint",
+      "zh": "Paint",
+      "nl": "Paint",
+      "type": "recessive"
+    },
+    {
+      "fr": "Zulu",
+      "en": "Zulu",
+      "es": "Zulu",
+      "de": "Zulu",
+      "zh": "Zulu",
+      "nl": "Zulu",
+      "type": "recessive"
+    },
+    {
+      "fr": "Rufescens",
+      "en": "Rufescens",
+      "es": "Rufescens",
+      "de": "Rufescens",
+      "zh": "Rufescens",
+      "nl": "Rufescens",
+      "type": "trait"
+    },
+    {
+      "fr": "Dodoma",
+      "en": "Dodoma",
+      "es": "Dodoma",
+      "de": "Dodoma",
+      "zh": "Dodoma",
+      "nl": "Dodoma",
+      "type": "trait"
+    },
+    {
+      "fr": "High Yellow",
+      "en": "High Yellow",
+      "es": "High Yellow",
+      "de": "High Yellow",
+      "zh": "High Yellow",
+      "nl": "High Yellow",
+      "type": "trait"
+    },
+    {
+      "fr": "High Orange",
+      "en": "High Orange",
+      "es": "High Orange",
+      "de": "High Orange",
+      "zh": "High Orange",
+      "nl": "High Orange",
+      "type": "trait"
+    },
+    {
+      "fr": "Calico",
+      "en": "Calico",
+      "es": "Calico",
+      "de": "Calico",
+      "zh": "Calico",
+      "nl": "Calico",
+      "type": "trait"
+    },
+    {
+      "fr": "White Side",
+      "en": "White Side",
+      "es": "White Side",
+      "de": "White Side",
+      "zh": "White Side",
+      "nl": "White Side",
+      "type": "trait"
+    },
+    {
+      "fr": "Flame",
+      "en": "Flame",
+      "es": "Flame",
+      "de": "Flame",
+      "zh": "Flame",
+      "nl": "Flame",
+      "type": "trait"
+    },
+    {
+      "fr": "Snow",
+      "en": "Snow",
+      "es": "Snow",
+      "de": "Snow",
+      "zh": "Snow",
+      "nl": "Snow",
+      "type": "combo"
+    },
+    {
+      "fr": "Ghost",
+      "en": "Ghost",
+      "es": "Ghost",
+      "de": "Ghost",
+      "zh": "Ghost",
+      "nl": "Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Splash",
+      "en": "Albino Splash",
+      "es": "Albino Splash",
+      "de": "Albino Splash",
+      "zh": "Albino Splash",
+      "nl": "Albino Splash",
+      "type": "combo"
+    },
+    {
+      "fr": "Anery Splash",
+      "en": "Anery Splash",
+      "es": "Anery Splash",
+      "de": "Anery Splash",
+      "zh": "Anery Splash",
+      "nl": "Anery Splash",
+      "type": "combo"
+    },
+    {
+      "fr": "Snow Splash",
+      "en": "Snow Splash",
+      "es": "Snow Splash",
+      "de": "Snow Splash",
+      "zh": "Snow Splash",
+      "nl": "Snow Splash",
+      "type": "combo"
+    }
+  ]
+}
