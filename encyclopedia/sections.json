@@ -1,30 +1,86 @@
 [
   {
+    "id": "faq",
+    "title": {
+      "fr": "FAQ",
+      "en": "FAQ",
+      "es": "FAQ",
+      "de": "FAQ",
+      "zh": "常见问题",
+      "nl": "FAQ"
+    },
+    "file": "faq.json",
+    "icon": "HelpCircle",
+    "type": "content"
+  },
+  {
     "id": "species",
-    "title": { "fr": "Espèces", "en": "Species", "es": "Especies", "de": "Arten", "zh": "物种", "nl": "Soorten" },
+    "title": {
+      "fr": "Espèces",
+      "en": "Species",
+      "es": "Especies",
+      "de": "Arten",
+      "zh": "物种",
+      "nl": "Soorten"
+    },
     "file": "species.json",
     "icon": "BookOpen",
     "type": "animal"
   },
   {
     "id": "tips",
-    "title": { "fr": "Conseils", "en": "Tips", "es": "Consejos", "de": "Tipps", "zh": "提示", "nl": "Tips" },
+    "title": {
+      "fr": "Conseils",
+      "en": "Tips",
+      "es": "Consejos",
+      "de": "Tipps",
+      "zh": "提示",
+      "nl": "Tips"
+    },
     "file": "tips.json",
     "icon": "Lightbulb",
     "type": "content"
   },
   {
     "id": "help",
-    "title": { "fr": "Aides", "en": "Help", "es": "Ayudas", "de": "Hilfen", "zh": "帮助", "nl": "Hulp" },
+    "title": {
+      "fr": "Aides",
+      "en": "Help",
+      "es": "Ayudas",
+      "de": "Hilfen",
+      "zh": "帮助",
+      "nl": "Hulp"
+    },
     "file": "help.json",
-    "icon": "HelpCircle",
+    "icon": "Stethoscope",
     "type": "content"
   },
   {
-    "id": "feed",
-    "title": { "fr": "Nourriture", "en": "Food", "es": "Comida", "de": "Futter", "zh": "食物", "nl": "Voedsel" },
-    "file": "feed.json",
+    "id": "diet",
+    "title": {
+      "fr": "Nourriture",
+      "en": "Food",
+      "es": "Comida",
+      "de": "Futter",
+      "zh": "食物",
+      "nl": "Voedsel"
+    },
+    "file": "diet.json",
     "icon": "Beef",
     "type": "feed"
+  },
+  {
+    "id": "morph",
+    "title": {
+      "fr": "Morphs",
+      "en": "Morphs",
+      "es": "Morphs",
+      "de": "Morphen",
+      "zh": "变异",
+      "nl": "Morphen"
+    },
+    "file": "morph.json",
+    "icon": "Palette",
+    "type": "morph"
   }
 ]
