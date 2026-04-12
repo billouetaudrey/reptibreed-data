@@ -10,20 +10,22 @@
   },
   "morphs": [
     {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal",
+      "type": "wildtype"
+    },
+    {
       "fr": "Albino",
       "en": "Albino",
       "es": "Albino",
       "de": "Albino",
       "zh": "Albino",
-      "nl": "Albino"
-    },
-    {
-      "fr": "Asphalt",
-      "en": "Asphalt",
-      "es": "Asphalt",
-      "de": "Asphalt",
-      "zh": "Asphalt",
-      "nl": "Asphalt"
+      "nl": "Albino",
+      "type": "recessive"
     },
     {
       "fr": "Axanthic",
@@ -31,87 +33,8 @@
       "es": "Axanthic",
       "de": "Axanthic",
       "zh": "Axanthic",
-      "nl": "Axanthic"
-    },
-    {
-      "fr": "BEL (Blue Eyed Leucistic)",
-      "en": "BEL (Blue Eyed Leucistic)",
-      "es": "BEL (Blue Eyed Leucistic)",
-      "de": "BEL (Blue Eyed Leucistic)",
-      "zh": "BEL (Blue Eyed Leucistic)",
-      "nl": "BEL (Blue Eyed Leucistic)"
-    },
-    {
-      "fr": "Bamboo",
-      "en": "Bamboo",
-      "es": "Bamboo",
-      "de": "Bamboo",
-      "zh": "Bamboo",
-      "nl": "Bamboo"
-    },
-    {
-      "fr": "Banana",
-      "en": "Banana",
-      "es": "Banana",
-      "de": "Banana",
-      "zh": "Banana",
-      "nl": "Banana"
-    },
-    {
-      "fr": "Black Pastel",
-      "en": "Black Pastel",
-      "es": "Black Pastel",
-      "de": "Black Pastel",
-      "zh": "Black Pastel",
-      "nl": "Black Pastel"
-    },
-    {
-      "fr": "Bumblebee",
-      "en": "Bumblebee",
-      "es": "Bumblebee",
-      "de": "Bumblebee",
-      "zh": "Bumblebee",
-      "nl": "Bumblebee"
-    },
-    {
-      "fr": "Butter",
-      "en": "Butter",
-      "es": "Butter",
-      "de": "Butter",
-      "zh": "Butter",
-      "nl": "Butter"
-    },
-    {
-      "fr": "Calico",
-      "en": "Calico",
-      "es": "Calico",
-      "de": "Calico",
-      "zh": "Calico",
-      "nl": "Calico"
-    },
-    {
-      "fr": "Candy",
-      "en": "Candy",
-      "es": "Candy",
-      "de": "Candy",
-      "zh": "Candy",
-      "nl": "Candy"
-    },
-    {
-      "fr": "Champagne",
-      "en": "Champagne",
-      "es": "Champagne",
-      "de": "Champagne",
-      "zh": "Champagne",
-      "nl": "Champagne"
-    },
-    {
-      "fr": "Cinnamon",
-      "en": "Cinnamon",
-      "es": "Cinnamon",
-      "de": "Cinnamon",
-      "zh": "Cinnamon",
-      "nl": "Cinnamon"
+      "nl": "Axanthic",
+      "type": "recessive"
     },
     {
       "fr": "Clown",
@@ -119,7 +42,8 @@
       "es": "Clown",
       "de": "Clown",
       "zh": "Clown",
-      "nl": "Clown"
+      "nl": "Clown",
+      "type": "recessive"
     },
     {
       "fr": "Desert Ghost",
@@ -127,31 +51,8 @@
       "es": "Desert Ghost",
       "de": "Desert Ghost",
       "zh": "Desert Ghost",
-      "nl": "Desert Ghost"
-    },
-    {
-      "fr": "Enchi",
-      "en": "Enchi",
-      "es": "Enchi",
-      "de": "Enchi",
-      "zh": "Enchi",
-      "nl": "Enchi"
-    },
-    {
-      "fr": "Fire",
-      "en": "Fire",
-      "es": "Fire",
-      "de": "Fire",
-      "zh": "Fire",
-      "nl": "Fire"
-    },
-    {
-      "fr": "GHI",
-      "en": "GHI",
-      "es": "GHI",
-      "de": "GHI",
-      "zh": "GHI",
-      "nl": "GHI"
+      "nl": "Desert Ghost",
+      "type": "recessive"
     },
     {
       "fr": "Genetic Stripe",
@@ -159,7 +60,8 @@
       "es": "Genetic Stripe",
       "de": "Genetic Stripe",
       "zh": "Genetic Stripe",
-      "nl": "Genetic Stripe"
+      "nl": "Genetic Stripe",
+      "type": "recessive"
     },
     {
       "fr": "Ghost",
@@ -167,15 +69,8 @@
       "es": "Ghost",
       "de": "Ghost",
       "zh": "Ghost",
-      "nl": "Ghost"
-    },
-    {
-      "fr": "Gravel",
-      "en": "Gravel",
-      "es": "Gravel",
-      "de": "Gravel",
-      "zh": "Gravel",
-      "nl": "Gravel"
+      "nl": "Ghost",
+      "type": "recessive"
     },
     {
       "fr": "Hypo",
@@ -183,111 +78,8 @@
       "es": "Hypo",
       "de": "Hypo",
       "zh": "Hypo",
-      "nl": "Hypo"
-    },
-    {
-      "fr": "Ivory",
-      "en": "Ivory",
-      "es": "Ivory",
-      "de": "Ivory",
-      "zh": "Ivory",
-      "nl": "Ivory"
-    },
-    {
-      "fr": "Killer Clown",
-      "en": "Killer Clown",
-      "es": "Killer Clown",
-      "de": "Killer Clown",
-      "zh": "Killer Clown",
-      "nl": "Killer Clown"
-    },
-    {
-      "fr": "Lavender Albino",
-      "en": "Lavender Albino",
-      "es": "Lavender Albino",
-      "de": "Lavender Albino",
-      "zh": "Lavender Albino",
-      "nl": "Lavender Albino"
-    },
-    {
-      "fr": "Lesser",
-      "en": "Lesser",
-      "es": "Lesser",
-      "de": "Lesser",
-      "zh": "Lesser",
-      "nl": "Lesser"
-    },
-    {
-      "fr": "Lori",
-      "en": "Lori",
-      "es": "Lori",
-      "de": "Lori",
-      "zh": "Lori",
-      "nl": "Lori"
-    },
-    {
-      "fr": "Mocha",
-      "en": "Mocha",
-      "es": "Mocha",
-      "de": "Mocha",
-      "zh": "Mocha",
-      "nl": "Mocha"
-    },
-    {
-      "fr": "Mojave",
-      "en": "Mojave",
-      "es": "Mojave",
-      "de": "Mojave",
-      "zh": "Mojave",
-      "nl": "Mojave"
-    },
-    {
-      "fr": "Mystic",
-      "en": "Mystic",
-      "es": "Mystic",
-      "de": "Mystic",
-      "zh": "Mystic",
-      "nl": "Mystic"
-    },
-    {
-      "fr": "Normal",
-      "en": "Normal",
-      "es": "Normal",
-      "de": "Normal",
-      "zh": "Normal",
-      "nl": "Normal"
-    },
-    {
-      "fr": "Orange Dream",
-      "en": "Orange Dream",
-      "es": "Orange Dream",
-      "de": "Orange Dream",
-      "zh": "Orange Dream",
-      "nl": "Orange Dream"
-    },
-    {
-      "fr": "Panda Pied",
-      "en": "Panda Pied",
-      "es": "Panda Pied",
-      "de": "Panda Pied",
-      "zh": "Panda Pied",
-      "nl": "Panda Pied"
-    },
-    {
-      "fr": "Pastel",
-      "en": "Pastel",
-      "es": "Pastel",
-      "de": "Pastel",
-      "zh": "Pastel",
-      "nl": "Pastel"
-    },
-    {
-      "fr": "Phantom",
-      "en": "Phantom",
-      "es": "Phantom",
-      "de": "Phantom",
-      "zh": "Phantom",
-      "nl": "Phantom"
+      "nl": "Hypo",
+      "type": "recessive"
     },
     {
       "fr": "Piebald",
@@ -295,111 +87,8 @@
       "es": "Piebald",
       "de": "Piebald",
       "zh": "Piebald",
-      "nl": "Piebald"
-    },
-    {
-      "fr": "Pied",
-      "en": "Pied",
-      "es": "Pied",
-      "de": "Pied",
-      "zh": "Pied",
-      "nl": "Pied"
-    },
-    {
-      "fr": "Pinstripe",
-      "en": "Pinstripe",
-      "es": "Pinstripe",
-      "de": "Pinstripe",
-      "zh": "Pinstripe",
-      "nl": "Pinstripe"
-    },
-    {
-      "fr": "Russo",
-      "en": "Russo",
-      "es": "Russo",
-      "de": "Russo",
-      "zh": "Russo",
-      "nl": "Russo"
-    },
-    {
-      "fr": "Sable",
-      "en": "Sable",
-      "es": "Sable",
-      "de": "Sable",
-      "zh": "Sable",
-      "nl": "Sable"
-    },
-    {
-      "fr": "Spark",
-      "en": "Spark",
-      "es": "Spark",
-      "de": "Spark",
-      "zh": "Spark",
-      "nl": "Spark"
-    },
-    {
-      "fr": "Special",
-      "en": "Special",
-      "es": "Special",
-      "de": "Special",
-      "zh": "Special",
-      "nl": "Special"
-    },
-    {
-      "fr": "Specter",
-      "en": "Specter",
-      "es": "Specter",
-      "de": "Specter",
-      "zh": "Specter",
-      "nl": "Specter"
-    },
-    {
-      "fr": "Spider",
-      "en": "Spider",
-      "es": "Spider",
-      "de": "Spider",
-      "zh": "Spider",
-      "nl": "Spider"
-    },
-    {
-      "fr": "Spinypied",
-      "en": "Spinypied",
-      "es": "Spinypied",
-      "de": "Spinypied",
-      "zh": "Spinypied",
-      "nl": "Spinypied"
-    },
-    {
-      "fr": "Spotnose",
-      "en": "Spotnose",
-      "es": "Spotnose",
-      "de": "Spotnose",
-      "zh": "Spotnose",
-      "nl": "Spotnose"
-    },
-    {
-      "fr": "Sugar",
-      "en": "Sugar",
-      "es": "Sugar",
-      "de": "Sugar",
-      "zh": "Sugar",
-      "nl": "Sugar"
-    },
-    {
-      "fr": "Toffee",
-      "en": "Toffee",
-      "es": "Toffee",
-      "de": "Toffee",
-      "zh": "Toffee",
-      "nl": "Toffee"
-    },
-    {
-      "fr": "Tri-stripe",
-      "en": "Tri-stripe",
-      "es": "Tri-stripe",
-      "de": "Tri-stripe",
-      "zh": "Tri-stripe",
-      "nl": "Tri-stripe"
+      "nl": "Piebald",
+      "type": "recessive"
     },
     {
       "fr": "Ultramel",
@@ -407,7 +96,296 @@
       "es": "Ultramel",
       "de": "Ultramel",
       "zh": "Ultramel",
-      "nl": "Ultramel"
+      "nl": "Ultramel",
+      "type": "recessive"
+    },
+    {
+      "fr": "Toffee",
+      "en": "Toffee",
+      "es": "Toffee",
+      "de": "Toffee",
+      "zh": "Toffee",
+      "nl": "Toffee",
+      "type": "recessive"
+    },
+    {
+      "fr": "Tri-stripe",
+      "en": "Tri-stripe",
+      "es": "Tri-stripe",
+      "de": "Tri-stripe",
+      "zh": "Tri-stripe",
+      "nl": "Tri-stripe",
+      "type": "recessive"
+    },
+    {
+      "fr": "Asphalt",
+      "en": "Asphalt",
+      "es": "Asphalt",
+      "de": "Asphalt",
+      "zh": "Asphalt",
+      "nl": "Asphalt",
+      "type": "codominant"
+    },
+    {
+      "fr": "Bamboo",
+      "en": "Bamboo",
+      "es": "Bamboo",
+      "de": "Bamboo",
+      "zh": "Bamboo",
+      "nl": "Bamboo",
+      "type": "codominant"
+    },
+    {
+      "fr": "Banana",
+      "en": "Banana",
+      "es": "Banana",
+      "de": "Banana",
+      "zh": "Banana",
+      "nl": "Banana",
+      "type": "codominant"
+    },
+    {
+      "fr": "Black Pastel",
+      "en": "Black Pastel",
+      "es": "Black Pastel",
+      "de": "Black Pastel",
+      "zh": "Black Pastel",
+      "nl": "Black Pastel",
+      "type": "codominant"
+    },
+    {
+      "fr": "Butter",
+      "en": "Butter",
+      "es": "Butter",
+      "de": "Butter",
+      "zh": "Butter",
+      "nl": "Butter",
+      "type": "codominant"
+    },
+    {
+      "fr": "Calico",
+      "en": "Calico",
+      "es": "Calico",
+      "de": "Calico",
+      "zh": "Calico",
+      "nl": "Calico",
+      "type": "codominant"
+    },
+    {
+      "fr": "Candy",
+      "en": "Candy",
+      "es": "Candy",
+      "de": "Candy",
+      "zh": "Candy",
+      "nl": "Candy",
+      "type": "codominant"
+    },
+    {
+      "fr": "Champagne",
+      "en": "Champagne",
+      "es": "Champagne",
+      "de": "Champagne",
+      "zh": "Champagne",
+      "nl": "Champagne",
+      "type": "dominant"
+    },
+    {
+      "fr": "Cinnamon",
+      "en": "Cinnamon",
+      "es": "Cinnamon",
+      "de": "Cinnamon",
+      "zh": "Cinnamon",
+      "nl": "Cinnamon",
+      "type": "codominant"
+    },
+    {
+      "fr": "Enchi",
+      "en": "Enchi",
+      "es": "Enchi",
+      "de": "Enchi",
+      "zh": "Enchi",
+      "nl": "Enchi",
+      "type": "codominant"
+    },
+    {
+      "fr": "Fire",
+      "en": "Fire",
+      "es": "Fire",
+      "de": "Fire",
+      "zh": "Fire",
+      "nl": "Fire",
+      "type": "codominant"
+    },
+    {
+      "fr": "GHI",
+      "en": "GHI",
+      "es": "GHI",
+      "de": "GHI",
+      "zh": "GHI",
+      "nl": "GHI",
+      "type": "codominant"
+    },
+    {
+      "fr": "Gravel",
+      "en": "Gravel",
+      "es": "Gravel",
+      "de": "Gravel",
+      "zh": "Gravel",
+      "nl": "Gravel",
+      "type": "codominant"
+    },
+    {
+      "fr": "Ivory",
+      "en": "Ivory",
+      "es": "Ivory",
+      "de": "Ivory",
+      "zh": "Ivory",
+      "nl": "Ivory",
+      "type": "codominant"
+    },
+    {
+      "fr": "Lesser",
+      "en": "Lesser",
+      "es": "Lesser",
+      "de": "Lesser",
+      "zh": "Lesser",
+      "nl": "Lesser",
+      "type": "codominant"
+    },
+    {
+      "fr": "Mocha",
+      "en": "Mocha",
+      "es": "Mocha",
+      "de": "Mocha",
+      "zh": "Mocha",
+      "nl": "Mocha",
+      "type": "codominant"
+    },
+    {
+      "fr": "Mojave",
+      "en": "Mojave",
+      "es": "Mojave",
+      "de": "Mojave",
+      "zh": "Mojave",
+      "nl": "Mojave",
+      "type": "codominant"
+    },
+    {
+      "fr": "Mystic",
+      "en": "Mystic",
+      "es": "Mystic",
+      "de": "Mystic",
+      "zh": "Mystic",
+      "nl": "Mystic",
+      "type": "codominant"
+    },
+    {
+      "fr": "Orange Dream",
+      "en": "Orange Dream",
+      "es": "Orange Dream",
+      "de": "Orange Dream",
+      "zh": "Orange Dream",
+      "nl": "Orange Dream",
+      "type": "codominant"
+    },
+    {
+      "fr": "Pastel",
+      "en": "Pastel",
+      "es": "Pastel",
+      "de": "Pastel",
+      "zh": "Pastel",
+      "nl": "Pastel",
+      "type": "codominant"
+    },
+    {
+      "fr": "Phantom",
+      "en": "Phantom",
+      "es": "Phantom",
+      "de": "Phantom",
+      "zh": "Phantom",
+      "nl": "Phantom",
+      "type": "codominant"
+    },
+    {
+      "fr": "Pinstripe",
+      "en": "Pinstripe",
+      "es": "Pinstripe",
+      "de": "Pinstripe",
+      "zh": "Pinstripe",
+      "nl": "Pinstripe",
+      "type": "dominant"
+    },
+    {
+      "fr": "Russo",
+      "en": "Russo",
+      "es": "Russo",
+      "de": "Russo",
+      "zh": "Russo",
+      "nl": "Russo",
+      "type": "codominant"
+    },
+    {
+      "fr": "Sable",
+      "en": "Sable",
+      "es": "Sable",
+      "de": "Sable",
+      "zh": "Sable",
+      "nl": "Sable",
+      "type": "codominant"
+    },
+    {
+      "fr": "Spark",
+      "en": "Spark",
+      "es": "Spark",
+      "de": "Spark",
+      "zh": "Spark",
+      "nl": "Spark",
+      "type": "codominant"
+    },
+    {
+      "fr": "Special",
+      "en": "Special",
+      "es": "Special",
+      "de": "Special",
+      "zh": "Special",
+      "nl": "Special",
+      "type": "codominant"
+    },
+    {
+      "fr": "Specter",
+      "en": "Specter",
+      "es": "Specter",
+      "de": "Specter",
+      "zh": "Specter",
+      "nl": "Specter",
+      "type": "codominant"
+    },
+    {
+      "fr": "Spider",
+      "en": "Spider",
+      "es": "Spider",
+      "de": "Spider",
+      "zh": "Spider",
+      "nl": "Spider",
+      "type": "dominant"
+    },
+    {
+      "fr": "Spotnose",
+      "en": "Spotnose",
+      "es": "Spotnose",
+      "de": "Spotnose",
+      "zh": "Spotnose",
+      "nl": "Spotnose",
+      "type": "codominant"
+    },
+    {
+      "fr": "Sugar",
+      "en": "Sugar",
+      "es": "Sugar",
+      "de": "Sugar",
+      "zh": "Sugar",
+      "nl": "Sugar",
+      "type": "codominant"
     },
     {
       "fr": "Vanilla",
@@ -415,7 +393,8 @@
       "es": "Vanilla",
       "de": "Vanilla",
       "zh": "Vanilla",
-      "nl": "Vanilla"
+      "nl": "Vanilla",
+      "type": "codominant"
     },
     {
       "fr": "Woma",
@@ -423,7 +402,8 @@
       "es": "Woma",
       "de": "Woma",
       "zh": "Woma",
-      "nl": "Woma"
+      "nl": "Woma",
+      "type": "dominant"
     },
     {
       "fr": "Yellow Belly",
@@ -431,7 +411,3500 @@
       "es": "Yellow Belly",
       "de": "Yellow Belly",
       "zh": "Yellow Belly",
-      "nl": "Yellow Belly"
+      "nl": "Yellow Belly",
+      "type": "codominant"
+    },
+    {
+      "fr": "BEL (Blue Eyed Leucistic)",
+      "en": "BEL (Blue Eyed Leucistic)",
+      "es": "BEL (Blue Eyed Leucistic)",
+      "de": "BEL (Blue Eyed Leucistic)",
+      "zh": "BEL (Blue Eyed Leucistic)",
+      "nl": "BEL (Blue Eyed Leucistic)",
+      "type": "combo"
+    },
+    {
+      "fr": "Bumblebee",
+      "en": "Bumblebee",
+      "es": "Bumblebee",
+      "de": "Bumblebee",
+      "zh": "Bumblebee",
+      "nl": "Bumblebee",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Clown",
+      "en": "Killer Clown",
+      "es": "Killer Clown",
+      "de": "Killer Clown",
+      "zh": "Killer Clown",
+      "nl": "Killer Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Panda Pied",
+      "en": "Panda Pied",
+      "es": "Panda Pied",
+      "de": "Panda Pied",
+      "zh": "Panda Pied",
+      "nl": "Panda Pied",
+      "type": "combo"
+    },
+    {
+      "fr": "Lemon Blast",
+      "en": "Lemon Blast",
+      "es": "Lemon Blast",
+      "de": "Lemon Blast",
+      "zh": "Lemon Blast",
+      "nl": "Lemon Blast",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Bee",
+      "en": "Killer Bee",
+      "es": "Killer Bee",
+      "de": "Killer Bee",
+      "zh": "Killer Bee",
+      "nl": "Killer Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Stormtrooper",
+      "en": "Stormtrooper",
+      "es": "Stormtrooper",
+      "de": "Stormtrooper",
+      "zh": "Stormtrooper",
+      "nl": "Stormtrooper",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Pastel",
+      "en": "Albino Pastel",
+      "es": "Albino Pastel",
+      "de": "Albino Pastel",
+      "zh": "Albino Pastel",
+      "nl": "Albino Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Wanna contribute?",
+      "en": "Wanna contribute?",
+      "es": "Wanna contribute?",
+      "de": "Wanna contribute?",
+      "zh": "Wanna contribute?",
+      "nl": "Wanna contribute?",
+      "type": "trait"
+    },
+    {
+      "fr": "Albino Black Pastel",
+      "en": "Albino Black Pastel",
+      "es": "Albino Black Pastel",
+      "de": "Albino Black Pastel",
+      "zh": "Albino Black Pastel",
+      "nl": "Albino Black Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Butter",
+      "en": "Albino Butter",
+      "es": "Albino Butter",
+      "de": "Albino Butter",
+      "zh": "Albino Butter",
+      "nl": "Albino Butter",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Butter Black Pastel",
+      "en": "Albino Butter Black Pastel",
+      "es": "Albino Butter Black Pastel",
+      "de": "Albino Butter Black Pastel",
+      "zh": "Albino Butter Black Pastel",
+      "nl": "Albino Butter Black Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Butter Enchi",
+      "en": "Albino Butter Enchi",
+      "es": "Albino Butter Enchi",
+      "de": "Albino Butter Enchi",
+      "zh": "Albino Butter Enchi",
+      "nl": "Albino Butter Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Calico Spider",
+      "en": "Albino Calico Spider",
+      "es": "Albino Calico Spider",
+      "de": "Albino Calico Spider",
+      "zh": "Albino Calico Spider",
+      "nl": "Albino Calico Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Cinnamon",
+      "en": "Albino Cinnamon",
+      "es": "Albino Cinnamon",
+      "de": "Albino Cinnamon",
+      "zh": "Albino Cinnamon",
+      "nl": "Albino Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Enchi",
+      "en": "Albino Enchi",
+      "es": "Albino Enchi",
+      "de": "Albino Enchi",
+      "zh": "Albino Enchi",
+      "nl": "Albino Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Java",
+      "en": "Albino Java",
+      "es": "Albino Java",
+      "de": "Albino Java",
+      "zh": "Albino Java",
+      "nl": "Albino Java",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Java Piebald",
+      "en": "Albino Java Piebald",
+      "es": "Albino Java Piebald",
+      "de": "Albino Java Piebald",
+      "zh": "Albino Java Piebald",
+      "nl": "Albino Java Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Piebald",
+      "en": "Albino Piebald",
+      "es": "Albino Piebald",
+      "de": "Albino Piebald",
+      "zh": "Albino Piebald",
+      "nl": "Albino Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Albino Spider",
+      "en": "Albino Spider",
+      "es": "Albino Spider",
+      "de": "Albino Spider",
+      "zh": "Albino Spider",
+      "nl": "Albino Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Axanthic (MJ line)",
+      "en": "Axanthic (MJ line)",
+      "es": "Axanthic (MJ line)",
+      "de": "Axanthic (MJ line)",
+      "zh": "Axanthic (MJ line)",
+      "nl": "Axanthic (MJ line)",
+      "type": "trait"
+    },
+    {
+      "fr": "Axanthic Pastel Piebald",
+      "en": "Axanthic Pastel Piebald",
+      "es": "Axanthic Pastel Piebald",
+      "de": "Axanthic Pastel Piebald",
+      "zh": "Axanthic Pastel Piebald",
+      "nl": "Axanthic Pastel Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Axanthic Piebald (Lightning &#8211; Low White)",
+      "en": "Axanthic Piebald (Lightning &#8211; Low White)",
+      "es": "Axanthic Piebald (Lightning &#8211; Low White)",
+      "de": "Axanthic Piebald (Lightning &#8211; Low White)",
+      "zh": "Axanthic Piebald (Lightning &#8211; Low White)",
+      "nl": "Axanthic Piebald (Lightning &#8211; Low White)",
+      "type": "combo"
+    },
+    {
+      "fr": "Axanthic Piebald (Lightning Pied)",
+      "en": "Axanthic Piebald (Lightning Pied)",
+      "es": "Axanthic Piebald (Lightning Pied)",
+      "de": "Axanthic Piebald (Lightning Pied)",
+      "zh": "Axanthic Piebald (Lightning Pied)",
+      "nl": "Axanthic Piebald (Lightning Pied)",
+      "type": "combo"
+    },
+    {
+      "fr": "Axanthic Piebald Spider",
+      "en": "Axanthic Piebald Spider",
+      "es": "Axanthic Piebald Spider",
+      "de": "Axanthic Piebald Spider",
+      "zh": "Axanthic Piebald Spider",
+      "nl": "Axanthic Piebald Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Axanthic Spider",
+      "en": "Axanthic Spider",
+      "es": "Axanthic Spider",
+      "de": "Axanthic Spider",
+      "zh": "Axanthic Spider",
+      "nl": "Axanthic Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Bamboo Enchi",
+      "en": "Bamboo Enchi",
+      "es": "Bamboo Enchi",
+      "de": "Bamboo Enchi",
+      "zh": "Bamboo Enchi",
+      "nl": "Bamboo Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Bamboo Yellow Belly",
+      "en": "Bamboo Yellow Belly",
+      "es": "Bamboo Yellow Belly",
+      "de": "Bamboo Yellow Belly",
+      "zh": "Bamboo Yellow Belly",
+      "nl": "Bamboo Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Banded",
+      "en": "Banana Banded",
+      "es": "Banana Banded",
+      "de": "Banana Banded",
+      "zh": "Banana Banded",
+      "nl": "Banana Banded",
+      "type": "trait"
+    },
+    {
+      "fr": "Banana Black Pastel",
+      "en": "Banana Black Pastel",
+      "es": "Banana Black Pastel",
+      "de": "Banana Black Pastel",
+      "zh": "Banana Black Pastel",
+      "nl": "Banana Black Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Black Pastel Butter",
+      "en": "Banana Black Pastel Butter",
+      "es": "Banana Black Pastel Butter",
+      "de": "Banana Black Pastel Butter",
+      "zh": "Banana Black Pastel Butter",
+      "nl": "Banana Black Pastel Butter",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Black Pastel Cinnamon",
+      "en": "Banana Black Pastel Cinnamon",
+      "es": "Banana Black Pastel Cinnamon",
+      "de": "Banana Black Pastel Cinnamon",
+      "zh": "Banana Black Pastel Cinnamon",
+      "nl": "Banana Black Pastel Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Blade",
+      "en": "Banana Blade",
+      "es": "Banana Blade",
+      "de": "Banana Blade",
+      "zh": "Banana Blade",
+      "nl": "Banana Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Blade Clown",
+      "en": "Banana Blade Clown",
+      "es": "Banana Blade Clown",
+      "de": "Banana Blade Clown",
+      "zh": "Banana Blade Clown",
+      "nl": "Banana Blade Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Blade Pastel Clown",
+      "en": "Banana Blade Pastel Clown",
+      "es": "Banana Blade Pastel Clown",
+      "de": "Banana Blade Pastel Clown",
+      "zh": "Banana Blade Pastel Clown",
+      "nl": "Banana Blade Pastel Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Bumble Bee Enchi",
+      "en": "Banana Bumble Bee Enchi",
+      "es": "Banana Bumble Bee Enchi",
+      "de": "Banana Bumble Bee Enchi",
+      "zh": "Banana Bumble Bee Enchi",
+      "nl": "Banana Bumble Bee Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Butter Cinnamon",
+      "en": "Banana Butter Cinnamon",
+      "es": "Banana Butter Cinnamon",
+      "de": "Banana Butter Cinnamon",
+      "zh": "Banana Butter Cinnamon",
+      "nl": "Banana Butter Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Butter Cinnamon Enchi",
+      "en": "Banana Butter Cinnamon Enchi",
+      "es": "Banana Butter Cinnamon Enchi",
+      "de": "Banana Butter Cinnamon Enchi",
+      "zh": "Banana Butter Cinnamon Enchi",
+      "nl": "Banana Butter Cinnamon Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Butter Enchi",
+      "en": "Banana Butter Enchi",
+      "es": "Banana Butter Enchi",
+      "de": "Banana Butter Enchi",
+      "zh": "Banana Butter Enchi",
+      "nl": "Banana Butter Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Butter Enchi Spider",
+      "en": "Banana Butter Enchi Spider",
+      "es": "Banana Butter Enchi Spider",
+      "de": "Banana Butter Enchi Spider",
+      "zh": "Banana Butter Enchi Spider",
+      "nl": "Banana Butter Enchi Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Butter Fire",
+      "en": "Banana Butter Fire",
+      "es": "Banana Butter Fire",
+      "de": "Banana Butter Fire",
+      "zh": "Banana Butter Fire",
+      "nl": "Banana Butter Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Butter Leopard",
+      "en": "Banana Butter Leopard",
+      "es": "Banana Butter Leopard",
+      "de": "Banana Butter Leopard",
+      "zh": "Banana Butter Leopard",
+      "nl": "Banana Butter Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Cinnamon",
+      "en": "Banana Cinnamon",
+      "es": "Banana Cinnamon",
+      "de": "Banana Cinnamon",
+      "zh": "Banana Cinnamon",
+      "nl": "Banana Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Cinnamon Enchi",
+      "en": "Banana Cinnamon Enchi",
+      "es": "Banana Cinnamon Enchi",
+      "de": "Banana Cinnamon Enchi",
+      "zh": "Banana Cinnamon Enchi",
+      "nl": "Banana Cinnamon Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Enchi",
+      "en": "Banana Enchi",
+      "es": "Banana Enchi",
+      "de": "Banana Enchi",
+      "zh": "Banana Enchi",
+      "nl": "Banana Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Enchi Cinnamon Spider",
+      "en": "Banana Enchi Cinnamon Spider",
+      "es": "Banana Enchi Cinnamon Spider",
+      "de": "Banana Enchi Cinnamon Spider",
+      "zh": "Banana Enchi Cinnamon Spider",
+      "nl": "Banana Enchi Cinnamon Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Enchi Java",
+      "en": "Banana Enchi Java",
+      "es": "Banana Enchi Java",
+      "de": "Banana Enchi Java",
+      "zh": "Banana Enchi Java",
+      "nl": "Banana Enchi Java",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Enchi Spider",
+      "en": "Banana Enchi Spider",
+      "es": "Banana Enchi Spider",
+      "de": "Banana Enchi Spider",
+      "zh": "Banana Enchi Spider",
+      "nl": "Banana Enchi Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Java Spider",
+      "en": "Banana Java Spider",
+      "es": "Banana Java Spider",
+      "de": "Banana Java Spider",
+      "zh": "Banana Java Spider",
+      "nl": "Banana Java Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Leopard",
+      "en": "Banana Leopard",
+      "es": "Banana Leopard",
+      "de": "Banana Leopard",
+      "zh": "Banana Leopard",
+      "nl": "Banana Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Leopard Lesser Pastel",
+      "en": "Banana Leopard Lesser Pastel",
+      "es": "Banana Leopard Lesser Pastel",
+      "de": "Banana Leopard Lesser Pastel",
+      "zh": "Banana Leopard Lesser Pastel",
+      "nl": "Banana Leopard Lesser Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Leopard Spider",
+      "en": "Banana Leopard Spider",
+      "es": "Banana Leopard Spider",
+      "de": "Banana Leopard Spider",
+      "zh": "Banana Leopard Spider",
+      "nl": "Banana Leopard Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Lesser Pastel Enchi",
+      "en": "Banana Lesser Pastel Enchi",
+      "es": "Banana Lesser Pastel Enchi",
+      "de": "Banana Lesser Pastel Enchi",
+      "zh": "Banana Lesser Pastel Enchi",
+      "nl": "Banana Lesser Pastel Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Pastel",
+      "en": "Banana Pastel",
+      "es": "Banana Pastel",
+      "de": "Banana Pastel",
+      "zh": "Banana Pastel",
+      "nl": "Banana Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Pastel Blade",
+      "en": "Banana Pastel Blade",
+      "es": "Banana Pastel Blade",
+      "de": "Banana Pastel Blade",
+      "zh": "Banana Pastel Blade",
+      "nl": "Banana Pastel Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Pastel Pinstripe",
+      "en": "Banana Pastel Pinstripe",
+      "es": "Banana Pastel Pinstripe",
+      "de": "Banana Pastel Pinstripe",
+      "zh": "Banana Pastel Pinstripe",
+      "nl": "Banana Pastel Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Pastel Spinner",
+      "en": "Banana Pastel Spinner",
+      "es": "Banana Pastel Spinner",
+      "de": "Banana Pastel Spinner",
+      "zh": "Banana Pastel Spinner",
+      "nl": "Banana Pastel Spinner",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Piebald",
+      "en": "Banana Piebald",
+      "es": "Banana Piebald",
+      "de": "Banana Piebald",
+      "zh": "Banana Piebald",
+      "nl": "Banana Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Pinstripe",
+      "en": "Banana Pinstripe",
+      "es": "Banana Pinstripe",
+      "de": "Banana Pinstripe",
+      "zh": "Banana Pinstripe",
+      "nl": "Banana Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Pumpkin Piebald",
+      "en": "Banana Pumpkin Piebald",
+      "es": "Banana Pumpkin Piebald",
+      "de": "Banana Pumpkin Piebald",
+      "zh": "Banana Pumpkin Piebald",
+      "nl": "Banana Pumpkin Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Super Blade",
+      "en": "Banana Super Blade",
+      "es": "Banana Super Blade",
+      "de": "Banana Super Blade",
+      "zh": "Banana Super Blade",
+      "nl": "Banana Super Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Banana Yellow Belly",
+      "en": "Banana Yellow Belly",
+      "es": "Banana Yellow Belly",
+      "de": "Banana Yellow Belly",
+      "zh": "Banana Yellow Belly",
+      "nl": "Banana Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Black Pastel Lavender",
+      "en": "Black Pastel Lavender",
+      "es": "Black Pastel Lavender",
+      "de": "Black Pastel Lavender",
+      "zh": "Black Pastel Lavender",
+      "nl": "Black Pastel Lavender",
+      "type": "combo"
+    },
+    {
+      "fr": "Black Pastel Leopard",
+      "en": "Black Pastel Leopard",
+      "es": "Black Pastel Leopard",
+      "de": "Black Pastel Leopard",
+      "zh": "Black Pastel Leopard",
+      "nl": "Black Pastel Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Black Velvet",
+      "en": "Black Velvet",
+      "es": "Black Velvet",
+      "de": "Black Velvet",
+      "zh": "Black Velvet",
+      "nl": "Black Velvet",
+      "type": "trait"
+    },
+    {
+      "fr": "Blackhead",
+      "en": "Blackhead",
+      "es": "Blackhead",
+      "de": "Blackhead",
+      "zh": "Blackhead",
+      "nl": "Blackhead",
+      "type": "trait"
+    },
+    {
+      "fr": "Blade",
+      "en": "Blade",
+      "es": "Blade",
+      "de": "Blade",
+      "zh": "Blade",
+      "nl": "Blade",
+      "type": "trait"
+    },
+    {
+      "fr": "Blade Clown",
+      "en": "Blade Clown",
+      "es": "Blade Clown",
+      "de": "Blade Clown",
+      "zh": "Blade Clown",
+      "nl": "Blade Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Blade Fire",
+      "en": "Blade Fire",
+      "es": "Blade Fire",
+      "de": "Blade Fire",
+      "zh": "Blade Fire",
+      "nl": "Blade Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Blue Eyed Leusistic",
+      "en": "Blue Eyed Leusistic",
+      "es": "Blue Eyed Leusistic",
+      "de": "Blue Eyed Leusistic",
+      "zh": "Blue Eyed Leusistic",
+      "nl": "Blue Eyed Leusistic",
+      "type": "combo"
+    },
+    {
+      "fr": "Bumble Bee",
+      "en": "Bumble Bee",
+      "es": "Bumble Bee",
+      "de": "Bumble Bee",
+      "zh": "Bumble Bee",
+      "nl": "Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Bumble Bee Enchi",
+      "en": "Bumble Bee Enchi",
+      "es": "Bumble Bee Enchi",
+      "de": "Bumble Bee Enchi",
+      "zh": "Bumble Bee Enchi",
+      "nl": "Bumble Bee Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Bumble Bee Fire",
+      "en": "Bumble Bee Fire",
+      "es": "Bumble Bee Fire",
+      "de": "Bumble Bee Fire",
+      "zh": "Bumble Bee Fire",
+      "nl": "Bumble Bee Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Bumble Bee Fire (Eyeless)",
+      "en": "Bumble Bee Fire (Eyeless)",
+      "es": "Bumble Bee Fire (Eyeless)",
+      "de": "Bumble Bee Fire (Eyeless)",
+      "zh": "Bumble Bee Fire (Eyeless)",
+      "nl": "Bumble Bee Fire (Eyeless)",
+      "type": "combo"
+    },
+    {
+      "fr": "Bumble Bee Toffino",
+      "en": "Bumble Bee Toffino",
+      "es": "Bumble Bee Toffino",
+      "de": "Bumble Bee Toffino",
+      "zh": "Bumble Bee Toffino",
+      "nl": "Bumble Bee Toffino",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Blade",
+      "en": "Butter Blade",
+      "es": "Butter Blade",
+      "de": "Butter Blade",
+      "zh": "Butter Blade",
+      "nl": "Butter Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Bumble Bee",
+      "en": "Butter Bumble Bee",
+      "es": "Butter Bumble Bee",
+      "de": "Butter Bumble Bee",
+      "zh": "Butter Bumble Bee",
+      "nl": "Butter Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Cinnamon",
+      "en": "Butter Cinnamon",
+      "es": "Butter Cinnamon",
+      "de": "Butter Cinnamon",
+      "zh": "Butter Cinnamon",
+      "nl": "Butter Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Clown",
+      "en": "Butter Clown",
+      "es": "Butter Clown",
+      "de": "Butter Clown",
+      "zh": "Butter Clown",
+      "nl": "Butter Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Emperor Pin",
+      "en": "Butter Emperor Pin",
+      "es": "Butter Emperor Pin",
+      "de": "Butter Emperor Pin",
+      "zh": "Butter Emperor Pin",
+      "nl": "Butter Emperor Pin",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Enchi",
+      "en": "Butter Enchi",
+      "es": "Butter Enchi",
+      "de": "Butter Enchi",
+      "zh": "Butter Enchi",
+      "nl": "Butter Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Enchi Pastel Pinstripe",
+      "en": "Butter Enchi Pastel Pinstripe",
+      "es": "Butter Enchi Pastel Pinstripe",
+      "de": "Butter Enchi Pastel Pinstripe",
+      "zh": "Butter Enchi Pastel Pinstripe",
+      "nl": "Butter Enchi Pastel Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Enchi Spider",
+      "en": "Butter Enchi Spider",
+      "es": "Butter Enchi Spider",
+      "de": "Butter Enchi Spider",
+      "zh": "Butter Enchi Spider",
+      "nl": "Butter Enchi Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pastel",
+      "en": "Butter Pastel",
+      "es": "Butter Pastel",
+      "de": "Butter Pastel",
+      "zh": "Butter Pastel",
+      "nl": "Butter Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pastel Enchi",
+      "en": "Butter Pastel Enchi",
+      "es": "Butter Pastel Enchi",
+      "de": "Butter Pastel Enchi",
+      "zh": "Butter Pastel Enchi",
+      "nl": "Butter Pastel Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pastel Fader",
+      "en": "Butter Pastel Fader",
+      "es": "Butter Pastel Fader",
+      "de": "Butter Pastel Fader",
+      "zh": "Butter Pastel Fader",
+      "nl": "Butter Pastel Fader",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pastel Jaguar",
+      "en": "Butter Pastel Jaguar",
+      "es": "Butter Pastel Jaguar",
+      "de": "Butter Pastel Jaguar",
+      "zh": "Butter Pastel Jaguar",
+      "nl": "Butter Pastel Jaguar",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pastel Leopard",
+      "en": "Butter Pastel Leopard",
+      "es": "Butter Pastel Leopard",
+      "de": "Butter Pastel Leopard",
+      "zh": "Butter Pastel Leopard",
+      "nl": "Butter Pastel Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pastel Special",
+      "en": "Butter Pastel Special",
+      "es": "Butter Pastel Special",
+      "de": "Butter Pastel Special",
+      "zh": "Butter Pastel Special",
+      "nl": "Butter Pastel Special",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pewter",
+      "en": "Butter Pewter",
+      "es": "Butter Pewter",
+      "de": "Butter Pewter",
+      "zh": "Butter Pewter",
+      "nl": "Butter Pewter",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Pin",
+      "en": "Butter Pin",
+      "es": "Butter Pin",
+      "de": "Butter Pin",
+      "zh": "Butter Pin",
+      "nl": "Butter Pin",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Spinner",
+      "en": "Butter Spinner",
+      "es": "Butter Spinner",
+      "de": "Butter Spinner",
+      "zh": "Butter Spinner",
+      "nl": "Butter Spinner",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Sulphur",
+      "en": "Butter Sulphur",
+      "es": "Butter Sulphur",
+      "de": "Butter Sulphur",
+      "zh": "Butter Sulphur",
+      "nl": "Butter Sulphur",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter Vanilla",
+      "en": "Butter Vanilla",
+      "es": "Butter Vanilla",
+      "de": "Butter Vanilla",
+      "zh": "Butter Vanilla",
+      "nl": "Butter Vanilla",
+      "type": "combo"
+    },
+    {
+      "fr": "Butter/Lesser",
+      "en": "Butter/Lesser",
+      "es": "Butter/Lesser",
+      "de": "Butter/Lesser",
+      "zh": "Butter/Lesser",
+      "nl": "Butter/Lesser",
+      "type": "combo"
+    },
+    {
+      "fr": "Butterfly",
+      "en": "Butterfly",
+      "es": "Butterfly",
+      "de": "Butterfly",
+      "zh": "Butterfly",
+      "nl": "Butterfly",
+      "type": "combo"
+    },
+    {
+      "fr": "Butterfly Paradox",
+      "en": "Butterfly Paradox",
+      "es": "Butterfly Paradox",
+      "de": "Butterfly Paradox",
+      "zh": "Butterfly Paradox",
+      "nl": "Butterfly Paradox",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico (Bubble Gum)",
+      "en": "Calico (Bubble Gum)",
+      "es": "Calico (Bubble Gum)",
+      "de": "Calico (Bubble Gum)",
+      "zh": "Calico (Bubble Gum)",
+      "nl": "Calico (Bubble Gum)",
+      "type": "trait"
+    },
+    {
+      "fr": "Calico Bumble Bee",
+      "en": "Calico Bumble Bee",
+      "es": "Calico Bumble Bee",
+      "de": "Calico Bumble Bee",
+      "zh": "Calico Bumble Bee",
+      "nl": "Calico Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Enchi",
+      "en": "Calico Enchi",
+      "es": "Calico Enchi",
+      "de": "Calico Enchi",
+      "zh": "Calico Enchi",
+      "nl": "Calico Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Mojave Bumble Bee",
+      "en": "Calico Mojave Bumble Bee",
+      "es": "Calico Mojave Bumble Bee",
+      "de": "Calico Mojave Bumble Bee",
+      "zh": "Calico Mojave Bumble Bee",
+      "nl": "Calico Mojave Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Pastave",
+      "en": "Calico Pastave",
+      "es": "Calico Pastave",
+      "de": "Calico Pastave",
+      "zh": "Calico Pastave",
+      "nl": "Calico Pastave",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Pastel",
+      "en": "Calico Pastel",
+      "es": "Calico Pastel",
+      "de": "Calico Pastel",
+      "zh": "Calico Pastel",
+      "nl": "Calico Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Pastel Enchi",
+      "en": "Calico Pastel Enchi",
+      "es": "Calico Pastel Enchi",
+      "de": "Calico Pastel Enchi",
+      "zh": "Calico Pastel Enchi",
+      "nl": "Calico Pastel Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Pastel Fader",
+      "en": "Calico Pastel Fader",
+      "es": "Calico Pastel Fader",
+      "de": "Calico Pastel Fader",
+      "zh": "Calico Pastel Fader",
+      "nl": "Calico Pastel Fader",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Pastel Paradox",
+      "en": "Calico Pastel Paradox",
+      "es": "Calico Pastel Paradox",
+      "de": "Calico Pastel Paradox",
+      "zh": "Calico Pastel Paradox",
+      "nl": "Calico Pastel Paradox",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Spider",
+      "en": "Calico Spider",
+      "es": "Calico Spider",
+      "de": "Calico Spider",
+      "zh": "Calico Spider",
+      "nl": "Calico Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Calico Spider Ringer",
+      "en": "Calico Spider Ringer",
+      "es": "Calico Spider Ringer",
+      "de": "Calico Spider Ringer",
+      "zh": "Calico Spider Ringer",
+      "nl": "Calico Spider Ringer",
+      "type": "combo"
+    },
+    {
+      "fr": "Caramel Albino",
+      "en": "Caramel Albino",
+      "es": "Caramel Albino",
+      "de": "Caramel Albino",
+      "zh": "Caramel Albino",
+      "nl": "Caramel Albino",
+      "type": "trait"
+    },
+    {
+      "fr": "Caramel Butter Pastel",
+      "en": "Caramel Butter Pastel",
+      "es": "Caramel Butter Pastel",
+      "de": "Caramel Butter Pastel",
+      "zh": "Caramel Butter Pastel",
+      "nl": "Caramel Butter Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Caramel Cinnamon",
+      "en": "Caramel Cinnamon",
+      "es": "Caramel Cinnamon",
+      "de": "Caramel Cinnamon",
+      "zh": "Caramel Cinnamon",
+      "nl": "Caramel Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Caramel Mojave",
+      "en": "Caramel Mojave",
+      "es": "Caramel Mojave",
+      "de": "Caramel Mojave",
+      "zh": "Caramel Mojave",
+      "nl": "Caramel Mojave",
+      "type": "combo"
+    },
+    {
+      "fr": "Caramel Pinstripe",
+      "en": "Caramel Pinstripe",
+      "es": "Caramel Pinstripe",
+      "de": "Caramel Pinstripe",
+      "zh": "Caramel Pinstripe",
+      "nl": "Caramel Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Caramel Spider",
+      "en": "Caramel Spider",
+      "es": "Caramel Spider",
+      "de": "Caramel Spider",
+      "zh": "Caramel Spider",
+      "nl": "Caramel Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Caravanah",
+      "en": "Caravanah",
+      "es": "Caravanah",
+      "de": "Caravanah",
+      "zh": "Caravanah",
+      "nl": "Caravanah",
+      "type": "combo"
+    },
+    {
+      "fr": "Champagne (Paradox)",
+      "en": "Champagne (Paradox)",
+      "es": "Champagne (Paradox)",
+      "de": "Champagne (Paradox)",
+      "zh": "Champagne (Paradox)",
+      "nl": "Champagne (Paradox)",
+      "type": "combo"
+    },
+    {
+      "fr": "Champagne Pewter",
+      "en": "Champagne Pewter",
+      "es": "Champagne Pewter",
+      "de": "Champagne Pewter",
+      "zh": "Champagne Pewter",
+      "nl": "Champagne Pewter",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Champagne",
+      "en": "Cinnamon Champagne",
+      "es": "Cinnamon Champagne",
+      "de": "Cinnamon Champagne",
+      "zh": "Cinnamon Champagne",
+      "nl": "Cinnamon Champagne",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Enchi",
+      "en": "Cinnamon Enchi",
+      "es": "Cinnamon Enchi",
+      "de": "Cinnamon Enchi",
+      "zh": "Cinnamon Enchi",
+      "nl": "Cinnamon Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Enchi Spider",
+      "en": "Cinnamon Enchi Spider",
+      "es": "Cinnamon Enchi Spider",
+      "de": "Cinnamon Enchi Spider",
+      "zh": "Cinnamon Enchi Spider",
+      "nl": "Cinnamon Enchi Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Mojave",
+      "en": "Cinnamon Mojave",
+      "es": "Cinnamon Mojave",
+      "de": "Cinnamon Mojave",
+      "zh": "Cinnamon Mojave",
+      "nl": "Cinnamon Mojave",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Pinstripe",
+      "en": "Cinnamon Pinstripe",
+      "es": "Cinnamon Pinstripe",
+      "de": "Cinnamon Pinstripe",
+      "zh": "Cinnamon Pinstripe",
+      "nl": "Cinnamon Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Specter",
+      "en": "Cinnamon Specter",
+      "es": "Cinnamon Specter",
+      "de": "Cinnamon Specter",
+      "zh": "Cinnamon Specter",
+      "nl": "Cinnamon Specter",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Specter Fire",
+      "en": "Cinnamon Specter Fire",
+      "es": "Cinnamon Specter Fire",
+      "de": "Cinnamon Specter Fire",
+      "zh": "Cinnamon Specter Fire",
+      "nl": "Cinnamon Specter Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Spider",
+      "en": "Cinnamon Spider",
+      "es": "Cinnamon Spider",
+      "de": "Cinnamon Spider",
+      "zh": "Cinnamon Spider",
+      "nl": "Cinnamon Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Cinnamon Yellow Belly",
+      "en": "Cinnamon Yellow Belly",
+      "es": "Cinnamon Yellow Belly",
+      "de": "Cinnamon Yellow Belly",
+      "zh": "Cinnamon Yellow Belly",
+      "nl": "Cinnamon Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Citrus Pastel Highway",
+      "en": "Citrus Pastel Highway",
+      "es": "Citrus Pastel Highway",
+      "de": "Citrus Pastel Highway",
+      "zh": "Citrus Pastel Highway",
+      "nl": "Citrus Pastel Highway",
+      "type": "combo"
+    },
+    {
+      "fr": "Citrus Pastel Specter",
+      "en": "Citrus Pastel Specter",
+      "es": "Citrus Pastel Specter",
+      "de": "Citrus Pastel Specter",
+      "zh": "Citrus Pastel Specter",
+      "nl": "Citrus Pastel Specter",
+      "type": "combo"
+    },
+    {
+      "fr": "Citrus Pastel Yellow Belly",
+      "en": "Citrus Pastel Yellow Belly",
+      "es": "Citrus Pastel Yellow Belly",
+      "de": "Citrus Pastel Yellow Belly",
+      "zh": "Citrus Pastel Yellow Belly",
+      "nl": "Citrus Pastel Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Citrus Pastel Yellow Belly Ghost",
+      "en": "Citrus Pastel Yellow Belly Ghost",
+      "es": "Citrus Pastel Yellow Belly Ghost",
+      "de": "Citrus Pastel Yellow Belly Ghost",
+      "zh": "Citrus Pastel Yellow Belly Ghost",
+      "nl": "Citrus Pastel Yellow Belly Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Clown Bumble Bee",
+      "en": "Clown Bumble Bee",
+      "es": "Clown Bumble Bee",
+      "de": "Clown Bumble Bee",
+      "zh": "Clown Bumble Bee",
+      "nl": "Clown Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Clown Butter Blade",
+      "en": "Clown Butter Blade",
+      "es": "Clown Butter Blade",
+      "de": "Clown Butter Blade",
+      "zh": "Clown Butter Blade",
+      "nl": "Clown Butter Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Clown Butter Blade Leopard",
+      "en": "Clown Butter Blade Leopard",
+      "es": "Clown Butter Blade Leopard",
+      "de": "Clown Butter Blade Leopard",
+      "zh": "Clown Butter Blade Leopard",
+      "nl": "Clown Butter Blade Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Clown Butter Cinnamon",
+      "en": "Clown Butter Cinnamon",
+      "es": "Clown Butter Cinnamon",
+      "de": "Clown Butter Cinnamon",
+      "zh": "Clown Butter Cinnamon",
+      "nl": "Clown Butter Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Clown Butter Pastel",
+      "en": "Clown Butter Pastel",
+      "es": "Clown Butter Pastel",
+      "de": "Clown Butter Pastel",
+      "zh": "Clown Butter Pastel",
+      "nl": "Clown Butter Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Clown Enchi Blade",
+      "en": "Clown Enchi Blade",
+      "es": "Clown Enchi Blade",
+      "de": "Clown Enchi Blade",
+      "zh": "Clown Enchi Blade",
+      "nl": "Clown Enchi Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Clown Pastel",
+      "en": "Clown Pastel",
+      "es": "Clown Pastel",
+      "de": "Clown Pastel",
+      "zh": "Clown Pastel",
+      "nl": "Clown Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Coral Glow HGW Super Pastel Specter",
+      "en": "Coral Glow HGW Super Pastel Specter",
+      "es": "Coral Glow HGW Super Pastel Specter",
+      "de": "Coral Glow HGW Super Pastel Specter",
+      "zh": "Coral Glow HGW Super Pastel Specter",
+      "nl": "Coral Glow HGW Super Pastel Specter",
+      "type": "combo"
+    },
+    {
+      "fr": "Crystal",
+      "en": "Crystal",
+      "es": "Crystal",
+      "de": "Crystal",
+      "zh": "Crystal",
+      "nl": "Crystal",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert",
+      "en": "Desert",
+      "es": "Desert",
+      "de": "Desert",
+      "zh": "Desert",
+      "nl": "Desert",
+      "type": "trait"
+    },
+    {
+      "fr": "Desert Bumble Bee",
+      "en": "Desert Bumble Bee",
+      "es": "Desert Bumble Bee",
+      "de": "Desert Bumble Bee",
+      "zh": "Desert Bumble Bee",
+      "nl": "Desert Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Butter Pastel",
+      "en": "Desert Butter Pastel",
+      "es": "Desert Butter Pastel",
+      "de": "Desert Butter Pastel",
+      "zh": "Desert Butter Pastel",
+      "nl": "Desert Butter Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Firefly",
+      "en": "Desert Firefly",
+      "es": "Desert Firefly",
+      "de": "Desert Firefly",
+      "zh": "Desert Firefly",
+      "nl": "Desert Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Ghost Butter",
+      "en": "Desert Ghost Butter",
+      "es": "Desert Ghost Butter",
+      "de": "Desert Ghost Butter",
+      "zh": "Desert Ghost Butter",
+      "nl": "Desert Ghost Butter",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Ghost Butter Cinnamon",
+      "en": "Desert Ghost Butter Cinnamon",
+      "es": "Desert Ghost Butter Cinnamon",
+      "de": "Desert Ghost Butter Cinnamon",
+      "zh": "Desert Ghost Butter Cinnamon",
+      "nl": "Desert Ghost Butter Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Ghost Butter Cinnamon Pastel",
+      "en": "Desert Ghost Butter Cinnamon Pastel",
+      "es": "Desert Ghost Butter Cinnamon Pastel",
+      "de": "Desert Ghost Butter Cinnamon Pastel",
+      "zh": "Desert Ghost Butter Cinnamon Pastel",
+      "nl": "Desert Ghost Butter Cinnamon Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "desert ghost butter pastel",
+      "en": "desert ghost butter pastel",
+      "es": "desert ghost butter pastel",
+      "de": "desert ghost butter pastel",
+      "zh": "desert ghost butter pastel",
+      "nl": "desert ghost butter pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Ghost Caramel Butter Cinnamon",
+      "en": "Desert Ghost Caramel Butter Cinnamon",
+      "es": "Desert Ghost Caramel Butter Cinnamon",
+      "de": "Desert Ghost Caramel Butter Cinnamon",
+      "zh": "Desert Ghost Caramel Butter Cinnamon",
+      "nl": "Desert Ghost Caramel Butter Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Ghost Caramel Butter Pastel",
+      "en": "Desert Ghost Caramel Butter Pastel",
+      "es": "Desert Ghost Caramel Butter Pastel",
+      "de": "Desert Ghost Caramel Butter Pastel",
+      "zh": "Desert Ghost Caramel Butter Pastel",
+      "nl": "Desert Ghost Caramel Butter Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Ghost Caramel Cinnamon",
+      "en": "Desert Ghost Caramel Cinnamon",
+      "es": "Desert Ghost Caramel Cinnamon",
+      "de": "Desert Ghost Caramel Cinnamon",
+      "zh": "Desert Ghost Caramel Cinnamon",
+      "nl": "Desert Ghost Caramel Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Ghost Pewter",
+      "en": "Desert Ghost Pewter",
+      "es": "Desert Ghost Pewter",
+      "de": "Desert Ghost Pewter",
+      "zh": "Desert Ghost Pewter",
+      "nl": "Desert Ghost Pewter",
+      "type": "combo"
+    },
+    {
+      "fr": "Desert Pastel",
+      "en": "Desert Pastel",
+      "es": "Desert Pastel",
+      "de": "Desert Pastel",
+      "zh": "Desert Pastel",
+      "nl": "Desert Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Disco Sulphur",
+      "en": "Disco Sulphur",
+      "es": "Disco Sulphur",
+      "de": "Disco Sulphur",
+      "zh": "Disco Sulphur",
+      "nl": "Disco Sulphur",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Fire",
+      "en": "Enchi Fire",
+      "es": "Enchi Fire",
+      "de": "Enchi Fire",
+      "zh": "Enchi Fire",
+      "nl": "Enchi Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Firefly",
+      "en": "Enchi Firefly",
+      "es": "Enchi Firefly",
+      "de": "Enchi Firefly",
+      "zh": "Enchi Firefly",
+      "nl": "Enchi Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Ghost",
+      "en": "Enchi Ghost",
+      "es": "Enchi Ghost",
+      "de": "Enchi Ghost",
+      "zh": "Enchi Ghost",
+      "nl": "Enchi Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Ivory",
+      "en": "Enchi Ivory",
+      "es": "Enchi Ivory",
+      "de": "Enchi Ivory",
+      "zh": "Enchi Ivory",
+      "nl": "Enchi Ivory",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Pastel Pinstripe",
+      "en": "Enchi Pastel Pinstripe",
+      "es": "Enchi Pastel Pinstripe",
+      "de": "Enchi Pastel Pinstripe",
+      "zh": "Enchi Pastel Pinstripe",
+      "nl": "Enchi Pastel Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Pastel Yellow Belly",
+      "en": "Enchi Pastel Yellow Belly",
+      "es": "Enchi Pastel Yellow Belly",
+      "de": "Enchi Pastel Yellow Belly",
+      "zh": "Enchi Pastel Yellow Belly",
+      "nl": "Enchi Pastel Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Specter",
+      "en": "Enchi Specter",
+      "es": "Enchi Specter",
+      "de": "Enchi Specter",
+      "zh": "Enchi Specter",
+      "nl": "Enchi Specter",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Spider Fire",
+      "en": "Enchi Spider Fire",
+      "es": "Enchi Spider Fire",
+      "de": "Enchi Spider Fire",
+      "zh": "Enchi Spider Fire",
+      "nl": "Enchi Spider Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Spinner",
+      "en": "Enchi Spinner",
+      "es": "Enchi Spinner",
+      "de": "Enchi Spinner",
+      "zh": "Enchi Spinner",
+      "nl": "Enchi Spinner",
+      "type": "combo"
+    },
+    {
+      "fr": "Enchi Toffino",
+      "en": "Enchi Toffino",
+      "es": "Enchi Toffino",
+      "de": "Enchi Toffino",
+      "zh": "Enchi Toffino",
+      "nl": "Enchi Toffino",
+      "type": "combo"
+    },
+    {
+      "fr": "Firefly",
+      "en": "Firefly",
+      "es": "Firefly",
+      "de": "Firefly",
+      "zh": "Firefly",
+      "nl": "Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Firefly",
+      "en": "GHI Firefly",
+      "es": "GHI Firefly",
+      "de": "GHI Firefly",
+      "zh": "GHI Firefly",
+      "nl": "GHI Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Firefly Mojave",
+      "en": "GHI Firefly Mojave",
+      "es": "GHI Firefly Mojave",
+      "de": "GHI Firefly Mojave",
+      "zh": "GHI Firefly Mojave",
+      "nl": "GHI Firefly Mojave",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Mojave",
+      "en": "GHI Mojave",
+      "es": "GHI Mojave",
+      "de": "GHI Mojave",
+      "zh": "GHI Mojave",
+      "nl": "GHI Mojave",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Mojave Champagne",
+      "en": "GHI Mojave Champagne",
+      "es": "GHI Mojave Champagne",
+      "de": "GHI Mojave Champagne",
+      "zh": "GHI Mojave Champagne",
+      "nl": "GHI Mojave Champagne",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Pastave",
+      "en": "GHI Pastave",
+      "es": "GHI Pastave",
+      "de": "GHI Pastave",
+      "zh": "GHI Pastave",
+      "nl": "GHI Pastave",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Pastel",
+      "en": "GHI Pastel",
+      "es": "GHI Pastel",
+      "de": "GHI Pastel",
+      "zh": "GHI Pastel",
+      "nl": "GHI Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Pastel Russo",
+      "en": "GHI Pastel Russo",
+      "es": "GHI Pastel Russo",
+      "de": "GHI Pastel Russo",
+      "zh": "GHI Pastel Russo",
+      "nl": "GHI Pastel Russo",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Pastel Special",
+      "en": "GHI Pastel Special",
+      "es": "GHI Pastel Special",
+      "de": "GHI Pastel Special",
+      "zh": "GHI Pastel Special",
+      "nl": "GHI Pastel Special",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Phantom",
+      "en": "GHI Phantom",
+      "es": "GHI Phantom",
+      "de": "GHI Phantom",
+      "zh": "GHI Phantom",
+      "nl": "GHI Phantom",
+      "type": "combo"
+    },
+    {
+      "fr": "GHI Russo",
+      "en": "GHI Russo",
+      "es": "GHI Russo",
+      "de": "GHI Russo",
+      "zh": "GHI Russo",
+      "nl": "GHI Russo",
+      "type": "combo"
+    },
+    {
+      "fr": "Ghost Mojave Spider",
+      "en": "Ghost Mojave Spider",
+      "es": "Ghost Mojave Spider",
+      "de": "Ghost Mojave Spider",
+      "zh": "Ghost Mojave Spider",
+      "nl": "Ghost Mojave Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Ghost Pastave",
+      "en": "Ghost Pastave",
+      "es": "Ghost Pastave",
+      "de": "Ghost Pastave",
+      "zh": "Ghost Pastave",
+      "nl": "Ghost Pastave",
+      "type": "combo"
+    },
+    {
+      "fr": "Ghost Pastel",
+      "en": "Ghost Pastel",
+      "es": "Ghost Pastel",
+      "de": "Ghost Pastel",
+      "zh": "Ghost Pastel",
+      "nl": "Ghost Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Highway",
+      "en": "Highway",
+      "es": "Highway",
+      "de": "Highway",
+      "zh": "Highway",
+      "nl": "Highway",
+      "type": "combo"
+    },
+    {
+      "fr": "Honey Bee",
+      "en": "Honey Bee",
+      "es": "Honey Bee",
+      "de": "Honey Bee",
+      "zh": "Honey Bee",
+      "nl": "Honey Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Humble Bee",
+      "en": "Humble Bee",
+      "es": "Humble Bee",
+      "de": "Humble Bee",
+      "zh": "Humble Bee",
+      "nl": "Humble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Java",
+      "en": "Java",
+      "es": "Java",
+      "de": "Java",
+      "zh": "Java",
+      "nl": "Java",
+      "type": "trait"
+    },
+    {
+      "fr": "Java Enchi",
+      "en": "Java Enchi",
+      "es": "Java Enchi",
+      "de": "Java Enchi",
+      "zh": "Java Enchi",
+      "nl": "Java Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Java Enchi Pastel",
+      "en": "Java Enchi Pastel",
+      "es": "Java Enchi Pastel",
+      "de": "Java Enchi Pastel",
+      "zh": "Java Enchi Pastel",
+      "nl": "Java Enchi Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Java Enchi Yellow Belly",
+      "en": "Java Enchi Yellow Belly",
+      "es": "Java Enchi Yellow Belly",
+      "de": "Java Enchi Yellow Belly",
+      "zh": "Java Enchi Yellow Belly",
+      "nl": "Java Enchi Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Java Pastel",
+      "en": "Java Pastel",
+      "es": "Java Pastel",
+      "de": "Java Pastel",
+      "zh": "Java Pastel",
+      "nl": "Java Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Java Piebald",
+      "en": "Java Piebald",
+      "es": "Java Piebald",
+      "de": "Java Piebald",
+      "zh": "Java Piebald",
+      "nl": "Java Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Java Spider",
+      "en": "Java Spider",
+      "es": "Java Spider",
+      "de": "Java Spider",
+      "zh": "Java Spider",
+      "nl": "Java Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Bee Butter",
+      "en": "Killer Bee Butter",
+      "es": "Killer Bee Butter",
+      "de": "Killer Bee Butter",
+      "zh": "Killer Bee Butter",
+      "nl": "Killer Bee Butter",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Bee Enchi",
+      "en": "Killer Bee Enchi",
+      "es": "Killer Bee Enchi",
+      "de": "Killer Bee Enchi",
+      "zh": "Killer Bee Enchi",
+      "nl": "Killer Bee Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Bee Enchi Pinstripe",
+      "en": "Killer Bee Enchi Pinstripe",
+      "es": "Killer Bee Enchi Pinstripe",
+      "de": "Killer Bee Enchi Pinstripe",
+      "zh": "Killer Bee Enchi Pinstripe",
+      "nl": "Killer Bee Enchi Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Bee Fire",
+      "en": "Killer Bee Fire",
+      "es": "Killer Bee Fire",
+      "de": "Killer Bee Fire",
+      "zh": "Killer Bee Fire",
+      "nl": "Killer Bee Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Blast",
+      "en": "Killer Blast",
+      "es": "Killer Blast",
+      "de": "Killer Blast",
+      "zh": "Killer Blast",
+      "nl": "Killer Blast",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Butter Clown",
+      "en": "Killer Butter Clown",
+      "es": "Killer Butter Clown",
+      "de": "Killer Butter Clown",
+      "zh": "Killer Butter Clown",
+      "nl": "Killer Butter Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Killer Firefly Blade Clown",
+      "en": "Killer Firefly Blade Clown",
+      "es": "Killer Firefly Blade Clown",
+      "de": "Killer Firefly Blade Clown",
+      "zh": "Killer Firefly Blade Clown",
+      "nl": "Killer Firefly Blade Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Lace",
+      "en": "Lace",
+      "es": "Lace",
+      "de": "Lace",
+      "zh": "Lace",
+      "nl": "Lace",
+      "type": "trait"
+    },
+    {
+      "fr": "Lavender Albino",
+      "en": "Lavender Albino",
+      "es": "Lavender Albino",
+      "de": "Lavender Albino",
+      "zh": "Lavender Albino",
+      "nl": "Lavender Albino",
+      "type": "combo"
+    },
+    {
+      "fr": "Lavender Albino Pastel",
+      "en": "Lavender Albino Pastel",
+      "es": "Lavender Albino Pastel",
+      "de": "Lavender Albino Pastel",
+      "zh": "Lavender Albino Pastel",
+      "nl": "Lavender Albino Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Lavender Java",
+      "en": "Lavender Java",
+      "es": "Lavender Java",
+      "de": "Lavender Java",
+      "zh": "Lavender Java",
+      "nl": "Lavender Java",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard",
+      "en": "Leopard",
+      "es": "Leopard",
+      "de": "Leopard",
+      "zh": "Leopard",
+      "nl": "Leopard",
+      "type": "trait"
+    },
+    {
+      "fr": "Leopard Blade",
+      "en": "Leopard Blade",
+      "es": "Leopard Blade",
+      "de": "Leopard Blade",
+      "zh": "Leopard Blade",
+      "nl": "Leopard Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Bumble Bee",
+      "en": "Leopard Bumble Bee",
+      "es": "Leopard Bumble Bee",
+      "de": "Leopard Bumble Bee",
+      "zh": "Leopard Bumble Bee",
+      "nl": "Leopard Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Butter",
+      "en": "Leopard Butter",
+      "es": "Leopard Butter",
+      "de": "Leopard Butter",
+      "zh": "Leopard Butter",
+      "nl": "Leopard Butter",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Butter Spider",
+      "en": "Leopard Butter Spider",
+      "es": "Leopard Butter Spider",
+      "de": "Leopard Butter Spider",
+      "zh": "Leopard Butter Spider",
+      "nl": "Leopard Butter Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Cinnamon",
+      "en": "Leopard Cinnamon",
+      "es": "Leopard Cinnamon",
+      "de": "Leopard Cinnamon",
+      "zh": "Leopard Cinnamon",
+      "nl": "Leopard Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Pastel",
+      "en": "Leopard Pastel",
+      "es": "Leopard Pastel",
+      "de": "Leopard Pastel",
+      "zh": "Leopard Pastel",
+      "nl": "Leopard Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Pewter",
+      "en": "Leopard Pewter",
+      "es": "Leopard Pewter",
+      "de": "Leopard Pewter",
+      "zh": "Leopard Pewter",
+      "nl": "Leopard Pewter",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Spider",
+      "en": "Leopard Spider",
+      "es": "Leopard Spider",
+      "de": "Leopard Spider",
+      "zh": "Leopard Spider",
+      "nl": "Leopard Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Leopard Yellow Belly",
+      "en": "Leopard Yellow Belly",
+      "es": "Leopard Yellow Belly",
+      "de": "Leopard Yellow Belly",
+      "zh": "Leopard Yellow Belly",
+      "nl": "Leopard Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Lesser Ghost",
+      "en": "Lesser Ghost",
+      "es": "Lesser Ghost",
+      "de": "Lesser Ghost",
+      "zh": "Lesser Ghost",
+      "nl": "Lesser Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Lithium Blaze",
+      "en": "Lithium Blaze",
+      "es": "Lithium Blaze",
+      "de": "Lithium Blaze",
+      "zh": "Lithium Blaze",
+      "nl": "Lithium Blaze",
+      "type": "combo"
+    },
+    {
+      "fr": "Marvel Ball",
+      "en": "Marvel Ball",
+      "es": "Marvel Ball",
+      "de": "Marvel Ball",
+      "zh": "Marvel Ball",
+      "nl": "Marvel Ball",
+      "type": "combo"
+    },
+    {
+      "fr": "Mojave Bumble Bee",
+      "en": "Mojave Bumble Bee",
+      "es": "Mojave Bumble Bee",
+      "de": "Mojave Bumble Bee",
+      "zh": "Mojave Bumble Bee",
+      "nl": "Mojave Bumble Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Mojave Cinnamon Enchi",
+      "en": "Mojave Cinnamon Enchi",
+      "es": "Mojave Cinnamon Enchi",
+      "de": "Mojave Cinnamon Enchi",
+      "zh": "Mojave Cinnamon Enchi",
+      "nl": "Mojave Cinnamon Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Mojave Diamond",
+      "en": "Mojave Diamond",
+      "es": "Mojave Diamond",
+      "de": "Mojave Diamond",
+      "zh": "Mojave Diamond",
+      "nl": "Mojave Diamond",
+      "type": "combo"
+    },
+    {
+      "fr": "Mojave Ghost",
+      "en": "Mojave Ghost",
+      "es": "Mojave Ghost",
+      "de": "Mojave Ghost",
+      "zh": "Mojave Ghost",
+      "nl": "Mojave Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Mojave Spider",
+      "en": "Mojave Spider",
+      "es": "Mojave Spider",
+      "de": "Mojave Spider",
+      "zh": "Mojave Spider",
+      "nl": "Mojave Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Mystic Potion",
+      "en": "Mystic Potion",
+      "es": "Mystic Potion",
+      "de": "Mystic Potion",
+      "zh": "Mystic Potion",
+      "nl": "Mystic Potion",
+      "type": "combo"
+    },
+    {
+      "fr": "Nuclear Spider",
+      "en": "Nuclear Spider",
+      "es": "Nuclear Spider",
+      "de": "Nuclear Spider",
+      "zh": "Nuclear Spider",
+      "nl": "Nuclear Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Blade",
+      "en": "Orange Dream Blade",
+      "es": "Orange Dream Blade",
+      "de": "Orange Dream Blade",
+      "zh": "Orange Dream Blade",
+      "nl": "Orange Dream Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Bumblebee",
+      "en": "Orange Dream Bumblebee",
+      "es": "Orange Dream Bumblebee",
+      "de": "Orange Dream Bumblebee",
+      "zh": "Orange Dream Bumblebee",
+      "nl": "Orange Dream Bumblebee",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Bumblebee Fire",
+      "en": "Orange Dream Bumblebee Fire",
+      "es": "Orange Dream Bumblebee Fire",
+      "de": "Orange Dream Bumblebee Fire",
+      "zh": "Orange Dream Bumblebee Fire",
+      "nl": "Orange Dream Bumblebee Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Butter",
+      "en": "Orange Dream Butter",
+      "es": "Orange Dream Butter",
+      "de": "Orange Dream Butter",
+      "zh": "Orange Dream Butter",
+      "nl": "Orange Dream Butter",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Butter Bumblebee Fire",
+      "en": "Orange Dream Butter Bumblebee Fire",
+      "es": "Orange Dream Butter Bumblebee Fire",
+      "de": "Orange Dream Butter Bumblebee Fire",
+      "zh": "Orange Dream Butter Bumblebee Fire",
+      "nl": "Orange Dream Butter Bumblebee Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Butter Pastel",
+      "en": "Orange Dream Butter Pastel",
+      "es": "Orange Dream Butter Pastel",
+      "de": "Orange Dream Butter Pastel",
+      "zh": "Orange Dream Butter Pastel",
+      "nl": "Orange Dream Butter Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Butter Pinstripe",
+      "en": "Orange Dream Butter Pinstripe",
+      "es": "Orange Dream Butter Pinstripe",
+      "de": "Orange Dream Butter Pinstripe",
+      "zh": "Orange Dream Butter Pinstripe",
+      "nl": "Orange Dream Butter Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Butter Pinstripe Fire",
+      "en": "Orange Dream Butter Pinstripe Fire",
+      "es": "Orange Dream Butter Pinstripe Fire",
+      "de": "Orange Dream Butter Pinstripe Fire",
+      "zh": "Orange Dream Butter Pinstripe Fire",
+      "nl": "Orange Dream Butter Pinstripe Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Calico",
+      "en": "Orange Dream Calico",
+      "es": "Orange Dream Calico",
+      "de": "Orange Dream Calico",
+      "zh": "Orange Dream Calico",
+      "nl": "Orange Dream Calico",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Calico Enchi Fire",
+      "en": "Orange Dream Calico Enchi Fire",
+      "es": "Orange Dream Calico Enchi Fire",
+      "de": "Orange Dream Calico Enchi Fire",
+      "zh": "Orange Dream Calico Enchi Fire",
+      "nl": "Orange Dream Calico Enchi Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Calico Fire",
+      "en": "Orange Dream Calico Fire",
+      "es": "Orange Dream Calico Fire",
+      "de": "Orange Dream Calico Fire",
+      "zh": "Orange Dream Calico Fire",
+      "nl": "Orange Dream Calico Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Calico Firefly",
+      "en": "Orange Dream Calico Firefly",
+      "es": "Orange Dream Calico Firefly",
+      "de": "Orange Dream Calico Firefly",
+      "zh": "Orange Dream Calico Firefly",
+      "nl": "Orange Dream Calico Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Calico Ghost",
+      "en": "Orange Dream Calico Ghost",
+      "es": "Orange Dream Calico Ghost",
+      "de": "Orange Dream Calico Ghost",
+      "zh": "Orange Dream Calico Ghost",
+      "nl": "Orange Dream Calico Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Champagne",
+      "en": "Orange Dream Champagne",
+      "es": "Orange Dream Champagne",
+      "de": "Orange Dream Champagne",
+      "zh": "Orange Dream Champagne",
+      "nl": "Orange Dream Champagne",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Champagne Fire",
+      "en": "Orange Dream Champagne Fire",
+      "es": "Orange Dream Champagne Fire",
+      "de": "Orange Dream Champagne Fire",
+      "zh": "Orange Dream Champagne Fire",
+      "nl": "Orange Dream Champagne Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Cinnamon Ghost",
+      "en": "Orange Dream Cinnamon Ghost",
+      "es": "Orange Dream Cinnamon Ghost",
+      "de": "Orange Dream Cinnamon Ghost",
+      "zh": "Orange Dream Cinnamon Ghost",
+      "nl": "Orange Dream Cinnamon Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Enchi",
+      "en": "Orange Dream Enchi",
+      "es": "Orange Dream Enchi",
+      "de": "Orange Dream Enchi",
+      "zh": "Orange Dream Enchi",
+      "nl": "Orange Dream Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Enchi Fire",
+      "en": "Orange Dream Enchi Fire",
+      "es": "Orange Dream Enchi Fire",
+      "de": "Orange Dream Enchi Fire",
+      "zh": "Orange Dream Enchi Fire",
+      "nl": "Orange Dream Enchi Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Enchi Vanilla Fire",
+      "en": "Orange Dream Enchi Vanilla Fire",
+      "es": "Orange Dream Enchi Vanilla Fire",
+      "de": "Orange Dream Enchi Vanilla Fire",
+      "zh": "Orange Dream Enchi Vanilla Fire",
+      "nl": "Orange Dream Enchi Vanilla Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Fire",
+      "en": "Orange Dream Fire",
+      "es": "Orange Dream Fire",
+      "de": "Orange Dream Fire",
+      "zh": "Orange Dream Fire",
+      "nl": "Orange Dream Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Fire Calico Spider",
+      "en": "Orange Dream Fire Calico Spider",
+      "es": "Orange Dream Fire Calico Spider",
+      "de": "Orange Dream Fire Calico Spider",
+      "zh": "Orange Dream Fire Calico Spider",
+      "nl": "Orange Dream Fire Calico Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Firefly",
+      "en": "Orange Dream Firefly",
+      "es": "Orange Dream Firefly",
+      "de": "Orange Dream Firefly",
+      "zh": "Orange Dream Firefly",
+      "nl": "Orange Dream Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Firefly Yellow Belly",
+      "en": "Orange Dream Firefly Yellow Belly",
+      "es": "Orange Dream Firefly Yellow Belly",
+      "de": "Orange Dream Firefly Yellow Belly",
+      "zh": "Orange Dream Firefly Yellow Belly",
+      "nl": "Orange Dream Firefly Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Ghost",
+      "en": "Orange Dream Ghost",
+      "es": "Orange Dream Ghost",
+      "de": "Orange Dream Ghost",
+      "zh": "Orange Dream Ghost",
+      "nl": "Orange Dream Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Java",
+      "en": "Orange Dream Java",
+      "es": "Orange Dream Java",
+      "de": "Orange Dream Java",
+      "zh": "Orange Dream Java",
+      "nl": "Orange Dream Java",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Java Fire",
+      "en": "Orange Dream Java Fire",
+      "es": "Orange Dream Java Fire",
+      "de": "Orange Dream Java Fire",
+      "zh": "Orange Dream Java Fire",
+      "nl": "Orange Dream Java Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Leopard",
+      "en": "Orange Dream Leopard",
+      "es": "Orange Dream Leopard",
+      "de": "Orange Dream Leopard",
+      "zh": "Orange Dream Leopard",
+      "nl": "Orange Dream Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Leopard Spider",
+      "en": "Orange Dream Leopard Spider",
+      "es": "Orange Dream Leopard Spider",
+      "de": "Orange Dream Leopard Spider",
+      "zh": "Orange Dream Leopard Spider",
+      "nl": "Orange Dream Leopard Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Lesser Pastel Enchi",
+      "en": "Orange Dream Lesser Pastel Enchi",
+      "es": "Orange Dream Lesser Pastel Enchi",
+      "de": "Orange Dream Lesser Pastel Enchi",
+      "zh": "Orange Dream Lesser Pastel Enchi",
+      "nl": "Orange Dream Lesser Pastel Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Mojave Ghost",
+      "en": "Orange Dream Mojave Ghost",
+      "es": "Orange Dream Mojave Ghost",
+      "de": "Orange Dream Mojave Ghost",
+      "zh": "Orange Dream Mojave Ghost",
+      "nl": "Orange Dream Mojave Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Pastel",
+      "en": "Orange Dream Pastel",
+      "es": "Orange Dream Pastel",
+      "de": "Orange Dream Pastel",
+      "zh": "Orange Dream Pastel",
+      "nl": "Orange Dream Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Pastel Blade",
+      "en": "Orange Dream Pastel Blade",
+      "es": "Orange Dream Pastel Blade",
+      "de": "Orange Dream Pastel Blade",
+      "zh": "Orange Dream Pastel Blade",
+      "nl": "Orange Dream Pastel Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Pastel Calico",
+      "en": "Orange Dream Pastel Calico",
+      "es": "Orange Dream Pastel Calico",
+      "de": "Orange Dream Pastel Calico",
+      "zh": "Orange Dream Pastel Calico",
+      "nl": "Orange Dream Pastel Calico",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Pastel Super Blade",
+      "en": "Orange Dream Pastel Super Blade",
+      "es": "Orange Dream Pastel Super Blade",
+      "de": "Orange Dream Pastel Super Blade",
+      "zh": "Orange Dream Pastel Super Blade",
+      "nl": "Orange Dream Pastel Super Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Pastel Super Stripe",
+      "en": "Orange Dream Pastel Super Stripe",
+      "es": "Orange Dream Pastel Super Stripe",
+      "de": "Orange Dream Pastel Super Stripe",
+      "zh": "Orange Dream Pastel Super Stripe",
+      "nl": "Orange Dream Pastel Super Stripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Pastel Vanilla",
+      "en": "Orange Dream Pastel Vanilla",
+      "es": "Orange Dream Pastel Vanilla",
+      "de": "Orange Dream Pastel Vanilla",
+      "zh": "Orange Dream Pastel Vanilla",
+      "nl": "Orange Dream Pastel Vanilla",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Pinstripe Fire",
+      "en": "Orange Dream Pinstripe Fire",
+      "es": "Orange Dream Pinstripe Fire",
+      "de": "Orange Dream Pinstripe Fire",
+      "zh": "Orange Dream Pinstripe Fire",
+      "nl": "Orange Dream Pinstripe Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Spider",
+      "en": "Orange Dream Spider",
+      "es": "Orange Dream Spider",
+      "de": "Orange Dream Spider",
+      "zh": "Orange Dream Spider",
+      "nl": "Orange Dream Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Spider Fire",
+      "en": "Orange Dream Spider Fire",
+      "es": "Orange Dream Spider Fire",
+      "de": "Orange Dream Spider Fire",
+      "zh": "Orange Dream Spider Fire",
+      "nl": "Orange Dream Spider Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Super Blade",
+      "en": "Orange Dream Super Blade",
+      "es": "Orange Dream Super Blade",
+      "de": "Orange Dream Super Blade",
+      "zh": "Orange Dream Super Blade",
+      "nl": "Orange Dream Super Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Super Fire",
+      "en": "Orange Dream Super Fire",
+      "es": "Orange Dream Super Fire",
+      "de": "Orange Dream Super Fire",
+      "zh": "Orange Dream Super Fire",
+      "nl": "Orange Dream Super Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Super Stripe",
+      "en": "Orange Dream Super Stripe",
+      "es": "Orange Dream Super Stripe",
+      "de": "Orange Dream Super Stripe",
+      "zh": "Orange Dream Super Stripe",
+      "nl": "Orange Dream Super Stripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Super Stripe Pewter Fire",
+      "en": "Orange Dream Super Stripe Pewter Fire",
+      "es": "Orange Dream Super Stripe Pewter Fire",
+      "de": "Orange Dream Super Stripe Pewter Fire",
+      "zh": "Orange Dream Super Stripe Pewter Fire",
+      "nl": "Orange Dream Super Stripe Pewter Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Vanilla",
+      "en": "Orange Dream Vanilla",
+      "es": "Orange Dream Vanilla",
+      "de": "Orange Dream Vanilla",
+      "zh": "Orange Dream Vanilla",
+      "nl": "Orange Dream Vanilla",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Vanilla Fire",
+      "en": "Orange Dream Vanilla Fire",
+      "es": "Orange Dream Vanilla Fire",
+      "de": "Orange Dream Vanilla Fire",
+      "zh": "Orange Dream Vanilla Fire",
+      "nl": "Orange Dream Vanilla Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Yellow Belly",
+      "en": "Orange Dream Yellow Belly",
+      "es": "Orange Dream Yellow Belly",
+      "de": "Orange Dream Yellow Belly",
+      "zh": "Orange Dream Yellow Belly",
+      "nl": "Orange Dream Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Dream Yellow Belly Fire",
+      "en": "Orange Dream Yellow Belly Fire",
+      "es": "Orange Dream Yellow Belly Fire",
+      "de": "Orange Dream Yellow Belly Fire",
+      "zh": "Orange Dream Yellow Belly Fire",
+      "nl": "Orange Dream Yellow Belly Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Orange Ghost",
+      "en": "Orange Ghost",
+      "es": "Orange Ghost",
+      "de": "Orange Ghost",
+      "zh": "Orange Ghost",
+      "nl": "Orange Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Paradox Toffino",
+      "en": "Paradox Toffino",
+      "es": "Paradox Toffino",
+      "de": "Paradox Toffino",
+      "zh": "Paradox Toffino",
+      "nl": "Paradox Toffino",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Blade",
+      "en": "Pastel Blade",
+      "es": "Pastel Blade",
+      "de": "Pastel Blade",
+      "zh": "Pastel Blade",
+      "nl": "Pastel Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Blade Clown",
+      "en": "Pastel Blade Clown",
+      "es": "Pastel Blade Clown",
+      "de": "Pastel Blade Clown",
+      "zh": "Pastel Blade Clown",
+      "nl": "Pastel Blade Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Champagne",
+      "en": "Pastel Champagne",
+      "es": "Pastel Champagne",
+      "de": "Pastel Champagne",
+      "zh": "Pastel Champagne",
+      "nl": "Pastel Champagne",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Desert Ghost",
+      "en": "Pastel Desert Ghost",
+      "es": "Pastel Desert Ghost",
+      "de": "Pastel Desert Ghost",
+      "zh": "Pastel Desert Ghost",
+      "nl": "Pastel Desert Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Disco Sulphur",
+      "en": "Pastel Disco Sulphur",
+      "es": "Pastel Disco Sulphur",
+      "de": "Pastel Disco Sulphur",
+      "zh": "Pastel Disco Sulphur",
+      "nl": "Pastel Disco Sulphur",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Enchi",
+      "en": "Pastel Enchi",
+      "es": "Pastel Enchi",
+      "de": "Pastel Enchi",
+      "zh": "Pastel Enchi",
+      "nl": "Pastel Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Enchi Ghost",
+      "en": "Pastel Enchi Ghost",
+      "es": "Pastel Enchi Ghost",
+      "de": "Pastel Enchi Ghost",
+      "zh": "Pastel Enchi Ghost",
+      "nl": "Pastel Enchi Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Enchi Spinner",
+      "en": "Pastel Enchi Spinner",
+      "es": "Pastel Enchi Spinner",
+      "de": "Pastel Enchi Spinner",
+      "zh": "Pastel Enchi Spinner",
+      "nl": "Pastel Enchi Spinner",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Jungle",
+      "en": "Pastel Jungle",
+      "es": "Pastel Jungle",
+      "de": "Pastel Jungle",
+      "zh": "Pastel Jungle",
+      "nl": "Pastel Jungle",
+      "type": "trait"
+    },
+    {
+      "fr": "Pastel Lesser",
+      "en": "Pastel Lesser",
+      "es": "Pastel Lesser",
+      "de": "Pastel Lesser",
+      "zh": "Pastel Lesser",
+      "nl": "Pastel Lesser",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Lesser Blade Clown",
+      "en": "Pastel Lesser Blade Clown",
+      "es": "Pastel Lesser Blade Clown",
+      "de": "Pastel Lesser Blade Clown",
+      "zh": "Pastel Lesser Blade Clown",
+      "nl": "Pastel Lesser Blade Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Lesser Enchi",
+      "en": "Pastel Lesser Enchi",
+      "es": "Pastel Lesser Enchi",
+      "de": "Pastel Lesser Enchi",
+      "zh": "Pastel Lesser Enchi",
+      "nl": "Pastel Lesser Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Special",
+      "en": "Pastel Special",
+      "es": "Pastel Special",
+      "de": "Pastel Special",
+      "zh": "Pastel Special",
+      "nl": "Pastel Special",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Super Blade",
+      "en": "Pastel Super Blade",
+      "es": "Pastel Super Blade",
+      "de": "Pastel Super Blade",
+      "zh": "Pastel Super Blade",
+      "nl": "Pastel Super Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Pastel Yellow Belly",
+      "en": "Pastel Yellow Belly",
+      "es": "Pastel Yellow Belly",
+      "de": "Pastel Yellow Belly",
+      "zh": "Pastel Yellow Belly",
+      "nl": "Pastel Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter",
+      "en": "Pewter",
+      "es": "Pewter",
+      "de": "Pewter",
+      "zh": "Pewter",
+      "nl": "Pewter",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter Bee",
+      "en": "Pewter Bee",
+      "es": "Pewter Bee",
+      "de": "Pewter Bee",
+      "zh": "Pewter Bee",
+      "nl": "Pewter Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter Blade",
+      "en": "Pewter Blade",
+      "es": "Pewter Blade",
+      "de": "Pewter Blade",
+      "zh": "Pewter Blade",
+      "nl": "Pewter Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter Clown",
+      "en": "Pewter Clown",
+      "es": "Pewter Clown",
+      "de": "Pewter Clown",
+      "zh": "Pewter Clown",
+      "nl": "Pewter Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter Fader",
+      "en": "Pewter Fader",
+      "es": "Pewter Fader",
+      "de": "Pewter Fader",
+      "zh": "Pewter Fader",
+      "nl": "Pewter Fader",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter Fire",
+      "en": "Pewter Fire",
+      "es": "Pewter Fire",
+      "de": "Pewter Fire",
+      "zh": "Pewter Fire",
+      "nl": "Pewter Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter Pinstripe",
+      "en": "Pewter Pinstripe",
+      "es": "Pewter Pinstripe",
+      "de": "Pewter Pinstripe",
+      "zh": "Pewter Pinstripe",
+      "nl": "Pewter Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Pewter Specter",
+      "en": "Pewter Specter",
+      "es": "Pewter Specter",
+      "de": "Pewter Specter",
+      "zh": "Pewter Specter",
+      "nl": "Pewter Specter",
+      "type": "combo"
+    },
+    {
+      "fr": "Piebald (High White)",
+      "en": "Piebald (High White)",
+      "es": "Piebald (High White)",
+      "de": "Piebald (High White)",
+      "zh": "Piebald (High White)",
+      "nl": "Piebald (High White)",
+      "type": "trait"
+    },
+    {
+      "fr": "Piebald (Paradox)",
+      "en": "Piebald (Paradox)",
+      "es": "Piebald (Paradox)",
+      "de": "Piebald (Paradox)",
+      "zh": "Piebald (Paradox)",
+      "nl": "Piebald (Paradox)",
+      "type": "combo"
+    },
+    {
+      "fr": "Piebald Java Toffino",
+      "en": "Piebald Java Toffino",
+      "es": "Piebald Java Toffino",
+      "de": "Piebald Java Toffino",
+      "zh": "Piebald Java Toffino",
+      "nl": "Piebald Java Toffino",
+      "type": "combo"
+    },
+    {
+      "fr": "Piebald Leopard",
+      "en": "Piebald Leopard",
+      "es": "Piebald Leopard",
+      "de": "Piebald Leopard",
+      "zh": "Piebald Leopard",
+      "nl": "Piebald Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Piebald Low White",
+      "en": "Piebald Low White",
+      "es": "Piebald Low White",
+      "de": "Piebald Low White",
+      "zh": "Piebald Low White",
+      "nl": "Piebald Low White",
+      "type": "trait"
+    },
+    {
+      "fr": "Piebald Pewter",
+      "en": "Piebald Pewter",
+      "es": "Piebald Pewter",
+      "de": "Piebald Pewter",
+      "zh": "Piebald Pewter",
+      "nl": "Piebald Pewter",
+      "type": "combo"
+    },
+    {
+      "fr": "Piebald Spider",
+      "en": "Piebald Spider",
+      "es": "Piebald Spider",
+      "de": "Piebald Spider",
+      "zh": "Piebald Spider",
+      "nl": "Piebald Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Piebald Sterling",
+      "en": "Piebald Sterling",
+      "es": "Piebald Sterling",
+      "de": "Piebald Sterling",
+      "zh": "Piebald Sterling",
+      "nl": "Piebald Sterling",
+      "type": "combo"
+    },
+    {
+      "fr": "Piebald Toffino",
+      "en": "Piebald Toffino",
+      "es": "Piebald Toffino",
+      "de": "Piebald Toffino",
+      "zh": "Piebald Toffino",
+      "nl": "Piebald Toffino",
+      "type": "combo"
+    },
+    {
+      "fr": "Puma",
+      "en": "Puma",
+      "es": "Puma",
+      "de": "Puma",
+      "zh": "Puma",
+      "nl": "Puma",
+      "type": "combo"
+    },
+    {
+      "fr": "Pumpkin Piebald",
+      "en": "Pumpkin Piebald",
+      "es": "Pumpkin Piebald",
+      "de": "Pumpkin Piebald",
+      "zh": "Pumpkin Piebald",
+      "nl": "Pumpkin Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Purple Passion",
+      "en": "Purple Passion",
+      "es": "Purple Passion",
+      "de": "Purple Passion",
+      "zh": "Purple Passion",
+      "nl": "Purple Passion",
+      "type": "combo"
+    },
+    {
+      "fr": "Ringer",
+      "en": "Ringer",
+      "es": "Ringer",
+      "de": "Ringer",
+      "zh": "Ringer",
+      "nl": "Ringer",
+      "type": "trait"
+    },
+    {
+      "fr": "Special Diamond",
+      "en": "Special Diamond",
+      "es": "Special Diamond",
+      "de": "Special Diamond",
+      "zh": "Special Diamond",
+      "nl": "Special Diamond",
+      "type": "combo"
+    },
+    {
+      "fr": "Spider Fire",
+      "en": "Spider Fire",
+      "es": "Spider Fire",
+      "de": "Spider Fire",
+      "zh": "Spider Fire",
+      "nl": "Spider Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Spinner",
+      "en": "Spinner",
+      "es": "Spinner",
+      "de": "Spinner",
+      "zh": "Spinner",
+      "nl": "Spinner",
+      "type": "combo"
+    },
+    {
+      "fr": "Spinner Blast",
+      "en": "Spinner Blast",
+      "es": "Spinner Blast",
+      "de": "Spinner Blast",
+      "zh": "Spinner Blast",
+      "nl": "Spinner Blast",
+      "type": "combo"
+    },
+    {
+      "fr": "Spotnose Yellow Belly",
+      "en": "Spotnose Yellow Belly",
+      "es": "Spotnose Yellow Belly",
+      "de": "Spotnose Yellow Belly",
+      "zh": "Spotnose Yellow Belly",
+      "nl": "Spotnose Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Sterling",
+      "en": "Sterling",
+      "es": "Sterling",
+      "de": "Sterling",
+      "zh": "Sterling",
+      "nl": "Sterling",
+      "type": "combo"
+    },
+    {
+      "fr": "Sterling Champagne",
+      "en": "Sterling Champagne",
+      "es": "Sterling Champagne",
+      "de": "Sterling Champagne",
+      "zh": "Sterling Champagne",
+      "nl": "Sterling Champagne",
+      "type": "combo"
+    },
+    {
+      "fr": "Sterling Clown",
+      "en": "Sterling Clown",
+      "es": "Sterling Clown",
+      "de": "Sterling Clown",
+      "zh": "Sterling Clown",
+      "nl": "Sterling Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Sterling Pinstripe",
+      "en": "Sterling Pinstripe",
+      "es": "Sterling Pinstripe",
+      "de": "Sterling Pinstripe",
+      "zh": "Sterling Pinstripe",
+      "nl": "Sterling Pinstripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Sulphur",
+      "en": "Sulphur",
+      "es": "Sulphur",
+      "de": "Sulphur",
+      "zh": "Sulphur",
+      "nl": "Sulphur",
+      "type": "trait"
+    },
+    {
+      "fr": "Super Banana",
+      "en": "Super Banana",
+      "es": "Super Banana",
+      "de": "Super Banana",
+      "zh": "Super Banana",
+      "nl": "Super Banana",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Banana Spider",
+      "en": "Super Banana Spider",
+      "es": "Super Banana Spider",
+      "de": "Super Banana Spider",
+      "zh": "Super Banana Spider",
+      "nl": "Super Banana Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Blade",
+      "en": "Super Blade",
+      "es": "Super Blade",
+      "de": "Super Blade",
+      "zh": "Super Blade",
+      "nl": "Super Blade",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Blade Butter Clown",
+      "en": "Super Blade Butter Clown",
+      "es": "Super Blade Butter Clown",
+      "de": "Super Blade Butter Clown",
+      "zh": "Super Blade Butter Clown",
+      "nl": "Super Blade Butter Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Blade Butter Pastel Clown",
+      "en": "Super Blade Butter Pastel Clown",
+      "es": "Super Blade Butter Pastel Clown",
+      "de": "Super Blade Butter Pastel Clown",
+      "zh": "Super Blade Butter Pastel Clown",
+      "nl": "Super Blade Butter Pastel Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Blade Butterfly Clown",
+      "en": "Super Blade Butterfly Clown",
+      "es": "Super Blade Butterfly Clown",
+      "de": "Super Blade Butterfly Clown",
+      "zh": "Super Blade Butterfly Clown",
+      "nl": "Super Blade Butterfly Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Blade Clown",
+      "en": "Super Blade Clown",
+      "es": "Super Blade Clown",
+      "de": "Super Blade Clown",
+      "zh": "Super Blade Clown",
+      "nl": "Super Blade Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Blade Orange Dream Clown",
+      "en": "Super Blade Orange Dream Clown",
+      "es": "Super Blade Orange Dream Clown",
+      "de": "Super Blade Orange Dream Clown",
+      "zh": "Super Blade Orange Dream Clown",
+      "nl": "Super Blade Orange Dream Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Blade Pastel Clown",
+      "en": "Super Blade Pastel Clown",
+      "es": "Super Blade Pastel Clown",
+      "de": "Super Blade Pastel Clown",
+      "zh": "Super Blade Pastel Clown",
+      "nl": "Super Blade Pastel Clown",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Butter Pastel",
+      "en": "Super Butter Pastel",
+      "es": "Super Butter Pastel",
+      "de": "Super Butter Pastel",
+      "zh": "Super Butter Pastel",
+      "nl": "Super Butter Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Cinnamon",
+      "en": "Super Cinnamon",
+      "es": "Super Cinnamon",
+      "de": "Super Cinnamon",
+      "zh": "Super Cinnamon",
+      "nl": "Super Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Cinnamon Pastel Ringer",
+      "en": "Super Cinnamon Pastel Ringer",
+      "es": "Super Cinnamon Pastel Ringer",
+      "de": "Super Cinnamon Pastel Ringer",
+      "zh": "Super Cinnamon Pastel Ringer",
+      "nl": "Super Cinnamon Pastel Ringer",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Cinnamon Ringer",
+      "en": "Super Cinnamon Ringer",
+      "es": "Super Cinnamon Ringer",
+      "de": "Super Cinnamon Ringer",
+      "zh": "Super Cinnamon Ringer",
+      "nl": "Super Cinnamon Ringer",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Citrus Pastel Specter!",
+      "en": "Super Citrus Pastel Specter!",
+      "es": "Super Citrus Pastel Specter!",
+      "de": "Super Citrus Pastel Specter!",
+      "zh": "Super Citrus Pastel Specter!",
+      "nl": "Super Citrus Pastel Specter!",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Enchi",
+      "en": "Super Enchi",
+      "es": "Super Enchi",
+      "de": "Super Enchi",
+      "zh": "Super Enchi",
+      "nl": "Super Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Enchi Java",
+      "en": "Super Enchi Java",
+      "es": "Super Enchi Java",
+      "de": "Super Enchi Java",
+      "zh": "Super Enchi Java",
+      "nl": "Super Enchi Java",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Enchi Yellow Belly Fire",
+      "en": "Super Enchi Yellow Belly Fire",
+      "es": "Super Enchi Yellow Belly Fire",
+      "de": "Super Enchi Yellow Belly Fire",
+      "zh": "Super Enchi Yellow Belly Fire",
+      "nl": "Super Enchi Yellow Belly Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Fire",
+      "en": "Super Fire",
+      "es": "Super Fire",
+      "de": "Super Fire",
+      "zh": "Super Fire",
+      "nl": "Super Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Hero",
+      "en": "Super Hero",
+      "es": "Super Hero",
+      "de": "Super Hero",
+      "zh": "Super Hero",
+      "nl": "Super Hero",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Java",
+      "en": "Super Java",
+      "es": "Super Java",
+      "de": "Super Java",
+      "zh": "Super Java",
+      "nl": "Super Java",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Java Piebald",
+      "en": "Super Java Piebald",
+      "es": "Super Java Piebald",
+      "de": "Super Java Piebald",
+      "zh": "Super Java Piebald",
+      "nl": "Super Java Piebald",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Leopard",
+      "en": "Super Leopard",
+      "es": "Super Leopard",
+      "de": "Super Leopard",
+      "zh": "Super Leopard",
+      "nl": "Super Leopard",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Mojave",
+      "en": "Super Mojave",
+      "es": "Super Mojave",
+      "de": "Super Mojave",
+      "zh": "Super Mojave",
+      "nl": "Super Mojave",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream",
+      "en": "Super Orange Dream",
+      "es": "Super Orange Dream",
+      "de": "Super Orange Dream",
+      "zh": "Super Orange Dream",
+      "nl": "Super Orange Dream",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Butter Fire",
+      "en": "Super Orange Dream Butter Fire",
+      "es": "Super Orange Dream Butter Fire",
+      "de": "Super Orange Dream Butter Fire",
+      "zh": "Super Orange Dream Butter Fire",
+      "nl": "Super Orange Dream Butter Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Butter Pinstripe Fire",
+      "en": "Super Orange Dream Butter Pinstripe Fire",
+      "es": "Super Orange Dream Butter Pinstripe Fire",
+      "de": "Super Orange Dream Butter Pinstripe Fire",
+      "zh": "Super Orange Dream Butter Pinstripe Fire",
+      "nl": "Super Orange Dream Butter Pinstripe Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Champagne",
+      "en": "Super Orange Dream Champagne",
+      "es": "Super Orange Dream Champagne",
+      "de": "Super Orange Dream Champagne",
+      "zh": "Super Orange Dream Champagne",
+      "nl": "Super Orange Dream Champagne",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Champagne Fire",
+      "en": "Super Orange Dream Champagne Fire",
+      "es": "Super Orange Dream Champagne Fire",
+      "de": "Super Orange Dream Champagne Fire",
+      "zh": "Super Orange Dream Champagne Fire",
+      "nl": "Super Orange Dream Champagne Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Fire",
+      "en": "Super Orange Dream Fire",
+      "es": "Super Orange Dream Fire",
+      "de": "Super Orange Dream Fire",
+      "zh": "Super Orange Dream Fire",
+      "nl": "Super Orange Dream Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Pastel",
+      "en": "Super Orange Dream Pastel",
+      "es": "Super Orange Dream Pastel",
+      "de": "Super Orange Dream Pastel",
+      "zh": "Super Orange Dream Pastel",
+      "nl": "Super Orange Dream Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Yellow Belly",
+      "en": "Super Orange Dream Yellow Belly",
+      "es": "Super Orange Dream Yellow Belly",
+      "de": "Super Orange Dream Yellow Belly",
+      "zh": "Super Orange Dream Yellow Belly",
+      "nl": "Super Orange Dream Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Yellow Belly Fire",
+      "en": "Super Orange Dream Yellow Belly Fire",
+      "es": "Super Orange Dream Yellow Belly Fire",
+      "de": "Super Orange Dream Yellow Belly Fire",
+      "zh": "Super Orange Dream Yellow Belly Fire",
+      "nl": "Super Orange Dream Yellow Belly Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Orange Dream Yellow Belly Spider Fire",
+      "en": "Super Orange Dream Yellow Belly Spider Fire",
+      "es": "Super Orange Dream Yellow Belly Spider Fire",
+      "de": "Super Orange Dream Yellow Belly Spider Fire",
+      "zh": "Super Orange Dream Yellow Belly Spider Fire",
+      "nl": "Super Orange Dream Yellow Belly Spider Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel",
+      "en": "Super Pastel",
+      "es": "Super Pastel",
+      "de": "Super Pastel",
+      "zh": "Super Pastel",
+      "nl": "Super Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Butter Blade Fire",
+      "en": "Super Pastel Butter Blade Fire",
+      "es": "Super Pastel Butter Blade Fire",
+      "de": "Super Pastel Butter Blade Fire",
+      "zh": "Super Pastel Butter Blade Fire",
+      "nl": "Super Pastel Butter Blade Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Butter Fire",
+      "en": "Super Pastel Butter Fire",
+      "es": "Super Pastel Butter Fire",
+      "de": "Super Pastel Butter Fire",
+      "zh": "Super Pastel Butter Fire",
+      "nl": "Super Pastel Butter Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Butter Vanilla",
+      "en": "Super Pastel Butter Vanilla",
+      "es": "Super Pastel Butter Vanilla",
+      "de": "Super Pastel Butter Vanilla",
+      "zh": "Super Pastel Butter Vanilla",
+      "nl": "Super Pastel Butter Vanilla",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Calico",
+      "en": "Super Pastel Calico",
+      "es": "Super Pastel Calico",
+      "de": "Super Pastel Calico",
+      "zh": "Super Pastel Calico",
+      "nl": "Super Pastel Calico",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Cinnamon Enchi",
+      "en": "Super Pastel Cinnamon Enchi",
+      "es": "Super Pastel Cinnamon Enchi",
+      "de": "Super Pastel Cinnamon Enchi",
+      "zh": "Super Pastel Cinnamon Enchi",
+      "nl": "Super Pastel Cinnamon Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Desert Ghost",
+      "en": "Super Pastel Desert Ghost",
+      "es": "Super Pastel Desert Ghost",
+      "de": "Super Pastel Desert Ghost",
+      "zh": "Super Pastel Desert Ghost",
+      "nl": "Super Pastel Desert Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Enchi",
+      "en": "Super Pastel Enchi",
+      "es": "Super Pastel Enchi",
+      "de": "Super Pastel Enchi",
+      "zh": "Super Pastel Enchi",
+      "nl": "Super Pastel Enchi",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Ghost",
+      "en": "Super Pastel Ghost",
+      "es": "Super Pastel Ghost",
+      "de": "Super Pastel Ghost",
+      "zh": "Super Pastel Ghost",
+      "nl": "Super Pastel Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Vanilla",
+      "en": "Super Pastel Vanilla",
+      "es": "Super Pastel Vanilla",
+      "de": "Super Pastel Vanilla",
+      "zh": "Super Pastel Vanilla",
+      "nl": "Super Pastel Vanilla",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Vanilla Fire",
+      "en": "Super Pastel Vanilla Fire",
+      "es": "Super Pastel Vanilla Fire",
+      "de": "Super Pastel Vanilla Fire",
+      "zh": "Super Pastel Vanilla Fire",
+      "nl": "Super Pastel Vanilla Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pastel Yellow Belly",
+      "en": "Super Pastel Yellow Belly",
+      "es": "Super Pastel Yellow Belly",
+      "de": "Super Pastel Yellow Belly",
+      "zh": "Super Pastel Yellow Belly",
+      "nl": "Super Pastel Yellow Belly",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Pewter Ringer",
+      "en": "Super Pewter Ringer",
+      "es": "Super Pewter Ringer",
+      "de": "Super Pewter Ringer",
+      "zh": "Super Pewter Ringer",
+      "nl": "Super Pewter Ringer",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Stripe",
+      "en": "Super Stripe",
+      "es": "Super Stripe",
+      "de": "Super Stripe",
+      "zh": "Super Stripe",
+      "nl": "Super Stripe",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Stripe Pastel Ghost",
+      "en": "Super Stripe Pastel Ghost",
+      "es": "Super Stripe Pastel Ghost",
+      "de": "Super Stripe Pastel Ghost",
+      "zh": "Super Stripe Pastel Ghost",
+      "nl": "Super Stripe Pastel Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Stripe Pewter Fire",
+      "en": "Super Stripe Pewter Fire",
+      "es": "Super Stripe Pewter Fire",
+      "de": "Super Stripe Pewter Fire",
+      "zh": "Super Stripe Pewter Fire",
+      "nl": "Super Stripe Pewter Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Vanilla",
+      "en": "Super Vanilla",
+      "es": "Super Vanilla",
+      "de": "Super Vanilla",
+      "zh": "Super Vanilla",
+      "nl": "Super Vanilla",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Vanilla Pastel",
+      "en": "Super Vanilla Pastel",
+      "es": "Super Vanilla Pastel",
+      "de": "Super Vanilla Pastel",
+      "zh": "Super Vanilla Pastel",
+      "nl": "Super Vanilla Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Vanilla Pastel Ghost",
+      "en": "Super Vanilla Pastel Ghost",
+      "es": "Super Vanilla Pastel Ghost",
+      "de": "Super Vanilla Pastel Ghost",
+      "zh": "Super Vanilla Pastel Ghost",
+      "nl": "Super Vanilla Pastel Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "The White Walker",
+      "en": "The White Walker",
+      "es": "The White Walker",
+      "de": "The White Walker",
+      "zh": "The White Walker",
+      "nl": "The White Walker",
+      "type": "combo"
+    },
+    {
+      "fr": "Toffino",
+      "en": "Toffino",
+      "es": "Toffino",
+      "de": "Toffino",
+      "zh": "Toffino",
+      "nl": "Toffino",
+      "type": "combo"
+    },
+    {
+      "fr": "Toffino Cinnamon",
+      "en": "Toffino Cinnamon",
+      "es": "Toffino Cinnamon",
+      "de": "Toffino Cinnamon",
+      "zh": "Toffino Cinnamon",
+      "nl": "Toffino Cinnamon",
+      "type": "combo"
+    },
+    {
+      "fr": "Toffino Pastel",
+      "en": "Toffino Pastel",
+      "es": "Toffino Pastel",
+      "de": "Toffino Pastel",
+      "zh": "Toffino Pastel",
+      "nl": "Toffino Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Toffino Pastel Paradox",
+      "en": "Toffino Pastel Paradox",
+      "es": "Toffino Pastel Paradox",
+      "de": "Toffino Pastel Paradox",
+      "zh": "Toffino Pastel Paradox",
+      "nl": "Toffino Pastel Paradox",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Cinnamon Fire",
+      "en": "Vanilla Cinnamon Fire",
+      "es": "Vanilla Cinnamon Fire",
+      "de": "Vanilla Cinnamon Fire",
+      "zh": "Vanilla Cinnamon Fire",
+      "nl": "Vanilla Cinnamon Fire",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Cinnamon Firefly",
+      "en": "Vanilla Cinnamon Firefly",
+      "es": "Vanilla Cinnamon Firefly",
+      "de": "Vanilla Cinnamon Firefly",
+      "zh": "Vanilla Cinnamon Firefly",
+      "nl": "Vanilla Cinnamon Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Firefly",
+      "en": "Vanilla Firefly",
+      "es": "Vanilla Firefly",
+      "de": "Vanilla Firefly",
+      "zh": "Vanilla Firefly",
+      "nl": "Vanilla Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Ghost",
+      "en": "Vanilla Ghost",
+      "es": "Vanilla Ghost",
+      "de": "Vanilla Ghost",
+      "zh": "Vanilla Ghost",
+      "nl": "Vanilla Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Honey Bee",
+      "en": "Vanilla Honey Bee",
+      "es": "Vanilla Honey Bee",
+      "de": "Vanilla Honey Bee",
+      "zh": "Vanilla Honey Bee",
+      "nl": "Vanilla Honey Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Killer Bee",
+      "en": "Vanilla Killer Bee",
+      "es": "Vanilla Killer Bee",
+      "de": "Vanilla Killer Bee",
+      "zh": "Vanilla Killer Bee",
+      "nl": "Vanilla Killer Bee",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Pastel",
+      "en": "Vanilla Pastel",
+      "es": "Vanilla Pastel",
+      "de": "Vanilla Pastel",
+      "zh": "Vanilla Pastel",
+      "nl": "Vanilla Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Pastel Butter",
+      "en": "Vanilla Pastel Butter",
+      "es": "Vanilla Pastel Butter",
+      "de": "Vanilla Pastel Butter",
+      "zh": "Vanilla Pastel Butter",
+      "nl": "Vanilla Pastel Butter",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Pastel Disco Sulphur",
+      "en": "Vanilla Pastel Disco Sulphur",
+      "es": "Vanilla Pastel Disco Sulphur",
+      "de": "Vanilla Pastel Disco Sulphur",
+      "zh": "Vanilla Pastel Disco Sulphur",
+      "nl": "Vanilla Pastel Disco Sulphur",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Pastel Ghost",
+      "en": "Vanilla Pastel Ghost",
+      "es": "Vanilla Pastel Ghost",
+      "de": "Vanilla Pastel Ghost",
+      "zh": "Vanilla Pastel Ghost",
+      "nl": "Vanilla Pastel Ghost",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Pastel Sulphur",
+      "en": "Vanilla Pastel Sulphur",
+      "es": "Vanilla Pastel Sulphur",
+      "de": "Vanilla Pastel Sulphur",
+      "zh": "Vanilla Pastel Sulphur",
+      "nl": "Vanilla Pastel Sulphur",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Pewter",
+      "en": "Vanilla Pewter",
+      "es": "Vanilla Pewter",
+      "de": "Vanilla Pewter",
+      "zh": "Vanilla Pewter",
+      "nl": "Vanilla Pewter",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Spider",
+      "en": "Vanilla Spider",
+      "es": "Vanilla Spider",
+      "de": "Vanilla Spider",
+      "zh": "Vanilla Spider",
+      "nl": "Vanilla Spider",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Sulphur",
+      "en": "Vanilla Sulphur",
+      "es": "Vanilla Sulphur",
+      "de": "Vanilla Sulphur",
+      "zh": "Vanilla Sulphur",
+      "nl": "Vanilla Sulphur",
+      "type": "combo"
+    },
+    {
+      "fr": "Vanilla Super Pastel",
+      "en": "Vanilla Super Pastel",
+      "es": "Vanilla Super Pastel",
+      "de": "Vanilla Super Pastel",
+      "zh": "Vanilla Super Pastel",
+      "nl": "Vanilla Super Pastel",
+      "type": "combo"
+    },
+    {
+      "fr": "Womafino",
+      "en": "Womafino",
+      "es": "Womafino",
+      "de": "Womafino",
+      "zh": "Womafino",
+      "nl": "Womafino",
+      "type": "combo"
+    },
+    {
+      "fr": "Yellow Belly Firefly",
+      "en": "Yellow Belly Firefly",
+      "es": "Yellow Belly Firefly",
+      "de": "Yellow Belly Firefly",
+      "zh": "Yellow Belly Firefly",
+      "nl": "Yellow Belly Firefly",
+      "type": "combo"
+    },
+    {
+      "fr": "Yellow Ghost",
+      "en": "Yellow Ghost",
+      "es": "Yellow Ghost",
+      "de": "Yellow Ghost",
+      "zh": "Yellow Ghost",
+      "nl": "Yellow Ghost",
+      "type": "trait"
     }
   ]
 }
