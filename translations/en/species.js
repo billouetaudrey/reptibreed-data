@@ -1,0 +1,31 @@
+export default {
+  "morph": "Morph / Phase",
+  "species": "Species",
+  "all_species": "All species",
+  "delete_species_title": "Delete species?",
+  "delete_species_msg": "Delete this species:",
+  "no_morph": "Unknown",
+  "unknown_morph": "Unknown Morph/Phase",
+  "species_placeholder": "Species name",
+  "other_species": "Species name...",
+  "mother_species": "Mother species",
+  "father_species": "Father species",
+  "possible_morphs": "Possible Morphs",
+  "target_morph_placeholder": "Ex: Palmetto Scaleless...",
+  "common_species": [
+    "Pantherophis Guttatus",
+    "Hognose",
+    "Python Regius",
+    "Other"
+  ],
+  "select_species_placeholder": "Select a species...",
+  "update_species": "Update Species",
+  "update_species_desc": "Download latest community species from the community.",
+  "suggest_species": "Suggest a species",
+  "suggest_species_email_subject": "Species suggestion - ReptiBreed",
+  "suggest_species_email_body": "Hello,\\n\\nI would like to suggest adding the following species:\\n\\nName: \\nAnimal type (Snake, Lizard...): \\nDiet: \\nReproduction: \\nVenomous: Yes/No\\n\\nThanks!",
+  "search_species": "Search species...",
+  "no_species_found": "No species found",
+  "group_by_morph": "Morph",
+  "by_species": "By species"
+};
