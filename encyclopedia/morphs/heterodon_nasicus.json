@@ -1,0 +1,181 @@
+{
+  "species_scientific": "Heterodon Nasicus",
+  "name": {
+    "fr": "Couleuvre à nez plat",
+    "en": "Western Hognose Snake",
+    "es": "Western Hognose Snake",
+    "de": "Western Hognose Snake",
+    "zh": "Western Hognose Snake",
+    "nl": "Western Hognose Snake"
+  },
+  "morphs": [
+    {
+      "fr": "Albino",
+      "en": "Albino",
+      "es": "Albino",
+      "de": "Albino",
+      "zh": "Albino",
+      "nl": "Albino"
+    },
+    {
+      "fr": "Anaconda",
+      "en": "Anaconda",
+      "es": "Anaconda",
+      "de": "Anaconda",
+      "zh": "Anaconda",
+      "nl": "Anaconda"
+    },
+    {
+      "fr": "Arctic",
+      "en": "Arctic",
+      "es": "Arctic",
+      "de": "Arctic",
+      "zh": "Arctic",
+      "nl": "Arctic"
+    },
+    {
+      "fr": "Axanthic",
+      "en": "Axanthic",
+      "es": "Axanthic",
+      "de": "Axanthic",
+      "zh": "Axanthic",
+      "nl": "Axanthic"
+    },
+    {
+      "fr": "Conda",
+      "en": "Conda",
+      "es": "Conda",
+      "de": "Conda",
+      "zh": "Conda",
+      "nl": "Conda"
+    },
+    {
+      "fr": "Evans Hypo",
+      "en": "Evans Hypo",
+      "es": "Evans Hypo",
+      "de": "Evans Hypo",
+      "zh": "Evans Hypo",
+      "nl": "Evans Hypo"
+    },
+    {
+      "fr": "Lavender",
+      "en": "Lavender",
+      "es": "Lavender",
+      "de": "Lavender",
+      "zh": "Lavender",
+      "nl": "Lavender"
+    },
+    {
+      "fr": "Leucistic",
+      "en": "Leucistic",
+      "es": "Leucistic",
+      "de": "Leucistic",
+      "zh": "Leucistic",
+      "nl": "Leucistic"
+    },
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal"
+    },
+    {
+      "fr": "Pistachio",
+      "en": "Pistachio",
+      "es": "Pistachio",
+      "de": "Pistachio",
+      "zh": "Pistachio",
+      "nl": "Pistachio"
+    },
+    {
+      "fr": "Riptide",
+      "en": "Riptide",
+      "es": "Riptide",
+      "de": "Riptide",
+      "zh": "Riptide",
+      "nl": "Riptide"
+    },
+    {
+      "fr": "Sable",
+      "en": "Sable",
+      "es": "Sable",
+      "de": "Sable",
+      "zh": "Sable",
+      "nl": "Sable"
+    },
+    {
+      "fr": "Shadow",
+      "en": "Shadow",
+      "es": "Shadow",
+      "de": "Shadow",
+      "zh": "Shadow",
+      "nl": "Shadow"
+    },
+    {
+      "fr": "Snow",
+      "en": "Snow",
+      "es": "Snow",
+      "de": "Snow",
+      "zh": "Snow",
+      "nl": "Snow"
+    },
+    {
+      "fr": "Sunburst",
+      "en": "Sunburst",
+      "es": "Sunburst",
+      "de": "Sunburst",
+      "zh": "Sunburst",
+      "nl": "Sunburst"
+    },
+    {
+      "fr": "Super Arctic",
+      "en": "Super Arctic",
+      "es": "Super Arctic",
+      "de": "Super Arctic",
+      "zh": "Super Arctic",
+      "nl": "Super Arctic"
+    },
+    {
+      "fr": "Super Conda",
+      "en": "Super Conda",
+      "es": "Super Conda",
+      "de": "Super Conda",
+      "zh": "Super Conda",
+      "nl": "Super Conda"
+    },
+    {
+      "fr": "Toffee",
+      "en": "Toffee",
+      "es": "Toffee",
+      "de": "Toffee",
+      "zh": "Toffee",
+      "nl": "Toffee"
+    },
+    {
+      "fr": "Toffee Belly",
+      "en": "Toffee Belly",
+      "es": "Toffee Belly",
+      "de": "Toffee Belly",
+      "zh": "Toffee Belly",
+      "nl": "Toffee Belly"
+    },
+    {
+      "fr": "Toxic",
+      "en": "Toxic",
+      "es": "Toxic",
+      "de": "Toxic",
+      "zh": "Toxic",
+      "nl": "Toxic"
+    },
+    {
+      "fr": "Yeti",
+      "en": "Yeti",
+      "es": "Yeti",
+      "de": "Yeti",
+      "zh": "Yeti",
+      "nl": "Yeti"
+    }
+  ]
+}
