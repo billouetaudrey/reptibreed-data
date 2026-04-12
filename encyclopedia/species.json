@@ -1,5 +1,55 @@
 [
   {
+    "scientific_name": "Pogona Vitticeps",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Agame barbu (Pogona)",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "expert_advice": "L'éclairage UVB (10 à 12%) et le calcium sont obligatoires pour éviter les maladies osseuses métaboliques (MBD).",
+      "repro_advice": "Une seule fécondation peut permettre à la femelle de pondre plusieurs fois (rétention de sperme).",
+      "notes": "L'alimentation adulte doit être composée à 70% de végétaux et 30% d'insectes."
+    },
+    "en": {
+      "name": "Bearded Dragon",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "es": {
+      "name": "Dragón Barbudo",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo"
+    },
+    "de": {
+      "name": "Bartagame",
+      "diet": "Allesfresser",
+      "repro": "Ovipar"
+    },
+    "zh": {
+      "name": "鬃狮蜥",
+      "diet": "杂食动物",
+      "repro": "卵生"
+    },
+    "nl": {
+      "name": "Baardagame",
+      "diet": "Alleseter",
+      "repro": "Eierleggend"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "65",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
     "scientific_name": "Ambystoma Mexicanum",
     "category": "Amphibien",
     "family": "Urodèles",
@@ -96,8 +146,8 @@
     "humidity_max": "40",
     "gestation_days": "120",
     "incubation_days": "0",
-    "incubation_temp": null,
-    "incubation_humidity": null
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
   },
   {
     "scientific_name": "Boa Imperator",
@@ -146,8 +196,8 @@
     "humidity_max": "70",
     "gestation_days": "100",
     "incubation_days": "0",
-    "incubation_temp": null,
-    "incubation_humidity": null
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
   },
   {
     "scientific_name": "Pantherophis Guttatus",
@@ -155,7 +205,7 @@
     "family": "Colubridés",
     "venomous": false,
     "fr": {
-      "name": "Couleuvre à blé",
+      "name": "Serpent des blés",
       "diet": "Rongeur",
       "repro": "Ovipare",
       "expert_advice": "Le serpent idéal pour les débutants. S'assurer que le terrarium soit anti-évasion (ils sont doués pour s'échapper).",
@@ -296,8 +346,8 @@
     "humidity_max": "50",
     "gestation_days": "160",
     "incubation_days": "0",
-    "incubation_temp": null,
-    "incubation_humidity": null
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
   },
   {
     "scientific_name": "Correlophus Ciliatus",
@@ -405,7 +455,7 @@
     "family": "Colubridés",
     "venomous": true,
     "fr": {
-      "name": "Hétérodon (Serpent à nez de cochon)",
+      "name": "Hétérodon Nasicus (Serpent à nez de cochon)",
       "diet": "Rongeur/Amphibien",
       "repro": "Ovipare",
       "expert_advice": "Espèce opistoglyphe (crochets à l'arrière). Venin très faible mais peut causer un gonflement. Éviter les morsures prolongées.",
@@ -448,56 +498,6 @@
     "incubation_days": "55",
     "incubation_temp": "28",
     "incubation_humidity": "70"
-  },
-  {
-    "scientific_name": "Pogona Vitticeps",
-    "category": "Lézard",
-    "family": "Agames",
-    "venomous": false,
-    "fr": {
-      "name": "Agame barbu (Pogona)",
-      "diet": "Omnivore",
-      "repro": "Ovipare",
-      "expert_advice": "L'éclairage UVB (10 à 12%) et le calcium sont obligatoires pour éviter les maladies osseuses métaboliques (MBD).",
-      "repro_advice": "Une seule fécondation peut permettre à la femelle de pondre plusieurs fois (rétention de sperme).",
-      "notes": "L'alimentation adulte doit être composée à 70% de végétaux et 30% d'insectes."
-    },
-    "en": {
-      "name": "Bearded Dragon",
-      "diet": "Omnivore",
-      "repro": "Oviparous"
-    },
-    "es": {
-      "name": "Dragón Barbudo",
-      "diet": "Omnívoro",
-      "repro": "Ovíparo"
-    },
-    "de": {
-      "name": "Bartagame",
-      "diet": "Allesfresser",
-      "repro": "Ovipar"
-    },
-    "zh": {
-      "name": "鬃狮蜥",
-      "diet": "杂食动物",
-      "repro": "卵生"
-    },
-    "nl": {
-      "name": "Baardagame",
-      "diet": "Alleseter",
-      "repro": "Eierleggend"
-    },
-    "feed_category": "insects",
-    "temp_hot_min": "35",
-    "temp_hot_max": "40",
-    "temp_cold_min": "25",
-    "temp_cold_max": "28",
-    "humidity_min": "30",
-    "humidity_max": "40",
-    "gestation_days": "25",
-    "incubation_days": "65",
-    "incubation_temp": "29",
-    "incubation_humidity": "80"
   },
   {
     "scientific_name": "Python Regius",
@@ -648,5 +648,180 @@
     "incubation_days": "75",
     "incubation_temp": "31",
     "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Centrochelys Sulcata",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue sillonnée (Sulcata)",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "expert_advice": "C'est la troisième plus grosse tortue terrestre. Prévoir un enclos extérieur de très grande taille ou une pièce chauffée dédiée.",
+      "repro_advice": "La femelle peut pondre jusqu'à 20 à 30 oeufs par portée.",
+      "notes": "Régime très riche en fibres, pauvre en protéines."
+    },
+    "en": {
+      "name": "African Spurred Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "60",
+    "incubation_days": "100",
+    "incubation_temp": "30",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Trachemys Scripta Elegans",
+    "category": "Tortue",
+    "family": "Aquatique",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue de Floride",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "expert_advice": "L'aquaterrarium doit comporter une large zone de nage et une plage sèche sous lampe chauffante et UV.",
+      "repro_advice": "Une phase d'hivernage à 10-15°C est essentielle pour déclencher la reproduction au printemps.",
+      "notes": "Législations strictes en vigueur selon les pays (espèce invasive)."
+    },
+    "en": {
+      "name": "Red-eared Slider",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Testudo Graeca",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue mauresque",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "expert_advice": "Sensible à l'humidité excessive, nécessite un enclos sec et bien drainé.",
+      "repro_advice": "Ressemble à Testudo Hermanni mais avec des ergots sur les cuisses.",
+      "notes": "Inscrite à l'Annexe A de la CITES."
+    },
+    "en": {
+      "name": "Spur-thighed Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "40",
+    "incubation_days": "80",
+    "incubation_temp": "31",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Geochelone Elegans",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue étoilée de l'Inde",
+      "diet": "Herbivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Indian Star Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "plants"
+  },
+  {
+    "scientific_name": "Mauremys Sinensis",
+    "category": "Tortue",
+    "family": "Aquatique",
+    "venomous": false,
+    "fr": {
+      "name": "Émyde de Chine",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Chinese Stripe-necked Turtle",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
+  },
+  {
+    "scientific_name": "Sternotherus Odoratus",
+    "category": "Tortue",
+    "family": "Aquatique",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue musquée",
+      "diet": "Carnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Common Musk Turtle",
+      "diet": "Carnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
+  },
+  {
+    "scientific_name": "Terrapene Carolina",
+    "category": "Tortue",
+    "family": "Boîte",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue-boîte de Caroline",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Common Box Turtle",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
+  },
+  {
+    "scientific_name": "Cuora Flavomarginata",
+    "category": "Tortue",
+    "family": "Boîte",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue-boîte à bords jaunes",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Yellow-margined Box Turtle",
+      "diet": "Omnivore",
+      "repro": "Oviparous"
+    },
+    "feed_category": "others"
   }
 ]
