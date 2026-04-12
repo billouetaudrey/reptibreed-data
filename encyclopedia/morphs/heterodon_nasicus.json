@@ -1,37 +1,31 @@
 {
   "species_scientific": "Heterodon Nasicus",
   "name": {
-    "fr": "Couleuvre à nez plat",
-    "en": "Western Hognose Snake",
-    "es": "Western Hognose Snake",
-    "de": "Western Hognose Snake",
-    "zh": "Western Hognose Snake",
-    "nl": "Western Hognose Snake"
+    "fr": "Hétérodon",
+    "en": "Hognose",
+    "es": "Hognose",
+    "de": "Hognose",
+    "zh": "Hognose",
+    "nl": "Hognose"
   },
   "morphs": [
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "es": "Normal",
+      "de": "Normal",
+      "zh": "Normal",
+      "nl": "Normal",
+      "type": "wildtype"
+    },
     {
       "fr": "Albino",
       "en": "Albino",
       "es": "Albino",
       "de": "Albino",
       "zh": "Albino",
-      "nl": "Albino"
-    },
-    {
-      "fr": "Anaconda",
-      "en": "Anaconda",
-      "es": "Anaconda",
-      "de": "Anaconda",
-      "zh": "Anaconda",
-      "nl": "Anaconda"
-    },
-    {
-      "fr": "Arctic",
-      "en": "Arctic",
-      "es": "Arctic",
-      "de": "Arctic",
-      "zh": "Arctic",
-      "nl": "Arctic"
+      "nl": "Albino",
+      "type": "recessive"
     },
     {
       "fr": "Axanthic",
@@ -39,23 +33,17 @@
       "es": "Axanthic",
       "de": "Axanthic",
       "zh": "Axanthic",
-      "nl": "Axanthic"
+      "nl": "Axanthic",
+      "type": "recessive"
     },
     {
-      "fr": "Conda",
-      "en": "Conda",
-      "es": "Conda",
-      "de": "Conda",
-      "zh": "Conda",
-      "nl": "Conda"
-    },
-    {
-      "fr": "Evans Hypo",
-      "en": "Evans Hypo",
-      "es": "Evans Hypo",
-      "de": "Evans Hypo",
-      "zh": "Evans Hypo",
-      "nl": "Evans Hypo"
+      "fr": "Hypo",
+      "en": "Hypo",
+      "es": "Hypo",
+      "de": "Hypo",
+      "zh": "Hypo",
+      "nl": "Hypo",
+      "type": "recessive"
     },
     {
       "fr": "Lavender",
@@ -63,39 +51,8 @@
       "es": "Lavender",
       "de": "Lavender",
       "zh": "Lavender",
-      "nl": "Lavender"
-    },
-    {
-      "fr": "Leucistic",
-      "en": "Leucistic",
-      "es": "Leucistic",
-      "de": "Leucistic",
-      "zh": "Leucistic",
-      "nl": "Leucistic"
-    },
-    {
-      "fr": "Normal",
-      "en": "Normal",
-      "es": "Normal",
-      "de": "Normal",
-      "zh": "Normal",
-      "nl": "Normal"
-    },
-    {
-      "fr": "Pistachio",
-      "en": "Pistachio",
-      "es": "Pistachio",
-      "de": "Pistachio",
-      "zh": "Pistachio",
-      "nl": "Pistachio"
-    },
-    {
-      "fr": "Riptide",
-      "en": "Riptide",
-      "es": "Riptide",
-      "de": "Riptide",
-      "zh": "Riptide",
-      "nl": "Riptide"
+      "nl": "Lavender",
+      "type": "recessive"
     },
     {
       "fr": "Sable",
@@ -103,47 +60,8 @@
       "es": "Sable",
       "de": "Sable",
       "zh": "Sable",
-      "nl": "Sable"
-    },
-    {
-      "fr": "Shadow",
-      "en": "Shadow",
-      "es": "Shadow",
-      "de": "Shadow",
-      "zh": "Shadow",
-      "nl": "Shadow"
-    },
-    {
-      "fr": "Snow",
-      "en": "Snow",
-      "es": "Snow",
-      "de": "Snow",
-      "zh": "Snow",
-      "nl": "Snow"
-    },
-    {
-      "fr": "Sunburst",
-      "en": "Sunburst",
-      "es": "Sunburst",
-      "de": "Sunburst",
-      "zh": "Sunburst",
-      "nl": "Sunburst"
-    },
-    {
-      "fr": "Super Arctic",
-      "en": "Super Arctic",
-      "es": "Super Arctic",
-      "de": "Super Arctic",
-      "zh": "Super Arctic",
-      "nl": "Super Arctic"
-    },
-    {
-      "fr": "Super Conda",
-      "en": "Super Conda",
-      "es": "Super Conda",
-      "de": "Super Conda",
-      "zh": "Super Conda",
-      "nl": "Super Conda"
+      "nl": "Sable",
+      "type": "recessive"
     },
     {
       "fr": "Toffee",
@@ -151,15 +69,71 @@
       "es": "Toffee",
       "de": "Toffee",
       "zh": "Toffee",
-      "nl": "Toffee"
+      "nl": "Toffee",
+      "type": "recessive"
     },
     {
-      "fr": "Toffee Belly",
-      "en": "Toffee Belly",
-      "es": "Toffee Belly",
-      "de": "Toffee Belly",
-      "zh": "Toffee Belly",
-      "nl": "Toffee Belly"
+      "fr": "Leucistic",
+      "en": "Leucistic",
+      "es": "Leucistic",
+      "de": "Leucistic",
+      "zh": "Leucistic",
+      "nl": "Leucistic",
+      "type": "recessive"
+    },
+    {
+      "fr": "Arctic",
+      "en": "Arctic",
+      "es": "Arctic",
+      "de": "Arctic",
+      "zh": "Arctic",
+      "nl": "Arctic",
+      "type": "codominant"
+    },
+    {
+      "fr": "Conda",
+      "en": "Conda",
+      "es": "Conda",
+      "de": "Conda",
+      "zh": "Conda",
+      "nl": "Conda",
+      "type": "codominant"
+    },
+    {
+      "fr": "Super Conda",
+      "en": "Super Conda",
+      "es": "Super Conda",
+      "de": "Super Conda",
+      "zh": "Super Conda",
+      "nl": "Super Conda",
+      "type": "codominant"
+    },
+    {
+      "fr": "Jaguar",
+      "en": "Jaguar",
+      "es": "Jaguar",
+      "de": "Jaguar",
+      "zh": "Jaguar",
+      "nl": "Jaguar",
+      "type": "dominant"
+    },
+    {
+      "fr": "Albino Anaconda",
+      "en": "Albino Anaconda",
+      "es": "Albino Anaconda",
+      "de": "Albino Anaconda",
+      "zh": "Albino Anaconda",
+      "nl": "Albino Anaconda",
+      "type": "combo"
+    },
+    {
+      "fr": "Super Conda Albino",
+      "en": "Super Conda Albino",
+      "es": "Super Conda Albino",
+      "de": "Super Conda Albino",
+      "zh": "Super Conda Albino",
+      "nl": "Super Conda Albino",
+      "type": "combo"
     },
     {
       "fr": "Toxic",
@@ -167,7 +141,125 @@
       "es": "Toxic",
       "de": "Toxic",
       "zh": "Toxic",
-      "nl": "Toxic"
+      "nl": "Toxic",
+      "type": "combo"
+    },
+    {
+      "fr": "Snow",
+      "en": "Snow",
+      "es": "Snow",
+      "de": "Snow",
+      "zh": "Snow",
+      "nl": "Snow",
+      "type": "combo"
+    },
+    {
+      "fr": "Axanthic Anaconda",
+      "en": "Axanthic Anaconda",
+      "es": "Axanthic Anaconda",
+      "de": "Axanthic Anaconda",
+      "zh": "Axanthic Anaconda",
+      "nl": "Axanthic Anaconda",
+      "type": "combo"
+    },
+    {
+      "fr": "Caramel",
+      "en": "Caramel",
+      "es": "Caramel",
+      "de": "Caramel",
+      "zh": "Caramel",
+      "nl": "Caramel",
+      "type": "recessive"
+    },
+    {
+      "fr": "Toffee Belly",
+      "en": "Toffee Belly",
+      "es": "Toffee Belly",
+      "de": "Toffee Belly",
+      "zh": "Toffee Belly",
+      "nl": "Toffee Belly",
+      "type": "recessive"
+    },
+    {
+      "fr": "Super Arctic",
+      "en": "Super Arctic",
+      "es": "Super Arctic",
+      "de": "Super Arctic",
+      "zh": "Super Arctic",
+      "nl": "Super Arctic",
+      "type": "codominant"
+    },
+    {
+      "fr": "RBE Pastel",
+      "en": "RBE Pastel",
+      "es": "RBE Pastel",
+      "de": "RBE Pastel",
+      "zh": "RBE Pastel",
+      "nl": "RBE Pastel",
+      "type": "dominant"
+    },
+    {
+      "fr": "Shadow",
+      "en": "Shadow",
+      "es": "Shadow",
+      "de": "Shadow",
+      "zh": "Shadow",
+      "nl": "Shadow",
+      "type": "dominant"
+    },
+    {
+      "fr": "Swiss Chocolate",
+      "en": "Swiss Chocolate",
+      "es": "Swiss Chocolate",
+      "de": "Swiss Chocolate",
+      "zh": "Swiss Chocolate",
+      "nl": "Swiss Chocolate",
+      "type": "recessive"
+    },
+    {
+      "fr": "Pistachio",
+      "en": "Pistachio",
+      "es": "Pistachio",
+      "de": "Pistachio",
+      "zh": "Pistachio",
+      "nl": "Pistachio",
+      "type": "recessive"
+    },
+    {
+      "fr": "Evans Hypo",
+      "en": "Evans Hypo",
+      "es": "Evans Hypo",
+      "de": "Evans Hypo",
+      "zh": "Evans Hypo",
+      "nl": "Evans Hypo",
+      "type": "recessive"
+    },
+    {
+      "fr": "Dutch Hypo",
+      "en": "Dutch Hypo",
+      "es": "Dutch Hypo",
+      "de": "Dutch Hypo",
+      "zh": "Dutch Hypo",
+      "nl": "Dutch Hypo",
+      "type": "recessive"
+    },
+    {
+      "fr": "True Hypo",
+      "en": "True Hypo",
+      "es": "True Hypo",
+      "de": "True Hypo",
+      "zh": "True Hypo",
+      "nl": "True Hypo",
+      "type": "recessive"
+    },
+    {
+      "fr": "Mocha",
+      "en": "Mocha",
+      "es": "Mocha",
+      "de": "Mocha",
+      "zh": "Mocha",
+      "nl": "Mocha",
+      "type": "codominant"
     },
     {
       "fr": "Yeti",
@@ -175,7 +267,44 @@
       "es": "Yeti",
       "de": "Yeti",
       "zh": "Yeti",
-      "nl": "Yeti"
+      "nl": "Yeti",
+      "type": "combo"
+    },
+    {
+      "fr": "Moonstone",
+      "en": "Moonstone",
+      "es": "Moonstone",
+      "de": "Moonstone",
+      "zh": "Moonstone",
+      "nl": "Moonstone",
+      "type": "combo"
+    },
+    {
+      "fr": "Sunburst",
+      "en": "Sunburst",
+      "es": "Sunburst",
+      "de": "Sunburst",
+      "zh": "Sunburst",
+      "nl": "Sunburst",
+      "type": "combo"
+    },
+    {
+      "fr": "Purple Ice",
+      "en": "Purple Ice",
+      "es": "Purple Ice",
+      "de": "Purple Ice",
+      "zh": "Purple Ice",
+      "nl": "Purple Ice",
+      "type": "combo"
+    },
+    {
+      "fr": "Toxic Conda",
+      "en": "Toxic Conda",
+      "es": "Toxic Conda",
+      "de": "Toxic Conda",
+      "zh": "Toxic Conda",
+      "nl": "Toxic Conda",
+      "type": "combo"
     }
   ]
 }
