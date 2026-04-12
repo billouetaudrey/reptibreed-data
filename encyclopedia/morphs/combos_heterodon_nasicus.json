@@ -1,0 +1,72 @@
+{
+  "species": "Heterodon Nasicus",
+  "combos": [
+    {
+      "name": "Snow",
+      "genes": [
+        "Albino",
+        "Axanthic"
+      ]
+    },
+    {
+      "name": "Yeti",
+      "genes": [
+        "Albino",
+        "Axanthic",
+        "Super Conda"
+      ]
+    },
+    {
+      "name": "Toxic",
+      "genes": [
+        "Axanthic",
+        "Toffee Belly"
+      ]
+    },
+    {
+      "name": "Moonstone",
+      "genes": [
+        "Axanthic",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Sunburst",
+      "genes": [
+        "Albino",
+        "Conda",
+        "Evans Hypo"
+      ]
+    },
+    {
+      "name": "Purple Ice",
+      "genes": [
+        "Arctic",
+        "Axanthic",
+        "Toffee Belly"
+      ]
+    },
+    {
+      "name": "Albino Anaconda",
+      "genes": [
+        "Albino",
+        "Conda"
+      ]
+    },
+    {
+      "name": "Super Conda Albino",
+      "genes": [
+        "Albino",
+        "Super Conda"
+      ]
+    },
+    {
+      "name": "Toxic Conda",
+      "genes": [
+        "Axanthic",
+        "Toffee Belly",
+        "Conda"
+      ]
+    }
+  ]
+}
