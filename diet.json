@@ -1,0 +1,137 @@
+{
+  "diet": [
+    {
+      "id": "rodents",
+      "fr": {
+        "name": "Rongeurs",
+        "items": "Souris, Rats, Mastomys",
+        "description": "Base alimentaire pour la plupart des serpents.",
+        "pros": "Profil nutritionnel complet (calcium des os, abats).",
+        "cons": "Le rat est riche en viande rouge, risque d'obésité si trop fréquent.",
+        "tips": "Alterner entre souris et rats selon l'âge. Le Mastomys est idéal pour les mangeurs difficiles comme le Python Royal. Surveillez les 'dépôts de graisse' sur les côtés du corps."
+      },
+      "en": {
+        "name": "Rodents",
+        "items": "Mice, Rats, Mastomys",
+        "description": "Staple diet for most snakes.",
+        "pros": "Complete nutritional profile (bone calcium, organs).",
+        "cons": "Rats are high in red meat, risk of obesity if fed too frequently.",
+        "tips": "Alternate between mice and rats depending on age. Mastomys is ideal for picky eaters like Ball Pythons. Monitor 'fat deposits' on the sides of the body."
+      }
+    },
+    {
+      "id": "insects",
+      "fr": {
+        "name": "Insects",
+        "items": "Grillons, Blattes, Vers",
+        "description": "Source de protéines pour lézards et juvéniles.",
+        "pros": "Ratio protéines/graisses équilibré (Grillons/Blattes).",
+        "cons": "Vers de farine très gras et pauvres en calcium.",
+        "tips": "Toujours faire un 'gut-loading' (nourrissage des insectes) 24h avant. Saupoudrer de calcium pour éviter les carences (MBD - Maladie Métabolique des Os)."
+      },
+      "en": {
+        "name": "Insects",
+        "items": "Crickets, Roaches, Worms",
+        "description": "Protein source for lizards and juveniles.",
+        "pros": "Balanced protein/fat ratio (Crickets/Roaches).",
+        "cons": "Mealworms are very fatty and low in calcium.",
+        "tips": "Always gut-load insects 24h before feeding. Dust with calcium to prevent Metabolic Bone Disease (MBD)."
+      }
+    },
+    {
+      "id": "piscivore",
+      "fr": {
+        "name": "Poissons",
+        "items": "Eperlans, Guppys, Truite",
+        "description": "Alimentation spécifique pour espèces aquatiques.",
+        "pros": "Apport important en acides gras essentiels.",
+        "cons": "Risque de thiaminase qui détruit la Vitamine B1.",
+        "tips": "Attention : La thiaminase provoque des troubles neurologiques. Complémenter en Vitamine B1 ou choisir des poissons sans thiaminase (éviter Poisson Rouge/Carpe)."
+      },
+      "en": {
+        "name": "Fish",
+        "items": "Smelt, Guppies, Trout",
+        "description": "Specific diet for aquatic species.",
+        "pros": "Important source of essential fatty acids.",
+        "cons": "Risk of thiaminase which destroys Vitamin B1.",
+        "tips": "Warning: Thiaminase causes neurological disorders. Supplement with Vitamin B1 or choose thiaminase-free fish (avoid Goldfish/Carp)."
+      }
+    },
+    {
+      "id": "plants",
+      "fr": {
+        "name": "Végétaux",
+        "items": "Pissenlits, Endives, Courgettes",
+        "description": "Pour les herbivores et omnivores.",
+        "pros": "Apport en fibres, vitamines et hydratation.",
+        "cons": "Risque de pesticides, ratio Calcium/Phosphore à surveiller.",
+        "tips": "Maintenir un ratio Ca/P de 2:1. Trop de phosphore empêche l'assimilation du calcium. Varier les sources au maximum (feuilles sombres > fruits)."
+      },
+      "en": {
+        "name": "Plants",
+        "items": "Dandelion, Endive, Zucchini",
+        "description": "For herbivores and omnivores.",
+        "pros": "Provides fiber, vitamins, and hydration.",
+        "cons": "Risk of pesticides, monitor Calcium/Phosphorus ratio.",
+        "tips": "Maintain a 2:1 Ca/P ratio. Excessive phosphorus prevents calcium absorption. Vary sources (dark leafy greens > fruits)."
+      }
+    },
+    {
+      "id": "supplements",
+      "fr": {
+        "name": "Compléments",
+        "items": "Calcium, Vitamine D3, Multivitamines",
+        "description": "Essentiels pour prévenir les carences graves.",
+        "pros": "Garantit un squelette solide et une croissance saine.",
+        "cons": "Surdosage de D3 peut être toxique.",
+        "tips": "Calcium sans D3 à chaque repas pour les insectivores. D3 si pas d'UVB. Multivitamines 1 à 2 fois par mois maximum."
+      },
+      "en": {
+        "name": "Supplements",
+        "items": "Calcium, Vitamin D3, Multivitamins",
+        "description": "Essential to prevent severe deficiencies.",
+        "pros": "Guarantees a strong skeleton and healthy growth.",
+        "cons": "Overdosing on D3 can be toxic.",
+        "tips": "Calcium without D3 at every meal for insectivores. D3 if no UVB is used. Multivitamins 1-2 times a month maximum."
+      }
+    },
+    {
+      "id": "methods",
+      "fr": {
+        "name": "Méthodes & Sécurité",
+        "items": "Congelé, Frais, Vivant",
+        "description": "Différentes façons de distribuer les proies.",
+        "pros": "Congelé : Sécurité totale (pas de parasites/morsures).",
+        "cons": "Vivant : Risques de blessures graves, stress, parasites.",
+        "tips": "Ne laissez jamais un rongeur vivant sans surveillance dans le terrarium. Une morsure de rat peut être fatale pour un serpent."
+      },
+      "en": {
+        "name": "Methods & Safety",
+        "items": "Frozen, Freshly Killed, Live",
+        "description": "Different ways to distribute prey.",
+        "pros": "Frozen: Total safety (no parasites/bites).",
+        "cons": "Live: Risk of serious injury, stress, parasites.",
+        "tips": "Never leave a live rodent unattended in the terrarium. A rat bite can be fatal to a snake."
+      }
+    },
+    {
+      "id": "hydration",
+      "fr": {
+        "name": "Hydratation",
+        "items": "Eau fraîche, Bain",
+        "description": "Souvent négligée mais vitale pour les reins.",
+        "pros": "Prévient les rétentions de mue et les cristaux urinaires.",
+        "cons": "Eau stagnante = nid à bactéries.",
+        "tips": "Changez l'eau quotidiennement. Pour les espèces désertiques, des pulvérisations peuvent aider si elles ne boivent pas au bol."
+      },
+      "en": {
+        "name": "Hydration",
+        "items": "Fresh water, Bathing",
+        "description": "Often overlooked but vital for kidney health.",
+        "pros": "Prevents shed retention and urinary crystals.",
+        "cons": "Stagnant water = breeding ground for bacteria.",
+        "tips": "Change water daily. For desert species, misting can help if they don't use a bowl."
+      }
+    }
+  ]
+}
