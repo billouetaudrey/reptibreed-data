@@ -1,44 +1,86 @@
 [
   {
     "id": "tip-001-feeding-thawing",
-    "titre": { "en": "Rodent Thawing Method", "fr": "Méthode de Décongélation", "es": "Método de Descongelación", "de": "Auftaumethode für Nagetiere", "zh": "啮齿动物解冻方法" },
+    "titre": { "en": "Rodent Thawing", "fr": "Décongélation", "es": "Descongelación", "de": "Auftauen", "zh": "解冻" },
     "icone": "Thermometer",
-    "description": { "en": "Safely preparing frozen prey.", "fr": "Préparer les proies congelées sans risque.", "es": "Preparar presas congeladas de forma segura.", "de": "Sicheres Auftauen von Frostfutter.", "zh": "安全准备冷冻猎物。" },
+    "description": { "en": "Safe preparation.", "fr": "Préparation sûre.", "es": "Preparación segura.", "de": "Sichere Vorbereitung.", "zh": "安全准备。" },
     "contenu_detaille": {
-      "en": ["Thaw at room temperature or in cold water (sealed in a bag).", "Never use a microwave (uneven heating, potential explosion).", "Warm to 35-40°C using a hairdryer just before offering.", "Ensure the core is completely thawed to avoid internal frostbite."],
+      "en": ["Room temp/cold water.", "No microwave.", "Hairdryer to 35-40°C.", "Check core temp."],
       "fr": ["Décongeler à température ambiante ou eau froide (en sachet).", "Ne jamais utiliser le micro-ondes (risques d'explosion).", "Chauffer à 35-40°C au sèche-cheveux juste avant l'offre.", "Vérifier que le cœur est dégelé pour éviter les engelures internes."],
-      "es": ["Descongelar a temperatura ambiente o en agua fría (en bolsa).", "Nunca usar el microondas.", "Calentar a 35-40°C con secador antes de ofrecer.", "Asegurar que el centro esté descongelado para evitar daños internos."],
-      "de": ["Bei Raumtemperatur oder in kaltem Wasser auftauen (im Beutel).", "Niemals die Mikrowelle benutzen.", "Kurz vor dem Füttern mit einem Föhn auf 35-40°C erwärmen.", "Sicherstellen, dass der Kern aufgetaut ist."],
-      "zh": ["在室温或冷水中解冻（密封在袋中）。", "切勿使用微波炉（加热不均匀，可能有爆炸危险）。", "在喂食前用吹风机加热到35-40°C。", "确保中心完全解冻，以避免内部冻伤。"]
+      "es": ["Agua fría/ambiente.", "Sin microondas.", "Secador 35-40°C.", "Revisar centro."],
+      "de": ["Zimmertemp/Kaltwasser.", "Keine Mikrowelle.", "Föhn auf 35-40°C.", "Kern prüfen."],
+      "zh": ["室温/冷水。", "禁止微波炉。", "吹风机加热。", "检查中心。"]
     },
-    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
-    "id": "tip-004-transporting-reptiles",
-    "titre": { "en": "Transporting Reptiles", "fr": "Transport des Reptiles", "es": "Transporte de Reptiles", "de": "Transport von Reptilien", "zh": "运输爬行动物" },
-    "icone": "Wind",
-    "description": { "en": "Safe travel protocols.", "fr": "Protocoles pour un voyage sécurisé.", "es": "Protocolos de transporte seguro.", "de": "Sicherer Transport von Tieren.", "zh": "安全旅行协议。" },
+    "id": "tip-002-quarantine",
+    "titre": { "en": "Quarantine", "fr": "Quarantaine", "es": "Cuarentena", "de": "Quarantäne", "zh": "隔离" },
+    "icone": "ShieldCheck",
+    "description": { "en": "Biosafety basics.", "fr": "Bases bio-sécurité.", "es": "Biosseguridad básica.", "de": "Biologische Sicherheit.", "zh": "生物安全基础。" },
     "contenu_detaille": {
-      "en": ["Use a secure, ventilated tub or bag.", "Place the tub inside an insulated box (Styrofoam).", "Use heat packs or cold packs depending on the weather.", "Ensure the animal cannot move too much during transit to avoid injury."],
-      "fr": ["Utiliser un bac ou sac ventilé et sécurisé.", "Placer le contenant dans une boîte isotherme (polystyrène).", "Utiliser des chaufferettes ou packs de froid selon la saison.", "Limiter les mouvements du reptile pour éviter les chocs."],
-      "es": ["Usar tarrinas o sacos ventilados.", "Colocar en caja de poliestireno.", "Usar packs de calor o frío según el clima.", "Evitar el exceso de movimiento."],
-      "de": ["Sichere, belüftete Box oder Beutel verwenden.", "Behälter in eine isolierte Box (Styropor) stellen.", "Je nach Wetter Heatpacks oder Kühlakkus verwenden.", "Sicherstellen, dass das Tier im Transit nicht verletzt wird."],
-      "zh": ["使用安全、通风的桶或袋子。", "将桶放入隔热箱（聚苯乙烯泡沫塑料）中。", "根据天气使用加热包或冷包。", "确保动物在运输过程中不会移动太多，以避免受伤。"]
+      "en": ["Separate room 90d.", "Disposable substrate.", "Quarantined animals last.", "3x fecal tests."],
+      "fr": ["Isoler les nouveaux dans une pièce séparée pendant 90 jours.", "Utiliser un substrat jetable et facile à nettoyer (sopalin).", "Nourrir et nettoyer les animaux en quarantaine en dernier.", "Effectuer au moins 3 analyses de selles durant la période."],
+      "es": ["Habitación aparte 90d.", "Sustrato desechable.", "Últimos en limpiar.", "3 coprológicos."],
+      "de": ["Separater Raum 90T.", "Einwegunterlage.", "Zuletzt versorgen.", "3 Kotproben."],
+      "zh": ["单独房间90天。", "一次性基质。", "最后喂食。", "3次粪检。"]
     },
-    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "tip-003-brumation-prep",
+    "titre": { "en": "Brumation", "fr": "Hibernation", "es": "Hibernación", "de": "Winterruhe", "zh": "冬眠" },
+    "icone": "Wind",
+    "description": { "en": "Winter rest.", "fr": "Repos hivernal.", "es": "Descanso invernal.", "de": "Winterpause.", "zh": "冬季休息。" },
+    "contenu_detaille": {
+      "en": ["Empty gut 2-3w.", "Gradual T° drop.", "Health check fat.", "Weekly hydration."],
+      "fr": ["Arrêter de nourrir 2-3 semaines avant la chute (vider les intestins).", "Réduire progressivement la lumière et la T° sur 2 semaines.", "Vérifier l'état de santé et les réserves de graisse avant l'arrêt.", "Contrôler l'hydratation (bains rapides possible) chaque semaine."],
+      "es": ["Vaciar tripa 2-3s.", "Bajar T° gradual.", "Revisar grasas.", "Hidratación hebdo."],
+      "de": ["Darm leeren 2-3W.", "Graduelle Senkung.", "Reserven prüfen.", "Wöchentlich Wasser."],
+      "zh": ["排空肠道2-3周。", "逐渐降温。", "检查脂肪。", "每周补水。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "tip-004-transporting",
+    "titre": { "en": "Transport", "fr": "Transport", "es": "Transporte", "de": "Transport", "zh": "运输" },
+    "icone": "Wind",
+    "description": { "en": "Travel protocols.", "fr": "Voyage sécurisé.", "es": "Viaje seguro.", "de": "Sicher reisen.", "zh": "运输协议。" },
+    "contenu_detaille": {
+      "en": ["Ventilated tub/bag.", "Insulated box.", "Heat/cold packs.", "Limit movement."],
+      "fr": ["Utiliser un bac ou sac ventilé et sécurisé.", "Placer le contenant dans une boîte isotherme (polystyrène).", "Utiliser des chaufferettes ou packs de froid selon la saison.", "Limiter les mouvements du reptile pour éviter les chocs."],
+      "es": ["Tarrina ventilada.", "Caja aislada.", "Packs calor/frío.", "Evitar golpes."],
+      "de": ["Belüftete Box.", "Isolierbox.", "Heatpacks nutzen.", "Bewegung einschränken."],
+      "zh": ["通风桶/袋。", "隔热箱。", "加热/冷包。", "限制移动。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "tip-005-record-keeping",
-    "titre": { "en": "Record Keeping Importance", "fr": "Importance du Suivi", "es": "Importancia del Registro", "de": "Bedeutung der Dokumentation", "zh": "保存记录的重要性" },
+    "titre": { "en": "Records", "fr": "Suivi", "es": "Registros", "de": "Dokumentation", "zh": "记录" },
     "icone": "FileText",
-    "description": { "en": "Tracking growth, health, and events.", "fr": "Suivi de la croissance et de la santé.", "es": "Seguimiento de salud y crecimiento.", "de": "Verfolgung von Wachstum und Gesundheit.", "zh": "跟踪成长、健康和事件。" },
+    "description": { "en": "Data tracking.", "fr": "Traçabilité.", "es": "Seguimiento datos.", "de": "Datenverfolgung.", "zh": "数据跟踪。" },
     "contenu_detaille": {
-      "en": ["Log every meal, shed, and weight measurement.", "Track medical history and treatments for future reference.", "Record breeding dates and outcomes to identify successful pairs.", "Use data to identify health issues early (e.g., sudden weight drop)."],
-      "fr": ["Noter chaque repas, mue et pesée.", "Suivre l'historique médical pour référence future.", "Enregistrer les dates de repro pour identifier les bons couples.", "Utiliser les données pour détecter tôt les problèmes de santé."],
-      "es": ["Registrar cada comida, muda y peso.", "Hacer seguimiento médico.", "Anotar fechas de cría.", "Analizar datos para detectar problemas."],
-      "de": ["Jede Fütterung, Häutung und Gewichtsmessung protokollieren.", "Medizinische Historie für spätere Zwecke festhalten.", "Paarungsdaten und Ergebnisse aufzeichnen.", "Daten zur Früherkennung von Gesundheitsproblemen nutzen."],
-      "zh": ["记录每一餐、蜕皮和体重测量值。", "跟踪病史和治疗情况以供将来参考。", "记录育种日期和结果以识别成功的配对。", "利用数据及早发现健康问题（例如体重突然下降）。"]
+      "en": ["Log meals/sheds/weights.", "Medical history.", "Breeding outcomes.", "Trend analysis."],
+      "fr": ["Noter systématiquement chaque repas, mue et pesée.", "Suivre l'historique médical complet pour référence future.", "Enregistrer les dates de repro et résultats pour identifier les bons couples.", "Analyser les tendances pour détecter tôt les problèmes de santé."],
+      "es": ["Anotar todo.", "Historial médico.", "Datos cría.", "Analizar tendencias."],
+      "de": ["Alles loggen.", "Med. Historie.", "Zuchtdaten.", "Trends analysieren."],
+      "zh": ["记录进食/蜕皮/体重。", "病史。", "育种结果。", "趋势分析。"]
     },
-    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "tip-006-handling-techniques",
+    "titre": { "en": "Handling", "fr": "Manipulation", "es": "Manejo", "de": "Handling", "zh": "处理" },
+    "icone": "Layout",
+    "description": { "en": "Low stress methods.", "fr": "Méthodes bas stress.", "es": "Sin estrés.", "de": "Stressfrei.", "zh": "低压方法。" },
+    "contenu_detaille": {
+      "en": ["Support full body.", "Avoid grabbing tail.", "Wash hands after.", "Keep sessions short."],
+      "fr": ["Soutenir tout le corps de l'animal sans le serrer.", "Éviter de saisir ou de suspendre l'animal par la queue.", "Se laver systématiquement les mains avant et après.", "Limiter la durée des sessions pour réduire le stress."],
+      "es": ["Sujetar cuerpo.", "No tirar cola.", "Lavar manos.", "Sesiones cortas."],
+      "de": ["Ganzen Körper stützen.", "Schwanz nicht packen.", "Hände waschen.", "Kurz halten."],
+      "zh": ["支撑全身。", "避免抓住尾巴。", "洗手。", "保持简短。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   }
 ]
