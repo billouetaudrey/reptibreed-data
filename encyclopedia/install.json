@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ins-001-rack-setup",
+    "titre": {
+      "en": "Rack System Setup",
+      "fr": "Installation Système Rack",
+      "es": "Configuración de Sistema de Racks",
+      "de": "Rack-System-Einrichtung",
+      "zh": "蛇柜系统设置"
+    },
+    "icone": "Layout",
+    "description": {
+      "en": "Proper configuration of breeding rack systems.",
+      "fr": "Configuration correcte des systèmes de rack d'élevage.",
+      "es": "Configuración adecuada de sistemas de racks de cría.",
+      "de": "Richtige Konfiguration von Zuchtrack-Systemen.",
+      "zh": "育种架系统的正确配置。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Select tubs appropriate for the species size.",
+        "Install heat mats or cables at the back (1/3 of tub surface).",
+        "Place thermostat probes directly on the heat source.",
+        "Ensure adequate ventilation holes for humidity control."
+      ],
+      "fr": [
+        "Choisir des bacs adaptés à la taille de l'espèce.",
+        "Installer tapis ou câbles chauffants au fond (1/3 de la surface).",
+        "Placer la sonde du thermostat directement sur la source de chaleur.",
+        "Percer des trous de ventilation pour réguler l'humidité."
+      ],
+      "es": [
+        "Seleccionar bandejas adecuadas para el tamaño de la especie.",
+        "Instalar mantas o cables térmicos en la parte posterior (1/3 de la bandeja).",
+        "Colocar sondas de termostato directamente sobre la fuente de calor.",
+        "Asegurar orificios de ventilación para el control de la humedad."
+      ],
+      "de": [
+        "Wannen auswählen, die zur Größe der Art passen.",
+        "Heizmatten oder Kabel im hinteren Bereich installieren (1/3 der Fläche).",
+        "Thermostatsonden direkt auf der Wärmequelle platzieren.",
+        "Ausreichende Belüftungslöcher zur Feuchtigkeitsregulierung sicherstellen."
+      ],
+      "zh": [
+        "选择适合物种大小的抽屉。",
+        "在背面安装加热垫或加热电缆（占表面的1/3）。",
+        "将温控器探头直接放在热源上。",
+        "确保有足够的通风孔以控制湿度。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "id": "ins-002-lighting-uvb",
+    "titre": {
+      "en": "UVB Lighting Installation",
+      "fr": "Installation Éclairage UVB",
+      "es": "Instalación de Iluminación UVB",
+      "de": "UVB-Beleuchtungsinstallation",
+      "zh": "UVB照明安装"
+    },
+    "icone": "Sun",
+    "description": {
+      "en": "Positioning and safety for UVB sources.",
+      "fr": "Positionnement et sécurité des sources UVB.",
+      "es": "Posicionamiento y seguridad para fuentes UVB.",
+      "de": "Positionierung und Sicherheit für UVB-Quellen.",
+      "zh": "UVB光源的定位和安全性。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Verify UVB percentage according to Ferguson zones.",
+        "Mount inside the enclosure or above mesh (mesh filters 30-50%).",
+        "Maintain safe distance (30-50cm) from the animal.",
+        "Replace T5 bulbs every 12 months, T8 every 6 months."
+      ],
+      "fr": [
+        "Vérifier le pourcentage d'UVB selon les zones de Ferguson.",
+        "Installer à l'intérieur ou au-dessus d'un grillage (perte de 30-50%).",
+        "Respecter la distance de sécurité (30-50cm) avec l'animal.",
+        "Remplacer les néons T5 tous les 12 mois, T8 tous les 6 mois."
+      ],
+      "es": [
+        "Verificar el porcentaje de UVB según las zonas de Ferguson.",
+        "Montar dentro del terrario o sobre malla (la malla filtra el 30-50%).",
+        "Mantener una distancia de seguridad (30-50cm) del animal.",
+        "Reemplazar bombillas T5 cada 12 meses, T8 cada 6 meses."
+      ],
+      "de": [
+        "UVB-Prozentsatz gemäß Ferguson-Zonen überprüfen.",
+        "Innerhalb des Gehäuses oder über Gaze montieren (Gaze filtert 30-50%).",
+        "Sicherheitsabstand (30-50 cm) zum Tier einhalten.",
+        "T5-Röhren alle 12 Monate, T8 alle 6 Monate ersetzen."
+      ],
+      "zh": [
+        "根据弗格森区域验证UVB百分比。",
+        "安装在笼舍内部或网状上方（网状会过滤30-50％）。",
+        "与动物保持安全距离（30-50厘米）。",
+        "T5灯管每12个月更换一次，T8每6个月更换一次。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  }
+]
