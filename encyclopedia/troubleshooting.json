@@ -1,0 +1,110 @@
+[
+  {
+    "id": "trb-001-thermostat-failure",
+    "titre": {
+      "en": "Thermostat Failure Diagnostic",
+      "fr": "Panne de Thermostat",
+      "es": "Fallo del Termostato",
+      "de": "Thermostat-Ausfall-Diagnose",
+      "zh": "温控器故障诊断"
+    },
+    "icone": "Wrench",
+    "description": {
+      "en": "What to do when heating stops.",
+      "fr": "Que faire quand le chauffage s'arrête.",
+      "es": "Qué hacer cuando la calefacción falla.",
+      "de": "Vorgehen bei Heizungsausfall.",
+      "zh": "加热停止时该怎么办。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Check power source and fuses first.",
+        "Test heating element directly in a wall outlet (short duration).",
+        "Verify probe placement (ensure it hasn't moved).",
+        "Switch to a backup thermostat immediately if hardware failure is confirmed."
+      ],
+      "fr": [
+        "Vérifier l'alimentation et les fusibles.",
+        "Tester le chauffage sur une prise directe (court instant).",
+        "Vérifier le placement de la sonde.",
+        "Passer sur un thermostat de secours si la panne est confirmée."
+      ],
+      "es": [
+        "Revisar la fuente de alimentación.",
+        "Probar el calentador en un enchufe directo (brevemente).",
+        "Verificar la posición de la sonda.",
+        "Cambiar a un termostato de repuesto inmediatamente."
+      ],
+      "de": [
+        "Stromquelle und Sicherungen prüfen.",
+        "Heizelement direkt an der Steckdose testen (kurzzeitig).",
+        "Sondenplatzierung überprüfen.",
+        "Bei Hardware-Defekt sofort Ersatzthermostat verwenden."
+      ],
+      "zh": [
+        "首先检查电源和保险丝。",
+        "直接在墙壁插座上测试加热元件（短时间）。",
+        "验证探头放置位置（确保没有移动）。",
+        "如果确认硬件故障，立即切换到备用温控器。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "id": "trb-002-humidity-issues",
+    "titre": {
+      "en": "Managing Humidity Fluctuations",
+      "fr": "Gérer les Écarts d'Humidité",
+      "es": "Gestionar Fluctuaciones de Humedad",
+      "de": "Feuchtigkeitsschwankungen managen",
+      "zh": "管理湿度波动"
+    },
+    "icone": "CloudRain",
+    "description": {
+      "en": "Correcting too high or too low RH.",
+      "fr": "Corriger une hygrométrie inadaptée.",
+      "es": "Corregir humedad demasiado alta o baja.",
+      "de": "Korrektur von zu hoher/niedriger Luftfeuchtigkeit.",
+      "zh": "纠正过高或过低的相对湿度。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Too high: Increase ventilation or use a drier substrate.",
+        "Too low: Reduce ventilation or use a larger water bowl.",
+        "Verify hygrometer accuracy with a salt test.",
+        "Consider a misting system for tropical species."
+      ],
+      "fr": [
+        "Trop haut : augmenter la ventilation ou substrat sec.",
+        "Trop bas : réduire la ventilation ou plus grand bac d'eau.",
+        "Vérifier l'hygromètre avec un test au sel.",
+        "Envisager un système de brumisation pour les espèces tropicales."
+      ],
+      "es": [
+        "Demasiado alta: aumentar ventilación o sustrato seco.",
+        "Demasiado baja: reducir ventilación o cuenco de agua más grande.",
+        "Calibrar higrómetro.",
+        "Considerar sistema de lluvia para especies tropicales."
+      ],
+      "de": [
+        "Zu hoch: Belüftung erhöhen oder trockeneres Substrat.",
+        "Zu niedrig: Belüftung verringern oder größere Wasserschale.",
+        "Hygrometer-Genauigkeit prüfen.",
+        "Benebelungssystem für tropische Arten in Betracht ziehen."
+      ],
+      "zh": [
+        "过高：增加通风或使用较干燥的基质。",
+        "过低：减少通风或使用较大的水盆。",
+        "通过盐测试验证湿度计的准确性。",
+        "对于热带物种，考虑使用喷雾系统。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  }
+]
