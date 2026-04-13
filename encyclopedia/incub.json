@@ -1,44 +1,86 @@
 [
   {
     "id": "inc-001-substrate-ratio",
-    "titre": { "en": "Incubation Substrate Ratio", "fr": "Ratio Substrat Incubation", "es": "Proporción de Sustrato de Incubación", "de": "Inkubationssubstrat-Verhältnis", "zh": "孵化基质比例" },
+    "titre": { "en": "Substrate Ratio", "fr": "Ratio Substrat", "es": "Proporción de Sustrato", "de": "Substrat-Verhältnis", "zh": "基质比例" },
     "icone": "Droplets",
-    "description": { "en": "How to mix vermiculite or perlite.", "fr": "Comment mélanger la vermiculite ou perlite.", "es": "Cómo mezclar vermiculita o perlita.", "de": "Mischen von Vermiculit oder Perlit.", "zh": "如何混合蛭石或珍珠岩。" },
+    "description": { "en": "Mixing media.", "fr": "Mélange du milieu.", "es": "Mezcla del medio.", "de": "Mischverhältnis.", "zh": "混合介质。" },
     "contenu_detaille": {
-      "en": ["Use a 1:1 weight ratio (e.g., 100g substrate to 100g water).", "The mix should feel damp but not release water when squeezed.", "Ensure the container is airtight for most colubrids.", "Add small ventilation holes for species requiring higher oxygen flow."],
-      "fr": ["Utiliser un ratio de 1:1 en poids (ex: 100g substrat pour 100g d'eau).", "Le mélange doit être humide mais ne pas libérer d'eau à la pression.", "Assurer l'étanchéité de la boîte pour la plupart des colubridés.", "Prévoir des trous de ventilation pour les espèces exigeantes en oxygène."],
-      "es": ["Usar una proporción de 1:1 en peso (ej: 100g de sustrato por 100g de agua).", "La mezcla debe estar húmeda pero no soltar agua al apretarla.", "Asegurar que el recipiente sea hermético para la mayoría de colúbridos.", "Añadir pequeños orificios de ventilación para especies exigentes."],
-      "de": ["Verhältnis von 1:1 nach Gewicht (z. B. 100 g Substrat auf 100 g Wasser).", "Mischung sollte feucht sein, aber beim Drücken kein Wasser abgeben.", "Luftdichten Behälter für die meisten Nattern verwenden.", "Kleine Belüftungslöcher für Arten mit hohem Sauerstoffbedarf hinzufügen."],
-      "zh": ["使用1:1的重量比（例如，100克基质对100克水）。", "混合物应感觉湿润，但挤压时不应释放水分。", "确保大多数游蛇科物种的容器是密封的。", "为需要较高氧气流量的物种添加小通风孔。"]
+      "en": ["1:1 weight ratio.", "Damp not wet.", "Airtight containers.", "Species-specific flow."],
+      "fr": ["Ratio 1:1 en poids (ex: 100g substrat pour 100g d'eau).", "Humide mais pas trempé (ne doit pas couler à la pression).", "Boîtes hermétiques pour conserver l'humidité.", "Aération adaptée selon les besoins de l'espèce."],
+      "es": ["Ratio 1:1 peso.", "Húmedo, no mojado.", "Cajas herméticas.", "Ventilación específica."],
+      "de": ["1:1 nach Gewicht.", "Feucht, nicht nass.", "Luftdichte Boxen.", "Artenspezifische Belüftung."],
+      "zh": ["1:1 重量比。", "湿润但不潮湿。", "密封容器。", "物种特定流量。"]
     },
-    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "inc-002-egg-molding",
+    "titre": { "en": "Egg Mold", "fr": "Moisissure Œufs", "es": "Moho en Huevos", "de": "Schimmel auf Eiern", "zh": "鱼卵霉菌" },
+    "icone": "Bug",
+    "description": { "en": "Surface mold care.", "fr": "Traitement surface.", "es": "Cuidado superficial.", "de": "Schimmelbehandlung.", "zh": "霉菌处理。" },
+    "contenu_detaille": {
+      "en": ["Brush away gently.", "Antifungal powder.", "Increase air flow.", "Keep collapsing eggs."],
+      "fr": ["Brosser doucement avec un pinceau sec.", "Appliquer une fine couche de poudre antifongique.", "Augmenter légèrement la circulation d'air.", "Ne pas jeter un œuf sauf s'il est noir et malodorant."],
+      "es": ["Cepillar suave.", "Polvos antifúngicos.", "Más flujo aire.", "No tirar si hay dudas."],
+      "de": ["Vorsichtig bürsten.", "Antipilzpulver.", "Luftzufuhr erhöhen.", "Eingefallene Eier behalten."],
+      "zh": ["轻轻刷掉。", "抗真菌粉。", "增加空气流通。", "保留塌陷的鱼卵。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "inc-003-candling-eggs",
+    "titre": { "en": "Candling", "fr": "Mirage", "es": "Mirar Huevos", "de": "Durchleuchten", "zh": "透照" },
+    "icone": "Lightbulb",
+    "description": { "en": "Checking fertility.", "fr": "Vérifier fertilité.", "es": "Ver fertilidad.", "de": "Fruchtbarkeit prüfen.", "zh": "检查繁殖力。" },
+    "contenu_detaille": {
+      "en": ["LED in dark room.", "Hold against shell.", "Look for red veins.", "No rotation."],
+      "fr": ["Utiliser une lampe LED puissante dans le noir.", "Plaquer la source contre la coquille.", "Chercher un réseau de veines rouges.", "Ne jamais retourner l'œuf lors de l'examen."],
+      "es": ["LED en oscuridad.", "Pegar a cáscara.", "Venas rojas.", "No girar."],
+      "de": ["LED im Dunkeln.", "An Schale halten.", "Rote Adern suchen.", "Nicht drehen."],
+      "zh": ["黑暗房间内的 LED。", "紧贴蛋壳。", "寻找红色静脉。", "不要旋转。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "inc-004-temperature-sex-linkage",
-    "titre": { "en": "Sex-Linkage Temperatures", "fr": "Sexe et Températures", "es": "Determinación del Sexo", "de": "Temperaturabhängige Geschlechtsbestimmung", "zh": "性别关联温度" },
+    "titre": { "en": "Sex-Linkage", "fr": "Sexe et T°", "es": "Sexo y T°", "de": "Geschlecht & T°", "zh": "性别与温度" },
     "icone": "Thermometer",
-    "description": { "en": "Influencing hatchling gender via T°.", "fr": "Influencer le sexe des juvéniles via la T°.", "es": "Influencia de la temperatura en el sexo.", "de": "Beeinflussung des Geschlechts durch T°.", "zh": "通过 T° 影响孵化性别。" },
+    "description": { "en": "Gender influence.", "fr": "Influencer le sexe.", "es": "Influir en sexo.", "de": "Geschlechtswahl.", "zh": "性别影响。" },
     "contenu_detaille": {
-      "en": ["Research if the species has TSD (Temperature-dependent Sex Determination).", "Lower temperatures usually favor females in many geckos.", "Higher temperatures favor males, but avoid lethal limits.", "Maintain stable T° to avoid developmental issues or deformities."],
-      "fr": ["Vérifier si l'espèce possède une Dst (Détermination du sexe par T°).", "Les T° basses favorisent souvent les femelles chez les geckos.", "Les T° hautes favorisent les mâles (attention aux limites léthales).", "Maintenir une T° stable pour éviter les malformations."],
-      "es": ["Investigar si la especie tiene Dst.", "Temperaturas bajas favorecen hembras.", "Temperaturas altas favorecen machos.", "Evitar fluctuaciones bruscas."],
-      "de": ["Prüfen, ob die Art eine TSD besitzt.", "Niedrige T° begünstigen oft Weibchen bei Geckos.", "Hohe T° begünstigen Männchen (Vorsicht vor Letalgrenzen).", "Stabile T° zur Vermeidung von Fehlbildungen halten."],
-      "zh": ["研究该物种是否具有 TSD（温度依赖性性别决定）。", "在许多壁虎中，较低的温度通常有利于雌性。", "较高的温度有利于雄性，但要避免达到致死极限。", "保持稳定的 T° 以避免发育问题或畸形。"]
+      "en": ["Research TSD.", "Lower T° for females.", "Higher T° for males.", "Stable parameters."],
+      "fr": ["Vérifier si l'espèce possède une Dst.", "T° basses favorisent souvent les femelles (ex: geckos).", "T° hautes favorisent les mâles (limites hautes risquées).", "Maintenir des paramètres stables pour éviter les malformations."],
+      "es": ["Investigar Dst.", "T° baja = hembras.", "T° alta = machos.", "Estabilidad."],
+      "de": ["TSD prüfen.", "Niedrige T° = Weibchen.", "Hohe T° = Männchen.", "Stabil halten."],
+      "zh": ["研究 TSD。", "低温为雌性。", "高温为雄性。", "参数稳定。"]
     },
-    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "inc-005-hatchling-care",
-    "titre": { "en": "First Hatchling Care", "fr": "Soins des Premiers Nés", "es": "Cuidado de Recién Nacidos", "de": "Pflege von Schlüpflingen", "zh": "首次孵化护理" },
+    "titre": { "en": "Hatchling Care", "fr": "Soins Nouveau-nés", "es": "Cuidado Recién Nacidos", "de": "Neonaten-Pflege", "zh": "新生儿护理" },
     "icone": "Egg",
-    "description": { "en": "Management of neonates after hatching.", "fr": "Gestion des nouveau-nés après éclosion.", "es": "Manejo de neonatos tras la eclosión.", "de": "Versorgung von Neonaten nach dem Schlupf.", "zh": "孵化后新生儿的管理。" },
+    "description": { "en": "Post-hatch protocols.", "fr": "Gestion post-éclosion.", "es": "Post-eclosión.", "de": "Nach dem Schlupf.", "zh": "孵化后协议。" },
     "contenu_detaille": {
-      "en": ["Leave hatchlings in the incubator until their first shed.", "Maintain high humidity to support hydration and shedding.", "Avoid feeding until the yolk sac is fully absorbed.", "Isolate individuals to prevent competition and stress."],
-      "fr": ["Laisser les juvéniles en incubateur jusqu'à la première mue.", "Maintenir une hygrométrie élevée pour favoriser l'hydratation.", "Ne pas nourrir avant l'absorption totale du sac vitellin.", "Isoler les individus pour éviter la compétition."],
-      "es": ["Dejar en la incubadora hasta la primera muda.", "Mantener alta humedad.", "No alimentar hasta absorber el saco vitelino.", "Aislar individuos."],
-      "de": ["Schlüpflinge bis zur ersten Häutung im Inkubator lassen.", "Hohe Luftfeuchtigkeit zur Unterstützung der Hydratation halten.", "Erst füttern, wenn der Dottersack vollständig absorbiert ist.", "Tiere einzeln halten, um Stress zu vermeiden."],
-      "zh": ["在初次蜕皮前，将孵化出的幼蛇留在孵化器中。", "保持高湿度以支持补水和蜕皮。", "在卵黄囊完全吸收前避免喂食。", "隔离个体以防止竞争和压力。"]
+      "en": ["Keep in incubator.", "Hydration focus.", "No feeding yet.", "Individual tubs."],
+      "fr": ["Laisser en incubateur jusqu'à la première mue.", "Priorité à l'hydratation (hygro élevée).", "Ne pas nourrir avant l'absorption du vitellus.", "Placer en bacs individuels pour limiter le stress."],
+      "es": ["Incubadora inicial.", "Foco hidratación.", "Sin comida inicial.", "Tarrinas sueltas."],
+      "de": ["Im Inkubator lassen.", "Hydratation wichtig.", "Noch nicht füttern.", "Einzelboxen."],
+      "zh": ["留在孵化器中。", "重点补水。", "暂时不要喂食。", "单独的箱子。"]
     },
-    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "inc-006-suspended-incubation",
+    "titre": { "en": "SIM Method", "fr": "Méthode SIM", "es": "Método SIM", "de": "SIM-Methode", "zh": "SIM 方法" },
+    "icone": "Layout",
+    "description": { "en": "Suspended incubation.", "fr": "Incubation suspendue.", "es": "Incubación suspendida.", "de": "Kontaktlose Inkubation.", "zh": "悬浮孵化。" },
+    "contenu_detaille": {
+      "en": ["Eggs above substrate.", "Use a grid/mesh.", "Prevents drowning.", "Stabilizes RH."],
+      "fr": ["Œufs placés au-dessus du substrat.", "Utilisation d'une grille ou d'un filet.", "Évite la noyade de l'embryon par excès d'eau.", "Permet une hygrométrie plus stable et homogène."],
+      "es": ["Huevos sobre rejilla.", "Sin contacto sustrato.", "Evita ahogamiento.", "Humedad estable."],
+      "de": ["Eier über Substrat.", "Gitter nutzen.", "Verhindert Ertrinken.", "Stabile Luftfeuchte."],
+      "zh": ["鱼卵在基质上方。", "使用网格。", "防止淹死。", "稳定湿度。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   }
 ]
