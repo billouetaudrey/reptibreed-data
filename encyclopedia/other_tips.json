@@ -1,110 +1,44 @@
 [
   {
     "id": "tip-001-feeding-thawing",
-    "titre": {
-      "en": "Rodent Thawing Method",
-      "fr": "Méthode de Décongélation",
-      "es": "Método de Descongelación",
-      "de": "Auftaumethode für Nagetiere",
-      "zh": "啮齿动物解冻方法"
-    },
+    "titre": { "en": "Rodent Thawing Method", "fr": "Méthode de Décongélation", "es": "Método de Descongelación", "de": "Auftaumethode für Nagetiere", "zh": "啮齿动物解冻方法" },
     "icone": "Thermometer",
-    "description": {
-      "en": "Safely preparing frozen prey.",
-      "fr": "Préparer les proies congelées sans risque.",
-      "es": "Preparar presas congeladas de forma segura.",
-      "de": "Sicheres Auftauen von Frostfutter.",
-      "zh": "安全准备冷冻猎物。"
-    },
+    "description": { "en": "Safely preparing frozen prey.", "fr": "Préparer les proies congelées sans risque.", "es": "Preparar presas congeladas de forma segura.", "de": "Sicheres Auftauen von Frostfutter.", "zh": "安全准备冷冻猎物。" },
     "contenu_detaille": {
-      "en": [
-        "Thaw at room temperature or in cold water (sealed in a bag).",
-        "Never use a microwave (uneven heating, potential explosion).",
-        "Warm to 35-40°C using a hairdryer just before offering.",
-        "Ensure the core is completely thawed to avoid internal frostbite."
-      ],
-      "fr": [
-        "Décongeler à température ambiante ou eau froide (en sachet).",
-        "Ne jamais utiliser le micro-ondes (risques d'explosion).",
-        "Chauffer à 35-40°C au sèche-cheveux juste avant l'offre.",
-        "Vérifier que le cœur est dégelé pour éviter les engelures internes."
-      ],
-      "es": [
-        "Descongelar a temperatura ambiente o en agua fría (en bolsa).",
-        "Nunca usar el microondas.",
-        "Calentar a 35-40°C con secador antes de ofrecer.",
-        "Asegurar que el centro esté descongelado para evitar daños internos."
-      ],
-      "de": [
-        "Bei Raumtemperatur oder in kaltem Wasser auftauen (im Beutel).",
-        "Niemals die Mikrowelle benutzen.",
-        "Kurz vor dem Füttern mit einem Föhn auf 35-40°C erwärmen.",
-        "Sicherstellen, dass der Kern aufgetaut ist."
-      ],
-      "zh": [
-        "在室温或冷水中解冻（密封在袋中）。",
-        "切勿使用微波炉（加热不均匀，可能有爆炸危险）。",
-        "在喂食前用吹风机加热到35-40°C。",
-        "确保中心完全解冻，以避免内部冻伤。"
-      ]
+      "en": ["Thaw at room temperature or in cold water (sealed in a bag).", "Never use a microwave (uneven heating, potential explosion).", "Warm to 35-40°C using a hairdryer just before offering.", "Ensure the core is completely thawed to avoid internal frostbite."],
+      "fr": ["Décongeler à température ambiante ou eau froide (en sachet).", "Ne jamais utiliser le micro-ondes (risques d'explosion).", "Chauffer à 35-40°C au sèche-cheveux juste avant l'offre.", "Vérifier que le cœur est dégelé pour éviter les engelures internes."],
+      "es": ["Descongelar a temperatura ambiente o en agua fría (en bolsa).", "Nunca usar el microondas.", "Calentar a 35-40°C con secador antes de ofrecer.", "Asegurar que el centro esté descongelado para evitar daños internos."],
+      "de": ["Bei Raumtemperatur oder in kaltem Wasser auftauen (im Beutel).", "Niemals die Mikrowelle benutzen.", "Kurz vor dem Füttern mit einem Föhn auf 35-40°C erwärmen.", "Sicherstellen, dass der Kern aufgetaut ist."],
+      "zh": ["在室温或冷水中解冻（密封在袋中）。", "切勿使用微波炉（加热不均匀，可能有爆炸危险）。", "在喂食前用吹风机加热到35-40°C。", "确保中心完全解冻，以避免内部冻伤。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
   },
   {
-    "id": "tip-002-quarantine",
-    "titre": {
-      "en": "Quarantine Basics",
-      "fr": "Bases de la Quarantaine",
-      "es": "Bases de la Cuarentena",
-      "de": "Quarantäne-Grundlagen",
-      "zh": "检疫基础知识"
-    },
-    "icone": "ShieldCheck",
-    "description": {
-      "en": "Preventing disease spread in your collection.",
-      "fr": "Éviter la propagation de maladies dans l'élevage.",
-      "es": "Prevenir la propagación de enfermedades en la colección.",
-      "de": "Vermeidung von Krankheitsübertragungen.",
-      "zh": "防止疾病在您的收藏中传播。"
-    },
+    "id": "tip-004-transporting-reptiles",
+    "titre": { "en": "Transporting Reptiles", "fr": "Transport des Reptiles", "es": "Transporte de Reptiles", "de": "Transport von Reptilien", "zh": "运输爬行动物" },
+    "icone": "Wind",
+    "description": { "en": "Safe travel protocols.", "fr": "Protocoles pour un voyage sécurisé.", "es": "Protocolos de transporte seguro.", "de": "Sicherer Transport von Tieren.", "zh": "安全旅行协议。" },
     "contenu_detaille": {
-      "en": [
-        "Isolate new arrivals in a separate room for 90 days.",
-        "Use simple, disposable substrate (paper towels).",
-        "Feed and clean quarantined animals last.",
-        "Perform at least 3 fecal tests during the period."
-      ],
-      "fr": [
-        "Isoler les nouveaux dans une pièce séparée pendant 90 jours.",
-        "Utiliser un substrat jetable (sopalin).",
-        "Nourrir et nettoyer les animaux en quarantaine en dernier.",
-        "Effectuer au moins 3 analyses de selles durant la période."
-      ],
-      "es": [
-        "Aislar a los recién llegados en una habitación separada por 90 días.",
-        "Usar sustrato desechable (papel).",
-        "Alimentar y limpiar a los animales en cuarentena al final.",
-        "Realizar al menos 3 coprológicos durante el periodo."
-      ],
-      "de": [
-        "Neuzugänge für 90 Tage in einem separaten Raum isolieren.",
-        "Einwegsubstrat verwenden (Küchenpapier).",
-        "Quarantänetiere zuletzt füttern und reinigen.",
-        "Mindestens 3 Kotuntersuchungen durchführen."
-      ],
-      "zh": [
-        "将新到动物隔离在单独的房间内90天。",
-        "使用简单、一次性的基质（纸巾）。",
-        "最后喂食和清洁隔离的动物。",
-        "在此期间至少进行3次粪便检查。"
-      ]
+      "en": ["Use a secure, ventilated tub or bag.", "Place the tub inside an insulated box (Styrofoam).", "Use heat packs or cold packs depending on the weather.", "Ensure the animal cannot move too much during transit to avoid injury."],
+      "fr": ["Utiliser un bac ou sac ventilé et sécurisé.", "Placer le contenant dans une boîte isotherme (polystyrène).", "Utiliser des chaufferettes ou packs de froid selon la saison.", "Limiter les mouvements du reptile pour éviter les chocs."],
+      "es": ["Usar tarrinas o sacos ventilados.", "Colocar en caja de poliestireno.", "Usar packs de calor o frío según el clima.", "Evitar el exceso de movimiento."],
+      "de": ["Sichere, belüftete Box oder Beutel verwenden.", "Behälter in eine isolierte Box (Styropor) stellen.", "Je nach Wetter Heatpacks oder Kühlakkus verwenden.", "Sicherstellen, dass das Tier im Transit nicht verletzt wird."],
+      "zh": ["使用安全、通风的桶或袋子。", "将桶放入隔热箱（聚苯乙烯泡沫塑料）中。", "根据天气使用加热包或冷包。", "确保动物在运输过程中不会移动太多，以避免受伤。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+  },
+  {
+    "id": "tip-005-record-keeping",
+    "titre": { "en": "Record Keeping Importance", "fr": "Importance du Suivi", "es": "Importancia del Registro", "de": "Bedeutung der Dokumentation", "zh": "保存记录的重要性" },
+    "icone": "FileText",
+    "description": { "en": "Tracking growth, health, and events.", "fr": "Suivi de la croissance et de la santé.", "es": "Seguimiento de salud y crecimiento.", "de": "Verfolgung von Wachstum und Gesundheit.", "zh": "跟踪成长、健康和事件。" },
+    "contenu_detaille": {
+      "en": ["Log every meal, shed, and weight measurement.", "Track medical history and treatments for future reference.", "Record breeding dates and outcomes to identify successful pairs.", "Use data to identify health issues early (e.g., sudden weight drop)."],
+      "fr": ["Noter chaque repas, mue et pesée.", "Suivre l'historique médical pour référence future.", "Enregistrer les dates de repro pour identifier les bons couples.", "Utiliser les données pour détecter tôt les problèmes de santé."],
+      "es": ["Registrar cada comida, muda y peso.", "Hacer seguimiento médico.", "Anotar fechas de cría.", "Analizar datos para detectar problemas."],
+      "de": ["Jede Fütterung, Häutung und Gewichtsmessung protokollieren.", "Medizinische Historie für spätere Zwecke festhalten.", "Paarungsdaten und Ergebnisse aufzeichnen.", "Daten zur Früherkennung von Gesundheitsproblemen nutzen."],
+      "zh": ["记录每一餐、蜕皮和体重测量值。", "跟踪病史和治疗情况以供将来参考。", "记录育种日期和结果以识别成功的配对。", "利用数据及早发现健康问题（例如体重突然下降）。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
   }
 ]
