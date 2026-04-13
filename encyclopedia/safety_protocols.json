@@ -1,0 +1,110 @@
+[
+  {
+    "id": "saf-001-venomous-handling",
+    "titre": {
+      "en": "Venomous Handling Protocol",
+      "fr": "Protocole Espèces Venimeuses",
+      "es": "Protocolo de Manejo de Venenosos",
+      "de": "Umgang mit Giftschlangen",
+      "zh": "有毒动物处理协议"
+    },
+    "icone": "AlertTriangle",
+    "description": {
+      "en": "Safety rules for high-risk animals.",
+      "fr": "Règles de sécurité pour espèces à risque.",
+      "es": "Reglas de seguridad para animales de alto riesgo.",
+      "de": "Sicherheitsregeln für Hochrisikotiere.",
+      "zh": "高风险动物的安全规则。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Never handle venomous snakes alone (buddy system).",
+        "Use appropriate hooks, tongs, and shift boxes.",
+        "Maintain a bite protocol and antivenom info nearby.",
+        "Ensure all enclosures are double-locked and clearly labeled."
+      ],
+      "fr": [
+        "Ne jamais manipuler seul (système de binôme).",
+        "Utiliser des crochets, pinces et boîtes de transfert adaptés.",
+        "Afficher le protocole de morsure et infos sérum à proximité.",
+        "Vérifier le double verrouillage et l'étiquetage des terrariums."
+      ],
+      "es": [
+        "Nunca manipular solo.",
+        "Usar ganchos, pinzas y cajas de transferencia adecuados.",
+        "Tener el protocolo de mordedura e información del suero cerca.",
+        "Asegurar doble cierre y etiquetas claras en terrarios."
+      ],
+      "de": [
+        "Niemals alleine hantieren.",
+        "Angemessene Haken, Zangen und Transportboxen verwenden.",
+        "Biss-Protokoll und Antivenin-Infos griffbereit halten.",
+        "Doppelte Verriegelung und klare Beschriftung sicherstellen."
+      ],
+      "zh": [
+        "切勿单独处理毒蛇（伙伴系统）。",
+        "使用适当的钩子、夹子和换档箱。",
+        "在附近保存咬伤处理协议和抗毒血清信息。",
+        "确保所有笼舍都双重锁定并清晰标记。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "id": "saf-002-electrical-safety",
+    "titre": {
+      "en": "Electrical Fire Prevention",
+      "fr": "Prévention Risques Électriques",
+      "es": "Prevención de Incendios Eléctricos",
+      "de": "Elektrische Brandprävention",
+      "zh": "预防电气火灾"
+    },
+    "icone": "Zap",
+    "description": {
+      "en": "Preventing fires in the reptile room.",
+      "fr": "Éviter les incendies dans la pièce d'élevage.",
+      "es": "Prevenir incendios en la sala de reptiles.",
+      "de": "Vermeidung von Bränden im Reptilienzimmer.",
+      "zh": "防止爬行动物室火灾。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Never daisy-chain power strips.",
+        "Ensure all heating elements are connected to a thermostat.",
+        "Check wires regularly for signs of wear or melting.",
+        "Install a smoke detector and have a fire extinguisher ready."
+      ],
+      "fr": [
+        "Ne jamais brancher plusieurs multiprises en série.",
+        "Vérifier que tout chauffage est relié à un thermostat.",
+        "Inspecter les câbles pour tout signe d'usure ou de fonte.",
+        "Installer un détecteur de fumée et un extincteur à proximité."
+      ],
+      "es": [
+        "Nunca encadenar regletas.",
+        "Asegurar que toda calefacción esté conectada a un termostato.",
+        "Inspeccionar cables en busca de desgaste o derretimiento.",
+        "Instalar detectores de humo y tener un extintor listo."
+      ],
+      "de": [
+        "Niemals Mehrfachsteckdosen hintereinanderschalten.",
+        "Sicherstellen, dass alle Heizungen an Thermostate angeschlossen sind.",
+        "Kabel regelmäßig auf Verschleiß prüfen.",
+        "Rauchmelder installieren und Feuerlöscher bereithalten."
+      ],
+      "zh": [
+        "切勿串联电源插线板。",
+        "确保所有加热元件都连接到温控器上。",
+        "定期检查电线是否有磨损或熔化的迹象。",
+        "安装烟雾探测器并备好灭火器。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  }
+]
