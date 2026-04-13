@@ -36,5 +36,9 @@ export default {
   "encyclopedia_updated": "Encyclopedia updated!",
   "encyclopedia_update_premium": "Encyclopedia update is a Premium feature.",
   "ovulation_date": "Ovulation date",
-  "sold_date": "Sold date"
+  "sold_date": "Sold date",
+  "examples": "Items",
+  "advantages": "Pros",
+  "disadvantages": "Cons",
+  "tips": "Tips"
 };
