@@ -1,52 +1,110 @@
-{
-  "medical": [
-    {
-      "id": "acariens",
-      "category": "Médical",
-      "fr": {
-        "title": "Acariens",
-        "content": "Petits parasites externes (souvent noirs ou rouges). Symptômes : points mobiles sur l'animal, séjours prolongés dans le bac à eau. Traitement : bain d'eau tiède, nettoyage complet du terrarium, utilisation de produits spécifiques (Taurrus, Frontline en spray sur un sopalin - attention aux yeux/bouche)."
-      },
-      "en": {
-        "title": "Mites",
-        "content": "Small external parasites (often black or red). Symptoms: moving dots on the animal, prolonged soaking in the water bowl. Treatment: warm water bath, complete cleaning of the terrarium, use of specific products (Taurrus, Frontline spray on a paper towel - avoid eyes/mouth)."
-      }
+[
+  {
+    "id": "med-001-burn-treatment",
+    "titre": {
+      "en": "Burn Treatment",
+      "fr": "Traitement des Brûlures",
+      "es": "Tratamiento de Quemaduras",
+      "de": "Verbrennungsbehandlung",
+      "zh": "烫伤治疗"
     },
-    {
-      "id": "mauvaise_mue",
-      "category": "Médical",
-      "fr": {
-        "title": "Mauvaise mue",
-        "content": "Restes de peau sur le corps, les yeux (lunettes) ou le bout de la queue. Cause : manque d'humidité ou de points d'appui. Solution : bain tiède (28°C) pendant 20min, boîte humide avec sphaigne. Ne jamais forcer le retrait des lunettes sans avis expert."
-      },
-      "en": {
-        "title": "Bad Shed",
-        "content": "Skin remains on the body, eyes (eye caps), or the tip of the tail. Cause: lack of humidity or rough surfaces. Solution: warm bath (28°C) for 20min, humid box with sphagnum moss. Never force eye cap removal without expert advice."
-      }
+    "icone": "Flame",
+    "description": {
+      "en": "Emergency protocol for thermal injuries.",
+      "fr": "Protocole d'urgence pour les lésions thermiques.",
+      "es": "Protocolo de emergencia para lesiones térmicas.",
+      "de": "Notfallprotokoll für thermische Verletzungen.",
+      "zh": "热损伤紧急处理协议。"
     },
-    {
-      "id": "refus_repas",
-      "category": "Médical",
-      "fr": {
-        "title": "Refus de repas",
-        "content": "Fréquent chez les reptiles. Vérifiez d'abord : températures (trop froid = pas de digestion), période de mue, stress ou cycle de reproduction. Si l'animal ne perd pas de poids, ne pas s'inquiéter immédiatement. Essayez de proposer une proie plus petite ou différente (ex: souris vs rat)."
-      },
-      "en": {
-        "title": "Meal Refusal",
-        "content": "Common in reptiles. Check first: temperatures (too cold = no digestion), shedding period, stress, or breeding cycle. If the animal is not losing weight, do not worry immediately. Try offering a smaller or different prey (e.g., mouse vs rat)."
-      }
+    "contenu_detaille": {
+      "en": [
+        "Isolate the animal in a sterile environment (paper towel substrate).",
+        "Apply silver sulfadiazine cream (Flamazine) twice daily.",
+        "Maintain optimal hygiene to prevent secondary infections.",
+        "Consult a reptile-specialized veterinarian if blisters appear."
+      ],
+      "fr": [
+        "Isoler l'animal en milieu stérile (sopalin).",
+        "Appliquer une crème à base de sulfadiazine d'argent (Flamazine) 2x/jour.",
+        "Maintenir une hygiène irréprochable pour éviter les infections secondaires.",
+        "Consulter un vétérinaire spécialisé si des cloques apparaissent."
+      ],
+      "es": [
+        "Aislar al animal en un entorno estéril (sustrato de papel).",
+        "Aplicar crema de sulfadiazina de plata dos veces al día.",
+        "Mantener una higiene óptima para prevenir infecciones.",
+        "Consultar a un veterinario de exóticos si aparecen ampollas."
+      ],
+      "de": [
+        "Tier in einer sterilen Umgebung isolieren (Küchenpapier).",
+        "Silbersulfadiazin-Creme zweimal täglich auftragen.",
+        "Optimale Hygiene einhalten, um Infektionen zu vermeiden.",
+        "Fachtierarzt aufsuchen, wenn Blasen entstehen."
+      ],
+      "zh": [
+        "将动物隔离在无菌环境中（纸巾基质）。",
+        "每天两次涂抹磺胺嘧啶银乳膏。",
+        "保持最佳卫生以预防继发感染。",
+        "如果出现水泡，请咨询爬行动物兽医。"
+      ]
     },
-    {
-      "id": "regurgitation",
-      "category": "Médical",
-      "fr": {
-        "title": "Régurgitation",
-        "content": "L'animal rejette son repas. Causes : température trop basse, stress après repas, proie trop grosse ou problème interne. IMPORTANT : Ne pas nourrir pendant 10 à 14 jours après une régurgitation pour laisser l'œsophage et l'estomac cicatriser. Vérifier les paramètres."
-      },
-      "en": {
-        "title": "Regurgitation",
-        "content": "The animal rejects its meal. Causes: too low temperature, stress after meal, prey too large, or internal issue. IMPORTANT: Do not feed for 10 to 14 days after regurgitation to allow the esophagus and stomach to heal. Check parameters."
-      }
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
     }
-  ]
-}
+  },
+  {
+    "id": "med-002-ri-protocol",
+    "titre": {
+      "en": "Respiratory Infection (RI)",
+      "fr": "Infection Respiratoire (IR)",
+      "es": "Infección Respiratoria",
+      "de": "Atemwegsinfektion",
+      "zh": "呼吸道感染"
+    },
+    "icone": "Wind",
+    "description": {
+      "en": "Detection and management of RI symptoms.",
+      "fr": "Détection et gestion des symptômes d'IR.",
+      "es": "Detección y manejo de síntomas de infección respiratoria.",
+      "de": "Erkennung und Management von Atemwegsinfektionen.",
+      "zh": "呼吸道感染症状的检测与管理。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Increase ambient temperature by 2-3°C.",
+        "Check for mouth gaping, mucus, or wheezing sounds.",
+        "Nebulize with sterile saline or diluted F10SC if prescribed.",
+        "Antibiotic treatment (Ceftazidime/Enrofloxacin) requires vet prescription."
+      ],
+      "fr": [
+        "Augmenter la température ambiante de 2-3°C.",
+        "Surveiller les bavements, sifflements ou gueule ouverte.",
+        "Nébulisation avec sérum physiologique ou F10SC dilué si prescrit.",
+        "Traitement antibiotique (Ceftazidime/Enrofloxacin) sur avis vétérinaire."
+      ],
+      "es": [
+        "Aumentar la temperatura ambiente 2-3°C.",
+        "Observar si hay moco, silbidos o boca abierta.",
+        "Nebulizar con suero fisiológico o F10SC diluido si se prescribe.",
+        "El tratamiento antibiótico requiere prescripción veterinaria."
+      ],
+      "de": [
+        "Umgebungstemperatur um 2-3°C erhöhen.",
+        "Auf Schleimbildung, Pfeifen oder offenes Maul achten.",
+        "Vernebelung mit Kochsalzlösung oder verdünntem F10SC falls verordnet.",
+        "Antibiotikabehandlung erfordert tierärztliche Verschreibung."
+      ],
+      "zh": [
+        "将环境温度提高2-3°C。",
+        "检查是否有张口呼吸、粘液或喘鸣声。",
+        "如果医生开具处方，使用无菌生理盐水或稀释的F10SC进行雾化。",
+        "抗生素治疗（头孢他啶/恩诺沙星）需要兽医处方。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  }
+]
