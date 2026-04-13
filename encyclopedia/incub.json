@@ -1,110 +1,44 @@
 [
   {
     "id": "inc-001-substrate-ratio",
-    "titre": {
-      "en": "Incubation Substrate Ratio",
-      "fr": "Ratio Substrat Incubation",
-      "es": "Proporción de Sustrato de Incubación",
-      "de": "Inkubationssubstrat-Verhältnis",
-      "zh": "孵化基质比例"
-    },
+    "titre": { "en": "Incubation Substrate Ratio", "fr": "Ratio Substrat Incubation", "es": "Proporción de Sustrato de Incubación", "de": "Inkubationssubstrat-Verhältnis", "zh": "孵化基质比例" },
     "icone": "Droplets",
-    "description": {
-      "en": "How to mix vermiculite or perlite.",
-      "fr": "Comment mélanger la vermiculite ou perlite.",
-      "es": "Cómo mezclar vermiculita o perlita.",
-      "de": "Mischen von Vermiculit oder Perlit.",
-      "zh": "如何混合蛭石或珍珠岩。"
-    },
+    "description": { "en": "How to mix vermiculite or perlite.", "fr": "Comment mélanger la vermiculite ou perlite.", "es": "Cómo mezclar vermiculita o perlita.", "de": "Mischen von Vermiculit oder Perlit.", "zh": "如何混合蛭石或珍珠岩。" },
     "contenu_detaille": {
-      "en": [
-        "Use a 1:1 weight ratio (e.g., 100g substrate to 100g water).",
-        "The mix should feel damp but not release water when squeezed.",
-        "Ensure the container is airtight for most colubrids.",
-        "Add small ventilation holes for species requiring higher oxygen flow."
-      ],
-      "fr": [
-        "Utiliser un ratio de 1:1 en poids (ex: 100g substrat pour 100g d'eau).",
-        "Le mélange doit être humide mais ne pas libérer d'eau à la pression.",
-        "Assurer l'étanchéité de la boîte pour la plupart des colubridés.",
-        "Prévoir des trous de ventilation pour les espèces exigeantes en oxygène."
-      ],
-      "es": [
-        "Usar una proporción de 1:1 en peso (ej: 100g de sustrato por 100g de agua).",
-        "La mezcla debe estar húmeda pero no soltar agua al apretarla.",
-        "Asegurar que el recipiente sea hermético para la mayoría de colúbridos.",
-        "Añadir pequeños orificios de ventilación para especies exigentes."
-      ],
-      "de": [
-        "Verhältnis von 1:1 nach Gewicht (z. B. 100 g Substrat auf 100 g Wasser).",
-        "Mischung sollte feucht sein, aber beim Drücken kein Wasser abgeben.",
-        "Luftdichten Behälter für die meisten Nattern verwenden.",
-        "Kleine Belüftungslöcher für Arten mit hohem Sauerstoffbedarf hinzufügen."
-      ],
-      "zh": [
-        "使用1:1的重量比（例如，100克基质对100克水）。",
-        "混合物应感觉湿润，但挤压时不应释放水分。",
-        "确保大多数游蛇科物种的容器是密封的。",
-        "为需要较高氧气流量的物种添加小通风孔。"
-      ]
+      "en": ["Use a 1:1 weight ratio (e.g., 100g substrate to 100g water).", "The mix should feel damp but not release water when squeezed.", "Ensure the container is airtight for most colubrids.", "Add small ventilation holes for species requiring higher oxygen flow."],
+      "fr": ["Utiliser un ratio de 1:1 en poids (ex: 100g substrat pour 100g d'eau).", "Le mélange doit être humide mais ne pas libérer d'eau à la pression.", "Assurer l'étanchéité de la boîte pour la plupart des colubridés.", "Prévoir des trous de ventilation pour les espèces exigeantes en oxygène."],
+      "es": ["Usar una proporción de 1:1 en peso (ej: 100g de sustrato por 100g de agua).", "La mezcla debe estar húmeda pero no soltar agua al apretarla.", "Asegurar que el recipiente sea hermético para la mayoría de colúbridos.", "Añadir pequeños orificios de ventilación para especies exigentes."],
+      "de": ["Verhältnis von 1:1 nach Gewicht (z. B. 100 g Substrat auf 100 g Wasser).", "Mischung sollte feucht sein, aber beim Drücken kein Wasser abgeben.", "Luftdichten Behälter für die meisten Nattern verwenden.", "Kleine Belüftungslöcher für Arten mit hohem Sauerstoffbedarf hinzufügen."],
+      "zh": ["使用1:1的重量比（例如，100克基质对100克水）。", "混合物应感觉湿润，但挤压时不应释放水分。", "确保大多数游蛇科物种的容器是密封的。", "为需要较高氧气流量的物种添加小通风孔。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
   },
   {
-    "id": "inc-002-egg-molding",
-    "titre": {
-      "en": "Managing Egg Mold",
-      "fr": "Gestion des Œufs Moisis",
-      "es": "Gestión de Moho en los Huevos",
-      "de": "Umgang mit Schimmel auf Eiern",
-      "zh": "管理鱼卵发霉"
-    },
-    "icone": "Bug",
-    "description": {
-      "en": "Treating surface mold during incubation.",
-      "fr": "Traiter les moisissures de surface durant l'incubation.",
-      "es": "Tratamiento de moho superficial durante la incubación.",
-      "de": "Behandlung von Oberflächenschimmel während der Inkubation.",
-      "zh": "处理孵化期间的表面霉菌。"
-    },
+    "id": "inc-004-temperature-sex-linkage",
+    "titre": { "en": "Sex-Linkage Temperatures", "fr": "Sexe et Températures", "es": "Determinación del Sexo", "de": "Temperaturabhängige Geschlechtsbestimmung", "zh": "性别关联温度" },
+    "icone": "Thermometer",
+    "description": { "en": "Influencing hatchling gender via T°.", "fr": "Influencer le sexe des juvéniles via la T°.", "es": "Influencia de la temperatura en el sexo.", "de": "Beeinflussung des Geschlechts durch T°.", "zh": "通过 T° 影响孵化性别。" },
     "contenu_detaille": {
-      "en": [
-        "Gently brush away surface mold with a soft dry brush.",
-        "Lightly apply antifungal powder or Athlete's foot powder (without additives).",
-        "Improve air circulation if molding is persistent.",
-        "Never discard an egg unless it is clearly collapsing and smelling."
-      ],
-      "fr": [
-        "Brosser doucement la moisissure avec un pinceau sec.",
-        "Appliquer légèrement de la poudre antifongique (type pied d'athlète).",
-        "Améliorer la circulation d'air si la moisissure persiste.",
-        "Ne jamais jeter un œuf sauf s'il s'effondre et sent mauvais."
-      ],
-      "es": [
-        "Cepillar suavemente el moho superficial con un pincel seco.",
-        "Aplicar ligeramente polvos antifúngicos.",
-        "Mejorar la circulación del aire si el moho persiste.",
-        "Nunca desechar un huevo a menos que esté claramente colapsado y huela."
-      ],
-      "de": [
-        "Oberflächenschimmel vorsichtig mit einem trockenen Pinsel entfernen.",
-        "Antipilzpulver leicht auftragen.",
-        "Luftzirkulation verbessern, wenn Schimmel bestehen bleibt.",
-        "Ei niemals wegwerfen, es sei denn, es fällt zusammen und riecht."
-      ],
-      "zh": [
-        "用软干刷轻轻刷掉表面霉菌。",
-        "轻轻涂抹抗真菌粉或脚气粉（无添加剂）。",
-        "如果发霉持续，改善空气流通。",
-        "除非鱼卵明显塌陷并发臭，否则不要丢弃。"
-      ]
+      "en": ["Research if the species has TSD (Temperature-dependent Sex Determination).", "Lower temperatures usually favor females in many geckos.", "Higher temperatures favor males, but avoid lethal limits.", "Maintain stable T° to avoid developmental issues or deformities."],
+      "fr": ["Vérifier si l'espèce possède une Dst (Détermination du sexe par T°).", "Les T° basses favorisent souvent les femelles chez les geckos.", "Les T° hautes favorisent les mâles (attention aux limites léthales).", "Maintenir une T° stable pour éviter les malformations."],
+      "es": ["Investigar si la especie tiene Dst.", "Temperaturas bajas favorecen hembras.", "Temperaturas altas favorecen machos.", "Evitar fluctuaciones bruscas."],
+      "de": ["Prüfen, ob die Art eine TSD besitzt.", "Niedrige T° begünstigen oft Weibchen bei Geckos.", "Hohe T° begünstigen Männchen (Vorsicht vor Letalgrenzen).", "Stabile T° zur Vermeidung von Fehlbildungen halten."],
+      "zh": ["研究该物种是否具有 TSD（温度依赖性性别决定）。", "在许多壁虎中，较低的温度通常有利于雌性。", "较高的温度有利于雄性，但要避免达到致死极限。", "保持稳定的 T° 以避免发育问题或畸形。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
+  },
+  {
+    "id": "inc-005-hatchling-care",
+    "titre": { "en": "First Hatchling Care", "fr": "Soins des Premiers Nés", "es": "Cuidado de Recién Nacidos", "de": "Pflege von Schlüpflingen", "zh": "首次孵化护理" },
+    "icone": "Egg",
+    "description": { "en": "Management of neonates after hatching.", "fr": "Gestion des nouveau-nés après éclosion.", "es": "Manejo de neonatos tras la eclosión.", "de": "Versorgung von Neonaten nach dem Schlupf.", "zh": "孵化后新生儿的管理。" },
+    "contenu_detaille": {
+      "en": ["Leave hatchlings in the incubator until their first shed.", "Maintain high humidity to support hydration and shedding.", "Avoid feeding until the yolk sac is fully absorbed.", "Isolate individuals to prevent competition and stress."],
+      "fr": ["Laisser les juvéniles en incubateur jusqu'à la première mue.", "Maintenir une hygrométrie élevée pour favoriser l'hydratation.", "Ne pas nourrir avant l'absorption totale du sac vitellin.", "Isoler les individus pour éviter la compétition."],
+      "es": ["Dejar en la incubadora hasta la primera muda.", "Mantener alta humedad.", "No alimentar hasta absorber el saco vitelino.", "Aislar individuos."],
+      "de": ["Schlüpflinge bis zur ersten Häutung im Inkubator lassen.", "Hohe Luftfeuchtigkeit zur Unterstützung der Hydratation halten.", "Erst füttern, wenn der Dottersack vollständig absorbiert ist.", "Tiere einzeln halten, um Stress zu vermeiden."],
+      "zh": ["在初次蜕皮前，将孵化出的幼蛇留在孵化器中。", "保持高湿度以支持补水和蜕皮。", "在卵黄囊完全吸收前避免喂食。", "隔离个体以防止竞争和压力。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T13:00:00Z", "version": "1.2.0" }
   }
 ]
