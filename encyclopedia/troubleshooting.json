@@ -49,8 +49,8 @@
       ]
     },
     "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
+      "last_updated": "2026-04-13T12:00:00Z",
+      "version": "1.1.0"
     }
   },
   {
@@ -103,8 +103,62 @@
       ]
     },
     "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
+      "last_updated": "2026-04-13T12:00:00Z",
+      "version": "1.1.0"
+    }
+  },
+  {
+    "id": "trb-003-power-outage",
+    "titre": {
+      "en": "Power Outage Management",
+      "fr": "Gestion Coupure de Courant",
+      "es": "Cortes de Energía",
+      "de": "Stromausfall-Management",
+      "zh": "停电管理"
+    },
+    "icone": "Zap",
+    "description": {
+      "en": "Maintaining heat during emergencies.",
+      "fr": "Gérer la chaleur en cas d'urgence.",
+      "es": "Mantenimiento del calor en emergencias.",
+      "de": "Wärmeerhaltung im Notfall.",
+      "zh": "在紧急情况下维持热量。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Do not open enclosures to keep residual heat inside.",
+        "Cover racks/terrariums with blankets or insulation.",
+        "Use heat packs (wrapped in towels) for sensitive animals.",
+        "Monitor temperatures with battery-powered thermometers."
+      ],
+      "fr": [
+        "Ne pas ouvrir les terrariums pour garder la chaleur résiduelle.",
+        "Couvrir avec des couvertures ou isolants thermiques.",
+        "Utiliser des chaufferettes (enveloppées) pour les plus fragiles.",
+        "Surveiller avec des thermomètres à piles."
+      ],
+      "es": [
+        "No abrir terrarios.",
+        "Cubrir con mantas térmicas.",
+        "Usar packs de calor (envueltos).",
+        "Monitorear con termómetros a pilas."
+      ],
+      "de": [
+        "Terrarien nicht öffnen, um Restwärme zu erhalten.",
+        "Mit Decken oder Isolierung abdecken.",
+        "Heatpacks (in Handtücher gewickelt) verwenden.",
+        "Mit batteriebetriebenen Thermometern überwachen."
+      ],
+      "zh": [
+        "不要打开笼舍，以保持内部余热。",
+        "用毯子或绝缘材料覆盖支架/玻璃容器。",
+        "为敏感动物使用加热包（用毛巾包裹）。",
+        "使用电池供电的温度计监测温度。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T12:00:00Z",
+      "version": "1.1.0"
     }
   }
 ]
