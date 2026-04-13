@@ -1,0 +1,110 @@
+[
+  {
+    "id": "inc-001-substrate-ratio",
+    "titre": {
+      "en": "Incubation Substrate Ratio",
+      "fr": "Ratio Substrat Incubation",
+      "es": "Proporción de Sustrato de Incubación",
+      "de": "Inkubationssubstrat-Verhältnis",
+      "zh": "孵化基质比例"
+    },
+    "icone": "Droplets",
+    "description": {
+      "en": "How to mix vermiculite or perlite.",
+      "fr": "Comment mélanger la vermiculite ou perlite.",
+      "es": "Cómo mezclar vermiculita o perlita.",
+      "de": "Mischen von Vermiculit oder Perlit.",
+      "zh": "如何混合蛭石或珍珠岩。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Use a 1:1 weight ratio (e.g., 100g substrate to 100g water).",
+        "The mix should feel damp but not release water when squeezed.",
+        "Ensure the container is airtight for most colubrids.",
+        "Add small ventilation holes for species requiring higher oxygen flow."
+      ],
+      "fr": [
+        "Utiliser un ratio de 1:1 en poids (ex: 100g substrat pour 100g d'eau).",
+        "Le mélange doit être humide mais ne pas libérer d'eau à la pression.",
+        "Assurer l'étanchéité de la boîte pour la plupart des colubridés.",
+        "Prévoir des trous de ventilation pour les espèces exigeantes en oxygène."
+      ],
+      "es": [
+        "Usar una proporción de 1:1 en peso (ej: 100g de sustrato por 100g de agua).",
+        "La mezcla debe estar húmeda pero no soltar agua al apretarla.",
+        "Asegurar que el recipiente sea hermético para la mayoría de colúbridos.",
+        "Añadir pequeños orificios de ventilación para especies exigentes."
+      ],
+      "de": [
+        "Verhältnis von 1:1 nach Gewicht (z. B. 100 g Substrat auf 100 g Wasser).",
+        "Mischung sollte feucht sein, aber beim Drücken kein Wasser abgeben.",
+        "Luftdichten Behälter für die meisten Nattern verwenden.",
+        "Kleine Belüftungslöcher für Arten mit hohem Sauerstoffbedarf hinzufügen."
+      ],
+      "zh": [
+        "使用1:1的重量比（例如，100克基质对100克水）。",
+        "混合物应感觉湿润，但挤压时不应释放水分。",
+        "确保大多数游蛇科物种的容器是密封的。",
+        "为需要较高氧气流量的物种添加小通风孔。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "id": "inc-002-egg-molding",
+    "titre": {
+      "en": "Managing Egg Mold",
+      "fr": "Gestion des Œufs Moisis",
+      "es": "Gestión de Moho en los Huevos",
+      "de": "Umgang mit Schimmel auf Eiern",
+      "zh": "管理鱼卵发霉"
+    },
+    "icone": "Bug",
+    "description": {
+      "en": "Treating surface mold during incubation.",
+      "fr": "Traiter les moisissures de surface durant l'incubation.",
+      "es": "Tratamiento de moho superficial durante la incubación.",
+      "de": "Behandlung von Oberflächenschimmel während der Inkubation.",
+      "zh": "处理孵化期间的表面霉菌。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Gently brush away surface mold with a soft dry brush.",
+        "Lightly apply antifungal powder or Athlete's foot powder (without additives).",
+        "Improve air circulation if molding is persistent.",
+        "Never discard an egg unless it is clearly collapsing and smelling."
+      ],
+      "fr": [
+        "Brosser doucement la moisissure avec un pinceau sec.",
+        "Appliquer légèrement de la poudre antifongique (type pied d'athlète).",
+        "Améliorer la circulation d'air si la moisissure persiste.",
+        "Ne jamais jeter un œuf sauf s'il s'effondre et sent mauvais."
+      ],
+      "es": [
+        "Cepillar suavemente el moho superficial con un pincel seco.",
+        "Aplicar ligeramente polvos antifúngicos.",
+        "Mejorar la circulación del aire si el moho persiste.",
+        "Nunca desechar un huevo a menos que esté claramente colapsado y huela."
+      ],
+      "de": [
+        "Oberflächenschimmel vorsichtig mit einem trockenen Pinsel entfernen.",
+        "Antipilzpulver leicht auftragen.",
+        "Luftzirkulation verbessern, wenn Schimmel bestehen bleibt.",
+        "Ei niemals wegwerfen, es sei denn, es fällt zusammen und riecht."
+      ],
+      "zh": [
+        "用软干刷轻轻刷掉表面霉菌。",
+        "轻轻涂抹抗真菌粉或脚气粉（无添加剂）。",
+        "如果发霉持续，改善空气流通。",
+        "除非鱼卵明显塌陷并发臭，否则不要丢弃。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T10:00:00Z",
+      "version": "1.0.0"
+    }
+  }
+]
