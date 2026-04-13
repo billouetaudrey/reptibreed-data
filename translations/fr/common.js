@@ -35,5 +35,9 @@ export default {
   "encyclopedia_updated": "Encyclopédie mise à jour !",
   "encyclopedia_update_premium": "La mise à jour de l'encyclopédie est une fonction Premium.",
   "ovulation_date": "Date d'ovulation",
-  "sold_date": "Date de vente"
+  "sold_date": "Date de vente",
+  "examples": "Éléments",
+  "advantages": "Avantages",
+  "disadvantages": "Inconvénients",
+  "tips": "Conseils"
 };
