@@ -8,7 +8,7 @@
         "description": "Base alimentaire pour la plupart des serpents.",
         "pros": "Profil nutritionnel complet (calcium des os, abats).",
         "cons": "Le rat est riche en viande rouge, risque d'obésité si trop fréquent.",
-        "tips": "Alterner entre souris et rats selon l'âge. Le Mastomys est idéal pour les mangeurs difficiles comme le Python Royal. Surveillez les 'dépôts de graisse' sur les côtés du corps."
+        "tips": "Alterner entre souris et rats selon l'âge. Le Mastomys est idéal pour les mangeurs difficiles comme le Python Royal."
       },
       "en": {
         "name": "Rodents",
@@ -16,18 +16,42 @@
         "description": "Staple diet for most snakes.",
         "pros": "Complete nutritional profile (bone calcium, organs).",
         "cons": "Rats are high in red meat, risk of obesity if fed too frequently.",
-        "tips": "Alternate between mice and rats depending on age. Mastomys is ideal for picky eaters like Ball Pythons. Monitor 'fat deposits' on the sides of the body."
+        "tips": "Alternate between mice and rats depending on age. Mastomys is ideal for picky eaters like Ball Pythons."
+      },
+      "es": {
+        "name": "Roedores",
+        "items": "Ratones, Ratas, Mastomys",
+        "description": "Dieta básica para la mayoría de las serpientes.",
+        "pros": "Perfil nutricional completo (calcio óseo, órganos).",
+        "cons": "Las ratas tienen mucha carne roja, riesgo de obesidad.",
+        "tips": "Alternar entre ratones y ratas según la edad."
+      },
+      "de": {
+        "name": "Nagetiere",
+        "items": "Mäuse, Ratten, Mastomys",
+        "description": "Grundnahrungsmittel für die meisten Schlangen.",
+        "pros": "Vollständiges Nährstoffprofil (Knochencalcium, Innereien).",
+        "cons": "Ratten sind reich an rotem Fleisch, Adipositasrisiko.",
+        "tips": "Wechseln Sie je nach Alter zwischen Mäusen und Ratten."
+      },
+      "zh": {
+        "name": "啮齿动物",
+        "items": "老鼠, 大鼠, 多乳鼠",
+        "description": "大多数蛇类的主食。",
+        "pros": "完整的营养状况（骨钙, 内脏）。",
+        "cons": "大鼠红肉含量高, 喂食过频有肥胖风险。",
+        "tips": "根据年龄在小鼠和大鼠之间交替喂食。"
       }
     },
     {
       "id": "insects",
       "fr": {
-        "name": "Insects",
+        "name": "Insectes",
         "items": "Grillons, Blattes, Vers",
         "description": "Source de protéines pour lézards et juvéniles.",
         "pros": "Ratio protéines/graisses équilibré (Grillons/Blattes).",
         "cons": "Vers de farine très gras et pauvres en calcium.",
-        "tips": "Toujours faire un 'gut-loading' (nourrissage des insectes) 24h avant. Saupoudrer de calcium pour éviter les carences (MBD - Maladie Métabolique des Os)."
+        "tips": "Toujours faire un 'gut-loading' (nourrissage des insectes) 24h avant. Saupoudrer de calcium."
       },
       "en": {
         "name": "Insects",
@@ -35,45 +59,31 @@
         "description": "Protein source for lizards and juveniles.",
         "pros": "Balanced protein/fat ratio (Crickets/Roaches).",
         "cons": "Mealworms are very fatty and low in calcium.",
-        "tips": "Always gut-load insects 24h before feeding. Dust with calcium to prevent Metabolic Bone Disease (MBD)."
-      }
-    },
-    {
-      "id": "piscivore",
-      "fr": {
-        "name": "Poissons",
-        "items": "Eperlans, Guppys, Truite",
-        "description": "Alimentation spécifique pour espèces aquatiques.",
-        "pros": "Apport important en acides gras essentiels.",
-        "cons": "Risque de thiaminase qui détruit la Vitamine B1.",
-        "tips": "Attention : La thiaminase provoque des troubles neurologiques. Complémenter en Vitamine B1 ou choisir des poissons sans thiaminase (éviter Poisson Rouge/Carpe)."
+        "tips": "Always gut-load insects 24h before feeding. Dust with calcium."
       },
-      "en": {
-        "name": "Fish",
-        "items": "Smelt, Guppies, Trout",
-        "description": "Specific diet for aquatic species.",
-        "pros": "Important source of essential fatty acids.",
-        "cons": "Risk of thiaminase which destroys Vitamin B1.",
-        "tips": "Warning: Thiaminase causes neurological disorders. Supplement with Vitamin B1 or choose thiaminase-free fish (avoid Goldfish/Carp)."
-      }
-    },
-    {
-      "id": "plants",
-      "fr": {
-        "name": "Végétaux",
-        "items": "Pissenlits, Endives, Courgettes",
-        "description": "Pour les herbivores et omnivores.",
-        "pros": "Apport en fibres, vitamines et hydratation.",
-        "cons": "Risque de pesticides, ratio Calcium/Phosphore à surveiller.",
-        "tips": "Maintenir un ratio Ca/P de 2:1. Trop de phosphore empêche l'assimilation du calcium. Varier les sources au maximum (feuilles sombres > fruits)."
+      "es": {
+        "name": "Insectos",
+        "items": "Grillos, Cucarachas, Gusanos",
+        "description": "Fuente de proteínas para lagartos y juveniles.",
+        "pros": "Relación proteína/grasa equilibrada.",
+        "cons": "Los gusanos de la harina son muy grasos.",
+        "tips": "Siempre hacer 'gut-loading' 24h antes."
       },
-      "en": {
-        "name": "Plants",
-        "items": "Dandelion, Endive, Zucchini",
-        "description": "For herbivores and omnivores.",
-        "pros": "Provides fiber, vitamins, and hydration.",
-        "cons": "Risk of pesticides, monitor Calcium/Phosphorus ratio.",
-        "tips": "Maintain a 2:1 Ca/P ratio. Excessive phosphorus prevents calcium absorption. Vary sources (dark leafy greens > fruits)."
+      "de": {
+        "name": "Insekten",
+        "items": "Grillen, Schaben, Würmer",
+        "description": "Proteinquelle für Echsen und Jungtiere.",
+        "pros": "Ausgewogenes Protein/Fett-Verhältnis.",
+        "cons": "Mehlwürmer sind sehr fettreich.",
+        "tips": "Insekten immer 24 Std. vorher 'gut-loaden'."
+      },
+      "zh": {
+        "name": "昆虫",
+        "items": "蟋蟀, 蟑螂, 蠕虫",
+        "description": "蜥蜴和幼体的蛋白质来源。",
+        "pros": "平衡的蛋白质/脂肪比例。",
+        "cons": "面粉虫脂肪含量很高, 钙含量低。",
+        "tips": "喂食前24小时务必进行‘肠道填充’（给昆虫喂食）。"
       }
     },
     {
@@ -84,7 +94,7 @@
         "description": "Essentiels pour prévenir les carences graves.",
         "pros": "Garantit un squelette solide et une croissance saine.",
         "cons": "Surdosage de D3 peut être toxique.",
-        "tips": "Calcium sans D3 à chaque repas pour les insectivores. D3 si pas d'UVB. Multivitamines 1 à 2 fois par mois maximum."
+        "tips": "Calcium sans D3 à chaque repas pour les insectivores."
       },
       "en": {
         "name": "Supplements",
@@ -92,45 +102,31 @@
         "description": "Essential to prevent severe deficiencies.",
         "pros": "Guarantees a strong skeleton and healthy growth.",
         "cons": "Overdosing on D3 can be toxic.",
-        "tips": "Calcium without D3 at every meal for insectivores. D3 if no UVB is used. Multivitamins 1-2 times a month maximum."
-      }
-    },
-    {
-      "id": "methods",
-      "fr": {
-        "name": "Méthodes & Sécurité",
-        "items": "Congelé, Frais, Vivant",
-        "description": "Différentes façons de distribuer les proies.",
-        "pros": "Congelé : Sécurité totale (pas de parasites/morsures).",
-        "cons": "Vivant : Risques de blessures graves, stress, parasites.",
-        "tips": "Ne laissez jamais un rongeur vivant sans surveillance dans le terrarium. Une morsure de rat peut être fatale pour un serpent."
+        "tips": "Calcium without D3 at every meal for insectivores."
       },
-      "en": {
-        "name": "Methods & Safety",
-        "items": "Frozen, Freshly Killed, Live",
-        "description": "Different ways to distribute prey.",
-        "pros": "Frozen: Total safety (no parasites/bites).",
-        "cons": "Live: Risk of serious injury, stress, parasites.",
-        "tips": "Never leave a live rodent unattended in the terrarium. A rat bite can be fatal to a snake."
-      }
-    },
-    {
-      "id": "hydration",
-      "fr": {
-        "name": "Hydratation",
-        "items": "Eau fraîche, Bain",
-        "description": "Souvent négligée mais vitale pour les reins.",
-        "pros": "Prévient les rétentions de mue et les cristaux urinaires.",
-        "cons": "Eau stagnante = nid à bactéries.",
-        "tips": "Changez l'eau quotidiennement. Pour les espèces désertiques, des pulvérisations peuvent aider si elles ne boivent pas au bol."
+      "es": {
+        "name": "Suplementos",
+        "items": "Calcio, Vitamina D3, Multivitaminas",
+        "description": "Esenciales para prevenir deficiencias graves.",
+        "pros": "Garantiza un esqueleto fuerte.",
+        "cons": "La sobredosis de D3 puede ser tóxica.",
+        "tips": "Calcio sin D3 en cada comida para insectívoros."
       },
-      "en": {
-        "name": "Hydration",
-        "items": "Fresh water, Bathing",
-        "description": "Often overlooked but vital for kidney health.",
-        "pros": "Prevents shed retention and urinary crystals.",
-        "cons": "Stagnant water = breeding ground for bacteria.",
-        "tips": "Change water daily. For desert species, misting can help if they don't use a bowl."
+      "de": {
+        "name": "Ergänzungsmittel",
+        "items": "Calcium, Vitamin D3, Multivitamine",
+        "description": "Wichtig zur Vorbeugung von Mangelerscheinungen.",
+        "pros": "Garantiert ein starkes Skelett.",
+        "cons": "Überdosierung von D3 kann toxisch sein.",
+        "tips": "Calcium ohne D3 bei jeder Mahlzeit für Insektenfresser."
+      },
+      "zh": {
+        "name": "补充剂",
+        "items": "钙, 维生素D3, 复合维生素",
+        "description": "预防严重缺乏症至关重要。",
+        "pros": "保证强健的骨骼和健康的成长。",
+        "cons": "D3过量可能有毒。",
+        "tips": "食虫动物每餐应补充不含D3的钙。"
       }
     }
   ]
