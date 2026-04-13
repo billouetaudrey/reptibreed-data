@@ -42,7 +42,7 @@ export default {
   "unlock_repro_warning": "Attention : La modification d'une reproduction éclose mettra automatiquement à jour la généalogie des bébés liés. Cependant, le nombre de bébés ne sera pas automatiquement recréé ou supprimé. Voulez-vous continuer ?",
   "unlock_repro_warning_msg": "Attention : La modification d'une reproduction éclose mettra automatiquement à jour la généalogie des bébés. Le nombre de bébés ne sera pas recréé ou supprimé automatiquement. Voulez-vous continuer ?",
   "name_id": "Nom / ID",
-  "not_subject": "Non soumis à identification obligatoire",
+  "not_subject": "Non soumis",
   "notes": "Notes / Observations",
   "animal_identification": "Identification de l'animal",
   "transaction_amount": "Montant",
