@@ -49,8 +49,8 @@
       ]
     },
     "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
+      "last_updated": "2026-04-13T12:00:00Z",
+      "version": "1.1.0"
     }
   },
   {
@@ -103,8 +103,62 @@
       ]
     },
     "metadata": {
-      "last_updated": "2026-04-13T10:00:00Z",
-      "version": "1.0.0"
+      "last_updated": "2026-04-13T12:00:00Z",
+      "version": "1.1.0"
+    }
+  },
+  {
+    "id": "saf-003-hygiene-salmonella",
+    "titre": {
+      "en": "Hygiene & Salmonella Prevention",
+      "fr": "Hygiène et Salmonellose",
+      "es": "Higiene y Salmonelosis",
+      "de": "Hygiene & Salmonellen-Prävention",
+      "zh": "卫生与沙门氏菌预防"
+    },
+    "icone": "ShieldCheck",
+    "description": {
+      "en": "Avoiding zoonotic diseases.",
+      "fr": "Prévenir les maladies zoonotiques.",
+      "es": "Prevenir enfermedades zoonóticas.",
+      "de": "Vermeidung von Zoonosen.",
+      "zh": "避免人畜共患疾病。"
+    },
+    "contenu_detaille": {
+      "en": [
+        "Always wash hands with soap after handling animals or equipment.",
+        "Do not clean equipment in the kitchen sink or near food areas.",
+        "Disinfect surfaces with a veterinary-grade cleaner (e.g., F10SC).",
+        "Keep high-risk individuals (children, elderly) away from reptiles."
+      ],
+      "fr": [
+        "Se laver systématiquement les mains après manipulation.",
+        "Ne pas nettoyer les décors dans l'évier de la cuisine.",
+        "Désinfecter les surfaces avec un nettoyant vétérinaire (F10SC).",
+        "Éloigner les personnes fragiles des zones de manipulation."
+      ],
+      "es": [
+        "Lavar las manos siempre después del manejo.",
+        "No limpiar accesorios en la cocina.",
+        "Desinfectar con productos específicos (F10SC).",
+        "Mantener a niños y ancianos alejados."
+      ],
+      "de": [
+        "Hände nach jedem Kontakt gründlich waschen.",
+        "Zubehör nicht in der Küche reinigen.",
+        "Flächen mit Veterinärdesinfektionsmittel reinigen.",
+        "Risikogruppen von Reptilien fernhalten."
+      ],
+      "zh": [
+        "处理动物或设备后，务必用肥皂洗手。",
+        "不要在厨房水槽或食物区域附近清洁设备。",
+        "使用兽用级清洁剂（例如 F10SC）对外表进行消毒。",
+        "让高风险人群（儿童、老人）远离爬行动物。"
+      ]
+    },
+    "metadata": {
+      "last_updated": "2026-04-13T12:00:00Z",
+      "version": "1.1.0"
     }
   }
 ]
