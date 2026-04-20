@@ -11,6 +11,13 @@
     "type": "show",
     "date": "2026-06-13",
     "address": "Hamm, Germany",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "es": "Alemania",
+      "de": "Deutschland",
+      "zh": "德国"
+    },
     "latitude": 51.6833,
     "longitude": 7.8167,
     "description": {
@@ -33,6 +40,13 @@
     "type": "show",
     "date": "2026-09-12",
     "address": "Hamm, Germany",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "es": "Alemania",
+      "de": "Deutschland",
+      "zh": "德国"
+    },
     "latitude": 51.6833,
     "longitude": 7.8167,
     "description": {
@@ -40,7 +54,7 @@
       "en": "Back-to-school edition of the Hamm reptile show.",
       "es": "Edición de vuelta al cole de la feria de reptiles de Hamm.",
       "de": "Herbstausgabe der Hamm Terraristik-Börse.",
-      "zh": "哈姆爬虫展的秋季版。"
+      "zh": "哈姆爬虫展 de la 秋季版。"
     }
   },
   {
@@ -55,6 +69,13 @@
     "type": "show",
     "date": "2026-12-12",
     "address": "Hamm, Germany",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "es": "Alemania",
+      "de": "Deutschland",
+      "zh": "德国"
+    },
     "latitude": 51.6833,
     "longitude": 7.8167,
     "description": {
@@ -62,7 +83,7 @@
       "en": "Winter edition of the Hamm reptile show.",
       "es": "Edición de invierno de la feria de reptiles de Hamm.",
       "de": "Winterausgabe der Hamm Terraristik-Börse.",
-      "zh": "哈姆爬虫展的冬季版。"
+      "zh": "哈姆爬虫展 de la 冬季版。"
     }
   },
   {
@@ -77,6 +98,13 @@
     "type": "show",
     "date": "2026-06-07",
     "address": "Houten, Netherlands",
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "de": "Niederlande",
+      "zh": "荷兰"
+    },
     "latitude": 52.0333,
     "longitude": 5.1667,
     "description": {
@@ -99,6 +127,13 @@
     "type": "show",
     "date": "2026-09-20",
     "address": "Houten, Netherlands",
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "de": "Niederlande",
+      "zh": "荷兰"
+    },
     "latitude": 52.0333,
     "longitude": 5.1667,
     "description": {
@@ -121,6 +156,13 @@
     "type": "show",
     "date": "2026-10-11",
     "address": "Houten, Netherlands",
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "de": "Niederlande",
+      "zh": "荷兰"
+    },
     "latitude": 52.0333,
     "longitude": 5.1667,
     "description": {
@@ -143,6 +185,13 @@
     "type": "show",
     "date": "2026-10-18",
     "address": "Antwerp, Belgium",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
     "latitude": 51.2194,
     "longitude": 4.4025,
     "description": {
@@ -165,6 +214,13 @@
     "type": "show",
     "date": "2026-11-14",
     "address": "Arras, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
     "latitude": 50.292,
     "longitude": 2.7819,
     "description": {
@@ -187,12 +243,19 @@
     "type": "show",
     "date": "2026-10-24",
     "address": "Lyon, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
     "latitude": 45.764,
     "longitude": 4.8357,
     "description": {
       "fr": "Rendez-vous incontournable en région lyonnaise.",
       "en": "Must-attend event in the Lyon region.",
-      "es": "Evento imprescindible en la región de Lyon.",
+      "es": "Evento imprescindible en la région de Lyon.",
       "de": "Ein Muss-Event in der Region Lyon.",
       "zh": "里昂地区必参加的活动。"
     }
@@ -209,6 +272,13 @@
     "type": "show",
     "date": "2027-03-13",
     "address": "Hamm, Germany",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "es": "Alemania",
+      "de": "Deutschland",
+      "zh": "德国"
+    },
     "latitude": 51.6833,
     "longitude": 7.8167,
     "description": {
@@ -231,6 +301,13 @@
     "type": "show",
     "date": "2027-04-11",
     "address": "Houten, Netherlands",
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "de": "Niederlande",
+      "zh": "荷兰"
+    },
     "latitude": 52.0333,
     "longitude": 5.1667,
     "description": {
@@ -253,6 +330,13 @@
     "type": "show",
     "date": "2026-05-16",
     "address": "Aubagne, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
     "latitude": 43.2906,
     "longitude": 5.5708,
     "description": {
@@ -275,6 +359,13 @@
     "type": "show",
     "date": "2026-05-03",
     "address": "Ghent, Belgium",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
     "latitude": 51.05,
     "longitude": 3.7167,
     "description": {
@@ -297,6 +388,13 @@
     "type": "show",
     "date": "2026-04-12",
     "address": "Lyon, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
     "latitude": 45.764,
     "longitude": 4.8357,
     "description": {
@@ -319,6 +417,13 @@
     "type": "show",
     "date": "2026-05-24",
     "address": "Dortmund, Germany",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "es": "Alemania",
+      "de": "Deutschland",
+      "zh": "德国"
+    },
     "latitude": 51.5139,
     "longitude": 7.4653,
     "description": {
@@ -341,6 +446,13 @@
     "type": "show",
     "date": "2026-11-08",
     "address": "Venlo, Netherlands",
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "de": "Niederlande",
+      "zh": "荷兰"
+    },
     "latitude": 51.37,
     "longitude": 6.1681,
     "description": {
@@ -363,6 +475,13 @@
     "type": "show",
     "date": "2026-03-22",
     "address": "Nîmes, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
     "latitude": 43.8367,
     "longitude": 4.36,
     "description": {
@@ -385,6 +504,13 @@
     "type": "show",
     "date": "2026-12-06",
     "address": "Hasselt, Belgium",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
     "latitude": 50.9307,
     "longitude": 5.3325,
     "description": {
@@ -407,6 +533,13 @@
     "type": "show",
     "date": "2027-11-13",
     "address": "Arras, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
     "latitude": 50.292,
     "longitude": 2.7819,
     "description": {
@@ -415,6 +548,146 @@
       "es": "Edición 2027 de la feria emblemática del Pas-de-Calais.",
       "de": "Ausgabe 2027 der Vorzeigemesse in Pas-de-Calais.",
       "zh": "加来海峡省旗舰展的 2027 年版。"
+    }
+  },
+  {
+    "id": "20",
+    "name": {
+      "fr": "La Ferme Tropicale",
+      "en": "La Ferme Tropicale",
+      "es": "La Ferme Tropicale",
+      "de": "La Ferme Tropicale",
+      "zh": "La Ferme Tropicale"
+    },
+    "type": "shop",
+    "address": "Paris, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
+    "latitude": 48.8239,
+    "longitude": 2.3644,
+    "description": {
+      "fr": "Le plus ancien et célèbre magasin de reptiles de Paris.",
+      "en": "The oldest and most famous reptile store in Paris.",
+      "es": "La tienda de reptiles más antigua et famosa de París.",
+      "de": "Das älteste und bekannteste Reptiliengeschäft in Paris.",
+      "zh": "巴黎最古老、最著名的爬行动物商店。"
+    }
+  },
+  {
+    "id": "21",
+    "name": {
+      "fr": "Reptilis",
+      "en": "Reptilis",
+      "es": "Reptilis",
+      "de": "Reptilis",
+      "zh": "Reptilis"
+    },
+    "type": "shop",
+    "address": "Cournon-d'Auvergne, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
+    "latitude": 45.7428,
+    "longitude": 3.1965,
+    "description": {
+      "fr": "Expert en élevage et vente de reptiles de qualité.",
+      "en": "Expert in breeding and selling quality reptiles.",
+      "es": "Experto en cría y venta de reptiles de calidad.",
+      "de": "Experte für die Zucht und den Verkauf von Qualitätsreptilien.",
+      "zh": "优质爬行动物繁殖和销售专家。"
+    }
+  },
+  {
+    "id": "22",
+    "name": {
+      "fr": "Bebesaurus",
+      "en": "Bebesaurus",
+      "es": "Bebesaurus",
+      "de": "Bebesaurus",
+      "zh": "Bebesaurus"
+    },
+    "type": "shop",
+    "address": "Lyon, France",
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "zh": "法国"
+    },
+    "latitude": 45.764,
+    "longitude": 4.8357,
+    "description": {
+      "fr": "Spécialiste renommé pour les sauriens et tortues.",
+      "en": "Renowned specialist for saurians and turtles.",
+      "es": "Especialista de renombre en saurios y tortugas.",
+      "de": "Renommierter Spezialist für Saurier und Schildkröten.",
+      "zh": "著名的蜥蜴和龟类专家。"
+    }
+  },
+  {
+    "id": "23",
+    "name": {
+      "fr": "M&S Reptilien",
+      "en": "M&S Reptilien",
+      "es": "M&S Reptilien",
+      "de": "M&S Reptilien",
+      "zh": "M&S Reptilien"
+    },
+    "type": "shop",
+    "address": "Villingen-Schwenningen, Germany",
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "es": "Alemania",
+      "de": "Deutschland",
+      "zh": "德国"
+    },
+    "latitude": 48.06,
+    "longitude": 8.45,
+    "description": {
+      "fr": "Une référence allemande pour le matériel et les animaux.",
+      "en": "A German reference for equipment and animals.",
+      "es": "Una referencia alemana de equipos y animales.",
+      "de": "Eine deutsche Referenz für Ausrüstung und Tiere.",
+      "zh": "德国设备和动物方面的参考。"
+    }
+  },
+  {
+    "id": "24",
+    "name": {
+      "fr": "Blue Lagoon",
+      "en": "Blue Lagoon",
+      "es": "Blue Lagoon",
+      "de": "Blue Lagoon",
+      "zh": "Blue Lagoon"
+    },
+    "type": "shop",
+    "address": "Maassluis, Netherlands",
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "de": "Niederlande",
+      "zh": "荷兰"
+    },
+    "latitude": 51.9189,
+    "longitude": 4.2547,
+    "description": {
+      "fr": "L'un des plus grands magasins de reptiles des Pays-Bas.",
+      "en": "One of the largest reptile stores in the Netherlands.",
+      "es": "Una de las tiendas de reptiles más grandes de los Países Bajos.",
+      "de": "Eines der größten Reptiliengeschäfte in den Niederlanden.",
+      "zh": "荷兰最大的爬行动物商店之一。"
     }
   }
 ]
