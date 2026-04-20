@@ -1,0 +1,420 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "fr": "Terraristika Hamm",
+      "en": "Terraristika Hamm",
+      "es": "Terraristika Hamm",
+      "de": "Terraristika Hamm",
+      "zh": "哈姆爬虫展"
+    },
+    "type": "show",
+    "date": "2026-06-13",
+    "address": "Hamm, Germany",
+    "latitude": 51.6833,
+    "longitude": 7.8167,
+    "description": {
+      "fr": "La plus grande bourse de reptiles au monde.",
+      "en": "The largest reptile show in the world.",
+      "es": "La feria de reptiles más grande del mundo.",
+      "de": "Die weltweit größte Terraristik-Börse.",
+      "zh": "世界上最大的爬行动物展销会。"
+    }
+  },
+  {
+    "id": "2",
+    "name": {
+      "fr": "Terraristika Hamm",
+      "en": "Terraristika Hamm",
+      "es": "Terraristika Hamm",
+      "de": "Terraristika Hamm",
+      "zh": "哈姆爬虫展"
+    },
+    "type": "show",
+    "date": "2026-09-12",
+    "address": "Hamm, Germany",
+    "latitude": 51.6833,
+    "longitude": 7.8167,
+    "description": {
+      "fr": "Édition de rentrée de la bourse de Hamm.",
+      "en": "Back-to-school edition of the Hamm reptile show.",
+      "es": "Edición de vuelta al cole de la feria de reptiles de Hamm.",
+      "de": "Herbstausgabe der Hamm Terraristik-Börse.",
+      "zh": "哈姆爬虫展的秋季版。"
+    }
+  },
+  {
+    "id": "3",
+    "name": {
+      "fr": "Terraristika Hamm",
+      "en": "Terraristika Hamm",
+      "es": "Terraristika Hamm",
+      "de": "Terraristika Hamm",
+      "zh": "哈姆爬虫展"
+    },
+    "type": "show",
+    "date": "2026-12-12",
+    "address": "Hamm, Germany",
+    "latitude": 51.6833,
+    "longitude": 7.8167,
+    "description": {
+      "fr": "Édition d'hiver de la bourse de Hamm.",
+      "en": "Winter edition of the Hamm reptile show.",
+      "es": "Edición de invierno de la feria de reptiles de Hamm.",
+      "de": "Winterausgabe der Hamm Terraristik-Börse.",
+      "zh": "哈姆爬虫展的冬季版。"
+    }
+  },
+  {
+    "id": "4",
+    "name": {
+      "fr": "Reptile Expo - Houten",
+      "en": "Reptile Expo - Houten",
+      "es": "Reptile Expo - Houten",
+      "de": "Reptile Expo - Houten",
+      "zh": "豪滕爬虫展"
+    },
+    "type": "show",
+    "date": "2026-06-07",
+    "address": "Houten, Netherlands",
+    "latitude": 52.0333,
+    "longitude": 5.1667,
+    "description": {
+      "fr": "Événement majeur aux Pays-Bas, très prisé pour les serpents.",
+      "en": "Major event in the Netherlands, very popular for snakes.",
+      "es": "Evento importante en los Países Bajos, muy popular para las serpientes.",
+      "de": "Großveranstaltung in den Niederlanden, sehr beliebt für Schlangen.",
+      "zh": "荷兰的主要活动，对蛇类爱好者非常受欢迎。"
+    }
+  },
+  {
+    "id": "5",
+    "name": {
+      "fr": "Reptile Expo - Houten",
+      "en": "Reptile Expo - Houten",
+      "es": "Reptile Expo - Houten",
+      "de": "Reptile Expo - Houten",
+      "zh": "豪滕爬虫展"
+    },
+    "type": "show",
+    "date": "2026-09-20",
+    "address": "Houten, Netherlands",
+    "latitude": 52.0333,
+    "longitude": 5.1667,
+    "description": {
+      "fr": "Édition de septembre à Houten.",
+      "en": "September edition in Houten.",
+      "es": "Edición de septiembre en Houten.",
+      "de": "September-Ausgabe in Houten.",
+      "zh": "九月豪滕版。"
+    }
+  },
+  {
+    "id": "6",
+    "name": {
+      "fr": "Snakeday - Houten",
+      "en": "Snakeday - Houten",
+      "es": "Snakeday - Houten",
+      "de": "Snakeday - Houten",
+      "zh": "豪滕蛇类日"
+    },
+    "type": "show",
+    "date": "2026-10-11",
+    "address": "Houten, Netherlands",
+    "latitude": 52.0333,
+    "longitude": 5.1667,
+    "description": {
+      "fr": "La journée mondiale dédiée uniquement aux serpents.",
+      "en": "The world day dedicated exclusively to snakes.",
+      "es": "El día mundial dedicado exclusivamente a las serpientes.",
+      "de": "Der Welttag, der ausschließlich Schlangen gewidmet ist.",
+      "zh": "专门致力于蛇类的世界日。"
+    }
+  },
+  {
+    "id": "7",
+    "name": {
+      "fr": "Terraria Antwerp",
+      "en": "Terraria Antwerp",
+      "es": "Terraria Antwerp",
+      "de": "Terraria Antwerp",
+      "zh": "安特卫普爬虫展"
+    },
+    "type": "show",
+    "date": "2026-10-18",
+    "address": "Antwerp, Belgium",
+    "latitude": 51.2194,
+    "longitude": 4.4025,
+    "description": {
+      "fr": "Bourse internationale reconnue en Belgique.",
+      "en": "Recognized international show in Belgium.",
+      "es": "Feria internacional reconocida en Bélgica.",
+      "de": "Anerkannte internationale Börse in Belgien.",
+      "zh": "比利时认可的国际展销会。"
+    }
+  },
+  {
+    "id": "8",
+    "name": {
+      "fr": "Reptiles Expo - Arras",
+      "en": "Reptiles Expo - Arras",
+      "es": "Reptiles Expo - Arras",
+      "de": "Reptiles Expo - Arras",
+      "zh": "阿拉斯爬虫展"
+    },
+    "type": "show",
+    "date": "2026-11-14",
+    "address": "Arras, France",
+    "latitude": 50.292,
+    "longitude": 2.7819,
+    "description": {
+      "fr": "Un des plus grands salons du nord de la France.",
+      "en": "One of the largest shows in northern France.",
+      "es": "Una de las ferias más grandes del norte de Francia.",
+      "de": "Eine der größten Messen in Nordfrankreich.",
+      "zh": "法国北部最大的展览之一。"
+    }
+  },
+  {
+    "id": "9",
+    "name": {
+      "fr": "Reptile Day - Lyon",
+      "en": "Reptile Day - Lyon",
+      "es": "Reptile Day - Lyon",
+      "de": "Reptile Day - Lyon",
+      "zh": "里昂爬虫日"
+    },
+    "type": "show",
+    "date": "2026-10-24",
+    "address": "Lyon, France",
+    "latitude": 45.764,
+    "longitude": 4.8357,
+    "description": {
+      "fr": "Rendez-vous incontournable en région lyonnaise.",
+      "en": "Must-attend event in the Lyon region.",
+      "es": "Evento imprescindible en la región de Lyon.",
+      "de": "Ein Muss-Event in der Region Lyon.",
+      "zh": "里昂地区必参加的活动。"
+    }
+  },
+  {
+    "id": "10",
+    "name": {
+      "fr": "Terraristika Hamm",
+      "en": "Terraristika Hamm",
+      "es": "Terraristika Hamm",
+      "de": "Terraristika Hamm",
+      "zh": "哈姆爬虫展"
+    },
+    "type": "show",
+    "date": "2027-03-13",
+    "address": "Hamm, Germany",
+    "latitude": 51.6833,
+    "longitude": 7.8167,
+    "description": {
+      "fr": "Édition de printemps 2027.",
+      "en": "Spring 2027 edition.",
+      "es": "Edición de primavera 2027.",
+      "de": "Frühjahrsausgabe 2027.",
+      "zh": "2027年春季版。"
+    }
+  },
+  {
+    "id": "11",
+    "name": {
+      "fr": "Reptile Expo - Houten",
+      "en": "Reptile Expo - Houten",
+      "es": "Reptile Expo - Houten",
+      "de": "Reptile Expo - Houten",
+      "zh": "豪滕爬虫展"
+    },
+    "type": "show",
+    "date": "2027-04-11",
+    "address": "Houten, Netherlands",
+    "latitude": 52.0333,
+    "longitude": 5.1667,
+    "description": {
+      "fr": "Bourse de printemps 2027.",
+      "en": "Spring 2027 show.",
+      "es": "Feria de primavera 2027.",
+      "de": "Frühjahrsmesse 2027.",
+      "zh": "2027年春季展。"
+    }
+  },
+  {
+    "id": "12",
+    "name": {
+      "fr": "Reptil'Expo - Aubagne",
+      "en": "Reptil'Expo - Aubagne",
+      "es": "Reptil'Expo - Aubagne",
+      "de": "Reptil'Expo - Aubagne",
+      "zh": "奥巴涅爬虫展"
+    },
+    "type": "show",
+    "date": "2026-05-16",
+    "address": "Aubagne, France",
+    "latitude": 43.2906,
+    "longitude": 5.5708,
+    "description": {
+      "fr": "Le grand rassemblement terrariophile du sud de la France.",
+      "en": "The major terrarist gathering in the south of France.",
+      "es": "El gran encuentro de terrariofilia del sur de Francia.",
+      "de": "Das große Terraristik-Treffen in Südfrankreich.",
+      "zh": "法国南部的主要爬虫聚集地。"
+    }
+  },
+  {
+    "id": "13",
+    "name": {
+      "fr": "Terraria Gent",
+      "en": "Terraria Gent",
+      "es": "Terraria Gent",
+      "de": "Terraria Gent",
+      "zh": "根特爬虫展"
+    },
+    "type": "show",
+    "date": "2026-05-03",
+    "address": "Ghent, Belgium",
+    "latitude": 51.05,
+    "longitude": 3.7167,
+    "description": {
+      "fr": "Une bourse belge réputée pour sa diversité d'espèces.",
+      "en": "A Belgian show renowned for its diversity of species.",
+      "es": "Una feria belga famosa por su diversidad de especies.",
+      "de": "Eine belgische Börse, die für ihre Artenvielfalt bekannt ist.",
+      "zh": "以物种多样性而闻名的比利时展销会。"
+    }
+  },
+  {
+    "id": "14",
+    "name": {
+      "fr": "Anidex - Lyon",
+      "en": "Anidex - Lyon",
+      "es": "Anidex - Lyon",
+      "de": "Anidex - Lyon",
+      "zh": "里昂 Anidex 展"
+    },
+    "type": "show",
+    "date": "2026-04-12",
+    "address": "Lyon, France",
+    "latitude": 45.764,
+    "longitude": 4.8357,
+    "description": {
+      "fr": "Salon spécialisé dans les reptiles et les NAC.",
+      "en": "Show specialized in reptiles and exotic pets.",
+      "es": "Feria especializada en reptiles y mascotas exóticas.",
+      "de": "Messe für Reptilien und exotische Haustiere.",
+      "zh": "专门从事爬行动物和异国宠物的展览。"
+    }
+  },
+  {
+    "id": "15",
+    "name": {
+      "fr": "Vivariumbörse - Dortmund",
+      "en": "Vivariumbörse - Dortmund",
+      "es": "Vivariumbörse - Dortmund",
+      "de": "Vivariumbörse - Dortmund",
+      "zh": "多特蒙德爬虫展"
+    },
+    "type": "show",
+    "date": "2026-05-24",
+    "address": "Dortmund, Germany",
+    "latitude": 51.5139,
+    "longitude": 7.4653,
+    "description": {
+      "fr": "Un événement allemand de qualité pour les passionnés.",
+      "en": "A high-quality German event for enthusiasts.",
+      "es": "Un evento alemán de calidad para entusiastas.",
+      "de": "Eine hochwertige deutsche Veranstaltung für Liebhaber.",
+      "zh": "为爱好者举办的高质量德国活动。"
+    }
+  },
+  {
+    "id": "16",
+    "name": {
+      "fr": "Reptilia - Venlo",
+      "en": "Reptilia - Venlo",
+      "es": "Reptilia - Venlo",
+      "de": "Reptilia - Venlo",
+      "zh": "芬洛爬虫展"
+    },
+    "type": "show",
+    "date": "2026-11-08",
+    "address": "Venlo, Netherlands",
+    "latitude": 51.37,
+    "longitude": 6.1681,
+    "description": {
+      "fr": "Bourse conviviale à la frontière germano-néerlandaise.",
+      "en": "Friendly show on the German-Dutch border.",
+      "es": "Feria acogedora en la frontera entre Alemania y los Países Bajos.",
+      "de": "Gemütliche Börse an der deutsch-niederländischen Grenze.",
+      "zh": "德荷边境的友好展销会。"
+    }
+  },
+  {
+    "id": "17",
+    "name": {
+      "fr": "Salon des Reptiles - Nîmes",
+      "en": "Reptile Show - Nîmes",
+      "es": "Feria de Reptiles - Nîmes",
+      "de": "Reptilienmesse - Nîmes",
+      "zh": "尼姆爬虫展"
+    },
+    "type": "show",
+    "date": "2026-03-22",
+    "address": "Nîmes, France",
+    "latitude": 43.8367,
+    "longitude": 4.36,
+    "description": {
+      "fr": "Exposition et vente de reptiles en Occitanie.",
+      "en": "Exhibition and sale of reptiles in Occitanie.",
+      "es": "Exposición y venta de reptiles en Occitania.",
+      "de": "Ausstellung und Verkauf von Reptilien in Okzitanien.",
+      "zh": "奥克西塔尼大区的爬行动物展览和销售。"
+    }
+  },
+  {
+    "id": "18",
+    "name": {
+      "fr": "Terraria Hasselt",
+      "en": "Terraria Hasselt",
+      "es": "Terraria Hasselt",
+      "de": "Terraria Hasselt",
+      "zh": "哈瑟尔特爬虫展"
+    },
+    "type": "show",
+    "date": "2026-12-06",
+    "address": "Hasselt, Belgium",
+    "latitude": 50.9307,
+    "longitude": 5.3325,
+    "description": {
+      "fr": "Le rendez-vous de fin d'année en Belgique.",
+      "en": "The end-of-year meeting in Belgium.",
+      "es": "El encuentro de fin de año en Bélgica.",
+      "de": "Das Treffen zum Jahresende in Belgien.",
+      "zh": "比利时的年终聚会。"
+    }
+  },
+  {
+    "id": "19",
+    "name": {
+      "fr": "Reptiles Expo - Arras",
+      "en": "Reptiles Expo - Arras",
+      "es": "Reptiles Expo - Arras",
+      "de": "Reptiles Expo - Arras",
+      "zh": "阿拉斯爬虫展"
+    },
+    "type": "show",
+    "date": "2027-11-13",
+    "address": "Arras, France",
+    "latitude": 50.292,
+    "longitude": 2.7819,
+    "description": {
+      "fr": "Édition 2027 du salon phare du Pas-de-Calais.",
+      "en": "2027 edition of the flagship show in Pas-de-Calais.",
+      "es": "Edición 2027 de la feria emblemática del Pas-de-Calais.",
+      "de": "Ausgabe 2027 der Vorzeigemesse in Pas-de-Calais.",
+      "zh": "加来海峡省旗舰展的 2027 年版。"
+    }
+  }
+]
