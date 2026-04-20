@@ -689,5 +689,145 @@
       "de": "Eines der größten Reptiliengeschäfte in den Niederlanden.",
       "zh": "荷兰最大的爬行动物商店之一。"
     }
+  },
+{
+    "id": "25",
+    "name": {
+      "fr": "Animalis",
+      "en": "Animalis",
+      "es": "Animalis",
+      "de": "Animalis",
+      "zh": "Animalis"
+    },
+    "type": "shop",
+    "address": "Contrôle, 6010 Charleroi (Couillet)",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
+    "latitude": 50.3922,
+    "longitude": 4.4725,
+    "description": {
+      "fr": "Une institution en Belgique pour les reptiles et le matériel spécialisé.",
+      "en": "An institution in Belgium for reptiles and specialized equipment.",
+      "es": "Una institución en Bélgica para los reptiles y equipos especializados.",
+      "de": "Eine Institution in Belgien für Reptilien und Fachzubehör.",
+      "zh": "比利时爬行动物和专业设备的机构。"
+    }
+  },
+  {
+    "id": "26",
+    "name": {
+      "fr": "Terraria (Deinze)",
+      "en": "Terraria (Deinze)",
+      "es": "Terraria (Deinze)",
+      "de": "Terraria (Deinze)",
+      "zh": "Terraria (代恩泽)"
+    },
+    "type": "shop",
+    "address": "Gentsesteenweg 152, 9800 Deinze",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
+    "latitude": 50.9833,
+    "longitude": 3.5333,
+    "description": {
+      "fr": "L'un des plus grands spécialistes de Flandre, très axé sur les serpents et lézards.",
+      "en": "One of Flanders' leading specialists, highly focused on snakes and lizards.",
+      "es": "Uno de los principales especialistas de Flandes, muy centrado en serpientes y lagartos.",
+      "de": "Einer der führenden Spezialisten in Flandern, stark auf Schlangen und Echsen spezialisiert.",
+      "zh": "法兰德斯领先的专家之一，专注于蛇和蜥蜴。"
+    }
+  },
+  {
+    "id": "27",
+    "name": {
+      "fr": "Scale - Exotic Animal Breeding",
+      "en": "Scale - Exotic Animal Breeding",
+      "es": "Scale - Exotic Animal Breeding",
+      "de": "Scale - Exotic Animal Breeding",
+      "zh": "Scale - 异国动物繁殖"
+    },
+    "type": "shop",
+    "address": "Rue du Chemin de Fer 141, 7700 Mouscron",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
+    "latitude": 50.7433,
+    "longitude": 3.2133,
+    "description": {
+      "fr": "Magasin spécialisé avec un large choix de phasmes, reptiles et invertébrés.",
+      "en": "Specialized store with a wide choice of stick insects, reptiles, and invertebrates.",
+      "es": "Tienda especializada con una amplia selección de insectos palo, reptiles e invertebrados.",
+      "de": "Fachgeschäft mit großer Auswahl an Gespenstschrecken, Reptilien und Invertebraten.",
+      "zh": "专业商店，提供多种竹节虫、爬行动物和无脊椎动物。"
+    }
+  },
+  {
+    "id": "28",
+    "name": {
+      "fr": "Aquarium & Co",
+      "en": "Aquarium & Co",
+      "es": "Aquarium & Co",
+      "de": "Aquarium & Co",
+      "zh": "Aquarium & Co"
+    },
+    "type": "shop",
+    "address": "Avenue de l'Indépendance 33, 4020 Liège",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
+    "latitude": 50.6333,
+    "longitude": 5.5667,
+    "description": {
+      "fr": "Spécialiste liégeois reconnu pour son rayon terrariophilie et ses conseils avisés.",
+      "en": "Liège specialist recognized for its terrarium department and expert advice.",
+      "es": "Especialista de Lieja reconocido por su departamento de terrarios y sus consejos expertos.",
+      "de": "Lütticher Spezialist, bekannt für seine Terraristik-Abteilung und kompetente Beratung.",
+      "zh": "列日专家，因其爬虫部门和专家建议而闻名。"
+    }
+  },
+  {
+    "id": "29",
+    "name": {
+      "fr": "Hof ter Pelgrims",
+      "en": "Hof ter Pelgrims",
+      "es": "Hof ter Pelgrims",
+      "de": "Hof ter Pelgrims",
+      "zh": "Hof ter Pelgrims"
+    },
+    "type": "shop",
+    "address": "Antwerpsesteenweg 241, 2660 Antwerpen (Hoboken)",
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "zh": "比利时"
+    },
+    "latitude": 51.1764,
+    "longitude": 4.3547,
+    "description": {
+      "fr": "Magasin polyvalent de renom en région anversoise avec une section reptile majeure.",
+      "en": "Renowned versatile store in the Antwerp region with a major reptile section.",
+      "es": "Famosa tienda versátil en la región de Amberes con una importante sección de reptiles.",
+      "de": "Renommierter, vielseitiger Laden in der Region Antwerpen mit einer großen Reptilienabteilung.",
+      "zh": "安特卫普地区著名的综合性商店，设有主要的爬行动物区。"
+    }
   }
 ]
