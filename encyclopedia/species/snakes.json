@@ -1,0 +1,2034 @@
+[
+  {
+    "scientific_name": "Acrantophis Dumerili",
+    "category": "Serpent",
+    "family": "Boidae",
+    "venomous": false,
+    "fr": {
+      "name": "Boa de Dumeril",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèce massive nécessitant un vaste terrarium terrestre avec une épaisse couche de substrat pour s'enfouir.",
+      "repro_advice": "Baisse légère des températures en hiver pour stimuler l'accouplement.",
+      "notes": "Serpent calme et robuste, originaire de Madagascar."
+    },
+    "en": {
+      "name": "Boa de Dumeril",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Boa de Dumeril",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Boa de Dumeril",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Boa de Dumeril",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Boa de Dumeril",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "180",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Ahaetulla Prasina",
+    "category": "Serpent",
+    "family": "Venin faible à moyen (Crochets arrières)",
+    "venomous": false,
+    "fr": {
+      "name": "Serpent liane asiatique",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium très végétalisé en hauteur. Mange principalement des lézards dans la nature, la transition vers les rongeurs peut être difficile.",
+      "repro_advice": "L'accouplement a lieu dans les branches.",
+      "notes": "Vue binoculaire développée avec des pupilles horizontales caractéristiques."
+    },
+    "en": {
+      "name": "Serpent liane asiatique",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpent liane asiatique",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpent liane asiatique",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpent liane asiatique",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpent liane asiatique",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "90",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Antaresia Spp.",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "fr": {
+      "name": "A. childreni, A. maculosa",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Pythons nains parfaits pour les débutants ; ne nécessitent pas de très grands terrariums.",
+      "repro_advice": "Baisse nocturne de la température en hiver pour induire la reproduction.",
+      "notes": "Espèces semi-arboricoles, apprécient quelques branches solides."
+    },
+    "en": {
+      "name": "A. childreni, A. maculosa",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "A. childreni, A. maculosa",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "A. childreni, A. maculosa",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "A. childreni, A. maculosa",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "A. childreni, A. maculosa",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "35",
+    "incubation_days": "55",
+    "incubation_temp": "31",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Aspidites Spp.",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "locality": "A. melanocephalus (Black-headed), A. ramsayi (Woma)...",
+    "fr": {
+      "name": "Woma & Black-headed Python",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium terrestre chaud et sec. Très bon appétit, faire attention à l'obésité.",
+      "repro_advice": "Couvent rarement eux-mêmes en captivité, incubation artificielle recommandée.",
+      "notes": "L'absence de fossettes thermosensibles est compensée par une vue et un odorat développés."
+    },
+    "en": {
+      "name": "Woma & Black-headed Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Woma & Black-headed Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Woma & Black-headed Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Woma & Black-headed Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Woma & Black-headed Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "40",
+    "incubation_days": "65",
+    "incubation_temp": "31",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Atheris Spp.",
+    "category": "Serpent",
+    "family": "Viperidae",
+    "venomous": true,
+    "fr": {
+      "name": "Vipères des buissons",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium arboricole verrouillé de rigueur. Morsure très dangereuse, aucun antivenin spécifique n'existe.",
+      "repro_advice": "Les femelles mettent bas des petits vivants dans la végétation.",
+      "notes": "Espèce strictement réservée aux capacitaires chevronnés."
+    },
+    "en": {
+      "name": "Vipères des buissons",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Vipères des buissons",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Vipères des buissons",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Vipères des buissons",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Vipères des buissons",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "90",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Bitis Spp.",
+    "category": "Serpent",
+    "family": "Viperidae",
+    "venomous": true,
+    "fr": {
+      "name": "B. gabonica, B. nasicornis, B. arietans",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèces extrêmement massives, nécessitant un enclos verrouillé adapté. Venin très abondant et potentiellement mortel.",
+      "repro_advice": "Portées souvent nombreuses (jusqu'à plus de 30 petits vivants).",
+      "notes": "Les crochets à venin de la vipère du Gabon sont les plus longs du monde animal (jusqu'à 5 cm)."
+    },
+    "en": {
+      "name": "B. gabonica, B. nasicornis, B. arietans",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "B. gabonica, B. nasicornis, B. arietans",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "B. gabonica, B. nasicornis, B. arietans",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "B. gabonica, B. nasicornis, B. arietans",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "B. gabonica, B. nasicornis, B. arietans",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "150",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Boa Constrictor Constrictor",
+    "category": "Serpent",
+    "family": "Boidae",
+    "venomous": false,
+    "locality": "Surinam, Guyana, Brazil, Peru, Venezuela...",
+    "fr": {
+      "name": "Boa Constrictor Constrictor",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Fournir un terrarium très solide. Cette sous-espèce grandit plus que l'Imperator et est très musclée.",
+      "repro_advice": "Les femelles mettent bas après une longue gestation, pouvant cesser de s'alimenter pendant des mois.",
+      "notes": "Le vrai Boa à queue rouge, prisé pour ses motifs très marqués et colorés en fin de queue."
+    },
+    "en": {
+      "name": "Boa Constrictor Constrictor",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Boa Constrictor Constrictor",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Boa Constrictor Constrictor",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Boa Constrictor Constrictor",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Boa Constrictor Constrictor",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "120",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Boa Imperator",
+    "category": "Serpent",
+    "family": "Boas",
+    "venomous": false,
+    "locality": "Honduras, Nicaragua, Costa Rica, Panama, Colombia, El Salvador, Belize, Hog Island, Crawl Cay, Corn Island, Caulker Cay, Tarahumara...",
+    "fr": {
+      "name": "Boa Imperator",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "expert_advice": "Fournir un grand terrarium avec des branches robustes, l'espèce apprécie grimper, surtout juvénile.",
+      "repro_advice": "Diminuer les températures nocturnes de quelques degrés en hiver pour lancer la saison de reproduction.",
+      "notes": "Peut atteindre 2 mètres et plus, nécessite une manipulation régulière pour rester calme.",
+      "legal_status": "CITES II / Annexe B"
+    },
+    "en": {
+      "name": "Boa Imperator",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "CITES II / Annex B"
+    },
+    "es": {
+      "name": "Boa Imperator",
+      "diet": "Roedor",
+      "repro": "Ovovivíparo",
+      "legal_status": "CITES II / Anexo B"
+    },
+    "de": {
+      "name": "Kaiserboa",
+      "diet": "Nagetier",
+      "repro": "Ovovivipar",
+      "legal_status": "WA II / Anhang B"
+    },
+    "zh": {
+      "name": "巨蚺",
+      "diet": "啮齿动物",
+      "repro": "卵胎生",
+      "legal_status": "CITES II / 附录 B"
+    },
+    "nl": {
+      "name": "Keizerboa",
+      "diet": "Knaagdier",
+      "repro": "Eierlevendbarend",
+      "legal_status": "CITES II / Bijlage B"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "60",
+    "humidity_max": "70",
+    "gestation_days": "100",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Boiga Spp.",
+    "category": "Serpent",
+    "family": "Venin faible à moyen (Crochets arrières)",
+    "venomous": false,
+    "fr": {
+      "name": "Serpents des palétuviers",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Serpent nocturne et très nerveux. Le terrarium doit être haut et pourvu de nombreuses branches croisées.",
+      "repro_advice": "Les pontes sont souvent dissimulées à l'abri de l'humidité excessive.",
+      "notes": "Espèce opistoglyphe, la prudence est de mise pour éviter l'envenimation lors des manipulations."
+    },
+    "en": {
+      "name": "Serpents des palétuviers",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpents des palétuviers",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpents des palétuviers",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpents des palétuviers",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpents des palétuviers",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "90",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Corallus Spp.",
+    "category": "Serpent",
+    "family": "Boidae",
+    "venomous": false,
+    "locality": "C. hortulanus (Amazon), C. caninus (Emerald), C. batesii...",
+    "fr": {
+      "name": "Boas Arboricoles / Tree Boas",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium très haut avec de multiples branches et lianes. Beaucoup sont mordeurs (surtout juvéniles).",
+      "repro_advice": "Les femelles mettent bas en hauteur dans les branches. Récupérer les petits rapidement.",
+      "notes": "Réputés pour leur dentition longue adaptée pour attraper les oiseaux, bien qu'ils mangent des rongeurs en captivité."
+    },
+    "en": {
+      "name": "Boas Arboricoles / Tree Boas",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Boas Arboricoles / Tree Boas",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Boas Arboricoles / Tree Boas",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Boas Arboricoles / Tree Boas",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Boas Arboricoles / Tree Boas",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "180",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Crotalus Atrox",
+    "category": "Serpent",
+    "family": "Vipéridés",
+    "venomous": true,
+    "fr": {
+      "name": "Crotale diamantin",
+      "diet": "Rongeur/Lapin",
+      "repro": "Ovovivipare",
+      "expert_advice": "Espèce mortelle réservée uniquement aux capacitaires expérimentés. Terrarium verrouillé obligatoire.",
+      "repro_advice": "Combats rituels très impressionnants entre mâles. Éviter toute manipulation pendant cette période.",
+      "notes": "Possède un venin hémotoxique très puissant.",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Western Diamondback",
+      "diet": "Rodent/Rabbit",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Cascabel diamantina",
+      "diet": "Roedor/Conejo",
+      "repro": "Ovovivíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Texanische Klapperschlange",
+      "diet": "Nagetier/Kaninchen",
+      "repro": "Ovovivipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "西部菱背响尾蛇",
+      "diet": "啮齿动物/兔子",
+      "repro": "卵胎生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Westerse diamantratelslang",
+      "diet": "Knaagdier/Konijn",
+      "repro": "Eierlevendbarend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "160",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Crotalus Spp.",
+    "category": "Serpent",
+    "family": "Viperidae",
+    "venomous": true,
+    "fr": {
+      "name": "Serpents à sonnette",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Serpents venimeux et potentiellement mortels. Matériel de manipulation spécialisé indispensable (crochets).",
+      "repro_advice": "Accouplement généralement au printemps après une période d'hivernage.",
+      "notes": "Leur sonnette s'allonge à chaque mue."
+    },
+    "en": {
+      "name": "Serpents à sonnette",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpents à sonnette",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpents à sonnette",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpents à sonnette",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpents à sonnette",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "120",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Dasypeltis Scabra",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": false,
+    "fr": {
+      "name": "Couleuvre mangeuse d'oeufs",
+      "diet": "Oeuf",
+      "repro": "Ovipare",
+      "expert_advice": "Il peut être difficile de trouver des œufs de taille adaptée (œufs de pinsons ou de cailles) en quantité suffisante.",
+      "repro_advice": "La femelle a besoin de cachettes légèrement humides pour pondre ses oeufs.",
+      "notes": "Serpent aglyphe (sans dents), avale l'oeuf entier et recrache la coquille.",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Egg-eating Snake",
+      "diet": "Egg",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Culebra comedora de huevos",
+      "diet": "Huevo",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Afrikanische Eierschlange",
+      "diet": "Ei",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "食卵蛇",
+      "diet": "蛋",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Eieretende slang",
+      "diet": "Ei",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "others",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "35",
+    "incubation_days": "65",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Dasypeltis Spp.",
+    "category": "Serpent",
+    "family": "Non venimeux courants",
+    "venomous": false,
+    "fr": {
+      "name": "Serpents mangeurs d'œufs",
+      "diet": "Oeufs",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Les juvéniles sont très compliqués à nourrir et nécessitent des œufs de micro-oiseaux.",
+      "repro_advice": "La femelle jeûne souvent avant de pondre.",
+      "notes": "La colonne vertébrale est modifiée pour percer les œufs à l'intérieur de la gorge."
+    },
+    "en": {
+      "name": "Serpents mangeurs d'œufs",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpents mangeurs d'œufs",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpents mangeurs d'œufs",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpents mangeurs d'œufs",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpents mangeurs d'œufs",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "35",
+    "incubation_days": "65",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Drymarchon Spp.",
+    "category": "Serpent",
+    "family": "Non venimeux courants",
+    "venomous": false,
+    "fr": {
+      "name": "Indigos",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Très grand colubridé nord-américain actif. Métabolisme rapide, produit beaucoup de déjections.",
+      "repro_advice": "Pond parfois dans des terriers de tortues ou terriers abandonnés.",
+      "notes": "Immunisé contre le venin de certains crotales qu'il consomme dans la nature."
+    },
+    "en": {
+      "name": "Indigos",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Indigos",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Indigos",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Indigos",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Indigos",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "35",
+    "incubation_days": "70",
+    "incubation_temp": "27",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Epicrates Spp.",
+    "category": "Serpent",
+    "family": "Boidae",
+    "venomous": false,
+    "locality": "Brazilian (Cenchria), Colombian (Maurus), Guyanan, Peruvian, Paraguayan...",
+    "fr": {
+      "name": "Boas Arc-en-ciel / Rainbow Boas",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Besoin crucial d'une forte humidité, en particulier pour les juvéniles qui se déshydratent vite.",
+      "repro_advice": "Mise bas de bébés assez grands, la mère a besoin de repos ensuite.",
+      "notes": "Les écailles ont des micro-crêtes qui créent une iridescence magnifique."
+    },
+    "en": {
+      "name": "Boas Arc-en-ciel / Rainbow Boas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Boas Arc-en-ciel / Rainbow Boas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Boas Arc-en-ciel / Rainbow Boas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Boas Arc-en-ciel / Rainbow Boas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Boas Arc-en-ciel / Rainbow Boas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "120",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Eryx Colubrinus",
+    "category": "Serpent",
+    "family": "Boas",
+    "venomous": false,
+    "locality": "Kenya, Egypt, Tanzania, Ethiopia...",
+    "fr": {
+      "name": "Boa de sable du Kenya",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "expert_advice": "Prévoir au moins 10 cm de substrat meuble (éclats de hêtre, sable adapté) pour qu'il puisse s'enfouir.",
+      "repro_advice": "Une période de repos hivernal (brumation) légère est conseillée pour stimuler les accouplements.",
+      "notes": "Serpent fouisseur très docile et excellent pour les débutants.",
+      "legal_status": "CITES II / Annexe B"
+    },
+    "en": {
+      "name": "Kenyan Sand Boa",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "CITES II / Annex B"
+    },
+    "es": {
+      "name": "Boa de arena",
+      "diet": "Roedor",
+      "repro": "Ovovivíparo",
+      "legal_status": "CITES II / Anexo B"
+    },
+    "de": {
+      "name": "Kenia-Sandboa",
+      "diet": "Nagetier",
+      "repro": "Ovovivipar",
+      "legal_status": "WA II / Anhang B"
+    },
+    "zh": {
+      "name": "肯尼亚沙蚺",
+      "diet": "啮齿动物",
+      "repro": "卵胎生",
+      "legal_status": "CITES II / 附录 B"
+    },
+    "nl": {
+      "name": "Keniaanse zandboa",
+      "diet": "Knaagdier",
+      "repro": "Eierlevendbarend",
+      "legal_status": "CITES II / Bijlage B"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "120",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Eryx Spp.",
+    "category": "Serpent",
+    "family": "Boidae",
+    "venomous": false,
+    "fr": {
+      "name": "Boas des sables",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèces terrestres et fouisseuses qui apprécient un substrat sec pour s'enterrer.",
+      "repro_advice": "Vivipares, l'accouplement est rapide et les bébés naissent formés dans le substrat.",
+      "notes": "Très mauvais grimpeurs."
+    },
+    "en": {
+      "name": "Boas des sables",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Boas des sables",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Boas des sables",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Boas des sables",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Boas des sables",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "120",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Eunectes Spp.",
+    "category": "Serpent",
+    "family": "Boidae",
+    "venomous": false,
+    "fr": {
+      "name": "Anacondas",
+      "diet": "Rongeur/Oiseaux/Poissons",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèces géantes (pour l'anaconda vert) ou grandes. Besoins aquatiques très importants (grand bassin).",
+      "repro_advice": "Gestations très longues, portées souvent nombreuses chez l'anaconda vert.",
+      "notes": "Réservé aux experts ayant un espace gigantesque."
+    },
+    "en": {
+      "name": "Anacondas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Anacondas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Anacondas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Anacondas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Anacondas",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "180",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Gonyosoma Spp.",
+    "category": "Serpent",
+    "family": "Non venimeux courants",
+    "venomous": false,
+    "fr": {
+      "name": "G. oxycephalum, G. prasina, G. boulengeri",
+      "diet": "Rongeur/Oiseau",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Serpents agiles, rapides et parfois mordeurs. Préfèrent un environnement arboricole humide.",
+      "repro_advice": "S'accouplent en l'air, pontes souvent petites mais répétées.",
+      "notes": "Possèdent une coloration bleue ou rouge frappante de l'intérieur de la bouche en parade d'intimidation."
+    },
+    "en": {
+      "name": "G. oxycephalum, G. prasina, G. boulengeri",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "G. oxycephalum, G. prasina, G. boulengeri",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "G. oxycephalum, G. prasina, G. boulengeri",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "G. oxycephalum, G. prasina, G. boulengeri",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "G. oxycephalum, G. prasina, G. boulengeri",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "70",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Heterodon Nasicus",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": true,
+    "gestation_days": 40,
+    "incubation_days": 55,
+    "incubation_temp": 28,
+    "incubation_humidity": 70,
+    "temp_hot_min": 30,
+    "temp_hot_max": 32,
+    "temp_cold_min": 23,
+    "temp_cold_max": 25,
+    "humidity_min": 30,
+    "humidity_max": 40,
+    "locality": "Western, Plains, Dusty, Mexican...",
+    "fr": {
+      "name": "Hétérodon Nasicus (Serpent à nez de cochon)",
+      "diet": "Rongeur/Amphibien",
+      "repro": "Ovipare",
+      "expert_advice": "Espèce opistoglyphe (crochets à l'arrière). Venin très faible mais peut causer un gonflement. Éviter les morsures prolongées.",
+      "repro_advice": "Les femelles doivent être bien nourries car la ponte de grands œufs leur demande beaucoup d'énergie.",
+      "notes": "Utilise son nez retroussé pour creuser. Peut feindre la mort s'il est très stressé.",
+      "legal_status": "CITES II / Annexe B"
+    },
+    "en": {
+      "name": "Western Hognose",
+      "diet": "Rodent/Amphibian",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B"
+    },
+    "es": {
+      "name": "Serpiente hocico de cerdo",
+      "diet": "Roedor/Anfibio",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B"
+    },
+    "de": {
+      "name": "Westliche Hakennasennatter",
+      "diet": "Nagetier/Amphibie",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B"
+    },
+    "zh": {
+      "name": "猪鼻蛇",
+      "diet": "啮齿动物/两栖动物",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B"
+    },
+    "nl": {
+      "name": "Westelijke haakneusslang",
+      "diet": "Knaagdier/Amfibie",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B"
+    },
+    "feed_category": "rodents"
+  },
+  {
+    "scientific_name": "Lampropeltis Spp.",
+    "category": "Serpent",
+    "family": "Non venimeux courants",
+    "venomous": false,
+    "locality": "California, Florida, Eastern, Mexican, Arizona (Pyromelana), Nelson, Sinaloan, Campbell...",
+    "fr": {
+      "name": "Serpents Rois / King Snakes",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Serpents très voraces qui peuvent pratiquer l'ophiophagie (manger d'autres serpents). Maintenir seul obligatoirement.",
+      "repro_advice": "L'hivernage est fortement recommandé pour un bon succès de reproduction.",
+      "notes": "Imitent souvent les couleurs des serpents corail venimeux."
+    },
+    "en": {
+      "name": "Serpents Rois / King Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpents Rois / King Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpents Rois / King Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpents Rois / King Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpents Rois / King Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Liasis Spp.",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "locality": "L. mackloti, L. olivaceus, L. fuscus...",
+    "fr": {
+      "name": "Water Python, Olive Python, Macklot's",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Besoins d'eau importants (grand bac). Les pythons olives peuvent devenir immenses.",
+      "repro_advice": "Exigent une belle période de refroidissement hivernal.",
+      "notes": "Aspect souvent irisé exceptionnel sous la lumière du soleil."
+    },
+    "en": {
+      "name": "Water Python, Olive Python, Macklot's",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Water Python, Olive Python, Macklot's",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Water Python, Olive Python, Macklot's",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Water Python, Olive Python, Macklot's",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Water Python, Olive Python, Macklot's",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "31",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Lichanura Trivirgata",
+    "category": "Serpent",
+    "family": "Boidae",
+    "venomous": false,
+    "locality": "Coastal, Desert, Baja, Arizona, Mexican, San Gabriel...",
+    "fr": {
+      "name": "Boa rose",
+      "diet": "Rongeur",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium désertique sec. Éviter à tout prix l'humidité excessive qui cause des problèmes respiratoires.",
+      "repro_advice": "Mise bas de quelques bébés très robustes.",
+      "notes": "Serpent extrêmement docile, lent et parfait pour les débutants."
+    },
+    "en": {
+      "name": "Boa rose",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Boa rose",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Boa rose",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Boa rose",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Boa rose",
+      "diet": "Rodent",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "130",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Morelia Boeleni",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "fr": {
+      "name": "Python de Boelen (Ultra rare)",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèce des hautes montagnes de Nouvelle-Guinée, meurt si maintenu trop au chaud. Très difficile à acclimater.",
+      "repro_advice": "Reproduction en captivité extrêmement rare, nécessite de fortes baisses nocturnes.",
+      "notes": "Considéré comme le 'Saint Graal' par beaucoup de collectionneurs de pythons."
+    },
+    "en": {
+      "name": "Ultra rare",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Ultra rare",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Ultra rare",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Ultra rare",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Ultra rare",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "40",
+    "incubation_days": "60",
+    "incubation_temp": "31",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Morelia Spilota",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "locality": "M. s. cheynei (Jungle), M. s. harrisoni (Papua), M. s. mcdowelli (Coastal), M. s. variegata, M. s. spilota (Diamond), M. s. metcalfei...",
+    "fr": {
+      "name": "Python Tapis / Carpet Python",
+      "diet": "Rongeur/Oiseau",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Serpent semi-arboricole actif, apprécie un terrarium en hauteur avec de solides reposoirs.",
+      "repro_advice": "Les femelles couvent leurs œufs en grelottant pour générer de la chaleur.",
+      "notes": "Les juvéniles sont souvent très mordeurs mais se calment généralement à l'âge adulte."
+    },
+    "en": {
+      "name": "Python Tapis / Carpet Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Python Tapis / Carpet Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Python Tapis / Carpet Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Python Tapis / Carpet Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Python Tapis / Carpet Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "31",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Morelia Viridis",
+    "category": "Serpent",
+    "family": "Pythons",
+    "venomous": false,
+    "gestation_days": 35,
+    "incubation_days": 50,
+    "incubation_temp": 31,
+    "incubation_humidity": 85,
+    "temp_hot_min": 30,
+    "temp_hot_max": 32,
+    "temp_cold_min": 25,
+    "temp_cold_max": 27,
+    "humidity_min": 60,
+    "humidity_max": 80,
+    "locality": "Aru, Biak, Sorong, Jayapura, Manokwari, Cyclops, Wapoga, Lereh, Merauke, Kofiau, Canary Island...",
+    "fr": {
+      "name": "Python Vert",
+      "diet": "Rongeur/Oiseau",
+      "repro": "Ovipare",
+      "expert_advice": "Un terrarium arboricole avec de multiples perchoirs horizontaux en PVC ou bambou est indispensable.",
+      "repro_advice": "La femelle nécessite une surveillance accrue après la ponte car elle peut s'épuiser rapidement.",
+      "notes": "Les juvéniles naissent jaunes ou rouges vifs et obtiennent leur couleur verte en grandissant (changement ontogénique).",
+      "legal_status": "CITES II / Annexe B"
+    },
+    "en": {
+      "name": "Green Tree Python",
+      "diet": "Rodent/Bird",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B"
+    },
+    "es": {
+      "name": "Pitón de árbol verde",
+      "diet": "Roedor/Ave",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B"
+    },
+    "de": {
+      "name": "Grüner Baumpython",
+      "diet": "Nagetier/Vogel",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B"
+    },
+    "zh": {
+      "name": "绿树蟒",
+      "diet": "啮齿动物/鸟类",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B"
+    },
+    "nl": {
+      "name": "Groene boompython",
+      "diet": "Knaagdier/Vogel",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B"
+    },
+    "feed_category": "rodents"
+  },
+  {
+    "scientific_name": "Naja Spp.",
+    "category": "Serpent",
+    "family": "Elapidae",
+    "venomous": true,
+    "fr": {
+      "name": "Cobras",
+      "diet": "Rongeur/Serpent",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèces dangereuses à fort venin neurotoxique (et souvent cytotoxique). Certains sont cracheurs. Visières de protection requises.",
+      "repro_advice": "Très prolifiques, surveillance accrue car les bébés naissent pleinement venimeux.",
+      "notes": "Capables de se dresser sur un tiers de leur corps et de déployer leur coiffe."
+    },
+    "en": {
+      "name": "Cobras",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Cobras",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Cobras",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Cobras",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Cobras",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "40",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Ophiophagus Hannah",
+    "category": "Serpent",
+    "family": "Elapidae",
+    "venomous": true,
+    "fr": {
+      "name": "Cobra royal",
+      "diet": "Serpent",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Le plus long serpent venimeux du monde. Extrêmement intelligent et dangereux, pour les parcs zoologiques principalement.",
+      "repro_advice": "L'un des seuls serpents au monde à construire un véritable nid de débris végétaux.",
+      "notes": "Strictement ophiophage (mangeur de serpents) dans la nature."
+    },
+    "en": {
+      "name": "Cobra royal",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Cobra royal",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Cobra royal",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Cobra royal",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Cobra royal",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "45",
+    "incubation_days": "65",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Oxybelis Fulgidus",
+    "category": "Serpent",
+    "family": "Venin faible à moyen (Crochets arrières)",
+    "venomous": false,
+    "fr": {
+      "name": "Serpent liane vert",
+      "diet": "Rongeur/Oiseau",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Excellent camoufleur, nécessite un terrarium végétalisé en hauteur. Reste très effilé toute sa vie.",
+      "repro_advice": "Facile à reproduire si une bonne période de distinction climatique lui est offerte.",
+      "notes": "Tire souvent la langue très lentement et la maintient sortie pour imiter une liane oscillante."
+    },
+    "en": {
+      "name": "Serpent liane vert",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpent liane vert",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpent liane vert",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpent liane vert",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpent liane vert",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "70",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Pantherophis Guttatus",
+    "category": "Serpent",
+    "family": "Colubridés",
+    "venomous": false,
+    "locality": "Okeetee, Miami, Keys, Alabama...",
+    "gestation_days": 35,
+    "incubation_days": 60,
+    "incubation_temp": 28,
+    "incubation_humidity": 80,
+    "temp_hot_min": 28,
+    "temp_hot_max": 30,
+    "temp_cold_min": 22,
+    "temp_cold_max": 24,
+    "humidity_min": 40,
+    "humidity_max": 60,
+    "fr": {
+      "name": "Serpent des blés",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "expert_advice": "Le serpent idéal pour les débutants. S'assurer que le terrarium soit anti-évasion (ils sont doués pour s'échapper).",
+      "repro_advice": "Une période d'hibernation stricte d'environ 2 à 3 mois à 12-15°C est recommandée avant l'accouplement.",
+      "notes": "Excellent mangeur, très actif et curieux.",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Corn Snake",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Culebra de maíz",
+      "diet": "Roedor",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Kornnatter",
+      "diet": "Nagetier",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "玉米蛇",
+      "diet": "啮齿动物",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Korenslang",
+      "diet": "Knaagdier",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents"
+  },
+  {
+    "scientific_name": "Pantherophis Spp.",
+    "category": "Serpent",
+    "family": "Non venimeux courants",
+    "venomous": false,
+    "locality": "Texas, Everglades, Black Rat, Yellow Rat, Grey Rat, P. guttatus, P. obsoletus, P. alleghaniensis...",
+    "fr": {
+      "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Excellents grimpeurs, ces couleuvres explorent tout leur environnement. Simples à nourrir.",
+      "repro_advice": "Reproduction aisée, pontes fréquentes si les conditions hivernales ont été respectées.",
+      "notes": "Certains Pantherophis (comme P. obsoletus) peuvent atteindre plus de 2 mètres."
+    },
+    "en": {
+      "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "40",
+    "humidity_max": "60",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Philodryas Baroni",
+    "category": "Serpent",
+    "family": "Venin faible à moyen (Crochets arrières)",
+    "venomous": false,
+    "fr": {
+      "name": "Couleuvre de Baron",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Serpent très actif nécessitant de la hauteur. Opistoglyphe, la morsure provoque un œdème douloureux.",
+      "repro_advice": "La diminution de la durée d'éclairage et de la température stimule la reproduction.",
+      "notes": "Arbore souvent une belle couleur verte, mais il existe des morphes bruns ou bleutés."
+    },
+    "en": {
+      "name": "Couleuvre de Baron",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Couleuvre de Baron",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Couleuvre de Baron",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Couleuvre de Baron",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Couleuvre de Baron",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "35",
+    "incubation_days": "70",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Pituophis Spp.",
+    "category": "Serpent",
+    "family": "Non venimeux courants",
+    "venomous": false,
+    "locality": "San Diego, Great Basin, Sonoran, Pacific, Applegate, Bullsnake (Sayi)...",
+    "fr": {
+      "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Grands colubridés, très bruyants (soufflent fort). Offrir un grand terrarium avec un substrat pour fouir.",
+      "repro_advice": "Hivernage classique nécessaire. La femelle pond des œufs de taille imposante.",
+      "notes": "Leur sifflement puissant est dû à un épiglotte très développé, conçu pour intimider."
+    },
+    "en": {
+      "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Python Bivittatus",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "fr": {
+      "name": "Python birman",
+      "diet": "Rongeur/Volaille",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Devient gigantesque (jusqu'à 6m). Réfléchir très sérieusement à l'espace final nécessaire (pièce entière).",
+      "repro_advice": "Incubation par la mère possible mais les couveuses artificielles restent plus sûres.",
+      "notes": "Souvent très docile s'il est manipulé jeune, mais sa taille demande la présence de deux personnes adultes pour manipulation."
+    },
+    "en": {
+      "name": "Python birman",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Python birman",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Python birman",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Python birman",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Python birman",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "40",
+    "incubation_days": "60",
+    "incubation_temp": "31",
+    "incubation_humidity": "85"
+  },
+  {
+    "scientific_name": "Python Brongersmai",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "locality": "Sumatra, Bangka, Kalimantan, Malaysia...",
+    "fr": {
+      "name": "Python curtus / Blood Python",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Très massif et sédentaire. Nécessite une forte humidité et a souvent la réputation (parfois à tort) d'être défensif.",
+      "repro_advice": "Ne s'alimente plus ou peu avant la ponte.",
+      "notes": "Les déjections sont rares mais très volumineuses, prévoyez un bon entretien."
+    },
+    "en": {
+      "name": "Python curtus / Blood Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Python curtus / Blood Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Python curtus / Blood Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Python curtus / Blood Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Python curtus / Blood Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "45",
+    "incubation_days": "90",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  }
+]
