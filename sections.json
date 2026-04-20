@@ -1,5 +1,19 @@
 [
   {
+    "id": "faq",
+    "title": {
+      "fr": "FAQ",
+      "en": "FAQ",
+      "es": "FAQ",
+      "de": "FAQ",
+      "zh": "常见问题",
+      "nl": "FAQ"
+    },
+    "file": "faq.json",
+    "icon": "HelpCircle",
+    "type": "content"
+  },
+  {
     "id": "species",
     "title": {
       "fr": "Espèces",
@@ -14,35 +28,91 @@
     "type": "animal"
   },
   {
-    "id": "tips",
+    "id": "medical",
     "title": {
-      "fr": "Conseils",
-      "en": "Tips",
-      "es": "Consejos",
-      "de": "Tipps",
-      "zh": "提示",
-      "nl": "Tips"
+      "fr": "Guides",
+      "en": "Guides",
+      "es": "Guías",
+      "de": "Ratgeber",
+      "zh": "指南",
+      "nl": "Gidsen/Medisch"
     },
-    "file": "tips.json",
+    "file": "medical.json",
+    "icon": "Stethoscope",
+    "type": "content"
+  },
+  {
+    "id": "install",
+    "title": {
+      "fr": "Guides/Installation",
+      "en": "Guides/Installation",
+      "es": "Guías/Instalación",
+      "de": "Ratgeber/Installation",
+      "zh": "指南/安装",
+      "nl": "Gidsen/Installatie"
+    },
+    "file": "install.json",
+    "icon": "Layout",
+    "type": "guide"
+  },
+  {
+    "id": "incub",
+    "title": {
+      "fr": "Guides/Incubation",
+      "en": "Guides/Incubation",
+      "es": "Guías/Incubación",
+      "de": "Ratgeber/Inkubation",
+      "zh": "指南/孵化",
+      "nl": "Gidsen/Incubatie"
+    },
+    "file": "incub.json",
+    "icon": "Thermometer",
+    "type": "guide"
+  },
+  {
+    "id": "other_tips",
+    "title": {
+      "fr": "Guides/Autres",
+      "en": "Guides/Other",
+      "es": "Guías/Otros",
+      "de": "Ratgeber/Andere",
+      "zh": "指南/其他",
+      "nl": "Gidsen/Andere"
+    },
+    "file": "other_tips.json",
     "icon": "Lightbulb",
-    "type": "content"
+    "type": "guide"
   },
   {
-    "id": "help",
+    "id": "safety_protocols",
     "title": {
-      "fr": "Aides",
-      "en": "Help",
-      "es": "Ayudas",
-      "de": "Hilfen",
-      "zh": "帮助",
-      "nl": "Hulp"
+      "fr": "Guides/Sécurité",
+      "en": "Guides/Safety",
+      "es": "Guías/Seguridad",
+      "de": "Ratgeber/Sicherheit",
+      "zh": "指南/安全",
+      "nl": "Gidsen/Veiligheid"
     },
-    "file": "help.json",
-    "icon": "HelpCircle",
-    "type": "content"
+    "file": "safety_protocols.json",
+    "icon": "ShieldCheck",
+    "type": "guide"
   },
   {
-    "id": "feed",
+    "id": "troubleshooting",
+    "title": {
+      "fr": "Guides/Pannes",
+      "en": "Guides/Troubleshooting",
+      "es": "Guías/Problemas",
+      "de": "Ratgeber/Fehlersuche",
+      "zh": "指南/故障排除",
+      "nl": "Gidsen/Problemen"
+    },
+    "file": "troubleshooting.json",
+    "icon": "Wrench",
+    "type": "guide"
+  },
+  {
+    "id": "diet",
     "title": {
       "fr": "Nourriture",
       "en": "Food",
@@ -51,7 +121,7 @@
       "zh": "食物",
       "nl": "Voedsel"
     },
-    "file": "feed.json",
+    "file": "diet.json",
     "icon": "Beef",
     "type": "feed"
   },

@@ -1,0 +1,2635 @@
+[
+  {
+    "scientific_name": "Acanthosaura Spp.",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Dragons des montagnes",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium très planté avec point d'eau constant ou brumisation fréquente.",
+      "repro_advice": "Ponte dans un substrat meuble et humide (tourbe/coco).",
+      "notes": "Espèce montagnarde, craint les fortes chaleurs au-delà de 28°C."
+    },
+    "en": {
+      "name": "Dragons des montagnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Dragons des montagnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Dragons des montagnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Dragons des montagnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Dragons des montagnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "140",
+    "incubation_temp": "24",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Aeluroscalabotes Felinus",
+    "category": "Lézard",
+    "family": "Eublepharidae",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko chat",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Maintenir un environnement forestier humide mais bien ventilé.",
+      "repro_advice": "Pond généralement deux œufs par portée qu'elle enfouit légèrement.",
+      "notes": "Son nom vient de sa posture atypique au repos, la queue enroulée comme un chat."
+    },
+    "en": {
+      "name": "Gecko chat",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko chat",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko chat",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko chat",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko chat",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "26",
+    "temp_hot_max": "28",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "65",
+    "incubation_temp": "26",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Anolis Spp.",
+    "category": "Lézard",
+    "family": "Phrynosomatidae & Dactyloidae",
+    "venomous": false,
+    "fr": {
+      "name": "A. equestris, A. roquet, A. baracoae, A. marmoratus",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium arboricole planté indispensable avec brumisation journalière pour l'hydratation.",
+      "repro_advice": "Pond généralement un ou deux œufs à la base des plantes tous les mois en saison.",
+      "notes": "Lézards rapides, déconseillés à la manipulation fréquente."
+    },
+    "en": {
+      "name": "A. equestris, A. roquet, A. baracoae, A. marmoratus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "A. equestris, A. roquet, A. baracoae, A. marmoratus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "A. equestris, A. roquet, A. baracoae, A. marmoratus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "A. equestris, A. roquet, A. baracoae, A. marmoratus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "A. equestris, A. roquet, A. baracoae, A. marmoratus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "20",
+    "incubation_days": "45",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Basiliscus Spp.",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "B. plumifrons, B. vttatus",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Grand terrarium arboricole indispensable avec un vaste bassin (ils sont d'excellents nageurs).",
+      "repro_advice": "Incubation en milieu très humide (vermiculite saturée).",
+      "notes": "Connus sous le nom de lézard Jésus-Christ pour leur capacité à courir sur l'eau."
+    },
+    "en": {
+      "name": "B. plumifrons, B. vttatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "B. plumifrons, B. vttatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "B. plumifrons, B. vttatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "B. plumifrons, B. vttatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "B. plumifrons, B. vttatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Bavayia Spp.",
+    "category": "Lézard",
+    "family": "Rhacodactylus & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Geckos nains de Nouvelle-Calédonie",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Ne supportent pas les excès de chaleur (>28°C), maintenir frais et humide.",
+      "repro_advice": "Les femelles collent souvent leurs œufs dans des anfractuosités ou sous l'écorce.",
+      "notes": "Petits geckos nocturnes d'aspect primitif, très agiles."
+    },
+    "en": {
+      "name": "Geckos nains de Nouvelle-Calédonie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Geckos nains de Nouvelle-Calédonie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Geckos nains de Nouvelle-Calédonie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Geckos nains de Nouvelle-Calédonie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Geckos nains de Nouvelle-Calédonie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "24",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Chlamydosaurus Kingii",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Lézard à collerette",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium très haut avec de solides troncs d'arbres. Beaucoup d'UVB et un spot chauffant intense.",
+      "repro_advice": "Les pontes sont souvent réalisées à la base des souches en milieu sableux.",
+      "notes": "Déploie sa collerette uniquement s'il est menacé ou pour intimider."
+    },
+    "en": {
+      "name": "Lézard à collerette",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Lézard à collerette",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Lézard à collerette",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Lézard à collerette",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Lézard à collerette",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "50",
+    "humidity_max": "70",
+    "gestation_days": "30",
+    "incubation_days": "70",
+    "incubation_temp": "29",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Chondrodactylus Angulifer",
+    "category": "Lézard",
+    "family": "Geckos Australiens & Terrestres",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko des sables de Namibie",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Maintenir sur du sable fin avec des abris secs et quelques roches.",
+      "repro_advice": "Déposer les œufs à coquille dure sur un substrat sec lors de l'incubation.",
+      "notes": "Adapté au désert, évite les températures extrêmes en s'enterrant la journée."
+    },
+    "en": {
+      "name": "Gecko des sables de Namibie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko des sables de Namibie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko des sables de Namibie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko des sables de Namibie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko des sables de Namibie",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "50"
+  },
+  {
+    "scientific_name": "Coleonyx Spp.",
+    "category": "Lézard",
+    "family": "Eublepharidae",
+    "venomous": false,
+    "fr": {
+      "name": "Geckos à bandes",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Similaire au gecko léopard en soins, mais plus petit. Maintenir la zone de mue légèrement humide.",
+      "repro_advice": "Pond sous des roches ou écorces, œufs à coquille souple.",
+      "notes": "Excellent gecko terrestre pour débutant, taille modeste."
+    },
+    "en": {
+      "name": "Geckos à bandes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Geckos à bandes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Geckos à bandes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Geckos à bandes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Geckos à bandes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Cordylus Tropidosternum",
+    "category": "Lézard",
+    "family": "Scincidae & Cordylidae",
+    "venomous": false,
+    "fr": {
+      "name": "Cordyle des tropiques",
+      "diet": "Insectivore",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Aime se cacher dans des crevasses étroites. Fournir un empilement rocheux sécurisé.",
+      "repro_advice": "Espèce ovovivipare, les jeunes naissent formés.",
+      "notes": "Ses écailles fortement carénées lui permettent de se bloquer dans les fentes rocheuses pour échapper aux prédateurs."
+    },
+    "en": {
+      "name": "Cordyle des tropiques",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Cordyle des tropiques",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Cordyle des tropiques",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Cordyle des tropiques",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Cordyle des tropiques",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "100",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Correlophus Ciliatus",
+    "category": "Lézard",
+    "family": "Geckos",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko à Crête",
+      "diet": "Frugivore/Insectivore",
+      "repro": "Ovipare",
+      "expert_advice": "Terrarium en hauteur (arboricole). Ne pas chauffer de manière excessive, ils supportent très mal les chaleurs au-delà de 28°C.",
+      "repro_advice": "Mettre une boîte de ponte avec de la sphaigne ou fibre de coco humide. Pond généralement 2 œufs par mois en saison.",
+      "notes": "S'il perd sa queue (autotomie), elle ne repoussera jamais.",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Crested Gecko",
+      "diet": "Frugivore/Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko Crestado",
+      "diet": "Frugívoro/Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Kronengecko",
+      "diet": "Frucht-/Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "睫角守宫",
+      "diet": "食果动物/食虫动物",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Wimpergekko",
+      "diet": "Fruiteter/Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "65",
+    "incubation_temp": "23",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Correlophus Sarasinorum",
+    "category": "Lézard",
+    "family": "Rhacodactylus & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko de Sarasin",
+      "diet": "Insectivore/Frugivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Identique au gecko à crête en soins, mais souvent plus terrestre et rapide.",
+      "repro_advice": "Peut parfois enterrer ses œufs profondément dans le substrat humide.",
+      "notes": "Espèce de Nouvelle-Calédonie, assez rare en terrariophilie."
+    },
+    "en": {
+      "name": "Gecko de Sarasin",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko de Sarasin",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko de Sarasin",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko de Sarasin",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko de Sarasin",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "65",
+    "incubation_temp": "24",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Corucia Zebrata",
+    "category": "Lézard",
+    "family": "Scincidae & Cordylidae",
+    "venomous": false,
+    "fr": {
+      "name": "Scinque préhenseur",
+      "diet": "Herbivore/Folivore",
+      "repro": "Ovovivipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium très haut avec de fortes branches. Vit en groupe social, très rare chez les reptiles.",
+      "repro_advice": "La femelle accouche d'un seul jeune extrêmement grand (jusqu'à 1/3 de sa taille).",
+      "notes": "Le plus grand scinque du monde, queue préhensile comme un singe."
+    },
+    "en": {
+      "name": "Scinque préhenseur",
+      "diet": "Insectivore",
+      "repro": "Ovoviviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Scinque préhenseur",
+      "diet": "Insectivore",
+      "repro": "Ovoviviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Scinque préhenseur",
+      "diet": "Insectivore",
+      "repro": "Ovoviviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Scinque préhenseur",
+      "diet": "Insectivore",
+      "repro": "Ovoviviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Scinque préhenseur",
+      "diet": "Insectivore",
+      "repro": "Ovoviviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "180",
+    "incubation_days": "0",
+    "incubation_temp": "N/A",
+    "incubation_humidity": "N/A"
+  },
+  {
+    "scientific_name": "Corytophanes Cristatus",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Iguane à casque",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Aime se tenir immobile verticalement sur les troncs. Terrarium en hauteur impératif.",
+      "repro_advice": "Pond au pied des troncs dans la litière humide.",
+      "notes": "Forme atypique qui le fait ressembler à une feuille ou à un bout de bois."
+    },
+    "en": {
+      "name": "Iguane à casque",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Iguane à casque",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Iguane à casque",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Iguane à casque",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Iguane à casque",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Crocodilurus Amazonicus",
+    "category": "Lézard",
+    "family": "Teiidae & Lacertidae",
+    "venomous": false,
+    "fr": {
+      "name": "Lézard crocodile",
+      "diet": "Insectivore/Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Aquaterrarium indispensable, cette espèce est semi-aquatique.",
+      "repro_advice": "Nidification terrestre, les œufs nécessitent une longue incubation.",
+      "notes": "Excellent nageur."
+    },
+    "en": {
+      "name": "Lézard crocodile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Lézard crocodile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Lézard crocodile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Lézard crocodile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Lézard crocodile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "40",
+    "incubation_days": "70",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Crotaphytus Collaris",
+    "category": "Lézard",
+    "family": "Phrynosomatidae & Dactyloidae",
+    "venomous": false,
+    "fr": {
+      "name": "Lézard à collier",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Très actif, demande un grand terrarium type désertique avec des roches plates et un point très chaud.",
+      "repro_advice": "Hivernage strict de 2-3 mois nécessaire pour l'accouplement.",
+      "notes": "Capable de courir uniquement sur ses pattes arrière pour fuir."
+    },
+    "en": {
+      "name": "Lézard à collier",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Lézard à collier",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Lézard à collier",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Lézard à collier",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Lézard à collier",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "29",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Ctenosaura Spp.",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "C. similis, C. pectinata, C. bakeri, C. palearis",
+      "diet": "Omnivore/Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Lézards massifs et souvent défensifs, prévoir des enclos gigantesques avec un éclairage de forte puissance.",
+      "repro_advice": "Pondent d'énormes quantités d'œufs (parfois plus de 50) dans de profonds terriers.",
+      "notes": "Les Ctenosaura figurent parmi les lézards les plus rapides du monde sur de courtes distances."
+    },
+    "en": {
+      "name": "C. similis, C. pectinata, C. bakeri, C. palearis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "C. similis, C. pectinata, C. bakeri, C. palearis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "C. similis, C. pectinata, C. bakeri, C. palearis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "C. similis, C. pectinata, C. bakeri, C. palearis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "C. similis, C. pectinata, C. bakeri, C. palearis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "45",
+    "incubation_days": "80",
+    "incubation_temp": "30",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Cyclura Spp.",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Iguanes rhinocéros",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Grands iguanes très terrestres. Enclos géant obligatoire. Tempérament souvent plus docile que l'iguane vert.",
+      "repro_advice": "Grosse production d'œufs, incubation complexe due aux variations naturelles nécessaires.",
+      "notes": "Présentent de petites 'cornes' écailleuses sur le museau."
+    },
+    "en": {
+      "name": "Iguanes rhinocéros",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Iguanes rhinocéros",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Iguanes rhinocéros",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Iguanes rhinocéros",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Iguanes rhinocéros",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "45",
+    "incubation_days": "85",
+    "incubation_temp": "30",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Diplodactylus Spp.",
+    "category": "Lézard",
+    "family": "Geckos Australiens & Terrestres",
+    "venomous": false,
+    "fr": {
+      "name": "D. galeatus, D. granariensis",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Environnement aride à semi-aride avec substrat sablonneux. Actifs la nuit.",
+      "repro_advice": "Incubation courte dans le sable légèrement humide à chaud.",
+      "notes": "Certaines espèces peuvent sécréter une substance collante de leur queue en défense."
+    },
+    "en": {
+      "name": "D. galeatus, D. granariensis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "D. galeatus, D. granariensis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "D. galeatus, D. granariensis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "D. galeatus, D. granariensis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "D. galeatus, D. granariensis",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "60"
+  },
+  {
+    "scientific_name": "Dipsosaurus Dorsalis",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Iguane du désert",
+      "diet": "Herbivore/Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Aime les températures extrêmement élevées. Fournir un point chaud vif et de l'espace terrestre.",
+      "repro_advice": "Incubation sous températures hautes. Une brumation hivernale aide la fertilité.",
+      "notes": "Principalement végétarien mais mange occasionnellement des insectes."
+    },
+    "en": {
+      "name": "Iguane du désert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Iguane du désert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Iguane du désert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Iguane du désert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Iguane du désert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "42",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "30",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Eublepharis Angramainyu",
+    "category": "Lézard",
+    "family": "Eublepharidae",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko léopard d'Iran",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Plus grand que le gecko léopard classique, besoins similaires mais terrarium plus vaste.",
+      "repro_advice": "Fournir une boîte de ponte humide avec fibre de coco.",
+      "notes": "Gros appétit et parfois un peu plus défensif que E. macularius."
+    },
+    "en": {
+      "name": "Gecko léopard d'Iran",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko léopard d'Iran",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko léopard d'Iran",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko léopard d'Iran",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko léopard d'Iran",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "21",
+    "incubation_days": "50",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Eublepharis Hardwickii",
+    "category": "Lézard",
+    "family": "Eublepharidae",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko léopard d'Inde",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Entretien similaire au gecko léopard. Plus discret et nocturne.",
+      "repro_advice": "Reproduction en captivité possible avec les mêmes conditions que ses cousins.",
+      "notes": "Se différencie par son dos barré plutôt que tacheté."
+    },
+    "en": {
+      "name": "Gecko léopard d'Inde",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko léopard d'Inde",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko léopard d'Inde",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko léopard d'Inde",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko léopard d'Inde",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "21",
+    "incubation_days": "50",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Eublepharis Macularius",
+    "category": "Lézard",
+    "family": "Geckos",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko Léopard",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "expert_advice": "Une boîte à mue (cachette avec substrat humide) est indispensable pour éviter les problèmes de mue aux orteils.",
+      "repro_advice": "La température d'incubation détermine le sexe des futurs geckos (TSD).",
+      "notes": "Stocke ses réserves de graisse dans sa queue.",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Leopard Gecko",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko Leopardo",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Leopardgecko",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "豹纹守宫",
+      "diet": "食虫动物",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Luipaardgekko",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "21",
+    "incubation_days": "50",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Eurydactylodes Spp.",
+    "category": "Lézard",
+    "family": "Rhacodactylus & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Geckos caméléons",
+      "diet": "Insectivore/Frugivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Petits geckos qui aiment les branchages fins. Ils peuvent suinter une substance défensive collante si stressés.",
+      "repro_advice": "Aiment coller leurs œufs sur les écorces ou dans les creux de branches.",
+      "notes": "Sont de lents grimpeurs qui imitent le mouvement des feuilles."
+    },
+    "en": {
+      "name": "Geckos caméléons",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Geckos caméléons",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Geckos caméléons",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Geckos caméléons",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Geckos caméléons",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "24",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Gallotia Galloti",
+    "category": "Lézard",
+    "family": "Teiidae & Lacertidae",
+    "venomous": false,
+    "fr": {
+      "name": "Lézard des Canaries",
+      "diet": "Insectivore/Frugivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Lézard très vif. Beaucoup de lumière et UV, et un environnement semi-aride.",
+      "repro_advice": "Les pontes sont souvent enfouies dans le sable humide.",
+      "notes": "Les mâles présentent de magnifiques couleurs bleutées."
+    },
+    "en": {
+      "name": "Lézard des Canaries",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Lézard des Canaries",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Lézard des Canaries",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Lézard des Canaries",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Lézard des Canaries",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "35",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Gastropholis Prasina",
+    "category": "Lézard",
+    "family": "Teiidae & Lacertidae",
+    "venomous": false,
+    "fr": {
+      "name": "Lézard vert d'Afrique de l'Est",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Merveilleux lézard arboricole très actif. Besoin d'un terrarium vertical spacieux et très planté.",
+      "repro_advice": "Incubation délicate nécessitant une forte humidité.",
+      "notes": "Possède une queue extrêmement longue et préhensile."
+    },
+    "en": {
+      "name": "Lézard vert d'Afrique de l'Est",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Lézard vert d'Afrique de l'Est",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Lézard vert d'Afrique de l'Est",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Lézard vert d'Afrique de l'Est",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Lézard vert d'Afrique de l'Est",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "65",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Gekko Spp.",
+    "category": "Lézard",
+    "family": "Geckos Arboricoles Divers",
+    "venomous": false,
+    "fr": {
+      "name": "G. gecko, G. smithii, G. badenii",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Ce sont de gros geckos arboricoles très territoriaux. Attention à leurs morsures puissantes.",
+      "repro_advice": "Les œufs sont collés sur les parois et gardés jalousement par les parents.",
+      "notes": "Célèbres pour leur chant nocturne 'To-kay'."
+    },
+    "en": {
+      "name": "G. gecko, G. smithii, G. badenii",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "G. gecko, G. smithii, G. badenii",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "G. gecko, G. smithii, G. badenii",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "G. gecko, G. smithii, G. badenii",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "G. gecko, G. smithii, G. badenii",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "90",
+    "incubation_temp": "28",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Goniurosaurus Spp.",
+    "category": "Lézard",
+    "family": "Eublepharidae",
+    "venomous": false,
+    "fr": {
+      "name": "Geckos cavernicoles",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Éviter les lumières fortes et maintenir des températures relativement fraîches.",
+      "repro_advice": "Pondent généralement deux œufs par mois dans un environnement très humide.",
+      "notes": "Geckos crépusculaires fascinants, connus pour leurs grands yeux rouges ou orange."
+    },
+    "en": {
+      "name": "Geckos cavernicoles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Geckos cavernicoles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Geckos cavernicoles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Geckos cavernicoles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Geckos cavernicoles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "24",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Gonocephalus Spp.",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "G. grandis, G. chamaeleontinus",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium très haut avec de l'eau courante (système goutte-à-goutte) et beaucoup de feuillage.",
+      "repro_advice": "Garder un sol humide profond pour encourager les pontes.",
+      "notes": "Parfois appelés agames caméléons en raison de leur silhouette atypique."
+    },
+    "en": {
+      "name": "G. grandis, G. chamaeleontinus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "G. grandis, G. chamaeleontinus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "G. grandis, G. chamaeleontinus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "G. grandis, G. chamaeleontinus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "G. grandis, G. chamaeleontinus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "30",
+    "incubation_days": "90",
+    "incubation_temp": "26",
+    "incubation_humidity": "90"
+  },
+  {
+    "scientific_name": "Hemitheconyx Caudicinctus",
+    "category": "Lézard",
+    "family": "Eublepharidae",
+    "venomous": false,
+    "fr": {
+      "name": "African Fat-Tail",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Requiert une humidité légèrement plus élevée que son cousin le gecko léopard.",
+      "repro_advice": "Même méthode de reproduction que le gecko léopard.",
+      "notes": "Plus docile et moins actif que le gecko léopard."
+    },
+    "en": {
+      "name": "African Fat-Tail",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "African Fat-Tail",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "African Fat-Tail",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "African Fat-Tail",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "African Fat-Tail",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "21",
+    "incubation_days": "55",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Hydrosaurus Spp.",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Dragons d'eau à voile",
+      "diet": "Omnivore/Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Gigantesque lézard (jusqu'à 1m) nécessitant un enclos de type serre tropicale avec grand bassin.",
+      "repro_advice": "Les œufs nécessitent une longue incubation.",
+      "notes": "Surnommés dragons voiliers en raison de l'imposante crête dorsale et caudale des mâles."
+    },
+    "en": {
+      "name": "Dragons d'eau à voile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Dragons d'eau à voile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Dragons d'eau à voile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Dragons d'eau à voile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Dragons d'eau à voile",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "40",
+    "incubation_days": "70",
+    "incubation_temp": "29",
+    "incubation_humidity": "90"
+  },
+  {
+    "scientific_name": "Iguana Delicatissima",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Iguane des petites Antilles",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèce menacée, détention très rare. Élevage proche de celui de l'iguane vert mais plus strict.",
+      "repro_advice": "Pond dans des trous ensoleillés profonds.",
+      "notes": "Ne possède pas la grosse écaille subtympanique caractéristique de l'iguane vert."
+    },
+    "en": {
+      "name": "Iguane des petites Antilles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Iguane des petites Antilles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Iguane des petites Antilles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Iguane des petites Antilles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Iguane des petites Antilles",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "40",
+    "incubation_days": "80",
+    "incubation_temp": "30",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Iguana Iguana",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Morphes : Red, Blue, Albino",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Très grand lézard qui doit passer à un régime végétarien strict très vite. Enclos gigantesque requis.",
+      "repro_advice": "Les femelles peuvent pondre de nombreux œufs et ont besoin d'un site de ponte énorme.",
+      "notes": "Lézard très populaire mais qui demande un engagement lourd sur 15 ans et plus."
+    },
+    "en": {
+      "name": "Morphes : Red, Blue, Albino",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Morphes : Red, Blue, Albino",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Morphes : Red, Blue, Albino",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Morphes : Red, Blue, Albino",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Morphes : Red, Blue, Albino",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "45",
+    "incubation_days": "80",
+    "incubation_temp": "30",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Intellagama Lesueurii",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Dragon d'eau australien",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Moins nerveux que le dragon d'eau vert. Nécessite beaucoup d'espace, d'eau et d'UV.",
+      "repro_advice": "Hivernage nécessaire pour inciter l'accouplement.",
+      "notes": "Les mâles peuvent développer des teintes rougeâtres splendides sur le ventre et la gorge."
+    },
+    "en": {
+      "name": "Dragon d'eau australien",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Dragon d'eau australien",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Dragon d'eau australien",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Dragon d'eau australien",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Dragon d'eau australien",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "35",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "65",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Lepidothyris Fernandi",
+    "category": "Lézard",
+    "family": "Scincidae & Cordylidae",
+    "venomous": false,
+    "fr": {
+      "name": "Scinque de feu",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Très terrestre, aime creuser. Nécessite 15 à 20 cm de substrat type humus ou coco.",
+      "repro_advice": "Très prolifique s'il est bien nourri.",
+      "notes": "Arbore des flancs magnifiquement striés de rouge/orange et de noir."
+    },
+    "en": {
+      "name": "Scinque de feu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Scinque de feu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Scinque de feu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Scinque de feu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Scinque de feu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "50",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Lygodactylus Spp.",
+    "category": "Lézard",
+    "family": "Geckos Arboricoles Divers",
+    "venomous": false,
+    "fr": {
+      "name": "L. williamsi, L. picturatus",
+      "diet": "Insectivore/Frugivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Très petits geckos diurnes, besoin absolu d'UVB de bonne qualité et de cachettes en bambou.",
+      "repro_advice": "Pondent généralement des œufs jumelés dans le creux des bambous.",
+      "notes": "Le L. williamsi est bleu électrique, une espèce extrêmement menacée (CITES I) selon sa provenance."
+    },
+    "en": {
+      "name": "L. williamsi, L. picturatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "L. williamsi, L. picturatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "L. williamsi, L. picturatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "L. williamsi, L. picturatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "L. williamsi, L. picturatus",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "26",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Mniarogekko Chahoua",
+    "category": "Lézard",
+    "family": "Rhacodactylus & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko mousse",
+      "diet": "Insectivore/Frugivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Apprécie particulièrement les branches recouvertes de liège ou de mousse pour se camoufler.",
+      "repro_advice": "Les œufs sont fortement calcifiés, contrairement au gecko à crête. Femelle souvent protectrice.",
+      "notes": "Son mimétisme avec le lichen ou la mousse est spectaculaire."
+    },
+    "en": {
+      "name": "Gecko mousse",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko mousse",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko mousse",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko mousse",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko mousse",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "35",
+    "incubation_days": "70",
+    "incubation_temp": "24",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Nephrurus Spp.",
+    "category": "Lézard",
+    "family": "Geckos Australiens & Terrestres",
+    "venomous": false,
+    "fr": {
+      "name": "Knob-tails",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Substrat sableux à humidifier très légèrement par en dessous pour leur permettre de creuser des galeries stables.",
+      "repro_advice": "Femelles très voraces durant la gestation, veiller aux carences en calcium.",
+      "notes": "Geckos fouisseurs avec un petit 'bouton' caractéristique au bout de la queue."
+    },
+    "en": {
+      "name": "Knob-tails",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Knob-tails",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Knob-tails",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Knob-tails",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Knob-tails",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "29",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Oplurus Cuvieri",
+    "category": "Lézard",
+    "family": "Iguanidae & Apparentés",
+    "venomous": false,
+    "fr": {
+      "name": "Iguane terrestre de Madagascar",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Malgré son nom d'iguane terrestre, il est semi-arboricole et aime grimper sur des branches épaisses.",
+      "repro_advice": "Nidification au sol, incubation standard.",
+      "notes": "Possède une queue épineuse typique rappelant celle des Uromastyx."
+    },
+    "en": {
+      "name": "Iguane terrestre de Madagascar",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Iguane terrestre de Madagascar",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Iguane terrestre de Madagascar",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Iguane terrestre de Madagascar",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Iguane terrestre de Madagascar",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "60",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Pachydactylus Rangei",
+    "category": "Lézard",
+    "family": "Geckos Australiens & Terrestres",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko des sables palmé",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Maintenir impérativement sur un sable désertique très fin, avec une zone sèche et une légèrement humide en profondeur.",
+      "repro_advice": "S'accouple au printemps, pontes fréquentes dans le sable.",
+      "notes": "Ses pattes palmées lui servent de raquettes pour marcher sur les dunes et s'y enfouir."
+    },
+    "en": {
+      "name": "Gecko des sables palmé",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko des sables palmé",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko des sables palmé",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko des sables palmé",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko des sables palmé",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "50"
+  },
+  {
+    "scientific_name": "Phelsuma Spp.",
+    "category": "Lézard",
+    "family": "Geckos Arboricoles Divers",
+    "venomous": false,
+    "locality": "Grandis, Klemmeri, Laticauda, Robertmertensi, Standingi, Cepediana...",
+    "fr": {
+      "name": "Geckos diurnes",
+      "diet": "Insectivore/Frugivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "UVB puissants obligatoires pour faire ressortir leurs couleurs. Éviter toute manipulation, leur peau se déchire facilement.",
+      "repro_advice": "Pondent le plus souvent des paires d'œufs cachées ou collées aux bambous.",
+      "notes": "Geckos très actifs et curieux, d'excellents spécimens d'observation."
+    },
+    "en": {
+      "name": "Geckos diurnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Geckos diurnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Geckos diurnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Geckos diurnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Geckos diurnes",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "25",
+    "incubation_days": "50",
+    "incubation_temp": "28",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Phrynocephalus Spp.",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Agames crapauds",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Lézards de milieux extrêmement arides. Substrat de sable fin essentiel pour qu'ils puissent s'enfouir en le vibrant.",
+      "repro_advice": "Difficiles à reproduire, exigent un fort gradient thermique.",
+      "notes": "Ils roulent et déroulent leur queue sur leur dos en guise de communication visuelle."
+    },
+    "en": {
+      "name": "Agames crapauds",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Agames crapauds",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Agames crapauds",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Agames crapauds",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Agames crapauds",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "45",
+    "temp_cold_min": "20",
+    "temp_cold_max": "25",
+    "humidity_min": "20",
+    "humidity_max": "30",
+    "gestation_days": "30",
+    "incubation_days": "50",
+    "incubation_temp": "30",
+    "incubation_humidity": "50"
+  },
+  {
+    "scientific_name": "Phrynosoma Platyrhinos",
+    "category": "Lézard",
+    "family": "Phrynosomatidae & Dactyloidae",
+    "venomous": false,
+    "fr": {
+      "name": "Lézard cornu",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Régime très spécifique basé sur les fourmis. Difficile de l'acclimater aux grillons classiques.",
+      "repro_advice": "Incubation chaude, mais complexe en captivité vu l'alimentation spécialisée.",
+      "notes": "Capable de projeter du sang par ses yeux pour surprendre les prédateurs canidés."
+    },
+    "en": {
+      "name": "Lézard cornu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Lézard cornu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Lézard cornu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Lézard cornu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Lézard cornu",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "20",
+    "humidity_max": "40",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "29",
+    "incubation_humidity": "50"
+  },
+  {
+    "scientific_name": "Physignathus Cocincinus",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Dragon d'eau vert",
+      "diet": "Insectivore/Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Sujet aux frottements rostraux (museau abîmé sur les vitres). Opacifier le bas des vitres aide à prévenir ce comportement.",
+      "repro_advice": "L'incubation exige un haut degré d'humidité constant.",
+      "notes": "Demande un bassin très vaste pour nager et s'immerger totalement."
+    },
+    "en": {
+      "name": "Dragon d'eau vert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Dragon d'eau vert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Dragon d'eau vert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Dragon d'eau vert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Dragon d'eau vert",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "30",
+    "incubation_days": "65",
+    "incubation_temp": "28",
+    "incubation_humidity": "90"
+  },
+  {
+    "scientific_name": "Pogona Henrylawsoni",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Pogona nain",
+      "diet": "Omnivore/Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Prend moins de place que le Pogona Vitticeps mais réclame tout autant de chaleur et de rayonnements UVB.",
+      "repro_advice": "Moins prolifique que le P. vitticeps, les incubations restent similaires.",
+      "notes": "Parfaitement adapté aux terrariums moyens, très dynamique et sociable."
+    },
+    "en": {
+      "name": "Pogona nain",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Pogona nain",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Pogona nain",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Pogona nain",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Pogona nain",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "60",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Pogona Vitticeps",
+    "category": "Lézard",
+    "family": "Agames",
+    "venomous": false,
+    "fr": {
+      "name": "Agame barbu (Pogona)",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "expert_advice": "L'éclairage UVB (10 à 12%) et le calcium sont obligatoires pour éviter les maladies osseuses métaboliques (MBD).",
+      "repro_advice": "Une seule fécondation peut permettre à la femelle de pondre plusieurs fois (rétention de sperme).",
+      "notes": "L'alimentation adulte doit être composée à 70% de végétaux et 30% d'insectes.",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Bearded Dragon",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Dragón Barbudo",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Bartagame",
+      "diet": "Allesfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "鬃狮蜥",
+      "diet": "杂食动物",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Baardagame",
+      "diet": "Alleseter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "25",
+    "temp_cold_max": "28",
+    "humidity_min": "30",
+    "humidity_max": "40",
+    "gestation_days": "25",
+    "incubation_days": "65",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Pseudogekko Smaragdinus",
+    "category": "Lézard",
+    "family": "Geckos Arboricoles Divers",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko émeraude",
+      "diet": "Insectivore/Frugivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Nécessite un terrarium tropical humide sans excès de chaleur. Éviter tout stress.",
+      "repro_advice": "Pond dans la mousse ou aux creux des bambous.",
+      "notes": "Espèce fine et élégante originaire des Philippines, très fragile."
+    },
+    "en": {
+      "name": "Gecko émeraude",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko émeraude",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko émeraude",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko émeraude",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko émeraude",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "24",
+    "temp_hot_max": "26",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "25",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Ptychozoon Kuhli",
+    "category": "Lézard",
+    "family": "Geckos Arboricoles Divers",
+    "venomous": false,
+    "fr": {
+      "name": "Gecko volant",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Terrarium arboricole volumineux. Ne 'vole' pas mais plane grâce à ses replis cutanés.",
+      "repro_advice": "Colle souvent ses œufs à l'écorce, les protéger sur place lors de l'incubation.",
+      "notes": "Un camouflage extrême lui permettant de fusionner avec l'écorce des arbres."
+    },
+    "en": {
+      "name": "Gecko volant",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Gecko volant",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Gecko volant",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Gecko volant",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Gecko volant",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "27",
+    "incubation_humidity": "80"
+  }
+]

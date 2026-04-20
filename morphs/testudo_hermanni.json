@@ -5,20 +5,8 @@
     "en": "Hermann's Tortoise"
   },
   "morphs": [
-    {
-      "fr": "Normal",
-      "en": "Normal",
-      "type": "wildtype"
-    },
-    {
-      "fr": "Albino",
-      "en": "Albino",
-      "type": "recessive"
-    },
-    {
-      "fr": "Hypo",
-      "en": "Hypo",
-      "type": "recessive"
-    }
+    { "fr": "Normal", "en": "Normal", "type": "wildtype" },
+    { "fr": "Albino", "en": "Albino", "type": "recessive" },
+    { "fr": "Hypo", "en": "Hypo", "type": "recessive" }
   ]
 }

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "med-001-burn-treatment",
+    "titre": { "en": "Burn Treatment", "fr": "Traitement des Brûlures", "es": "Tratamiento de Quemaduras", "de": "Verbrennungsbehandlung", "zh": "烫伤治疗" },
+    "icone": "Flame",
+    "description": { "en": "Emergency protocol for thermal injuries.", "fr": "Protocole d'urgence pour les lésions thermiques.", "es": "Protocolo de emergencia para lesiones térmicas.", "de": "Notfallprotokoll für thermische Verletzungen.", "zh": "热损伤紧急处理协议。" },
+    "contenu_detaille": {
+      "en": ["Isolate the animal in a sterile environment (paper towel substrate).", "Apply silver sulfadiazine cream (Flamazine) twice daily.", "Maintain optimal hygiene to prevent secondary infections.", "Consult a reptile-specialized veterinarian if blisters appear."],
+      "fr": ["Isoler l'animal en milieu stérile (sopalin).", "Appliquer une crème à base de sulfadiazine d'argent (Flamazine) 2x/jour.", "Maintenir une hygiène irréprochable pour éviter les infections secondaires.", "Consulter un vétérinaire spécialisé si des cloques apparaissent."],
+      "es": ["Aislar al animal en un entorno estéril.", "Aplicar crema de sulfadiazina de plata dos veces al día.", "Mantener higiene óptima.", "Consultar veterinario si aparecen ampollas."],
+      "de": ["Tier steril isolieren.", "Silbersulfadiazin-Creme zweimal täglich auftragen.", "Hygiene einhalten.", "Fachtierarzt bei Blasenbildung aufsuchen."],
+      "zh": ["将动物隔离在无菌环境中。", "每天两次涂抹磺胺嘧啶银乳膏。", "保持卫生以预防继发感染。", "如果出现水泡，请咨询兽医。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-002-ri-protocol",
+    "titre": { "en": "Respiratory Infection (RI)", "fr": "Infection Respiratoire (IR)", "es": "Infección Respiratoria", "de": "Atemwegsinfektion", "zh": "呼吸道感染" },
+    "icone": "Wind",
+    "description": { "en": "Detection and management of RI symptoms.", "fr": "Détection et gestion des symptômes d'IR.", "es": "Detección y manejo de síntomas de IR.", "de": "Erkennung und Management von Atemwegsinfektionen.", "zh": "呼吸道感染症状的检测与管理。" },
+    "contenu_detaille": {
+      "en": ["Increase ambient temperature by 2-3°C.", "Check for mouth gaping, mucus, or wheezing sounds.", "Nebulize with sterile saline or diluted F10SC if prescribed.", "Antibiotic treatment (Ceftazidime/Enrofloxacin) requires vet prescription."],
+      "fr": ["Augmenter la température ambiante de 2-3°C.", "Surveiller les bavements, sifflements ou gueule ouverte.", "Nébulisation avec sérum physiologique ou F10SC dilué si prescrit.", "Traitement antibiotique (Ceftazidime/Enrofloxacin) sur avis vétérinaire."],
+      "es": ["Aumentar temperatura 2-3°C.", "Observar moco o silbidos.", "Nebulizar con suero fisiológico.", "Requiere prescripción para antibióticos."],
+      "de": ["Temperatur um 2-3°C erhöhen.", "Auf Schleim oder Pfeifen achten.", "Vernebelung mit Kochsalzlösung.", "Antibiotika nur nach tierärztlicher Verordnung."],
+      "zh": ["将温度提高2-3°C。", "检查是否有粘液或喘鸣声。", "使用无菌生理盐水进行雾化。", "抗生素治疗需要兽医处方。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-003-mouth-rot",
+    "titre": { "en": "Mouth Rot (Stomatitis)", "fr": "Pourriture de la Gueule (Stomatite)", "es": "Estomatitis Infecciosa", "de": "Maulfäule", "zh": "口炎" },
+    "icone": "Stethoscope",
+    "description": { "en": "Inflammation of oral tissues.", "fr": "Inflammation et infection des tissus buccaux.", "es": "Inflamación de los tejidos bucales.", "de": "Entzündung des Maulgewebes.", "zh": "口腔组织的炎症。" },
+    "contenu_detaille": {
+      "en": ["Look for cheese-like discharge or swelling.", "Clean with diluted Betadine.", "Correct environmental stressors.", "Consult vet for debridement."],
+      "fr": ["Chercher des dépôts caséeux ou gonflements.", "Nettoyer à la Bétadine diluée.", "Corriger les paramètres (T°/Humidité).", "Consulter pour un débridement."],
+      "es": ["Buscar secreciones o hinchazón.", "Limpiar con Betadine diluido.", "Corregir parámetros ambientales.", "Consultar veterinario."],
+      "de": ["Auf Ablagerungen oder Schwellungen achten.", "Mit verdünntem Betadine reinigen.", "Haltungsbedingungen optimieren.", "Tierarzt aufsuchen."],
+      "zh": ["寻找干酪样分泌物或肿胀。", "用稀释的聚维酮碘清洗。", "纠正环境压力因素。", "咨询兽医进行清创。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-004-egg-binding",
+    "titre": { "en": "Egg Binding (Dystocia)", "fr": "Rétention d'Œufs (Dystocie)", "es": "Retención de Huevos", "de": "Legenot", "zh": "难产" },
+    "icone": "Egg",
+    "description": { "en": "Inability to pass eggs.", "fr": "Incapacité à pondre les œufs.", "es": "Incapacidad para poner huevos.", "de": "Unfähigkeit zur Eiablage.", "zh": "无法正常排卵。" },
+    "contenu_detaille": {
+      "en": ["Identify straining or visible lumps.", "Provide a warm soak (28-30°C).", "Ensure proper nesting box is available.", "Medical emergency: may require Oxytocin."],
+      "fr": ["Identifier efforts d'expulsion ou bosses.", "Donner un bain tiède (28-30°C).", "Vérifier la boîte de ponte.", "Urgence : peut requérir de l'ocytocine."],
+      "es": ["Identificar pujos o bultos.", "Baño tibio (28-30°C).", "Asegurar caja de anidación.", "Urgencia: puede requerir oxitocina."],
+      "de": ["Pressen oder Klumpen erkennen.", "Warmes Bad (28-30°C).", "Nistbox bereitstellen.", "Notfall: Evtl. Oxytocin nötig."],
+      "zh": ["识别用力或肿块。", "进行温水浸泡。", "确保提供筑巢箱。", "医疗紧急情况：可能需要催产素。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-005-internal-parasites",
+    "titre": { "en": "Internal Parasites", "fr": "Parasites Internes", "es": "Parásitos Internos", "de": "Innere Parasiten", "zh": "体内寄生虫" },
+    "icone": "Bug",
+    "description": { "en": "Endoparasite management.", "fr": "Gestion des endoparasites.", "es": "Manejo de endoparásitos.", "de": "Endoparasiten-Management.", "zh": "体内寄生虫管理。" },
+    "contenu_detaille": {
+      "en": ["Analyze fresh fecal samples.", "Use Fenbendazole or Praziquantel.", "Deep clean enclosure.", "Repeat treatment after 14 days."],
+      "fr": ["Analyse de selles fraîches.", "Utiliser Fenbendazole ou Praziquantel.", "Désinfection totale du bac.", "Répéter le traitement après 14j."],
+      "es": ["Analizar heces frescas.", "Usar Fenbendazol.", "Limpieza profunda.", "Repetir a los 14 días."],
+      "de": ["Kotproben untersuchen.", "Fenbendazol verwenden.", "Terrarium gründlich reinigen.", "Behandlung nach 14 Tagen wiederholen."],
+      "zh": ["分析新鲜粪便样本。", "使用芬苯达唑。", "深度清洁笼舍。", "14天后重复治疗。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-006-scale-rot",
+    "titre": { "en": "Scale Rot", "fr": "Pourriture des Écailles", "es": "Podredumbre de Escamas", "de": "Schuppenfäule", "zh": "鳞片腐烂" },
+    "icone": "ShieldCheck",
+    "description": { "en": "Bacterial skin infection.", "fr": "Infection bactérienne cutanée.", "es": "Infección bacteriana de la piel.", "de": "Bakterielle Hautinfektion.", "zh": "细菌性皮肤感染。" },
+    "contenu_detaille": {
+      "en": ["Identify brown crusty lesions.", "Move to dry sterile substrate.", "Apply Betadine or Silver spray.", "Correct high humidity issues."],
+      "fr": ["Repérer des croûtes brunes.", "Passer sur sopalin sec.", "Appliquer Bétadine ou spray argent.", "Réduire l'humidité excessive."],
+      "es": ["Identificar lesiones marrones.", "Pasar a papel seco.", "Aplicar Betadine.", "Corregir exceso de humedad."],
+      "de": ["Braune Wunden erkennen.", "Auf trockenes Papier setzen.", "Betadine oder Silberspray nutzen.", "Feuchtigkeit senken."],
+      "zh": ["识别棕色结痂病变。", "移至干燥无菌基质。", "涂抹聚维酮碘。", "纠正高湿度问题。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-007-mbd-prevention",
+    "titre": { "en": "MBD Prevention", "fr": "Prévention MBD", "es": "Prevención de MBD", "de": "MBD-Prävention", "zh": "MBD 预防" },
+    "icone": "Dna",
+    "description": { "en": "Metabolic Bone Disease.", "fr": "Maladie métabolique des os.", "es": "Enfermedad ósea metabólica.", "de": "Stoffwechselbedingte Knochenkrankheit.", "zh": "代谢性骨病。" },
+    "contenu_detaille": {
+      "en": ["Provide adequate UVB lighting.", "Supplement Calcium + D3.", "Monitor bone density.", "Avoid pure muscle meat diets."],
+      "fr": ["Fournir un éclairage UVB adapté.", "Complémenter en Calcium + D3.", "Surveiller la densité osseuse.", "Éviter les régimes viande pure."],
+      "es": ["Asegurar luz UVB.", "Suplementar Calcio + D3.", "Monitorear densidad ósea.", "Evitar dietas de solo carne."],
+      "de": ["UVB-Beleuchtung sicherstellen.", "Kalzium + D3 ergänzen.", "Knochendichte prüfen.", "Einseitige Fleischfütterung vermeiden."],
+      "zh": ["提供充足的 UVB 照明。", "补充钙和 D3。", "监测骨密度。", "避免纯肌肉肉类饮食。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-008-prolapse-emergency",
+    "titre": { "en": "Prolapse Emergency", "fr": "Urgence Prolapsus", "es": "Emergencia por Prolapso", "de": "Notfall Prolaps", "zh": "脱垂紧急情况" },
+    "icone": "AlertTriangle",
+    "description": { "en": "Tissue protrusion care.", "fr": "Soins pour protrusion.", "es": "Cuidado por protrusión.", "de": "Pflege bei Gewebevorfall.", "zh": "组织突出护理。" },
+    "contenu_detaille": {
+      "en": ["Keep tissue moist with sugar water.", "Use wet paper towels.", "Do not push back manually.", "Immediate veterinary transport."],
+      "fr": ["Garder humide avec eau sucrée.", "Utiliser du sopalin mouillé.", "Ne pas repousser soi-même.", "Transport vétérinaire immédiat."],
+      "es": ["Mantener húmedo con agua azucarada.", "Papel húmedo.", "No reintroducir.", "Urgencia veterinaria."],
+      "de": ["Mit Zuckerwasser feucht halten.", "Nasses Küchenpapier nutzen.", "Nicht selbst zurückschieben.", "Sofort zum Tierarzt."],
+      "zh": ["用糖水保持组织湿润。", "使用湿纸巾。", "不要手动推回。", "立即送往兽医处。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-009-dehydration",
+    "titre": { "en": "Dehydration", "fr": "Déshydratation", "es": "Deshidratación", "de": "Dehydration", "zh": "脱水" },
+    "icone": "Droplets",
+    "description": { "en": "Fluid loss management.", "fr": "Gestion de la perte de fluides.", "es": "Manejo de pérdida de líquidos.", "de": "Flüssigkeitsmangel.", "zh": "水分流失管理。" },
+    "contenu_detaille": {
+      "en": ["Check for sunken eyes or wrinkled skin.", "Offer 30min lukewarm soaks.", "Use oral rehydration solutions.", "Increase habitat humidity."],
+      "fr": ["Vérifier yeux enfoncés ou peau ridée.", "Bains tièdes de 30 minutes.", "Utiliser des solutions de réhydratation.", "Augmenter l'humidité du bac."],
+      "es": ["Revisar ojos hundidos.", "Baños tibios.", "Soluciones de rehidratación.", "Aumentar humedad."],
+      "de": ["Auf eingefallene Augen achten.", "30 Min. lauwarmes Bad.", "Elektrolytlösungen nutzen.", "Luftfeuchtigkeit erhöhen."],
+      "zh": ["检查眼睛凹陷或皮肤皱缩。", "进行30分钟温水浸泡。", "使用口服补液溶液。", "增加环境湿度。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "med-010-crypto-warning",
+    "titre": { "en": "Cryptosporidiosis", "fr": "Cryptosporidiose", "es": "Criptosporidiosis", "de": "Kryptosporidiose", "zh": "隐孢子虫病" },
+    "icone": "AlertTriangle",
+    "description": { "en": "Serious contagious wasting.", "fr": "Maladie contagieuse grave.", "es": "Enfermedad contagiosa grave.", "de": "Schwere ansteckende Krankheit.", "zh": "严重的传染性消耗性疾病。" },
+    "contenu_detaille": {
+      "en": ["Look for chronic regurgitation.", "Identify 'mid-body' swelling.", "Strict quarantine required.", "No known cure; palliative care only."],
+      "fr": ["Surveiller régurgitations chroniques.", "Repérer un gonflement médio-corporel.", "Quarantaine stricte indispensable.", "Pas de remède connu ; soins palliatifs."],
+      "es": ["Regurgitación crónica.", "Hinchazón corporal.", "Cuarentena estricta.", "Sin cura conocida."],
+      "de": ["Chronisches Erbrechen.", "Schwellung der Körpermitte.", "Strikte Quarantäne.", "Keine Heilung bekannt."],
+      "zh": ["观察慢性反流。", "识别“体中”肿胀。", "需要严格隔离。", "尚无已知治愈方法。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  }
+]

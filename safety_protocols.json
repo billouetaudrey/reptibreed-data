@@ -1,0 +1,72 @@
+[
+  {
+    "id": "saf-001-venomous-handling",
+    "titre": { "en": "Venomous", "fr": "Venimeux", "es": "Venenosos", "de": "Giftschlangen", "zh": "有毒" },
+    "icone": "AlertTriangle",
+    "description": { "en": "High risk safety.", "fr": "Sécurité risques.", "es": "Riesgo alto.", "de": "Gefahrenschutz.", "zh": "高风险安全。" },
+    "contenu_detaille": {
+      "en": ["Buddy system.", "Hooks/tongs.", "Bite protocol nearby.", "Double locks."],
+      "fr": ["Ne jamais manipuler seul (système de binôme).", "Utiliser systématiquement crochets, pinces ou tubes.", "Avoir le protocole de morsure et les numéros d'urgence à portée.", "Sécuriser les installations avec un double verrouillage."],
+      "es": ["En pareja.", "Ganchos/pinzas.", "Protocolo mordedura.", "Doble cierre."],
+      "de": ["Zweite Person.", "Haken/Zangen.", "Bissprotokoll.", "Doppelschloss."],
+      "zh": ["伙伴系统。", "钩子/夹子。", "咬伤协议。", "双重锁定。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "saf-002-electrical-safety",
+    "titre": { "en": "Electrical", "fr": "Électrique", "es": "Eléctrico", "de": "Elektrik", "zh": "电气" },
+    "icone": "Zap",
+    "description": { "en": "Fire prevention.", "fr": "Prévention incendie.", "es": "Incendios.", "de": "Brandschutz.", "zh": "火灾预防。" },
+    "contenu_detaille": {
+      "en": ["No daisy-chaining.", "Thermostat required.", "Regular wire checks.", "Smoke detectors."],
+      "fr": ["Éviter de brancher trop de multiprises en cascade.", "L'usage d'un thermostat est obligatoire pour tout chauffage.", "Vérifier régulièrement l'état des câbles (usure, morsures).", "Installer des détecteurs de fumée dans la pièce d'élevage."],
+      "es": ["Sin cascadas.", "Termostato siempre.", "Revisar cables.", "Detectores humo."],
+      "de": ["Keine Reihenschaltung.", "Immer Thermostat.", "Kabel prüfen.", "Rauchmelder."],
+      "zh": ["严禁串联。", "必须有温控器。", "定期检查电线。", "烟雾探测器。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "saf-003-hygiene-salmonella",
+    "titre": { "en": "Hygiene", "fr": "Hygiène", "es": "Higiene", "de": "Hygiene", "zh": "卫生" },
+    "icone": "ShieldCheck",
+    "description": { "en": "Zoonosis prevention.", "fr": "Prévention zoonose.", "es": "Zoonosis.", "de": "Zoonoseschutz.", "zh": "人畜共患病预防。" },
+    "contenu_detaille": {
+      "en": ["Hand washing.", "No kitchen cleaning.", "F10SC disinfectant.", "Protect kids/elderly."],
+      "fr": ["Lavage rigoureux des mains après chaque manipulation.", "Ne pas nettoyer les accessoires dans l'évier de la cuisine.", "Utiliser des désinfectants de grade vétérinaire (type F10SC).", "Surveiller les enfants et personnes fragiles lors des contacts."],
+      "es": ["Lavar manos.", "Fuera de cocina.", "Desinfectante.", "Proteger niños."],
+      "de": ["Händewaschen.", "Nicht in Küche.", "F10SC nutzen.", "Kinder fernhalten."],
+      "zh": ["洗手。", "禁止在厨房清洁。", "使用 F10SC。", "保护儿童。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "saf-004-escape-prevention",
+    "titre": { "en": "Escapes", "fr": "Évasions", "es": "Fugas", "de": "Ausbruchschutz", "zh": "逃脱" },
+    "icone": "ShieldCheck",
+    "description": { "en": "Securing enclosures.", "fr": "Sécurisation bacs.", "es": "Asegurar bacs.", "de": "Sicherungen.", "zh": "固定笼舍。" },
+    "contenu_detaille": {
+      "en": ["Screen clips/locks.", "Check cable holes.", "Monitor gaps.", "Weight lids."],
+      "fr": ["Utiliser des clips de sécurité ou des verrous sur les vitres.", "Boucher tous les passages de câbles avec du silicone ou bouchons.", "Vérifier régulièrement l'ajustement des portes coulissantes.", "Lester ou verrouiller les couvercles des boîtes de transport."],
+      "es": ["Cierres/clips.", "Tapar huecos.", "Revisar cristales.", "Pesar tapas."],
+      "de": ["Clips/Schlösser.", "Kabellöcher zu.", "Spaltmaße prüfen.", "Deckel beschweren."],
+      "zh": ["夹子/锁。", "检查电缆孔。", "监控间隙。", "加重盖子。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  },
+  {
+    "id": "saf-005-toxic-woods-plants",
+    "titre": { "en": "Toxic Decor", "fr": "Décors Toxiques", "es": "Decoración Tóxica", "de": "Giftiges Dekor", "zh": "有毒装饰" },
+    "icone": "AlertTriangle",
+    "description": { "en": "Safe materials.", "fr": "Matériaux sûrs.", "es": "Materiales seguros.", "de": "Sichere Materialien.", "zh": "安全材料。" },
+    "contenu_detaille": {
+      "en": ["Avoid cedar/pine.", "No toxic houseplants.", "Bake wild wood.", "Bleach wild rocks."],
+      "fr": ["Éviter les bois résineux (cèdre, pin) qui dégagent des phénols.", "Vérifier la non-toxicité des plantes naturelles utilisées.", "Cuire le bois ramassé dans la nature (100°C pendant 1h).", "Désinfecter les roches sauvages à l'eau de Javel diluée."],
+      "es": ["Evitar cedro/pino.", "Plantas seguras.", "Hornear maderas.", "Lavar piedras."],
+      "de": ["Keine Nadelhölzer.", "Giftpflanzen prüfen.", "Holz ausbacken.", "Steine abkochen."],
+      "zh": ["避免雪松/松木。", "禁止有毒室内植物。", "烘烤野木。", "漂白野石。"]
+    },
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
+  }
+]

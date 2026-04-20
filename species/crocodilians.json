@@ -1,0 +1,170 @@
+[
+  {
+    "scientific_name": "Caiman Crocodilus",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Caïman à lunettes",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Réservé aux capacitaires dans de nombreux pays. Nécessite des bassins gigantesques filtrés et sécurisés.",
+      "repro_advice": "La femelle construit un nid de débris végétaux pour pondre.",
+      "notes": "Croissance très rapide les premières années."
+    },
+    "en": {
+      "name": "Caïman à lunettes",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Caïman à lunettes",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Caïman à lunettes",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Caïman à lunettes",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Caïman à lunettes",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "others",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "80",
+    "humidity_max": "100",
+    "gestation_days": "40",
+    "incubation_days": "70",
+    "incubation_temp": "30",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Paleosuchus Palpebrosus",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Caïman nain de Cuvier",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Le plus petit crocodilien du monde, reste exigeant en place et en installations aquatiques.",
+      "repro_advice": "Demande une zone terrestre importante avec des débris organiques pour le nid.",
+      "notes": "Réservé aux capacitaires, bien qu'il soit petit (1,5m adulte max)."
+    },
+    "en": {
+      "name": "Caïman nain de Cuvier",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Caïman nain de Cuvier",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Caïman nain de Cuvier",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Caïman nain de Cuvier",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Caïman nain de Cuvier",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "others",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "80",
+    "humidity_max": "100",
+    "gestation_days": "40",
+    "incubation_days": "90",
+    "incubation_temp": "30",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Paleosuchus Trigonatus",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Caïman de Schneider",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Plus terrestre que les autres caïmans, il supporte des eaux un peu plus fraîches. Bassin et terre exigés.",
+      "repro_advice": "Très protecteurs de leur nid construit en monticule.",
+      "notes": "Son armure dorsale très ossifiée le protège des prédateurs terrestres (jaguar)."
+    },
+    "en": {
+      "name": "Caïman de Schneider",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Caïman de Schneider",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Caïman de Schneider",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "Caïman de Schneider",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Caïman de Schneider",
+      "diet": "Omnivore",
+      "repro": "Oviparous",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "others",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "80",
+    "humidity_max": "100",
+    "gestation_days": "40",
+    "incubation_days": "90",
+    "incubation_temp": "30",
+    "incubation_humidity": "100"
+  }
+]
