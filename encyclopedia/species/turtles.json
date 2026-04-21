@@ -1,0 +1,854 @@
+[
+  {
+    "scientific_name": "Astrochelys Radiata",
+    "category": "Tortue",
+    "family": "Tortues Terrestres",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue radiée",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Nécessite beaucoup de lumière UVB et une chaleur élevée. Espèce menacée, détention très encadrée.",
+      "repro_advice": "La femelle pond de grands œufs à carapace dure, incubation délicate.",
+      "notes": "L'une des plus belles tortues terrestres, avec une carapace en dôme ornée d'étoiles jaunes."
+    },
+    "en": {
+      "name": "Radiated tortoise",
+      "diet": "Herbivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Requires plenty of UVB light and high heat. Endangered species, very regulated ownership.",
+      "repro_advice": "The female lays large hard-shelled eggs, delicate incubation.",
+      "notes": "One of the most beautiful land tortoises, with a domed shell adorned with yellow stars."
+    },
+    "es": {
+      "name": "Tortuga radiada",
+      "diet": "Herbívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Requiere mucha luz UVB y calor elevado. Especie amenazada, tenencia muy regulada.",
+      "repro_advice": "La hembra pone huevos grandes de cáscara dura, incubación delicada.",
+      "notes": "Una de las tortugas terrestres más bellas, con un caparazón en cúpula adornado con estrellas amarillas."
+    },
+    "de": {
+      "name": "Strahlenschildkröte",
+      "diet": "Herbivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Benötigt viel UVB-Licht und hohe Wärme. Bedrohte Art, Haltung sehr streng reglementiert.",
+      "repro_advice": "Das Weibchen legt große hartschalige Eier, empfindliche Inkubation.",
+      "notes": "Eine der schönsten Landschildkröten mit einem kuppelförmigen Panzer, der mit gelben Sternen verziert ist."
+    },
+    "zh": {
+      "name": "辐射陆龟",
+      "diet": "食草性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "需要充足的UVB光照和高温。濒危物种，持有权受到严格监管。",
+      "repro_advice": "雌性产下大型硬壳卵，孵化过程需非常小心。",
+      "notes": "最美丽的陆龟之一，其圆顶背甲装饰有黄色星形图案。"
+    },
+    "nl": {
+      "name": "Stralenschildpad",
+      "diet": "Herbivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Vereist veel UVB-licht en hoge hitte. Bedreigde diersoort, bezit is strikt gereguleerd.",
+      "repro_advice": "Het vrouwtje legt grote eieren met een harde schaal, delicate incubatie.",
+      "notes": "Een van de mooiste landschildpadden, met een koepelvormig schild versierd met gele sterren."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "22",
+    "temp_cold_max": "25",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "40",
+    "incubation_days": "120",
+    "incubation_temp": "30",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Centrochelys Sulcata",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue sillonnée (Sulcata)",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "expert_advice": "C'est la troisième plus grosse tortue terrestre. Prévoir un enclos extérieur de très grande taille ou une pièce chauffée dédiée.",
+      "repro_advice": "La femelle peut pondre jusqu'à 20 à 30 oeufs par portée.",
+      "notes": "Régime très riche en fibres, pauvre en protéines.",
+      "legal_status": "CITES II / Annexe B"
+    },
+    "en": {
+      "name": "African Spurred Tortoise (Sulcata)",
+      "diet": "Herbivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "This is the third largest land tortoise. Provide a very large outdoor enclosure or a dedicated heated room.",
+      "repro_advice": "The female can lay up to 20 to 30 eggs per clutch.",
+      "notes": "Very fiber-rich diet, low in protein."
+    },
+    "es": {
+      "name": "Tortuga sulcata",
+      "diet": "Herbívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Es la tercera tortuga terrestre más grande. Prever un recinto exterior muy grande o una habitación climatizada dedicada.",
+      "repro_advice": "La hembra puede poner hasta 20 o 30 huevos por puesta.",
+      "notes": "Dieta muy rica en fibra, baja en proteínas."
+    },
+    "de": {
+      "name": "Spornschildkröte",
+      "diet": "Herbivor",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Dies ist die drittgrößte Landschildkröte. Planen Sie ein sehr großes Außengehege oder einen speziellen beheizten Raum ein.",
+      "repro_advice": "Das Weibchen kann bis zu 20 bis 30 Eier pro Gelege legen.",
+      "notes": "Sehr faserreich, proteinarm."
+    },
+    "zh": {
+      "name": "苏卡达陆龟",
+      "diet": "食草性",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "它是世界第三大陆龟。需要非常大的室外围栏或专门的加热房间。",
+      "repro_advice": "雌性每窝可产下20至30枚卵。",
+      "notes": "饮食中纤维含量非常高，蛋白质含量低。"
+    },
+    "nl": {
+      "name": "Sporenlandschildpad (Sulcata)",
+      "diet": "Herbivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Dit is de op twee na grootste landschildpad. Zorg voor een zeer groot buitenverblijf of een speciale verwarmde kamer.",
+      "repro_advice": "Het vrouwtje kan tot 20 tot 30 eieren per legsel leggen.",
+      "notes": "Dieet zeer rijk aan vezels, arm aan eiwitten."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "35",
+    "temp_hot_max": "40",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "40",
+    "humidity_max": "50",
+    "gestation_days": "60",
+    "incubation_days": "100",
+    "incubation_temp": "30",
+    "incubation_humidity": "70"
+  },
+  {
+    "scientific_name": "Chelonoidis Spp.",
+    "category": "Tortue",
+    "family": "Tortues Terrestres",
+    "venomous": false,
+    "fr": {
+      "name": "C. carbonaria, C. denticulata, C. chilensis",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Tortues originaires de forêts tropicales, nécessitent une forte hygrométrie et n'hibernent pas (selon l'espèce).",
+      "repro_advice": "La femelle creuse un nid profond dans un sol très humide et meuble.",
+      "notes": "Leur régime alimentaire inclut une petite proportion de protéines animales ou de fruits, contrairement aux tortues arides."
+    },
+    "en": {
+      "name": "Red-footed, Yellow-footed tortoises etc.",
+      "diet": "Omnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Tortoises originating from tropical forests, require high humidity and do not hibernate (depending on the species).",
+      "repro_advice": "The female digs a deep nest in very moist and loose soil.",
+      "notes": "Their diet includes a small proportion of animal proteins or fruits, unlike arid tortoises."
+    },
+    "es": {
+      "name": "Tortugas terrestres sudamericanas (C. carbonaria etc.)",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Tortugas originarias de bosques tropicales, requieren alta humedad y no hibernan (según la especie).",
+      "repro_advice": "La hembra cava un nido profundo en suelo muy húmedo y suelto.",
+      "notes": "Su dieta incluye una pequeña proporción de proteínas animales o frutas, a diferencia de las tortugas de zonas áridas."
+    },
+    "de": {
+      "name": "Köhlerschildkröte, Waldschildkröte etc.",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Schildkröten aus tropischen Wäldern, benötigen eine hohe Luftfeuchtigkeit und halten keinen Winterschlaf (je nach Art).",
+      "repro_advice": "Das Weibchen gräbt ein tiefes Nest in sehr feuchtem und lockerem Boden.",
+      "notes": "Ihr Speiseplan enthält im Gegensatz zu Schildkröten aus Trockengebieten einen kleinen Anteil an tierischen Proteinen oder Früchten."
+    },
+    "zh": {
+      "name": "南美象龟属 (红腿、黄腿等)",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "源自热带森林的陆龟，需要高湿度且不冬眠（视物种而定）。",
+      "repro_advice": "雌性在非常潮湿和疏松的土壤中挖掘深巢。",
+      "notes": "与干旱地区陆龟不同，它们的饮食包含少量的动物蛋白或水果。"
+    },
+    "nl": {
+      "name": "Zuid-Amerikaanse landschildpadden (C. carbonaria etc.)",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Schildpadden afkomstig uit tropische bossen, vereisen een hoge luchtvochtigheid en houden geen winterslaap (afhankelijk van de soort).",
+      "repro_advice": "Het vrouwtje graaft een diep nest in zeer vochtige en losse grond.",
+      "notes": "Hun dieet bevat een klein aandeel dierlijke eiwitten of fruit, in tegenstelling tot schildpadden uit droge gebieden."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "40",
+    "incubation_days": "120",
+    "incubation_temp": "29",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Chelus Fimbriata",
+    "category": "Tortue",
+    "family": "Tortues Aquatiques",
+    "venomous": false,
+    "fr": {
+      "name": "Matamata",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Tortue de fond (marécages). N'a pas besoin d'eau profonde, mais d'une eau très large et chauffée.",
+      "repro_advice": "Incubation très longue, nécessitant un suivi attentif des paramètres de chaleur.",
+      "notes": "Chasse à l'affût en aspirant l'eau et sa proie grâce à son cou extensible."
+    },
+    "en": {
+      "name": "Matamata",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Bottom-dwelling tortoise (swamps). Does not need deep water, but very wide and heated water.",
+      "repro_advice": "Very long incubation, requiring careful monitoring of heat parameters.",
+      "notes": "Ambushes by sucking in water and its prey thanks to its extensible neck."
+    },
+    "es": {
+      "name": "Matamata",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Tortuga de fondo (pantanos). No necesita agua profunda, pero sí un área de agua muy amplia y climatizada.",
+      "repro_advice": "Incubación muy larga, requiere un seguimiento atento de los parámetros de calor.",
+      "notes": "Caza al acecho succionando el agua y su presa gracias a su cuello extensible."
+    },
+    "de": {
+      "name": "Fransenschildkröte (Matamata)",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Bodenschlammschildkröte (Sümpfe). Benötigt kein tiefes Wasser, aber eine sehr große und beheizte Wasserfläche.",
+      "repro_advice": "Sehr lange Inkubationszeit, die eine sorgfältige Überwachung der Wärmeparameter erfordert.",
+      "notes": "Lauert Beute auf und saugt Wasser samt Beute dank seines dehnbaren Halses ein."
+    },
+    "zh": {
+      "name": "玛塔龟（枯叶龟）",
+      "diet": "食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "底栖龟类（沼泽）。不需要深水，但需要非常宽阔且加热的水域。",
+      "repro_advice": "孵化期非常长，需要仔细监测温度参数。",
+      "notes": "通过伸缩的脖子吸入水和猎物来进行伏击捕猎。"
+    },
+    "nl": {
+      "name": "Matamata",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Bodembewonende schildpad (moerassen). Heeft geen diep water nodig, maar een zeer breed en verwarmd watergedeelte.",
+      "repro_advice": "Zeer lange incubatie, vereist zorgvuldige monitoring van warmteparameters.",
+      "notes": "Jaagt vanuit een hinderlaag door water en prooi naar binnen te zuigen dankzij de uitrekbare nek."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "28",
+    "temp_hot_max": "30",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "45",
+    "incubation_days": "200",
+    "incubation_temp": "28",
+    "incubation_humidity": "90"
+  },
+  {
+    "scientific_name": "Clemmys Guttata",
+    "category": "Tortue",
+    "family": "Tortues Aquatiques",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue ponctuée",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Fournir de nombreuses plantes aquatiques et une profondeur d'eau modérée avec des points d'appui.",
+      "repro_advice": "A besoin d'un hivernage marqué pour optimiser les pontes.",
+      "notes": "Tortue semi-aquatique assez craintive, protégée dans de nombreux états américains."
+    },
+    "en": {
+      "name": "Spotted turtle",
+      "diet": "Omnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Provide many aquatic plants and a moderate water depth with supports.",
+      "repro_advice": "Needs a marked wintering period to optimize egg laying.",
+      "notes": "Fairly shy semi-aquatic turtle, protected in many US states."
+    },
+    "es": {
+      "name": "Tortuga moteada",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Proporcionar muchas plantas acuáticas y una profundidad de agua moderada con puntos de apoyo.",
+      "repro_advice": "Necesita una hibernación marcada para optimizar las puestas.",
+      "notes": "Tortuga semiacuática bastante tímida, protegida en muchos estados de EE. UU."
+    },
+    "de": {
+      "name": "Tropfenschildkröte",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Bieten Sie viele Wasserpflanzen und eine moderate Wassertiefe mit Aufstiegsmöglichkeiten an.",
+      "repro_advice": "Benötigt eine ausgeprägte Überwinterung, um die Eiablage zu optimieren.",
+      "notes": "Ziemlich scheue semi-aquatische Schildkröte, in vielen US-Bundesstaaten geschützt."
+    },
+    "zh": {
+      "name": "斑点龟",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "提供大量的各种水生植物和中等深度的水，并设有支撑点。",
+      "repro_advice": "需要明显的越冬期以优化产卵。",
+      "notes": "相当害羞的半水栖龟，在许多美国州受到保护。"
+    },
+    "nl": {
+      "name": "Druppelschildpad",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zorg voor veel waterplanten en een matige waterdiepte met steunpunten.",
+      "repro_advice": "Heeft een duidelijke overwintering nodig om de eierafzetting te optimaliseren.",
+      "notes": "Vrij schuwe semi-aquatische schildpad, beschermd in veel Amerikaanse staten."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "26",
+    "temp_hot_max": "28",
+    "temp_cold_min": "20",
+    "temp_cold_max": "22",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Cuora Flavomarginata",
+    "category": "Tortue",
+    "family": "Boîte",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue-boîte à bords jaunes",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES II / Annexe B",
+      "expert_advice": "Besoin d'un enclos extérieur ou très grand terrarium avec zones humides et terreuses pour s'enterrer.",
+      "repro_advice": "Pond 1 à 3 œufs par couvée, plusieurs fois par an.",
+      "notes": "Excellente tortue de compagnie mais timide."
+    },
+    "en": {
+      "name": "Yellow-margined Box Turtle",
+      "diet": "Omnivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "Needs an outdoor enclosure or very large terrarium with moist and earthy areas for burying itself.",
+      "repro_advice": "Lays 1 to 3 eggs per clutch, several times a year.",
+      "notes": "Excellent pet turtle but shy."
+    },
+    "es": {
+      "name": "Tortuga de caja de bordes amarillos",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Necesita un recinto exterior o un terrario muy grande con zonas húmedas y terrosas para enterrarse.",
+      "repro_advice": "Pone de 1 a 3 huevos por puesta, varias veces al año.",
+      "notes": "Excelente tortuga de compañía pero tímida."
+    },
+    "de": {
+      "name": "Gelbrand-Scharnierschildkröte",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Benötigt ein Außengehege oder ein sehr großes Terrarium mit feuchten und erdigen Bereichen zum Eingraben.",
+      "repro_advice": "Legt mehrmals im Jahr 1 bis 3 Eier pro Gelege.",
+      "notes": "Ausgezeichnete Haustierschildkröte, aber schüchtern."
+    },
+    "zh": {
+      "name": "黄缘闭壳龟",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "需要室外围栏或非常大的爬虫缸，并备有潮湿且泥土质的区域供其挖掘掩埋。",
+      "repro_advice": "每窝产卵1至3枚，每年产卵多次。",
+      "notes": "极好的宠物龟，但生性胆小。"
+    },
+    "nl": {
+      "name": "Geelranddooslandschildpad",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Heeft een buitenverblijf of een zeer groot terrarium nodig met vochtige en aardse zones om zich in te graven.",
+      "repro_advice": "Legt 1 tot 3 eieren per legsel, meerdere keren per jaar.",
+      "notes": "Uitstekende gezelschapsschildpad maar schuw."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "26",
+    "temp_hot_max": "28",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "40",
+    "incubation_days": "70",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Cuora Spp.",
+    "category": "Tortue",
+    "family": "Tortues Terrestres",
+    "venomous": false,
+    "fr": {
+      "name": "Tortues boîtes asiatiques",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Aménagement semi-aquatique ou forestier selon les espèces. Espèces très menacées dans la nature.",
+      "repro_advice": "Demande une diète riche en calcium pour de bonnes pontes.",
+      "notes": "Sont capables de fermer hermétiquement leur carapace grâce à un plastron articulé."
+    },
+    "en": {
+      "name": "Asian box turtles",
+      "diet": "Omnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Semi-aquatic or forest arrangement depending on the species. Highly endangered species in the wild.",
+      "repro_advice": "Requires a diet rich in calcium for good egg laying.",
+      "notes": "Capable of hermetically closing their shell thanks to a hinged plastron."
+    },
+    "es": {
+      "name": "Tortugas de caja asiáticas",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Acondicionamiento semiacuático o forestal según la especie. Especies muy amenazadas en la naturaleza.",
+      "repro_advice": "Requiere una dieta rica en calcio para buenas puestas.",
+      "notes": "Son capaces de cerrar herméticamente su caparazón gracias a un plastrón articulado."
+    },
+    "de": {
+      "name": "Asiatische Scharnierschildkröten",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Semi-aquatische oder waldartige Einrichtung je nach Art. In der Natur stark bedrohte Arten.",
+      "repro_advice": "Benötigt eine kalziumreiche Ernährung für eine gute Eiablage.",
+      "notes": "Können ihren Panzer dank eines beweglichen Plastrons hermetisch schließen."
+    },
+    "zh": {
+      "name": "亚洲闭壳龟属",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "根据物种的不同，选择半水栖或森林环境。野生环境下极度濒危。",
+      "repro_advice": "需要富含钙质的饮食以保证产卵质量。",
+      "notes": "依靠灵活的腹甲，它们能够密封闭合背甲。"
+    },
+    "nl": {
+      "name": "Aziatische doosschildpadden",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Semi-aquatische of bosrijke inrichting, afhankelijk van de soort. Zeer bedreigde diersoorten in het wild.",
+      "repro_advice": "Vereist een calciumrijk dieet for een goede eierafzetting.",
+      "notes": "Kunnen hun schild hermetisch sluiten dankzij een scharnierend plastron."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "26",
+    "temp_hot_max": "28",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "80",
+    "gestation_days": "40",
+    "incubation_days": "70",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Geochelone Elegans",
+    "category": "Tortue",
+    "family": "Terrestre",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue étoilée de l'Inde",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES II / Annexe B",
+      "expert_advice": "Extrêmement sensible aux maladies respiratoires. Ne pas mélanger avec d'autres espèces.",
+      "repro_advice": "La reproduction exige un pic de chaleur et d'humidité mimant la mousson.",
+      "notes": "Superbe carapace aux motifs étoilés, très recherchée par les amateurs."
+    },
+    "en": {
+      "name": "Indian Star Tortoise",
+      "diet": "Herbivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "Extremely sensitive to respiratory diseases. Do not mix with other species.",
+      "repro_advice": "Reproduction requires a peak in heat and humidity mimicking the monsoon.",
+      "notes": "Superb shell with star patterns, highly sought after by enthusiasts."
+    },
+    "es": {
+      "name": "Tortuga estrellada de la India",
+      "diet": "Herbívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Extremadamente sensible a las enfermedades respiratorias. No mezclar con otras especies.",
+      "repro_advice": "La reproducción requiere un pico de calor y humedad que imite el monzón.",
+      "notes": "Soberbio caparazón con motivos de estrellas, muy buscada por los aficionados."
+    },
+    "de": {
+      "name": "Indische Sternschildkröte",
+      "diet": "Herbivor",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Extrem anfällig für Atemwegserkrankungen. Nicht mit anderen Arten mischen.",
+      "repro_advice": "Die Fortpflanzung erfordert eine Hitze- und Feuchtigkeitsspitze, die den Monsun nachahmt.",
+      "notes": "Wunderschöner Panzer mit Sternenmustern, bei Liebhabern sehr begehrt."
+    },
+    "zh": {
+      "name": "印度星龟",
+      "diet": "食草性",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "对呼吸道疾病极其敏感。不要与其他物种混养。",
+      "repro_advice": "繁殖需要模拟季风期的高温和高湿度峰值。",
+      "notes": "背甲带有华丽的星形图案，深受爱好者追捧。"
+    },
+    "nl": {
+      "name": "Indiase sterschildpad",
+      "diet": "Herbivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Extreem gevoelig voor ademhalingsziekten. Niet mengen met andere soorten.",
+      "repro_advice": "Voortplanting vereist een piek in hitte en vochtigheid die de moesson nabootst.",
+      "notes": "Prachtig schild met sterpatronen, zeer gewild bij liefhebbers."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "32",
+    "temp_hot_max": "35",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "50",
+    "humidity_max": "70",
+    "gestation_days": "45",
+    "incubation_days": "110",
+    "incubation_temp": "30",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Kinosternon Spp.",
+    "category": "Tortue",
+    "family": "Tortues Aquatiques",
+    "venomous": false,
+    "fr": {
+      "name": "K. baurii, K. leucostomum",
+      "diet": "Carnivore/Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Excellentes tortues pour l'aquariophilie de par leur petite taille. Beaucoup de cachettes immergées nécessaires.",
+      "repro_advice": "Les femelles peuvent être exigeantes sur le site de ponte (terre sableuse).",
+      "notes": "Souvent appelées 'tortues de boue'."
+    },
+    "en": {
+      "name": "Mud turtles (K. baurii, K. leucostomum)",
+      "diet": "Carnivorous/Omnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Excellent turtles for fish keeping due to their small size. Many submerged hiding spots needed.",
+      "repro_advice": "Females can be demanding about the nesting site (sandy soil).",
+      "notes": "Often called 'mud turtles'."
+    },
+    "es": {
+      "name": "Tortugas de fango (K. baurii, K. leucostomum)",
+      "diet": "Carnívoro/Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Excelentes tortugas para la acuariofilia por su pequeño tamaño. Se necesitan muchos escondites sumergidos.",
+      "repro_advice": "Las hembras pueden ser exigentes con el lugar de puesta (suelo arenoso).",
+      "notes": "A menudo llamadas 'tortugas de fango'."
+    },
+    "de": {
+      "name": "Schlammschildkröten (K. baurii, K. leucostomum)",
+      "diet": "Fleisch-/Allesfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Aufgrund ihrer geringen Größe hervorragende Schildkröten für die Aquaristik. Viele untergetauchte Verstecke erforderlich.",
+      "repro_advice": "Weibchen können anspruchsvoll bei der Wahl des Nistplatzes sein (sandiger Boden).",
+      "notes": "Werden oft als 'Schlammschildkröten' bezeichnet."
+    },
+    "zh": {
+      "name": "动胸龟属（泥龟）",
+      "diet": "食肉/杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "由于体型较小，是水族饲养的极佳选择。需要许多水下隐藏点。",
+      "repro_advice": "雌性对筑巢地点（沙质土壤）可能有很高要求。",
+      "notes": "通常被称为“泥龟”。"
+    },
+    "nl": {
+      "name": "Modderschildpadden (K. baurii, K. leucostomum)",
+      "diet": "Carnivoor/Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Uitstekende schildpadden voor aquaria vanwege hun kleine formaat. Veel ondergedompelde schuilplaatsen nodig.",
+      "repro_advice": "Vrouwtjes kunnen veeleisend zijn wat betreft de nestlocatie (zandgrond).",
+      "notes": "Worden vaak 'modderschildpadden' genoemd."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "26",
+    "temp_hot_max": "30",
+    "temp_cold_min": "20",
+    "temp_cold_max": "24",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "30",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Macrochelys Temminckii",
+    "category": "Tortue",
+    "family": "Tortues Aquatiques",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue alligator",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Nécessite un bassin extrêmement robuste. Morsure dévastatrice. Ne jamais manipuler à la légère.",
+      "repro_advice": "Maturité très tardive, pontes abondantes.",
+      "notes": "Chasse immobile au fond de l'eau en utilisant un appendice sur sa langue imitant un ver."
+    },
+    "en": {
+      "name": "Alligator snapping turtle",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Requires an extremely robust tank. Devastating bite. Never handle lightly.",
+      "repro_advice": "Very late maturity, abundant egg laying.",
+      "notes": "Hunts immobile at the bottom of the water using an appendage on its tongue mimicking a worm."
+    },
+    "es": {
+      "name": "Tortuga aligátor",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Requiere un estanque extremadamente robusto. Mordedura devastadora. Nunca manipular a la ligera.",
+      "repro_advice": "Madurez muy tardía, puestas abundantes.",
+      "notes": "Caza inmóvil en el fondo del agua utilizando un apéndice en su lengua que imita a un guzano."
+    },
+    "de": {
+      "name": "Geierschildkröte",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Benötigt ein extrem robustes Becken. Verheerender Biss. Niemals leichtfertig handhaben.",
+      "repro_advice": "Sehr späte Geschlechtsreife, reichliche Eiablage.",
+      "notes": "Jagdt unbeweglich am Grund des Wassers und benutzt einen Fortsatz an der Zunge, der einen Wurm imitiert."
+    },
+    "zh": {
+      "name": "大鳄龟",
+      "diet": "食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "需要极其坚固的水池。咬合力惊人。切勿随意操作。",
+      "repro_advice": "性成熟非常晚，产卵量丰富。",
+      "notes": "伏在水底一动不动，利用舌头上的蠕虫状附肢诱捕猎物。"
+    },
+    "nl": {
+      "name": "Alligatorschildpad",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Vereist een extreem robuust bassin. Verwoestende beet. Nooit lichtvaardig hanteren.",
+      "repro_advice": "Zeer late geslachtsrijpheid, overvloedige eierafzetting.",
+      "notes": "Jaagt onbeweeglijk op de bodem van het water met behulp van een aanhangsel op de tong dat een worm imiteert."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "26",
+    "temp_hot_max": "28",
+    "temp_cold_min": "20",
+    "temp_cold_max": "24",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "40",
+    "incubation_days": "80",
+    "incubation_temp": "28",
+    "incubation_humidity": "90"
+  },
+  {
+    "scientific_name": "Mauremys Sinensis",
+    "category": "Tortue",
+    "family": "Aquatique",
+    "venomous": false,
+    "fr": {
+      "name": "Émyde de Chine",
+      "diet": "Omnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Très bonne nageuse, prévoir une eau profonde et propre avec zone de basking bien chaude.",
+      "repro_advice": "Plusieurs pontes possibles par saison si bien nourrie.",
+      "notes": "Plastron souvent marqué de taches sombres symétriques."
+    },
+    "en": {
+      "name": "Chinese Stripe-necked Turtle",
+      "diet": "Omnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Very good swimmer, provide deep and clean water with a very warm basking area.",
+      "repro_advice": "Several clutches possible per season if well fed.",
+      "notes": "Plastron often marked with symmetrical dark spots."
+    },
+    "es": {
+      "name": "Galápago chino de cuello rayado",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Muy buena nadadora, prever agua profunda y limpia con zona de asoleamiento bien caliente.",
+      "repro_advice": "Varias puestas posibles por temporada si está bien alimentada.",
+      "notes": "Plastrón a menudo marcado con manchas oscuras simétricas."
+    },
+    "de": {
+      "name": "Chinesische Streifenschildkröte",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Sehr gute Schwimmerin, sorgen Sie für tiefes und sauberes Wasser mit einem sehr warmen Sonnenplatz.",
+      "repro_advice": "Bei guter Fütterung mehrere Gelege pro Saison möglich.",
+      "notes": "Plastron oft mit symmetrischen dunklen Flecken markiert."
+    },
+    "zh": {
+      "name": "中华花龟",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "非常擅长游泳，提供深而清洁的水以及温暖的晒背区。",
+      "repro_advice": "如果喂养得当，每季可多次产卵。",
+      "notes": "腹甲通常带有对称的黑点标志。"
+    },
+    "nl": {
+      "name": "Chinese streepnekschildpad",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zeer goede zwemmer, zorg voor diep en schoon water met een zeer warme basking area.",
+      "repro_advice": "Meerdere legsels per seizoen mogelijk indien goed gevoerd.",
+      "notes": "Plastron vaak gemarkeerd met symmetrische donkere vlekken."
+    },
+    "feed_category": "plants",
+    "temp_hot_min": "26",
+    "temp_hot_max": "30",
+    "temp_cold_min": "20",
+    "temp_cold_max": "24",
+    "humidity_min": "100",
+    "humidity_max": "100",
+    "gestation_days": "35",
+    "incubation_days": "60",
+    "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Testudo Hermanni",
+    "category": "Tortue",
+    "family": "Testudinidae",
+    "venomous": false,
+    "fr": {
+      "name": "Tortue d'Hermann",
+      "diet": "Herbivore",
+      "repro": "Ovipare",
+      "legal_status": "Soumis (en France)",
+      "expert_advice": "Nécessite un enclos extérieur sécurisé avec une zone de soleil et une zone d'ombre. Alimentation riche en calcium et fibres.",
+      "repro_advice": "Hibernation indispensable pour stimuler la reproduction. La femelle pond plusieurs œufs dans un trou creusé dans le sol.",
+      "notes": "L'une des tortues les plus populaires en Europe."
+    },
+    "en": {
+      "name": "Hermann's Tortoise",
+      "diet": "Herbivore",
+      "repro": "Oviparous",
+      "legal_status": "Subject (in some countries)",
+      "expert_advice": "Requires a secure outdoor enclosure with sunny and shaded areas. Diet high in calcium and fiber.",
+      "repro_advice": "Hibernation is essential to stimulate reproduction. The female lays several eggs in a hole dug in the ground.",
+      "notes": "One of the most popular tortoises in Europe."
+    },
+    "es": {
+      "name": "Tortuga de Hermann",
+      "diet": "Herbívoro",
+      "repro": "Ovíparo",
+      "legal_status": "Sujeto",
+      "expert_advice": "Requiere un recinto exterior seguro con zonas de sol y sombra. Dieta rica en calcio y fibra.",
+      "repro_advice": "La hibernación es esencial para estimular la reproducción. La hembra pone varios huevos en un agujero excavado en el suelo.",
+      "notes": "Una de las tortugas más populares en Europa."
+    },
+    "de": {
+      "name": "Griechische Landschildkröte",
+      "diet": "Pflanzenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Unterworfen",
+      "expert_advice": "Benötigt ein sicheres Außengehege mit Sonnen- und Schattenbereichen. Ernährung reich an Kalzium und Ballaststoffen.",
+      "repro_advice": "Die Winterruhe ist für die Stimulierung der Fortpflanzung unerlässlich. Das Weibchen legt mehrere Eier in ein in den Boden gegrabenes Loch.",
+      "notes": "Eine der beliebtesten Landschildkröten in Europa."
+    },
+    "zh": {
+      "name": "赫曼陆龟",
+      "diet": "草食性",
+      "repro": "卵生",
+      "legal_status": "受法律约束",
+      "expert_advice": "需要一个安全的户外围栏，有阳光照射区和阴凉区。饮食需富含钙质和纤维。",
+      "repro_advice": "冬眠对于刺激繁殖至关重要。雌性在地面挖掘的洞穴中产下几枚卵。",
+      "notes": "欧洲最受欢迎的陆龟之一。"
+    },
+    "nl": {
+      "name": "Griekse landschildpad",
+      "diet": "Herbivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Onderworpen",
+      "expert_advice": "Vereist een veilig buitenverblijf met zonnige en schaduwrijke plekken. Dieet rijk aan calcium en vezels.",
+      "repro_advice": "Hibernatie is essentieel om de voortplanting te stimuleren. Het vrouwtje legt meerdere eieren in een gat in de grond.",
+      "notes": "Een van de meest populaire landschildpadden in Europa."
+    },
+    "feed_category": "vegetation",
+    "temp_hot_min": "28",
+    "temp_hot_max": "32",
+    "temp_cold_min": "18",
+    "temp_cold_max": "22",
+    "humidity_min": "50",
+    "humidity_max": "60",
+    "gestation_days": "40",
+    "incubation_days": "60",
+    "incubation_temp": "30",
+    "incubation_humidity": "80"
+  }
+]
