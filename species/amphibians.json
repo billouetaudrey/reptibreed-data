@@ -14,34 +14,49 @@
       "notes": "Strictement nocturne, très sensible à la dessiccation."
     },
     "en": {
-      "name": "Rainette aux yeux rouges",
-      "diet": "Omnivore",
+      "name": "Red-eyed tree frog",
+      "diet": "Omnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Terrarium with large smooth leaves (Monstera, Pothos) for nocturnal rest.",
+      "repro_advice": "Requires an artificial rain chamber to trigger egg laying (on leaves above water).",
+      "notes": "Strictly nocturnal, very sensitive to desiccation."
     },
     "es": {
-      "name": "Rainette aux yeux rouges",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Rana de ojos rojos",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Terrario arborícola con hojas grandes y lisas (Monstera, Pothos) para el descanso nocturno.",
+      "repro_advice": "Requiere una cámara de lluvia artificial para desencadenar la puesta (en las hojas sobre el agua).",
+      "notes": "Estrictamente nocturna, muy sensible a la desecación."
     },
     "de": {
-      "name": "Rainette aux yeux rouges",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Rotaugenlaubfrosch",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Baumterrarium mit großen glatten Blättern (Monstera, Pothos) für die Nachtruhe.",
+      "repro_advice": "Erfordert eine künstliche Regenkammer, um das Eierlegen (auf Blättern über Wasser) auszulösen.",
+      "notes": "Streng nachtaktiv, sehr empfindlich gegenüber Austrocknung."
     },
     "zh": {
-      "name": "Rainette aux yeux rouges",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "红眼树蛙",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "带有大型光滑叶片（龟背竹、绿萝）的树栖爬虫缸，用于夜间休息。",
+      "repro_advice": "需要人工降雨室来触发产卵（在水面上的叶子上）。",
+      "notes": "严格夜间活动，对干燥非常敏感。"
     },
     "nl": {
-      "name": "Rainette aux yeux rouges",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Roodoogmakikikker",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Boombewonend terrarium met grote gladde bladeren (Monstera, Pothos) voor nachtrust.",
+      "repro_advice": "Vereist een kunstmatige regenruimte om de eierafzetting (op bladeren boven water) te stimuleren.",
+      "notes": "Strikt nachtactief, zeer gevoelig voor uitdroging."
     },
     "feed_category": "others",
     "temp_hot_min": "26",
@@ -71,33 +86,48 @@
     },
     "en": {
       "name": "Axolotl",
-      "diet": "Carnivore",
+      "diet": "Carnivorous",
       "repro": "Oviparous",
-      "legal_status": "CITES II / Annex B (EU)"
+      "legal_status": "CITES II / Annex B (EU)",
+      "expert_advice": "Keep the water clean and cool. The temperature should never exceed 22°C otherwise it may lead to severe stress or death.",
+      "repro_advice": "A fresh water change or a natural drop in temperatures in winter stimulates reproduction.",
+      "notes": "100% aquatic species (neotenic), never handle out of water."
     },
     "es": {
       "name": "Ajolote",
       "diet": "Carnívoro",
       "repro": "Ovíparo",
-      "legal_status": "CITES II / Anexo B (UE)"
+      "legal_status": "CITES II / Anexo B (UE)",
+      "expert_advice": "Mantener el agua siempre limpia y fresca. La temperatura nunca debe superar los 22°C para evitar el estrés grave o la muerte.",
+      "repro_advice": "Un cambio de agua fresca o un descenso natural de las temperaturas en invierno estimula la reproducción.",
+      "notes": "Especie 100% acuática (neoténica), nunca manipular fuera del agua."
     },
     "de": {
       "name": "Axolotl",
       "diet": "Fleischfresser",
       "repro": "Ovipar",
-      "legal_status": "WA II / Anhang B (EU)"
+      "legal_status": "WA II / Anhang B (EU)",
+      "expert_advice": "Halten Sie das Wasser immer sauber und kühl. Die Temperatur sollte niemals 22°C überschreiten, da dies zu schwerem Stress oder Tod führen kann.",
+      "repro_advice": "Ein Frischwasserwechsel oder ein natürlicher Temperaturabfall im Winter regt die Fortpflanzung an.",
+      "notes": "100% aquatische Art (neotenisch), niemals außerhalb des Wassers handhaben."
     },
     "zh": {
       "name": "美西螈",
       "diet": "食肉动物",
       "repro": "卵生",
-      "legal_status": "CITES II / 附录 B (欧盟)"
+      "legal_status": "CITES II / 附录 B (欧盟)",
+      "expert_advice": "保持水质清洁凉爽。温度绝不能超过22°C，否则会导致严重压力或死亡。",
+      "repro_advice": "换新鲜凉水或冬季自然降温可刺激繁殖。",
+      "notes": "100%水生（幼态持续），切勿将其移出水面。"
     },
     "nl": {
       "name": "Axolotl",
       "diet": "Vleeseter",
       "repro": "Eierleggend",
-      "legal_status": "CITES II / Bijlage B (EU)"
+      "legal_status": "CITES II / Bijlage B (EU)",
+      "expert_advice": "Houd het water altijd schoon en koel. De temperatuur mag nooit hoger zijn dan 22°C om ernstige stress of de dood te voorkomen.",
+      "repro_advice": "Een verversing met vers water of een natuurlijke daling van de temperatuur in de winter stimuleert de voortplanting.",
+      "notes": "100% aquatische soort (neoteen), nooit uit het water hanteren."
     },
     "feed_category": "others",
     "temp_hot_min": "18",
@@ -126,34 +156,49 @@
       "notes": "Contrairement à l'Axolotl, cette espèce a tendance à accomplir sa métamorphose terrestre."
     },
     "en": {
-      "name": "Salamandre tigrée",
-      "diet": "Omnivore",
+      "name": "Tiger salamander",
+      "diet": "Omnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Needs a semi-aquatic tank with rich soil for digging.",
+      "repro_advice": "Aquatic reproduction after a cooling period.",
+      "notes": "Unlike the Axolotl, this species tends to complete its terrestrial metamorphosis."
     },
     "es": {
-      "name": "Salamandre tigrée",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Salamandra tigre",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Necesita un tanque semiacuático con tierra rica para cavar.",
+      "repro_advice": "Reproducción acuática después de un período de enfriamiento.",
+      "notes": "A diferencia del Ajolote, esta especie tiende a completar su metamorfosis terrestre."
     },
     "de": {
-      "name": "Salamandre tigrée",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Tiger-Salamander",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Benötigt ein semi-aquatisches Becken mit reicher Erde zum Graben.",
+      "repro_advice": "Aquatische Fortpflanzung nach einer Abkühlungsphase.",
+      "notes": "Im Gegensatz zum Axolotl neigt diese Art dazu, ihre terrestrische Metamorphose zu vollenden."
     },
     "zh": {
-      "name": "Salamandre tigrée",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "虎纹钝口螈",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "需要半水栖鱼缸，并有肥沃的土壤供其挖掘。",
+      "repro_advice": "冷却期后在水中繁殖。",
+      "notes": "与美西螈不同，该物种倾向于完成陆地变态。"
     },
     "nl": {
-      "name": "Salamandre tigrée",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Tijgersalamander",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Heeft een semi-aquatisch verblijf nodig met rijke grond om te graven.",
+      "repro_advice": "Aquatische voortplanting na een afkoelingsperiode.",
+      "notes": "In tegenstelling tot de axolotl heeft deze soort de neiging om zijn landmetamorfose te voltooien."
     },
     "feed_category": "others",
     "temp_hot_min": "20",
@@ -182,34 +227,49 @@
       "notes": "Très sédentaire, elle passe sa vie camouflée en attendant qu'une proie passe."
     },
     "en": {
-      "name": "Grenouilles Pacman",
-      "diet": "Omnivore",
+      "name": "Pacman frogs",
+      "diet": "Carnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Loose substrate for burying itself, to be kept clean. Hand feed with tongs to avoid accidental bites.",
+      "repro_advice": "Requires a period of drought followed by heavy rains to simulate the breeding season.",
+      "notes": "Very sedentary, it spends its life camouflaged waiting for prey to pass."
     },
     "es": {
-      "name": "Grenouilles Pacman",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Ranas Pacman",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Sustrato suelto para enterrarse, mantener limpio. Alimentar con pinzas para evitar mordeduras accidentales.",
+      "repro_advice": "Requiere un período de sequía seguido de lluvias intensas para simular la temporada de apareamiento.",
+      "notes": "Muy sedentaria, pasa su vida camuflada esperando a que pase una presa."
     },
     "de": {
-      "name": "Grenouilles Pacman",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Pacman-Frösche",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Lockeres Substrat zum Eingraben, sauber halten. Mit der Pinzette füttern, um versehentliche Bisse zu vermeiden.",
+      "repro_advice": "Benötigt eine Trockenperiode gefolgt von starken Regenfällen, um die Paarungszeit zu simulieren.",
+      "notes": "Sehr sesshaft, verbringt sein Leben getarnt und wartet darauf, dass Beute vorbeikommt."
     },
     "zh": {
-      "name": "Grenouilles Pacman",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "角蛙",
+      "diet": "食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "疏松的垫材以便其挖掘，并保持清洁。用镊子喂食以避免意外被咬。",
+      "repro_advice": "需要一段干旱期，随后是强降雨以模拟交配季节。",
+      "notes": "非常久坐，一生都在伪装中等待猎物经过。"
     },
     "nl": {
-      "name": "Grenouilles Pacman",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Pacman kikker",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Los substraat om in te graven, schoon te houden. Voer met een pincet om onbedoelde beet te voorkomen.",
+      "repro_advice": "Vereist een periode van droogte gevolgd door hevige regenval om het paarseizoen te simuleren.",
+      "notes": "Zeer sedentair, brengt zijn leven gecamoufleerd door in afwachting van een prooi."
     },
     "feed_category": "others",
     "temp_hot_min": "26",
@@ -238,34 +298,49 @@
       "notes": "Perdent leur venimosité en captivité à cause de leur régime alimentaire modifié."
     },
     "en": {
-      "name": "Grenouilles venimeuses",
-      "diet": "Omnivore",
+      "name": "Poison dart frogs",
+      "diet": "Insectivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Densely planted tropical terrarium with bromeliads. Feed with very small insects (fruit flies).",
+      "repro_advice": "Parents often carry tadpoles on their backs to place them in small water spots.",
+      "notes": "Lose their toxicity in captivity due to their modified diet."
     },
     "es": {
-      "name": "Grenouilles venimeuses",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Ranas punta de flecha",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Terrario tropical muy plantado con bromelias. Alimentar con insectos muy pequeños (drosófilas).",
+      "repro_advice": "Los padres suelen transportar a los renacuajos a su espalda para colocarlos en pequeños charcos de agua.",
+      "notes": "Pierden su toxicidad en cautiverio debido a su dieta modificada."
     },
     "de": {
-      "name": "Grenouilles venimeuses",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Pfeilgiftfrösche",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Tropisches Terrarium mit dichter Bepflanzung und Bromelien. Mit sehr kleinen Insekten (Fruchtfliegen) füttern.",
+      "repro_advice": "Die Eltern tragen die Kaulquappen oft auf ihrem Rücken, um sie in kleinen Wasserstellen zu platzieren.",
+      "notes": "Verlieren in Gefangenschaft aufgrund ihrer modifizierten Ernährung ihre Giftigkeit."
     },
     "zh": {
-      "name": "Grenouilles venimeuses",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "箭毒蛙",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "种植密集的凤梨科植物的热带爬虫缸。喂食非常小的昆虫（果蝇）。",
+      "repro_advice": "父母经常背着蝌蚪将它们放入小水源中。",
+      "notes": "由于饮食习惯的改变，在圈养环境下会失去毒性。"
     },
     "nl": {
-      "name": "Grenouilles venimeuses",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Pijlgifkikkers",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Tropisch terrarium met veel beplanting en bromelia's. Voer met zeer kleine insecten (fruitvliegen).",
+      "repro_advice": "Ouders dragen vaak kikkervisjes op hun rug om ze in kleine waterpoeltjes te plaatsen.",
+      "notes": "Verliezen hun giftigheid in gevangenschap vanwege hun aangepaste dieet."
     },
     "feed_category": "others",
     "temp_hot_min": "24",
@@ -277,6 +352,77 @@
     "gestation_days": "14",
     "incubation_days": "15",
     "incubation_temp": "24",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Hyla Arborea",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette verte",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Protégé (France)",
+      "expert_advice": "Espèce tempérée. Nécessite une période d'hivernage au frais pour stimuler la reproduction.",
+      "repro_advice": "Ponte en amas dans l'eau après la sortie d'hivernage.",
+      "notes": "Capacité à changer de couleur selon son environnement (vert à gris)."
+    },
+    "en": {
+      "name": "European tree frog",
+      "diet": "Insectivorous",
+      "repro": "Oviparous",
+      "legal_status": "Protected (EU)",
+      "expert_advice": "Temperate species. Requires a cool wintering period to stimulate reproduction.",
+      "repro_advice": "Lays eggs in clusters in water after emerging from wintering.",
+      "notes": "Ability to change color depending on its environment (green to gray)."
+    },
+    "es": {
+      "name": "Ranita de San Antonio",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "Protegido",
+      "expert_advice": "Especie templada. Requiere un período de invernada fresco para estimular la reproducción.",
+      "repro_advice": "Puesta en racimos en el agua después de salir de la invernada.",
+      "notes": "Capacidad de cambiar de color según su entorno (de verde a gris)."
+    },
+    "de": {
+      "name": "Europäischer Laubfrosch",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Geschützt",
+      "expert_advice": "Gemäßigte Art. Benötigt eine kühle Überwinterungsphase, um die Vermehrung anzuregen.",
+      "repro_advice": "Eiablage in Klumpen im Wasser nach dem Erwachen aus der Überwinterung.",
+      "notes": "Fähigkeit, die Farbe je nach Umgebung zu ändern (grün bis grau)."
+    },
+    "zh": {
+      "name": "欧洲树蛙",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "受保护物种",
+      "expert_advice": "温带物种。需要寒冷的冬眠期来刺激繁殖。",
+      "repro_advice": "冬眠结束后在水中成团产卵。",
+      "notes": "能根据环境改变颜色（绿色到灰色）。"
+    },
+    "nl": {
+      "name": "Boomkikker",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Beschermd",
+      "expert_advice": "Gematigde soort. Vereist een koele overwinteringsperiode om voortplanting te stimuleren.",
+      "repro_advice": "Eierafzetting in klompjes in het water na de winterrust.",
+      "notes": "Vermogen om van kleur te veranderen afhankelijk van de omgeving (groen naar grijs)."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "22",
+    "temp_hot_max": "25",
+    "temp_cold_min": "18",
+    "temp_cold_max": "20",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "10",
+    "incubation_days": "12",
+    "incubation_temp": "20",
     "incubation_humidity": "100"
   },
   {
@@ -294,34 +440,49 @@
       "notes": "Parfois appelée 'Grenouille Freddy Krueger' à cause de sa défense."
     },
     "en": {
-      "name": "Grenouille de Budgett",
-      "diet": "Omnivore",
+      "name": "Budgett's frog",
+      "diet": "Carnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Half water, half land. Very aggressive, stands up and screams when threatened.",
+      "repro_advice": "Requires large simulations of rain in summer.",
+      "notes": "Sometimes called 'Freddy Krueger Frog' because of its defense."
     },
     "es": {
-      "name": "Grenouille de Budgett",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Rana de Budgett",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Mitad agua, mitad tierra. Muy agresiva, se pone de pie y grita cuando se siente amenazada.",
+      "repro_advice": "Requiere grandes simulaciones de lluvia en verano.",
+      "notes": "A veces llamada 'rana Freddy Krueger' por su defense."
     },
     "de": {
-      "name": "Grenouille de Budgett",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Budgetts Frosch",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Halb Wasser, halb Land. Sehr aggressiv, richtet sich auf und schreit, wenn er sich bedroht fühlt.",
+      "repro_advice": "Erfordert große Regensimulationen im Sommer.",
+      "notes": "Wegen seiner Verteidigung manchmal 'Freddy Krueger Frosch' genannt."
     },
     "zh": {
-      "name": "Grenouille de Budgett",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "猫眼角蛙（巴吉特氏蛙）",
+      "diet": "食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "半水半陆地环境。非常有侵略性，受到威胁时会站立并大声尖叫。",
+      "repro_advice": "夏季需要大量的降雨模拟。",
+      "notes": "因其防御行为有时被称为“弗莱迪·克鲁格蛙”。"
     },
     "nl": {
-      "name": "Grenouille de Budgett",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Budgett's kikker",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Half water, half land. Zeer agressief, gaat rechtop staan en schreeuwt wanneer hij zich bedreigd voelt.",
+      "repro_advice": "Vereist grote simulaties van regen in de zomer.",
+      "notes": "Soms 'Freddy Krueger Frog' genoemd vanwege zijn verdediging."
     },
     "feed_category": "others",
     "temp_hot_min": "26",
@@ -350,34 +511,49 @@
       "notes": "Parfois appelée 'Dumpy Tree Frog' à cause de ses bourrelets de graisse crâniens si elle est trop nourrie."
     },
     "en": {
-      "name": "Rainette de White",
-      "diet": "Omnivore",
+      "name": "White's tree frog",
+      "diet": "Insectivorous/Carnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Provide large branches and vines, this frog is prone to obesity.",
+      "repro_advice": "Rain chamber required to induce egg laying after rest.",
+      "notes": "Sometimes called 'Dumpy Tree Frog' because of its cranial fat folds if overfed."
     },
     "es": {
-      "name": "Rainette de White",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Rana de White",
+      "diet": "Insectívoro/Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Proporcionar grandes ramas y lianas, esta rana es propensa a la obesidad.",
+      "repro_advice": "Se requiere cámara de lluvia para inducir la puesta después del descanso.",
+      "notes": "A veces llamada 'rana arborícola regordeta' por sus pliegues de grasa craneales si se sobrealimenta."
     },
     "de": {
-      "name": "Rainette de White",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Korallenfinger-Laubfrosch",
+      "diet": "Insekten-/Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Große Äste und Lianen vorsehen, dieser Frosch neigt zu Fettleibigkeit.",
+      "repro_advice": "Regenkammer erforderlich, um die Eiablage nach der Ruhephase einzuleiten.",
+      "notes": "Wegen der Fettwulste am Kopf bei Überfütterung manchmal 'Dumpy Tree Frog' genannt."
     },
     "zh": {
-      "name": "Rainette de White",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "白氏树蛙",
+      "diet": "食虫/食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "提供粗大的树枝和藤蔓，这种青蛙容易肥胖。",
+      "repro_advice": "休息期后需要降雨室诱导产卵。",
+      "notes": "如果喂食过多，头部会出现褶皱，因此有时被称为“大胖子树蛙”。"
     },
     "nl": {
-      "name": "Rainette de White",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Koraalvingerboomkikker",
+      "diet": "Insecteneter/Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zorg voor grote takken en lianen, deze kikker is gevoelig voor obesitas.",
+      "repro_advice": "Regenruimte vereist om de eierafzetting te stimuleren na rust.",
+      "notes": "Soms 'Dumpy Tree Frog' genoemd vanwege zijn schedelvetplooien als hij te veel gevoerd wordt."
     },
     "feed_category": "others",
     "temp_hot_min": "26",
@@ -406,34 +582,49 @@
       "notes": "Parmi les amphibiens les plus colorés et prisés."
     },
     "en": {
-      "name": "O. pumilio, O. sylvatica",
-      "diet": "Omnivore",
+      "name": "Strawberry poison frog etc.",
+      "diet": "Insectivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Require tiny prey at all times (springtails, fruit flies). Mandatory micro-habitats.",
+      "repro_advice": "Females feed their tadpoles with unfertilized eggs (hence the name 'Oophaga').",
+      "notes": "Among the most colorful and prized amphibians."
     },
     "es": {
-      "name": "O. pumilio, O. sylvatica",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Ranas venenosas del género Oophaga",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Requieren presas minúsculas en todo momento (colémbolos, drosófilas). Microhábitats obligatorios.",
+      "repro_advice": "Las hembras alimentan a sus renacuajos con huevos no fertilizados (de ahí su nombre 'Oophaga').",
+      "notes": "Entre los anfibios más coloridos y apreciados."
     },
     "de": {
-      "name": "O. pumilio, O. sylvatica",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Oophaga-Arten",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Benötigen ständig winzige Beutetiere (Springschwänze, Fruchtfliegen). Zwingende Mikrohabitate.",
+      "repro_advice": "Weibchen füttern ihre Kaulquappen mit unbefruchteten Eiern (daher der Name 'Oophaga').",
+      "notes": "Gehören zu den farbenprächtigsten und am meisten geschätzten Amphibien."
     },
     "zh": {
-      "name": "O. pumilio, O. sylvatica",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "曼蛙属（食卵蛙）",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "始终需要微小的猎物（跳虫、果蝇）。必须提供微型栖息地。",
+      "repro_advice": "雌性用未受精的卵喂养蝌蚪（因此得名“Oophaga”）。",
+      "notes": "最多彩且最受推崇的两栖动物之一。"
     },
     "nl": {
-      "name": "O. pumilio, O. sylvatica",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Oophaga-soorten",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Hebben op elk moment kleine prooien nodig (springstaarten, fruitvliegen). Microhabitats verplicht.",
+      "repro_advice": "Vrouwtjes voeren hun kikkervisjes met onbevruchte eieren (vandaar de naam 'Oophaga').",
+      "notes": "Behoren tot de meest kleurrijke en gewaardeerde amfibieën."
     },
     "feed_category": "others",
     "temp_hot_min": "24",
@@ -446,6 +637,77 @@
     "incubation_days": "15",
     "incubation_temp": "24",
     "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Osteopilus Septentrionalis",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette de Cuba",
+      "diet": "Insectivore/Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Grande rainette très vorace. Peut manger d'autres petites grenouilles.",
+      "repro_advice": "Ponte après de fortes pluies dans de petites collections d'eau.",
+      "notes": "Considérée comme invasive dans de nombreuses régions (ex: Floride)."
+    },
+    "en": {
+      "name": "Cuban tree frog",
+      "diet": "Insectivorous/Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Large and very voracious tree frog. Can eat other small frogs.",
+      "repro_advice": "Lays eggs after heavy rains in small water collections.",
+      "notes": "Considered invasive in many regions (e.g., Florida)."
+    },
+    "es": {
+      "name": "Rana arborícola de Cuba",
+      "diet": "Insectívoro/Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Rana arborícola grande y muy voraz. Puede comer otras ranas pequeñas.",
+      "repro_advice": "Puesta tras fuertes lluvias en pequeñas colecciones de agua.",
+      "notes": "Considerada invasora en muchas regiones (ej: Florida)."
+    },
+    "de": {
+      "name": "Kubanischer Laubfrosch",
+      "diet": "Insekten-/Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Großer und sehr gefräßiger Laubfrosch. Kann andere kleine Frösche fressen.",
+      "repro_advice": "Eiablage nach starken Regenfällen in kleinen Wasseransammlungen.",
+      "notes": "In vielen Regionen (z.B. Florida) als invasiv eingestuft."
+    },
+    "zh": {
+      "name": "古巴树蛙",
+      "diet": "食虫/食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "体型巨大且非常贪婪。会吃掉其他小型青蛙。",
+      "repro_advice": "强降雨后在小型积水中产卵。",
+      "notes": "在许多地区（如佛罗里达州）被视为入侵物种。"
+    },
+    "nl": {
+      "name": "Cubaanse boomkikker",
+      "diet": "Insecteneter/Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Grote en zeer vraatzuchtige boomkikker. Kan andere kleine kikkers eten.",
+      "repro_advice": "Eierafzetting na hevige regenval in kleine waterverzamelingen.",
+      "notes": "Beschouwd als invasief in veel regio's (bijv. Florida)."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "26",
+    "temp_hot_max": "29",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "60",
+    "humidity_max": "90",
+    "gestation_days": "10",
+    "incubation_days": "10",
+    "incubation_temp": "26",
+    "incubation_humidity": "90"
   },
   {
     "scientific_name": "Phyllobates Spp.",
@@ -462,34 +724,49 @@
       "notes": "Ces grenouilles sont souvent très vocales."
     },
     "en": {
-      "name": "P. terribilis, P. vittatus",
-      "diet": "Omnivore",
+      "name": "Golden poison frogs etc.",
+      "diet": "Insectivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Dense humid tropical terrarium. Note that the wild P. terribilis is the most toxic animal in the world (loses its toxicity in captivity).",
+      "repro_advice": "Parents transport tadpoles on their backs to a water source.",
+      "notes": "These frogs are often very vocal."
     },
     "es": {
-      "name": "P. terribilis, P. vittatus",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Ranas venenosas del género Phyllobates",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Terrario tropical húmedo denso. Ojo, la P. terribilis salvaje es el animal más tóxico del mundo (pierde su toxicidad en cautiverio).",
+      "repro_advice": "Los padres transportan a los renacuajos sobre su espalda a una fuente de agua.",
+      "notes": "Estas ranas suelen ser muy vocales."
     },
     "de": {
-      "name": "P. terribilis, P. vittatus",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Phyllobates-Arten",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Dicht bepflanztes feuchttropisches Terrarium. Achtung, die wilde P. terribilis ist das giftigste Tier der Welt (verliert in Gefangenschaft ihre Giftigkeit).",
+      "repro_advice": "Eltern transportieren Kaulquappen auf ihrem Rücken zu einer Wasserquelle.",
+      "notes": "Diese Frösche sind oft sehr lautstark."
     },
     "zh": {
-      "name": "P. terribilis, P. vittatus",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "叶毒蛙属",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "茂密潮湿的热带爬虫缸。注意，野生的金色箭毒蛙是世界上毒性最强的动物（在圈养环境下会失去毒性）。",
+      "repro_advice": "父母背着蝌蚪去水源地。",
+      "notes": "这些青蛙通常非常喜欢叫。"
     },
     "nl": {
-      "name": "P. terribilis, P. vittatus",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Phyllobates-soorten",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Dicht beplant vochtig tropisch terrarium. Let op, de wilde P. terribilis is het meest giftige dier ter wereld (verliest zijn giftigheid in gevangenschap).",
+      "repro_advice": "Ouders vervoeren kikkervisjes op hun rug naar een waterbron.",
+      "notes": "Deze kikkers zijn vaak erg vocaal."
     },
     "feed_category": "others",
     "temp_hot_min": "24",
@@ -502,5 +779,147 @@
     "incubation_days": "15",
     "incubation_temp": "24",
     "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Trachycephalus Kunawalu",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette kunawalu",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Proche de la grenouille de lait, mais plus petite. Nécessite un terrarium arboricole humide.",
+      "repro_advice": "Ponte dans des cavités d'arbres remplies d'eau.",
+      "notes": "Espèce récemment distinguée de T. resinifictrix."
+    },
+    "en": {
+      "name": "Kunawalu tree frog",
+      "diet": "Insectivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Close to the milk frog, but smaller. Requires a humid arboreal terrarium.",
+      "repro_advice": "Lays eggs in water-filled tree cavities.",
+      "notes": "Species recently distinguished from T. resinifictrix."
+    },
+    "es": {
+      "name": "Rana arborícola Kunawalu",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Cercana a la rana lechera, pero más pequeña. Requiere un terrario arborícola húmedo.",
+      "repro_advice": "Puesta en cavidades de árboles llenas de agua.",
+      "notes": "Especie recientemente distinguida de T. resinifictrix."
+    },
+    "de": {
+      "name": "Kunawalu-Laubfrosch",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Ähnlich wie der Milchefrosch, aber kleiner. Benötigt ein feuchtes Baumterrarium.",
+      "repro_advice": "Eiablage in wassergefüllten Baumhöhlen.",
+      "notes": "Kürzlich von T. resinifictrix unterschiedene Art."
+    },
+    "zh": {
+      "name": "昆那瓦鲁树蛙",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "与牛奶蛙相似，但体型更小。需要潮湿的树栖爬虫缸。",
+      "repro_advice": "在充满水的树洞中产卵。",
+      "notes": "最近才从牛奶蛙中分离出来的物种。"
+    },
+    "nl": {
+      "name": "Kunawalu boomkikker",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Verwant aan de melkkikker, maar kleiner. Vereist een vochtig boombewonend terrarium.",
+      "repro_advice": "Eierafzetting in met water gevulde boomholten.",
+      "notes": "Soort die onlangs is onderscheiden van T. resinifictrix."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "26",
+    "temp_hot_max": "28",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "12",
+    "incubation_days": "14",
+    "incubation_temp": "26",
+    "incubation_humidity": "90"
+  },
+  {
+    "scientific_name": "Trachycephalus Resinifictrix",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette de lait (Grenouille de lait)",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Magnifique coloration contrastée. Sécrète une substance laiteuse collante en cas de stress.",
+      "repro_advice": "Ponte dans les cavités d'arbres. Les têtards se développent rapidement.",
+      "notes": "Aussi appelée 'Mission golden-eyed tree frog'."
+    },
+    "en": {
+      "name": "Mission golden-eyed tree frog",
+      "diet": "Insectivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Beautiful contrasted coloration. Secretes a sticky milky substance in case of stress.",
+      "repro_advice": "Lays eggs in tree cavities. Tadpoles develop quickly.",
+      "notes": "Also known as the 'Amazon milk frog'."
+    },
+    "es": {
+      "name": "Rana lechera amazónica",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Hermosa coloración contrastada. Secreta una sustancia lechosa pegajosa en caso de estrés.",
+      "repro_advice": "Puesta en cavidades de árboles. Los renacuajos se desarrollan rápidamente.",
+      "notes": "También llamada 'rana de ojos dorados'."
+    },
+    "de": {
+      "name": "Amazonas-Milchfrosch",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Wunderschöne kontrastreiche Färbung. Sondert bei Stress eine klebrige, milchige Substanz ab.",
+      "repro_advice": "Eiablage in Baumhöhlen. Kaulquappen entwickeln sich schnell.",
+      "notes": "Auch bekannt als 'Kronenlaubfrosch'."
+    },
+    "zh": {
+      "name": "亚马逊牛奶蛙",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "美丽的对比色。在受到压力时会分泌粘稠的乳状物质。",
+      "repro_advice": "在树洞中产卵。蝌蚪发育迅速。",
+      "notes": "也被称为“金眼树蛙”。"
+    },
+    "nl": {
+      "name": "Amazone-melkkikker",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Prachtige contrasterende kleuring. Scheidt bij stress een kleverige melkachtige substantie af.",
+      "repro_advice": "Eierafzetting in boomholten. Kikkervisjes ontwikkelen zich snel.",
+      "notes": "Ook bekend als 'Mission golden-eyed tree frog'."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "26",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "12",
+    "incubation_days": "14",
+    "incubation_temp": "26",
+    "incubation_humidity": "90"
   }
 ]

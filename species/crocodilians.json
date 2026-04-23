@@ -14,34 +14,49 @@
       "notes": "Croissance très rapide les premières années."
     },
     "en": {
-      "name": "Caïman à lunettes",
-      "diet": "Omnivore",
+      "name": "Spectacled caiman",
+      "diet": "Omnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Reserved for permit holders in many countries. Requires massive filtered and secured tanks.",
+      "repro_advice": "The female builds a nest of plant debris for laying eggs.",
+      "notes": "Very fast growth in the first few years."
     },
     "es": {
-      "name": "Caïman à lunettes",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Caimán de anteojos",
+      "diet": "Omnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Reservado para titulares de permisos en muchos países. Requiere estanques masivos filtrados y asegurados.",
+      "repro_advice": "La hembra construye un nido de restos vegetales para la puesta.",
+      "notes": "Crecimiento muy rápido en los primeros años."
     },
     "de": {
-      "name": "Caïman à lunettes",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Krokodilkaiman",
+      "diet": "Omnivor",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "In vielen Ländern Haltern mit Sachkundenachweis vorbehalten. Benötigt riesige gefilterte und gesicherte Becken.",
+      "repro_advice": "Das Weibchen baut ein Nest aus Pflanzenteilen für die Eiablage.",
+      "notes": "Sehr schnelles Wachstum in den ersten Jahren."
     },
     "zh": {
-      "name": "Caïman à lunettes",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "眼镜凯门鳄",
+      "diet": "杂食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "在许多国家仅限持证人员。需要大型过滤和安全的池塘。",
+      "repro_advice": "雌性用植物残骸筑巢产卵。",
+      "notes": "最初几年生长非常迅速。"
     },
     "nl": {
-      "name": "Caïman à lunettes",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Brilkaaiman",
+      "diet": "Omnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "In veel landen voorbehouden aan vergunninghouders. Vereist enorme gefilterde en beveiligde bassins.",
+      "repro_advice": "Het vrouwtje bouwt een nest van plantenresten om eieren te leggen.",
+      "notes": "Zeer snelle groei in de eerste jaren."
     },
     "feed_category": "others",
     "temp_hot_min": "30",
@@ -52,6 +67,219 @@
     "humidity_max": "100",
     "gestation_days": "40",
     "incubation_days": "70",
+    "incubation_temp": "30",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Crocodylus Niloticus",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Crocodile du Nil",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES II / Annexe B",
+      "expert_advice": "L'un des plus grands crocodiliens. Réservé exclusivement aux structures zoologiques professionnelles.",
+      "repro_advice": "Nidification souterraine dans le sable. Forte garde maternelle.",
+      "notes": "Capable de s'attaquer à de grands mammifères. Très agressif."
+    },
+    "en": {
+      "name": "Nile Crocodile",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "One of the largest crocodilians. Reserved exclusively for professional zoological structures.",
+      "repro_advice": "Underground nesting in sand. Strong maternal guard.",
+      "notes": "Capable of attacking large mammals. Very aggressive."
+    },
+    "es": {
+      "name": "Cocodrilo del Nilo",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Uno de los crocodilianos más grandes. Reservado exclusivamente para estructuras zoológicas profesionales.",
+      "repro_advice": "Anidación subterránea en arena. Fuerte guardia materna.",
+      "notes": "Capaz de atacar a grandes mamíferos. Muy agresivo."
+    },
+    "de": {
+      "name": "Nilkrokodil",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Eines der größten Krokodile. Ausschließlich professionellen zoologischen Einrichtungen vorbehalten.",
+      "repro_advice": "Unterirdische Nestanlage im Sand. Starker mütterlicher Schutz.",
+      "notes": "Kann große Säugetiere angreifen. Sehr aggressiv."
+    },
+    "zh": {
+      "name": "尼罗鳄",
+      "diet": "肉食性",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "体型最大的鳄鱼之一。仅限专业的动物园机构。",
+      "repro_advice": "在沙中地下筑巢。强大的母性守护。",
+      "notes": "能够攻击大型哺乳动物。非常有攻击性。"
+    },
+    "nl": {
+      "name": "Nijlkrokodil",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Een van de grootste krokodilachtigen. Exclusief voorbehouden aan professionele zoölogische instellingen.",
+      "repro_advice": "Ondergrondse nesten in zand. Sterke moederlijke bewaking.",
+      "notes": "In staat om grote zoogdieren aan te vallen. Zeer agressief."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "32",
+    "temp_hot_max": "34",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "45",
+    "incubation_days": "90",
+    "incubation_temp": "31",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Crocodylus Porosus",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Crocodile marin",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES II / Annexe B",
+      "expert_advice": "Le plus grand reptile vivant au monde. Nécessite des installations colossales.",
+      "repro_advice": "Nid en monticule de végétation. Les femelles sont extrêmement protectrices.",
+      "notes": "Tolère l'eau salée. Connu pour être un prédateur d'hommes opportuniste."
+    },
+    "en": {
+      "name": "Saltwater Crocodile",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "The largest living reptile in the world. Requires colossal facilities.",
+      "repro_advice": "Mound nest made of vegetation. Females are extremely protective.",
+      "notes": "Tolerates salt water. Known to be an opportunistic man-eater."
+    },
+    "es": {
+      "name": "Cocodrilo marino",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "El reptil vivo más grande del mundo. Requiere instalaciones colosales.",
+      "repro_advice": "Nido en montículo de vegetación. Las hembras son extremadamente protectoras.",
+      "notes": "Tolera el agua salada. Conocido por ser un depredador de hombres oportunista."
+    },
+    "de": {
+      "name": "Leistenkrokodil",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Das größte lebende Reptil der Welt. Erfordert kolossale Anlagen.",
+      "repro_advice": "Hügelnest aus Vegetation. Weibchen sind extrem beschützerisch.",
+      "notes": "Verträgt Salzwasser. Bekannt als opportunistischer Menschenfresser."
+    },
+    "zh": {
+      "name": "湾鳄",
+      "diet": "肉食性",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "世界上现存最大的爬行动物。需要巨大的设施。",
+      "repro_advice": "用植被筑成土丘巢穴。雌性极具保护欲。",
+      "notes": "耐盐水。被称为机会主义的食人者。"
+    },
+    "nl": {
+      "name": "Zoutwaterkrokodil",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Het grootste levende reptiel ter wereld. Vereist kolossale faciliteiten.",
+      "repro_advice": "Heuvelnest gemaakt van vegetatie. Vrouwtjes zijn extreem beschermend.",
+      "notes": "Toleert zout water. Bekend als een opportunistische menseter."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "32",
+    "temp_hot_max": "34",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "80",
+    "humidity_max": "100",
+    "gestation_days": "45",
+    "incubation_days": "85",
+    "incubation_temp": "31",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Osteolaemus Tetraspis",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Crocodile nain",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES I / Annexe A",
+      "expert_advice": "Petite taille mais comportement très timide et nocturne. Nécessite beaucoup de cachettes.",
+      "repro_advice": "Nid en monticule. Ponte de petite taille (10-20 œufs).",
+      "notes": "Le plus petit crocodile vrai. Originaire d'Afrique de l'Ouest."
+    },
+    "en": {
+      "name": "Dwarf Crocodile",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES I / Annex A",
+      "expert_advice": "Small size but very shy and nocturnal behavior. Requires many hiding places.",
+      "repro_advice": "Mound nest. Small clutch size (10-20 eggs).",
+      "notes": "The smallest true crocodile. Native to West Africa."
+    },
+    "es": {
+      "name": "Cocodrilo enano",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES I / Anexo A",
+      "expert_advice": "Tamaño pequeño pero comportamiento muy tímido y nocturno. Requiere muchos escondites.",
+      "repro_advice": "Nido en montículo. Tamaño de puesta pequeño (10-20 huevos).",
+      "notes": "El cocodrilo verdadero más pequeño. Nativo de África Occidental."
+    },
+    "de": {
+      "name": "Stumpfkrokodil",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "WA I / Anhang A",
+      "expert_advice": "Klein, aber sehr scheu und nachtaktiv. Benötigt viele Versteckmöglichkeiten.",
+      "repro_advice": "Hügelnest. Kleine Gelegegröße (10-20 Eier).",
+      "notes": "Das kleinste echte Krokodil. Heimisch in Westafrika."
+    },
+    "zh": {
+      "name": "非洲侏儒鳄",
+      "diet": "肉食性",
+      "repro": "卵生",
+      "legal_status": "CITES I / 附录 A",
+      "expert_advice": "体型较小，但行为非常胆怯且为夜行性。需要许多躲避处。",
+      "repro_advice": "土丘巢穴。产卵量较小（10-20枚）。",
+      "notes": "最小的真鳄。原产于西非。"
+    },
+    "nl": {
+      "name": "Breedvoorhoofdkrokodil",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES I / Bijlage A",
+      "expert_advice": "Klein formaat maar zeer schuw en nachtactief gedrag. Vereist veel schuilplaatsen.",
+      "repro_advice": "Heuvelnest. Kleine legselgrootte (10-20 eieren).",
+      "notes": "De kleinste echte krokodil. Inheems in West-Afrika."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "80",
+    "humidity_max": "100",
+    "gestation_days": "40",
+    "incubation_days": "100",
     "incubation_temp": "30",
     "incubation_humidity": "100"
   },
@@ -70,34 +298,49 @@
       "notes": "Réservé aux capacitaires, bien qu'il soit petit (1,5m adulte max)."
     },
     "en": {
-      "name": "Caïman nain de Cuvier",
-      "diet": "Omnivore",
+      "name": "Cuvier's dwarf caiman",
+      "diet": "Carnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "The smallest crocodilian in the world, remains demanding in terms of space and aquatic facilities.",
+      "repro_advice": "Requires a significant land area with organic debris for the nest.",
+      "notes": "Reserved for permit holders, although it is small (max 1.5m adult)."
     },
     "es": {
-      "name": "Caïman nain de Cuvier",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Caimán enano de Cuvier",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "El crocodiliano más pequeño del mundo, sigue siendo exigente en cuanto a espacio e instalaciones acuáticas.",
+      "repro_advice": "Requiere una zona terrestre importante con restos orgánicos para el nido.",
+      "notes": "Reservado para titulares de permisos, aunque es pequeño (máx. 1,5 m adulto)."
     },
     "de": {
-      "name": "Caïman nain de Cuvier",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Brauen-Glattstirnkaiman",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Das kleinste Krokodil der Welt, stellt dennoch hohe Anforderungen an Platz und Wasseranlagen.",
+      "repro_advice": "Benötigt eine große Landfläche mit organischen Resten für das Nest.",
+      "notes": "Haltern mit Sachkundenachweis vorbehalten, obwohl es klein ist (max. 1,5 m als Erwachsener)."
     },
     "zh": {
-      "name": "Caïman nain de Cuvier",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "钝吻古鳄",
+      "diet": "食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "世界上最小的鳄鱼，但在空间和水生设施方面仍有很高要求。",
+      "repro_advice": "需要有大量有机碎屑的陆地区域筑巢。",
+      "notes": "仅限持证人员，尽管它体型较小（成年最大1.5米）。"
     },
     "nl": {
-      "name": "Caïman nain de Cuvier",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Cuviers gladvoorhoofdkaaiman",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Het kleinste krokodilachtige ter wereld, blijft veeleisend wat betreft ruimte en waterfaciliteiten.",
+      "repro_advice": "Vereist een aanzienlijk landoppervlak met organisch afval voor het nest.",
+      "notes": "Voorbehouden aan vergunninghouders, hoewel het klein is (max. 1,5 m volwassen)."
     },
     "feed_category": "others",
     "temp_hot_min": "30",
@@ -126,34 +369,49 @@
       "notes": "Son armure dorsale très ossifiée le protège des prédateurs terrestres (jaguar)."
     },
     "en": {
-      "name": "Caïman de Schneider",
-      "diet": "Omnivore",
+      "name": "Schneider's smooth-fronted caiman",
+      "diet": "Carnivorous",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "More terrestrial than other caimans, it tolerates slightly cooler waters. Tank and land required.",
+      "repro_advice": "Very protective of their mound nest.",
+      "notes": "Its heavily ossified dorsal armor protects it from terrestrial predators (jaguar)."
     },
     "es": {
-      "name": "Caïman de Schneider",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "name": "Caimán de Schneider",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Más terrestre que otros caimanes, tolera aguas un poco más frescas. Se requiere estanque y tierra.",
+      "repro_advice": "Muy protectores de su nido en montículo.",
+      "notes": "Su armadura dorsal muy osificada lo protege de los depredadores terrestres (jaguar)."
     },
     "de": {
-      "name": "Caïman de Schneider",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "name": "Keilkopf-Glattstirnkaiman",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Terrestrischer als andere Kaimane, verträgt etwas kühleres Wasser. Becken und Land erforderlich.",
+      "repro_advice": "Sehr beschützend gegenüber ihrem Hügelnest.",
+      "notes": "Seine stark verknöcherte Rückenpanzerung schützt ihn vor landgebundenen Raubtieren (Jaguar)."
     },
     "zh": {
-      "name": "Caïman de Schneider",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "name": "钝吻古鳄（施耐德氏）",
+      "diet": "食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "比其他凯门鳄更具陆栖性，能忍受稍凉的水。需要水池和陆地。",
+      "repro_advice": "非常保护它们的土丘巢穴。",
+      "notes": "其高度骨化的背甲可保护其免受陆地捕食者（如美洲豹）的侵害。"
     },
     "nl": {
-      "name": "Caïman de Schneider",
-      "diet": "Omnivore",
-      "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "name": "Schneiders gladvoorhoofdkaaiman",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Meer terrestrisch dan andere kaaimannen, verdraagt iets koeler water. Bassin en land vereist.",
+      "repro_advice": "Zeer beschermend over hun heuvelnest.",
+      "notes": "Het zwaar verbeende rugpantser beschermt hem tegen landroofdieren (jaguar)."
     },
     "feed_category": "others",
     "temp_hot_min": "30",

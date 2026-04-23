@@ -1,0 +1,86 @@
+[
+  {
+    "scientific_name": "Lissachatina Fulica",
+    "category": "Invertébré",
+    "family": "Divers",
+    "venomous": false,
+    "fr": {
+      "name": "Lissachatina Fulica",
+      "diet": "Herbivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Lissachatina Fulica",
+      "diet": "Herbivore",
+      "repro": "Ovipare"
+    },
+    "es": {
+      "name": "Lissachatina Fulica"
+    },
+    "de": {
+      "name": "Lissachatina Fulica"
+    },
+    "zh": {
+      "name": "Lissachatina Fulica"
+    },
+    "nl": {
+      "name": "Lissachatina Fulica"
+    }
+  },
+  {
+    "scientific_name": "Gromphadorhina Portentosa",
+    "category": "Invertébré",
+    "family": "Divers",
+    "venomous": false,
+    "fr": {
+      "name": "Gromphadorhina Portentosa",
+      "diet": "Herbivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Gromphadorhina Portentosa",
+      "diet": "Herbivore",
+      "repro": "Ovipare"
+    },
+    "es": {
+      "name": "Gromphadorhina Portentosa"
+    },
+    "de": {
+      "name": "Gromphadorhina Portentosa"
+    },
+    "zh": {
+      "name": "Gromphadorhina Portentosa"
+    },
+    "nl": {
+      "name": "Gromphadorhina Portentosa"
+    }
+  },
+  {
+    "scientific_name": "Coenobita Clypeatus",
+    "category": "Invertébré",
+    "family": "Divers",
+    "venomous": false,
+    "fr": {
+      "name": "Coenobita Clypeatus",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "en": {
+      "name": "Coenobita Clypeatus",
+      "diet": "Omnivore",
+      "repro": "Ovipare"
+    },
+    "es": {
+      "name": "Coenobita Clypeatus"
+    },
+    "de": {
+      "name": "Coenobita Clypeatus"
+    },
+    "zh": {
+      "name": "Coenobita Clypeatus"
+    },
+    "nl": {
+      "name": "Coenobita Clypeatus"
+    }
+  }
+]

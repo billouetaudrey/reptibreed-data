@@ -17,31 +17,46 @@
       "name": "Boa de Dumeril",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Massive species requiring a large terrestrial terrarium with a thick layer of substrate for burrowing.",
+      "repro_advice": "Slight drop in temperatures in winter to stimulate mating.",
+      "notes": "Calm and robust snake, native to Madagascar."
     },
     "es": {
       "name": "Boa de Dumeril",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Especie masiva que requiere un gran terrario terrestre con una capa gruesa de sustrato para enterrarse.",
+      "repro_advice": "Ligera bajada de temperaturas en invierno para estimular el apareamiento.",
+      "notes": "Serpiente tranquila y robusta, originaria de Madagascar."
     },
     "de": {
       "name": "Boa de Dumeril",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Massive Art, die ein großes Landterrarium mit einer dicken Substratschicht zum Eingraben benötigt.",
+      "repro_advice": "Leichte Temperatursenkung im Winter zur Stimulierung der Paarung.",
+      "notes": "Ruhige und robuste Schlange, heimisch in Madagaskar."
     },
     "zh": {
       "name": "Boa de Dumeril",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "体型巨大的物种，需要一个大型陆生饲养箱，并铺设厚厚的基质以便挖掘。",
+      "repro_advice": "冬季气温略微下降以刺激交配。",
+      "notes": "沉稳健壮的蛇类，原产于马达加斯加。"
     },
     "nl": {
       "name": "Boa de Dumeril",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Massieve soort die een groot landterrarium vereist met een dikke laag substraat om in te graven.",
+      "repro_advice": "Lichte temperatuurdaling in de winter om paring te stimuleren.",
+      "notes": "Rustige en robuuste slang, inheems in Madagaskar."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -73,31 +88,46 @@
       "name": "Serpent liane asiatique",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Highly vegetated vertical terrarium. Primarily eats lizards in the wild, transition to rodents can be difficult.",
+      "repro_advice": "Mating takes place in the branches.",
+      "notes": "Developed binocular vision with characteristic horizontal pupils."
     },
     "es": {
       "name": "Serpent liane asiatique",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Terrario vertical muy vegetado. Come principalmente lagartos en la naturaleza, la transición a roedores puede ser difícil.",
+      "repro_advice": "El apareamiento tiene lugar en las ramas.",
+      "notes": "Visión binocular desarrollada con pupilas horizontales características."
     },
     "de": {
       "name": "Serpent liane asiatique",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Stark bepflanztes vertikales Terrarium. Frisst in der Natur hauptsächlich Echsen, die Umstellung auf Nagetiere kann schwierig sein.",
+      "repro_advice": "Die Paarung findet in den Zweigen statt.",
+      "notes": "Entwickeltes binokulares Sehen mit charakteristischen horizontalen Pupillen."
     },
     "zh": {
       "name": "Serpent liane asiatique",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "植被茂盛的垂直饲养箱。在野外主要捕食蜥蜴，转换为啮齿动物可能比较困难。",
+      "repro_advice": "交配在树枝上进行。",
+      "notes": "具有发达的双眼视觉和特征性的水平瞳孔。"
     },
     "nl": {
       "name": "Serpent liane asiatique",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Dichtbegroeid verticaal terrarium. Eet in het wild voornamelijk hagedissen, de overgang naar knaagdieren kan moeilijk zijn.",
+      "repro_advice": "De paring vindt plaats in de takken.",
+      "notes": "Ontwikkeld binoculair zicht met kenmerkende horizontale pupillen."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -129,31 +159,46 @@
       "name": "A. childreni, A. maculosa",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Dwarf pythons perfect for beginners; do not require very large terrariums.",
+      "repro_advice": "Nighttime temperature drop in winter to induce reproduction.",
+      "notes": "Semi-arboreal species, appreciate some solid branches."
     },
     "es": {
       "name": "A. childreni, A. maculosa",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Pitones enanos perfectos para principiantes; no requieren terrarios muy grandes.",
+      "repro_advice": "Bajada nocturna de la temperatura en invierno para inducir la reproducción.",
+      "notes": "Especies semiarborícolas, aprecian algunas ramas sólidas."
     },
     "de": {
       "name": "A. childreni, A. maculosa",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Zwergpythons, ideal für Anfänger; benötigen keine sehr großen Terrarien.",
+      "repro_advice": "Nächtliche Temperaturabsenkung im Winter zur Induzierung der Fortpflanzung.",
+      "notes": "Semi-arboricole Arten, schätzen einige stabile Zweige."
     },
     "zh": {
       "name": "A. childreni, A. maculosa",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "非常适合初学者的矮小蟒蛇；不需要非常大的饲养箱。",
+      "repro_advice": "冬季夜间降温以诱导繁殖。",
+      "notes": "半树栖物种，喜欢一些坚固的树枝。"
     },
     "nl": {
       "name": "A. childreni, A. maculosa",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Dwergpythons perfect voor beginners; vereisen geen zeer grote terraria.",
+      "repro_advice": "Nachtelijke temperatuurdaling in de winter om voortplanting te induceren.",
+      "notes": "Semi-arborale soorten, waarderen enkele stevige takken."
     },
     "feed_category": "rodents",
     "temp_hot_min": "32",
@@ -186,31 +231,46 @@
       "name": "Woma & Black-headed Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Warm and dry terrestrial terrarium. Very good appetite, watch out for obesity.",
+      "repro_advice": "Rarely brood themselves in captivity, artificial incubation recommended.",
+      "notes": "The absence of heat-sensing pits is compensated by developed sight and smell."
     },
     "es": {
       "name": "Woma & Black-headed Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Terrario terrestre cálido y seco. Muy buen apetito, cuidado con la obesidad.",
+      "repro_advice": "Raramente incuban ellos mismos en cautividad, se recomienda incubación artificial.",
+      "notes": "La ausencia de fosetas termosensibles se compensa con una vista y un olfato desarrollados."
     },
     "de": {
       "name": "Woma & Black-headed Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Warmes und trockenes Landterrarium. Sehr guter Appetit, auf Fettleibigkeit achten.",
+      "repro_advice": "Brüten in Gefangenschaft selten selbst, künstliche Inkubation empfohlen.",
+      "notes": "Das Fehlen von Wärmesinnesgruben wird durch einen entwickelten Seh- und Geruchssinn ausgeglichen."
     },
     "zh": {
       "name": "Woma & Black-headed Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "温暖干燥的陆生饲养箱。食欲非常好，注意防止肥胖。",
+      "repro_advice": "在圈养环境下很少自行孵卵，建议进行人工孵化。",
+      "notes": "缺乏热敏坑通过发达的视觉和嗅觉得到补偿。"
     },
     "nl": {
       "name": "Woma & Black-headed Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Warm en droog landterrarium. Zeer goede eetlust, pas op voor obesitas.",
+      "repro_advice": "Broeden in gevangenschap zelden zelf, kunstmatige incubatie aanbevolen.",
+      "notes": "Het ontbreken van warmtegevoelige groeven wordt gecompenseerd door een ontwikkeld zicht en reukvermogen."
     },
     "feed_category": "rodents",
     "temp_hot_min": "32",
@@ -242,31 +302,46 @@
       "name": "Vipères des buissons",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Strictly locked arboreal terrarium required. Very dangerous bite, no specific antivenom exists.",
+      "repro_advice": "Females give birth to live young in the vegetation.",
+      "notes": "Species strictly reserved for experienced keepers."
     },
     "es": {
       "name": "Vipères des buissons",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Se requiere un terrario arborícola estrictamente cerrado. Mordedura muy peligrosa, no existe antídoto específico.",
+      "repro_advice": "Las hembras dan a luz a crías vivas en la vegetación.",
+      "notes": "Especie estrictamente reservada para cuidadores experimentados."
     },
     "de": {
       "name": "Vipères des buissons",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Streng verschlossenes Baumterrarium erforderlich. Sehr gefährlicher Biss, es existiert kein spezifisches Gegengift.",
+      "repro_advice": "Die Weibchen bringen in der Vegetation lebende Junge zur Welt.",
+      "notes": "Art, die ausschließlich erfahrenen Haltern vorbehalten ist."
     },
     "zh": {
       "name": "Vipères des buissons",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "必须使用严格锁定的树栖饲养箱。咬伤非常危险，目前尚无特定的抗毒血清。",
+      "repro_advice": "雌性在植被中产下活着的幼崽。",
+      "notes": "该物种严格仅限有经验的饲养者。"
     },
     "nl": {
       "name": "Vipères des buissons",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Strikt vergrendeld boomterrarium vereist. Zeer gevaarlijke beet, er bestaat geen specifiek tegengif.",
+      "repro_advice": "Vrouwtjes baren levende jongen in de vegetatie.",
+      "notes": "Soort die strikt is voorbehouden aan ervaren houders."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -298,31 +373,46 @@
       "name": "B. gabonica, B. nasicornis, B. arietans",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Extremely massive species, requiring a suitable locked enclosure. Very abundant and potentially fatal venom.",
+      "repro_advice": "Often large litters (up to more than 30 live young).",
+      "notes": "The venom fangs of the Gaboon viper are the longest in the animal world (up to 5 cm)."
     },
     "es": {
       "name": "B. gabonica, B. nasicornis, B. arietans",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Especies extremadamente masivas, que requieren un recinto cerrado adecuado. Veneno muy abundante y potencialmente mortal.",
+      "repro_advice": "A menudo camadas numerosas (hasta más de 30 crías vivas).",
+      "notes": "Los colmillos de veneno de la víbora de Gabón son los más largos del mundo animal (hasta 5 cm)."
     },
     "de": {
       "name": "B. gabonica, B. nasicornis, B. arietans",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Extrem massive Arten, die ein geeignetes verschlossenes Gehege benötigen. Sehr reichliches und potenziell tödliches Gift.",
+      "repro_advice": "Oft große Würfe (bis zu mehr als 30 lebende Junge).",
+      "notes": "Die Giftzähne der Gabunviper sind die längsten in der Tierwelt (bis zu 5 cm)."
     },
     "zh": {
       "name": "B. gabonica, B. nasicornis, B. arietans",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "体型极其巨大的物种，需要合适的锁定围栏。毒液量非常大且可能致命。",
+      "repro_advice": "通常产仔量很大（多达30多只活幼崽）。",
+      "notes": "加蓬咝蝰的毒牙是动物界中最长的（可达5厘米）。"
     },
     "nl": {
       "name": "B. gabonica, B. nasicornis, B. arietans",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Extreem massieve soorten, die een geschikt vergrendeld verblijf vereisen. Zeer overvloedig en potentieel dodelijk gif.",
+      "repro_advice": "Vaak grote nesten (tot meer dan 30 levende jongen).",
+      "notes": "De giftanden van de pofadder zijn de langste in de dierenwereld (tot 5 cm)."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -355,31 +445,46 @@
       "name": "Boa Constrictor Constrictor",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Provide a very solid terrarium. This subspecies grows larger than the Imperator and is very muscular.",
+      "repro_advice": "Females give birth after a long gestation, and may stop feeding for months.",
+      "notes": "The true Red-tailed Boa, prized for its very marked and colorful patterns at the end of the tail."
     },
     "es": {
       "name": "Boa Constrictor Constrictor",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Proporcionar un terrario muy sólido. Esta subespecie crece más que la Imperator y es muy musculosa.",
+      "repro_advice": "Las hembras dan a luz después de una larga gestación, y pueden dejar de alimentarse durante meses.",
+      "notes": "La verdadera Boa de cola roja, apreciada por sus patrones muy marcados y coloridos al final de la cola."
     },
     "de": {
       "name": "Boa Constrictor Constrictor",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Sorgen Sie für ein sehr stabiles Terrarium. Diese Unterart wird größer als die Imperator und ist sehr muskulös.",
+      "repro_advice": "Die Weibchen gebären nach einer langen Trächtigkeit und stellen unter Umständen monatelang die Nahrungsaufnahme ein.",
+      "notes": "Die echte Rotschwanzboa, geschätzt für ihre sehr ausgeprägten und farbenfrohen Muster am Schwanzende."
     },
     "zh": {
       "name": "Boa Constrictor Constrictor",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "提供一个非常坚固的饲养箱。这个亚种比巨蚺长得更大，而且肌肉非常发达。",
+      "repro_advice": "雌性在漫长的妊娠期后产仔，可能会停止进食数月。",
+      "notes": "真正的红尾蚺，因其尾端非常明显且色彩鲜艳的图案而受到珍视。"
     },
     "nl": {
       "name": "Boa Constrictor Constrictor",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zorg voor een zeer solide terrarium. Deze ondersoort wordt groter dan de Imperator en is zeer gespierd.",
+      "repro_advice": "Vrouwtjes baren na een lange draagtijd en kunnen maandenlang stoppen met eten.",
+      "notes": "De echte roodstaartboa, gewaardeerd om zijn zeer uitgesproken en kleurrijke patronen aan het einde van de staart."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -412,31 +517,46 @@
       "name": "Boa Imperator",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "CITES II / Annex B"
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "Provide a large terrarium with sturdy branches; the species enjoys climbing, especially as juveniles.",
+      "repro_advice": "Decrease nighttime temperatures by a few degrees in winter to launch the breeding season.",
+      "notes": "Can reach 2 meters or more, requires regular handling to stay calm."
     },
     "es": {
       "name": "Boa Imperator",
       "diet": "Roedor",
       "repro": "Ovovivíparo",
-      "legal_status": "CITES II / Anexo B"
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Proporcionar un terrario grande con ramas robustas; a la especie le gusta trepar, especialmente cuando es joven.",
+      "repro_advice": "Disminuir las temperaturas nocturnas unos grados en invierno para iniciar la temporada de cría.",
+      "notes": "Puede alcanzar los 2 metros o más, requiere manipulación regular para mantenerse tranquilo."
     },
     "de": {
       "name": "Kaiserboa",
       "diet": "Nagetier",
       "repro": "Ovovivipar",
-      "legal_status": "WA II / Anhang B"
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Bieten Sie ein großes Terrarium mit stabilen Zweigen an; die Art klettert gerne, besonders als Jungtier.",
+      "repro_advice": "Senken Sie die Nachttemperaturen im Winter um einige Grad ab, um die Zuchtsaison einzuleiten.",
+      "notes": "Kann 2 Meter oder mehr erreichen, erfordert regelmäßigen Umgang, um ruhig zu bleiben."
     },
     "zh": {
       "name": "巨蚺",
       "diet": "啮齿动物",
       "repro": "卵胎生",
-      "legal_status": "CITES II / 附录 B"
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "提供一个带有坚固树枝的大型饲养箱；该物种喜欢攀爬，尤其是幼年时期。",
+      "repro_advice": "冬季夜间降温几度以开启繁殖季节。",
+      "notes": "体长可达2米或更长，需要定期处理以保持平静。"
     },
     "nl": {
       "name": "Keizerboa",
       "diet": "Knaagdier",
       "repro": "Eierlevendbarend",
-      "legal_status": "CITES II / Bijlage B"
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Zorg voor een groot terrarium met stevige takken; de soort klimt graag, vooral als jong dier.",
+      "repro_advice": "Verlaag de nachttemperaturen in de winter met een paar graden om het broedseizoen te starten.",
+      "notes": "Kan 2 meter of meer bereiken, vereist regelmatige hantering om rustig te blijven."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -468,31 +588,46 @@
       "name": "Serpents des palétuviers",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Nocturnal and very nervous snake. The terrarium must be high and provided with many crossed branches.",
+      "repro_advice": "Clutches are often hidden away from excessive humidity.",
+      "notes": "Opisthoglyphous species, caution is advised to avoid envenomation during handling."
     },
     "es": {
       "name": "Serpents des palétuviers",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Serpiente nocturna y muy nerviosa. El terrario debe ser alto y contar con muchas ramas cruzadas.",
+      "repro_advice": "Las puestas a menudo se esconden lejos de la humedad excesiva.",
+      "notes": "Especie opistoglifa, se aconseja precaución para evitar el envenenamiento durante la manipulación."
     },
     "de": {
       "name": "Serpents des palétuviers",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Nachtaktive und sehr nervöse Schlange. Das Terrarium muss hoch sein und mit vielen gekreuzten Zweigen versehen werden.",
+      "repro_advice": "Gelege werden oft vor übermäßiger Feuchtigkeit geschützt versteckt.",
+      "notes": "Opisthoglyphe Art, Vorsicht ist geboten, um Vergiftungen beim Umgang zu vermeiden."
     },
     "zh": {
       "name": "Serpents des palétuviers",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "夜行性且非常紧张的蛇。饲养箱必须很高，并提供许多交叉的树枝。",
+      "repro_advice": "卵通常隐藏在避免过度潮湿的地方。",
+      "notes": "后齿类物种，建议在处理时保持谨慎以避免中毒。"
     },
     "nl": {
       "name": "Serpents des palétuviers",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Nachtactieve en zeer nerveuze slang. Het terrarium moet hoog zijn en voorzien van vele gekruiste takken.",
+      "repro_advice": "Legsels worden vaak verborgen voor overmatige vochtigheid.",
+      "notes": "Opisthoglyfe soort, voorzichtigheid is geboden om vergiftiging tijdens het hanteren te voorkomen."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -525,31 +660,46 @@
       "name": "Boas Arboricoles / Tree Boas",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Very high terrarium with multiple branches and vines. Many are nippy (especially juveniles).",
+      "repro_advice": "Females give birth high up in the branches. Collect the young quickly.",
+      "notes": "Known for their long teeth adapted for catching birds, although they eat rodents in captivity."
     },
     "es": {
       "name": "Boas Arboricoles / Tree Boas",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Terrario muy alto con múltiples ramas y lianas. Muchos son mordedores (especialmente los jóvenes).",
+      "repro_advice": "Las hembras dan a luz en lo alto de las ramas. Recoger a las crías rápidamente.",
+      "notes": "Conocidos por sus dientes largos adaptados para atrapar pájaros, aunque comen roedores en cautividad."
     },
     "de": {
       "name": "Boas Arboricoles / Tree Boas",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Sehr hohes Terrarium mit mehreren Zweigen und Lianen. Viele sind bissig (besonders Jungtiere).",
+      "repro_advice": "Die Weibchen gebären hoch oben in den Zweigen. Sammeln Sie die Jungen schnell ein.",
+      "notes": "Bekannt für ihre langen Zähne, die an den Fang von Vögeln angepasst sind, obwohl sie in Gefangenschaft Nagetiere fressen."
     },
     "zh": {
       "name": "Boas Arboricoles / Tree Boas",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "非常高的饲养箱，带有多个树枝和藤蔓。许多都有攻击性（尤其是幼年时期）。",
+      "repro_advice": "雌性在树枝高处产下幼崽。应尽快收集幼崽。",
+      "notes": "以适应捕捉鸟类的长牙而闻名，尽管它们在圈养环境下食用啮齿动物。"
     },
     "nl": {
       "name": "Boas Arboricoles / Tree Boas",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zeer hoog terrarium met meerdere takken en lianen. Velen zijn bijterig (vooral jongen).",
+      "repro_advice": "Vrouwtjes baren hoog in de takken. Verzamel de jongen snel.",
+      "notes": "Bekend om hun lange tanden die zijn aangepast voor het vangen van vogels, hoewel ze in gevangenschap knaagdieren eten."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -581,31 +731,46 @@
       "name": "Western Diamondback",
       "diet": "Rodent/Rabbit",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Fatal species reserved only for experienced keepers. Locked terrarium mandatory.",
+      "repro_advice": "Very impressive ritual combat between males. Avoid any handling during this period.",
+      "notes": "Possesses a very powerful hemotoxic venom."
     },
     "es": {
       "name": "Cascabel diamantina",
       "diet": "Roedor/Conejo",
       "repro": "Ovovivíparo",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Especie mortal reservada únicamente para cuidadores experimentados. Terrario cerrado obligatorio.",
+      "repro_advice": "Combates rituales muy impresionantes entre machos. Evitar cualquier manipulación durante este período.",
+      "notes": "Posee un veneno hemotóxico muy potente."
     },
     "de": {
       "name": "Texanische Klapperschlange",
       "diet": "Nagetier/Kaninchen",
       "repro": "Ovovivipar",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Tödliche Art, die ausschließlich erfahrenen Haltern vorbehalten ist. Verschlossenes Terrarium obligatorisch.",
+      "repro_advice": "Sehr beeindruckende Ritualkämpfe zwischen Männchen. Vermeiden Sie in dieser Zeit jeglichen Umgang.",
+      "notes": "Besitzt ein sehr starkes hämotoxisches Gift."
     },
     "zh": {
       "name": "西部菱背响尾蛇",
       "diet": "啮齿动物/兔子",
       "repro": "卵胎生",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "致命物种，仅限有经验的饲养者。必须使用锁定的饲养箱。",
+      "repro_advice": "雄性之间非常令人印象深刻的仪式性战斗。在此期间避免任何处理。",
+      "notes": "具有非常强大的血液毒素毒液。"
     },
     "nl": {
       "name": "Westerse diamantratelslang",
       "diet": "Knaagdier/Konijn",
       "repro": "Eierlevendbarend",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Dodelijke soort die alleen is voorbehouden aan ervaren houders. Vergrendeld terrarium verplicht.",
+      "repro_advice": "Zeer indrukwekkende rituele gevechten tussen mannetjes. Vermijd elke hantering tijdens deze periode.",
+      "notes": "Bezit een zeer krachtig hemotoxisch gif."
     },
     "feed_category": "rodents",
     "temp_hot_min": "32",
@@ -637,31 +802,46 @@
       "name": "Serpents à sonnette",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Venomous and potentially fatal snakes. Specialized handling equipment essential (hooks).",
+      "repro_advice": "Mating generally in spring after a period of brumation.",
+      "notes": "Their rattle gets longer with each molt."
     },
     "es": {
       "name": "Serpents à sonnette",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Serpientes venenosas y potencialmente mortales. Equipo de manipulación especializado esencial (ganchos).",
+      "repro_advice": "Apareamiento generalmente en primavera después de un período de brumación.",
+      "notes": "Su cascabel se alarga con cada muda."
     },
     "de": {
       "name": "Serpents à sonnette",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Giftige und potenziell tödliche Schlangen. Spezialisierte Handhabungsausrüstung unerlässlich (Haken).",
+      "repro_advice": "Paarung in der Regel im Frühjahr nach einer Phase der Winterruhe.",
+      "notes": "Ihre Rassel wird mit jeder Häutung länger."
     },
     "zh": {
       "name": "Serpents à sonnette",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "有毒且可能致命的蛇。必须配备专门的处理设备（蛇钩）。",
+      "repro_advice": "通常在经过一段时间的冬眠后，在春季进行交配。",
+      "notes": "它们的响尾随每次蜕皮而变长。"
     },
     "nl": {
       "name": "Serpents à sonnette",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Giftige en potentieel dodelijke slangen. Gespecialiseerde hanteringsapparatuur essentieel (haken).",
+      "repro_advice": "Paring meestal in het voorjaar na een periode van winterrust.",
+      "notes": "Hun ratel wordt bij elke vervelling langer."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -693,31 +873,46 @@
       "name": "Egg-eating Snake",
       "diet": "Egg",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "It can be difficult to find suitably sized eggs (finch or quail eggs) in sufficient quantity.",
+      "repro_advice": "The female needs slightly damp hiding places to lay her eggs.",
+      "notes": "Aglyphous snake (without teeth), swallows the egg whole and spits out the shell."
     },
     "es": {
       "name": "Culebra comedora de huevos",
       "diet": "Huevo",
       "repro": "Ovíparo",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Puede ser difícil encontrar huevos de tamaño adecuado (huevos de pinzón o codorniz) en cantidad suficiente.",
+      "repro_advice": "La hembra necesita escondites ligeramente húmedos para poner sus huevos.",
+      "notes": "Serpiente aglifa (sin dientes), traga el huevo entero y escupe la cáscara."
     },
     "de": {
       "name": "Afrikanische Eierschlange",
       "diet": "Ei",
       "repro": "Ovipar",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Es kann schwierig sein, Eier in geeigneter Größe (Finken- oder Wachteleier) in ausreichender Menge zu finden.",
+      "repro_advice": "Das Weibchen benötigt leicht feuchte Verstecke, um seine Eier abzulegen.",
+      "notes": "Aglyphe Schlange (ohne Zähne), schluckt das Ei im Ganzen und spuckt die Schale wieder aus."
     },
     "zh": {
       "name": "食卵蛇",
       "diet": "蛋",
       "repro": "卵生",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "可能很难找到足够数量的大小合适的蛋（雀科鸟蛋或鹌鹑蛋）。",
+      "repro_advice": "雌性需要稍微潮湿的隐藏处来产卵。",
+      "notes": "无毒牙蛇（没有牙齿），将蛋整个吞下并吐出蛋壳。"
     },
     "nl": {
       "name": "Eieretende slang",
       "diet": "Ei",
       "repro": "Eierleggend",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Het kan moeilijk zijn om eieren van de juiste grootte (vinken- of kwarteleieren) in voldoende hoeveelheid te vinden.",
+      "repro_advice": "Het vrouwtje heeft licht vochtige schuilplaatsen nodig om haar eieren te leggen.",
+      "notes": "Aglyfe slang (zonder tanden), slikt het ei in zijn geheel door en spuugt de schaal uit."
     },
     "feed_category": "others",
     "temp_hot_min": "28",
@@ -749,31 +944,46 @@
       "name": "Serpents mangeurs d'œufs",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Juveniles are very complicated to feed and require micro-bird eggs.",
+      "repro_advice": "The female often fasts before laying.",
+      "notes": "The spine is modified to pierce the eggs inside the throat."
     },
     "es": {
       "name": "Serpents mangeurs d'œufs",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Los jóvenes son muy complicados de alimentar y requieren huevos de micro-aves.",
+      "repro_advice": "La hembra suele ayunar antes de la puesta.",
+      "notes": "La columna vertebral está modificada para perforar los huevos dentro de la garganta."
     },
     "de": {
       "name": "Serpents mangeurs d'œufs",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Jungtiere sind sehr kompliziert zu füttern und benötigen Eier von Kleinstvögeln.",
+      "repro_advice": "Das Weibchen fastet oft vor der Eiablage.",
+      "notes": "Die Wirbelsäule ist so modifiziert, dass sie die Eier in der Kehle durchbohrt."
     },
     "zh": {
       "name": "Serpents mangeurs d'œufs",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "幼年个体非常难以喂养，需要微型鸟类的蛋。",
+      "repro_advice": "雌性在产卵前通常会禁食。",
+      "notes": "脊柱经过修改，可以在喉咙内部刺破蛋。"
     },
     "nl": {
       "name": "Serpents mangeurs d'œufs",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Jongen zijn zeer ingewikkeld om te voeren en vereisen eieren van micro-vogels.",
+      "repro_advice": "Het vrouwtje vast vaak voor de leg.",
+      "notes": "De ruggengraat is aangepast om de eieren in de keel te doorboren."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -805,31 +1015,46 @@
       "name": "Indigos",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Very large active North American colubrid. Fast metabolism, produces many droppings.",
+      "repro_advice": "Sometimes lays in turtle burrows or abandoned burrows.",
+      "notes": "Immune to the venom of certain rattlesnakes that it consumes in the wild."
     },
     "es": {
       "name": "Indigos",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Colúbrido norteamericano activo y muy grande. Metabolismo rápido, produce muchos excrementos.",
+      "repro_advice": "A veces pone en madrigueras de tortuga o madrigueras abandonadas.",
+      "notes": "Inmune al veneno de ciertas serpientes de cascabel que consume en la naturaleza."
     },
     "de": {
       "name": "Indigos",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Sehr große, aktive nordamerikanische Natternart. Schneller Stoffwechsel, produziert viel Kot.",
+      "repro_advice": "Legt manchmal in Schildkrötenhöhlen oder verlassenen Bauen ab.",
+      "notes": "Immun gegen das Gift bestimmter Klapperschlangen, die sie in freier Wildbahn frisst."
     },
     "zh": {
       "name": "Indigos",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "非常活跃的大型北美游蛇。代谢快，排泄物多。",
+      "repro_advice": "有时在乌龟洞穴或遗弃的洞穴中产卵。",
+      "notes": "对它在野外捕食的某些响尾蛇的毒液免疫。"
     },
     "nl": {
       "name": "Indigos",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zeer grote actieve Noord-Amerikaanse toornslang. Snel metabolisme, produceert veel uitwerpselen.",
+      "repro_advice": "Legt soms in schildpaddenholen of verlaten holen.",
+      "notes": "Immuun voor het gif van bepaalde ratelslangen die het in het wild consumeert."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -862,31 +1087,46 @@
       "name": "Boas Arc-en-ciel / Rainbow Boas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Crucial need for high humidity, especially for juveniles who dehydrate quickly.",
+      "repro_advice": "Giving birth to fairly large babies, the mother needs rest afterwards.",
+      "notes": "Scales have micro-ridges that create a magnificent iridescence."
     },
     "es": {
       "name": "Boas Arc-en-ciel / Rainbow Boas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Necesidad crucial de alta humedad, especialmente para los jóvenes que se deshidratan rápido.",
+      "repro_advice": "Al dar a luz a bebés bastante grandes, la madre necesita descanso después.",
+      "notes": "Las escamas tienen micro-crestas que crean una iridiscencia magnífica."
     },
     "de": {
       "name": "Boas Arc-en-ciel / Rainbow Boas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Dringender Bedarf an hoher Luftfeuchtigkeit, insbesondere für Jungtiere, die schnell austrocknen.",
+      "repro_advice": "Bringt recht große Babys zur Welt, die Mutter braucht danach Ruhe.",
+      "notes": "Die Schuppen haben Mikroleisten, die ein prächtiges Irisieren erzeugen."
     },
     "zh": {
       "name": "Boas Arc-en-ciel / Rainbow Boas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "对高湿度的需求至关重要，特别是对于容易脱水的幼年个体。",
+      "repro_advice": "产下相当大的幼崽，母亲产后需要休息。",
+      "notes": "鳞片具有微小的脊线，产生华丽的虹彩。"
     },
     "nl": {
       "name": "Boas Arc-en-ciel / Rainbow Boas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Cruciale behoefte aan hoge luchtvochtigheid, vooral voor jongen die snel uitdrogen.",
+      "repro_advice": "Baart vrij grote baby's, de moeder heeft daarna rust nodig.",
+      "notes": "Schubben hebben microrichels die een prachtige irisatie creëren."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -919,31 +1159,46 @@
       "name": "Kenyan Sand Boa",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "CITES II / Annex B"
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "Provide at least 10 cm of loose substrate (beech chips, suitable sand) for it to burrow.",
+      "repro_advice": "A light winter rest period (brumation) is recommended to stimulate mating.",
+      "notes": "Very docile burrowing snake and excellent for beginners."
     },
     "es": {
       "name": "Boa de arena",
       "diet": "Roedor",
       "repro": "Ovovivíparo",
-      "legal_status": "CITES II / Anexo B"
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Proporcionar al menos 10 cm de sustrato suelto (astillas de haya, arena adecuada) para que pueda enterrarse.",
+      "repro_advice": "Se recomienda un período ligero de descanso invernal (brumación) para estimular el apareamiento.",
+      "notes": "Serpiente excavadora muy dócil y excelente para principiantes."
     },
     "de": {
       "name": "Kenia-Sandboa",
       "diet": "Nagetier",
       "repro": "Ovovivipar",
-      "legal_status": "WA II / Anhang B"
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Bieten Sie mindestens 10 cm loses Substrat (Buchenspäne, geeigneter Sand) zum Eingraben an.",
+      "repro_advice": "Eine leichte Winterruhe wird empfohlen, um die Paarung zu stimulieren.",
+      "notes": "Sehr friedliche Grabschlange und hervorragend für Anfänger geeignet."
     },
     "zh": {
       "name": "肯尼亚沙蚺",
       "diet": "啮齿动物",
       "repro": "卵胎生",
-      "legal_status": "CITES II / 附录 B"
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "提供至少10厘米厚的松散基质（榉木片、合适的沙子）供其挖掘。",
+      "repro_advice": "建议进行轻微的冬季休眠（冬眠）以刺激交配。",
+      "notes": "非常温顺的挖掘蛇，非常适合初学者。"
     },
     "nl": {
       "name": "Keniaanse zandboa",
       "diet": "Knaagdier",
       "repro": "Eierlevendbarend",
-      "legal_status": "CITES II / Bijlage B"
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Zorg voor minstens 10 cm los substraat (beukensnippers, geschikt zand) om in te graven.",
+      "repro_advice": "Een lichte winterrustperiode (brumatie) wordt aanbevolen om de paring te stimuleren.",
+      "notes": "Zeer volgzame graafslang en uitstekend voor beginners."
     },
     "feed_category": "rodents",
     "temp_hot_min": "32",
@@ -975,31 +1230,46 @@
       "name": "Boas des sables",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Terrestrial and burrowing species that enjoy a dry substrate to bury themselves.",
+      "repro_advice": "Viviparous, mating is fast and babies are born fully formed in the substrate.",
+      "notes": "Very poor climbers."
     },
     "es": {
       "name": "Boas des sables",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Especies terrestres y excavadoras que disfrutan de un sustrato seco para enterrarse.",
+      "repro_advice": "Vivíparos, el apareamiento es rápido y los bebés nacen completamente formados en el sustrato.",
+      "notes": "Muy malos trepadores."
     },
     "de": {
       "name": "Boas des sables",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Land- und Grabarten, die ein trockenes Substrat zum Eingraben schätzen.",
+      "repro_advice": "Vivipar, die Paarung erfolgt schnell und die Babys werden voll entwickelt im Substrat geboren.",
+      "notes": "Sehr schlechte Kletterer."
     },
     "zh": {
       "name": "Boas des sables",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "喜欢在干燥基质中挖掘隐藏的陆生和挖掘物种。",
+      "repro_advice": "胎生，交配迅速，幼崽在基质中出生时已完全发育。",
+      "notes": "非常不擅长攀爬。"
     },
     "nl": {
       "name": "Boas des sables",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Land- en graafsoorten die houden van een droog substraat om zich in te graven.",
+      "repro_advice": "Levendbarend, paring is snel en baby's worden volledig gevormd in het substraat geboren.",
+      "notes": "Zeer slechte klimmers."
     },
     "feed_category": "rodents",
     "temp_hot_min": "32",
@@ -1031,31 +1301,46 @@
       "name": "Anacondas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Giant (for green anaconda) or large species. Very important aquatic needs (large pool).",
+      "repro_advice": "Very long gestations, often large litters for the green anaconda.",
+      "notes": "Reserved for experts with a gigantic space."
     },
     "es": {
       "name": "Anacondas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Especies gigantes (para la anaconda verde) o grandes. Necesidades acuáticas muy importantes (gran piscina).",
+      "repro_advice": "Gestaciones muy largas, a menudo camadas numerosas para la anaconda verde.",
+      "notes": "Reservado para expertos con un espacio gigantesco."
     },
     "de": {
       "name": "Anacondas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Riesen- (für die Grüne Anakonda) oder Großarten. Sehr wichtige aquatische Bedürfnisse (großes Becken).",
+      "repro_advice": "Sehr lange Trächtigkeit, oft große Würfe bei der Grünen Anakonda.",
+      "notes": "Experten mit riesigem Platzangebot vorbehalten."
     },
     "zh": {
       "name": "Anacondas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "巨大（指绿水蚺）或大型物种。对水域的需求非常大（需要大型水池）。",
+      "repro_advice": "妊娠期非常长，绿水蚺通常产仔量很大。",
+      "notes": "仅限拥有巨大空间的专家。"
     },
     "nl": {
       "name": "Anacondas",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Reuzen- (voor de groene anaconda) of grote soorten. Zeer belangrijke aquatische behoeften (groot bad).",
+      "repro_advice": "Zeer lange draagtijden, vaak grote nesten bij de groene anaconda.",
+      "notes": "Voorbehouden aan experts met een gigantische ruimte."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -1087,31 +1372,46 @@
       "name": "G. oxycephalum, G. prasina, G. boulengeri",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Agile, fast and sometimes nippy snakes. Prefer a humid arboreal environment.",
+      "repro_advice": "Mate in the air, clutches often small but repeated.",
+      "notes": "Possess a striking blue or red coloration on the inside of the mouth as an intimidation display."
     },
     "es": {
       "name": "G. oxycephalum, G. prasina, G. boulengeri",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Serpientes ágiles, rápidas y a veces mordedoras. Prefieren un entorno arborícola húmedo.",
+      "repro_advice": "Se aparean en el aire, puestas a menudo pequeñas pero repetidas.",
+      "notes": "Poseen una llamativa coloración azul o roja en el interior de la boca como exhibición de intimidación."
     },
     "de": {
       "name": "G. oxycephalum, G. prasina, G. boulengeri",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Agile, schnelle und manchmal bissige Schlangen. Bevorzugen eine feuchte Baumumgebung.",
+      "repro_advice": "Paaren sich in der Luft, Gelege oft klein, aber wiederholt.",
+      "notes": "Besitzen eine auffällige blaue oder rote Färbung im Rachenraum als Einschüchterungsgebärde."
     },
     "zh": {
       "name": "G. oxycephalum, G. prasina, G. boulengeri",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "敏捷、快速且有时具有攻击性的蛇。更喜欢潮湿的树栖环境。",
+      "repro_advice": "在空中交配，产卵通常较少但会多次进行。",
+      "notes": "在恐吓展示时，口腔内部会呈现出引人注目的蓝色或红色。"
     },
     "nl": {
       "name": "G. oxycephalum, G. prasina, G. boulengeri",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Agiele, snelle en soms bijterige slangen. Verkiezen een vochtige boomomgeving.",
+      "repro_advice": "Paren in de lucht, legsels vaak klein maar herhaald.",
+      "notes": "Bezitten een opvallende blauwe of rode kleuring aan de binnenkant van de bek als intimidatievertoon."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -1154,31 +1454,46 @@
       "name": "Western Hognose",
       "diet": "Rodent/Amphibian",
       "repro": "Oviparous",
-      "legal_status": "CITES II / Annex B"
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "Opisthoglyphous species (rear fangs). Very weak venom but can cause swelling. Avoid prolonged bites.",
+      "repro_advice": "Females must be well fed because laying large eggs requires a lot of energy.",
+      "notes": "Uses its upturned nose to dig. May feign death if very stressed."
     },
     "es": {
       "name": "Serpiente hocico de cerdo",
       "diet": "Roedor/Anfibio",
       "repro": "Ovíparo",
-      "legal_status": "CITES II / Anexo B"
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Especie opistoglifa (colmillos traseros). Veneno muy débil pero puede causar hinchazón. Evitar mordeduras prolongadas.",
+      "repro_advice": "Las hembras deben estar bien alimentadas porque la puesta de huevos grandes requiere mucha energía.",
+      "notes": "Utiliza su nariz respingona para cavar. Puede fingir la muerte si está muy estresado."
     },
     "de": {
       "name": "Westliche Hakennasennatter",
       "diet": "Nagetier/Amphibie",
       "repro": "Ovipar",
-      "legal_status": "WA II / Anhang B"
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Opisthoglyphe Art (hinterständige Giftzähne). Sehr schwaches Gift, kann aber Schwellungen verursachen. Längere Bisse vermeiden.",
+      "repro_advice": "Die Weibchen müssen gut gefüttert werden, da die Ablage großer Eier viel Energie erfordert.",
+      "notes": "Benutzt seine aufgeworfene Nase zum Graben. Kann sich totstellen, wenn er sehr gestresst ist."
     },
     "zh": {
       "name": "猪鼻蛇",
       "diet": "啮齿动物/两栖动物",
       "repro": "卵生",
-      "legal_status": "CITES II / 附录 B"
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "后齿类物种（后毒牙）。毒性非常弱，但可能引起肿胀。避免长时间被咬。",
+      "repro_advice": "雌性必须喂养良好，因为产下巨大的蛋需要大量能量。",
+      "notes": "利用其朝上的鼻子挖掘。如果压力过大，可能会装死。"
     },
     "nl": {
       "name": "Westelijke haakneusslang",
       "diet": "Knaagdier/Amfibie",
       "repro": "Eierleggend",
-      "legal_status": "CITES II / Bijlage B"
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Opisthoglyfe soort (achterste tanden). Zeer zwak gif, maar kan zwelling veroorzaken. Vermijd langdurige beten.",
+      "repro_advice": "Vrouwtjes moeten goed gevoed worden omdat het leggen van grote eieren veel energie vraagt.",
+      "notes": "Gebruikt zijn opgewipte neus om te graven. Kan zich dood houden bij veel stress."
     },
     "feed_category": "rodents"
   },
@@ -1201,31 +1516,46 @@
       "name": "Serpents Rois / King Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Very voracious snakes that can practice ophiophagy (eating other snakes). Must be kept alone.",
+      "repro_advice": "Brumation is highly recommended for good breeding success.",
+      "notes": "Often mimic the colors of venomous coral snakes."
     },
     "es": {
       "name": "Serpents Rois / King Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Serpientes muy voraces que pueden practicar la ofiofagia (comer otras serpientes). Deben mantenerse solas obligatoriamente.",
+      "repro_advice": "La brumación es muy recomendable para un buen éxito reproductivo.",
+      "notes": "A menudo imitan los colores de las serpientes de coral venenosas."
     },
     "de": {
       "name": "Serpents Rois / King Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Sehr gefräßige Schlangen, die Ophiophagie betreiben können (andere Schlangen fressen). Einzelhaltung zwingend erforderlich.",
+      "repro_advice": "Winterruhe wird für einen guten Zuchterfolg dringend empfohlen.",
+      "notes": "Ahmen oft die Farben giftiger Korallenschlangen nach."
     },
     "zh": {
       "name": "Serpents Rois / King Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "非常贪婪的蛇，可能有食蛇性（捕食其他蛇类）。必须单独饲养。",
+      "repro_advice": "为了获得良好的繁殖成功率，强烈建议进行冬眠。",
+      "notes": "通常模仿有毒珊瑚蛇的颜色。"
     },
     "nl": {
       "name": "Serpents Rois / King Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zeer vraatzuchtige slangen die aan ofiofagie kunnen doen (andere slangen eten). Moeten verplicht alleen gehouden worden.",
+      "repro_advice": "Brumatie wordt sterk aanbevolen voor een goed voortplantingssucces.",
+      "notes": "Imiteren vaak de kleuren van giftige koraalslangen."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -1258,31 +1588,46 @@
       "name": "Water Python, Olive Python, Macklot's",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Significant water needs (large bowl). Olive pythons can become huge.",
+      "repro_advice": "Require a good period of winter cooling.",
+      "notes": "Exceptional iridescent appearance under sunlight."
     },
     "es": {
       "name": "Water Python, Olive Python, Macklot's",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Necesidades de agua importantes (recipiente grande). Los pitones oliva pueden llegar a ser inmensos.",
+      "repro_advice": "Requieren un buen período de enfriamiento invernal.",
+      "notes": "Aspecto iridiscente excepcional bajo la luz del sol."
     },
     "de": {
       "name": "Water Python, Olive Python, Macklot's",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Erheblicher Wasserbedarf (große Schüssel). Olivpythons können riesig werden.",
+      "repro_advice": "Erfordern eine ausgeprägte Phase der Winterkühlung.",
+      "notes": "Außergewöhnliche irisierende Erscheinung im Sonnenlicht."
     },
     "zh": {
       "name": "Water Python, Olive Python, Macklot's",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "对水的需求很大（需要大型水碗）。橄榄蟒体型可以变得巨大。",
+      "repro_advice": "需要一段良好的冬季降温期。",
+      "notes": "在阳光下呈现出非凡的虹彩外观。"
     },
     "nl": {
       "name": "Water Python, Olive Python, Macklot's",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Aanzienlijke waterbehoeften (grote bak). Olijfpythons kunnen enorm worden.",
+      "repro_advice": "Vereisen een goede periode van winterse afkoeling.",
+      "notes": "Uitzonderlijk iriserend uiterlijk onder zonlicht."
     },
     "feed_category": "rodents",
     "temp_hot_min": "32",
@@ -1315,31 +1660,46 @@
       "name": "Boa rose",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Dry desert terrarium. Avoid excessive humidity at all costs which causes respiratory problems.",
+      "repro_advice": "Giving birth to a few very robust babies.",
+      "notes": "Extremely docile, slow snake, perfect for beginners."
     },
     "es": {
       "name": "Boa rose",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Terrario desértico seco. Evitar a toda costa la humedad excesiva que causa problemas respiratorios.",
+      "repro_advice": "Al dar a luz a unos pocos bebés muy robustos.",
+      "notes": "Serpiente extremadamente dócil y lenta, perfecta para principiantes."
     },
     "de": {
       "name": "Boa rose",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Trockenes Wüstenterrarium. Übermäßige Feuchtigkeit unbedingt vermeiden, da sie zu Atemwegsproblemen führt.",
+      "repro_advice": "Bringt einige sehr robuste Babys zur Welt.",
+      "notes": "Extrem friedliche, langsame Schlange, ideal für Anfänger."
     },
     "zh": {
       "name": "Boa rose",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "干燥的沙漠饲养箱。务必避免过度潮湿，否则会引起呼吸系统问题。",
+      "repro_advice": "产下几只非常健壮的幼崽。",
+      "notes": "非常温顺、缓慢的蛇，非常适合初学者。"
     },
     "nl": {
       "name": "Boa rose",
       "diet": "Rodent",
       "repro": "Ovoviviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Droog woestijnterrarium. Vermijd ten alle tijden overmatige vochtigheid die ademhalingsproblemen veroorzaakt.",
+      "repro_advice": "Baart een paar zeer robuuste baby's.",
+      "notes": "Extreem volgzame, trage slang, perfect voor beginners."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -1371,31 +1731,46 @@
       "name": "Ultra rare",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "High mountain species from New Guinea, dies if kept too warm. Very difficult to acclimate.",
+      "repro_advice": "Reproduction in captivity extremely rare, requires strong nighttime drops.",
+      "notes": "Considered the 'Holy Grail' by many python collectors."
     },
     "es": {
       "name": "Ultra rare",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Especie de las altas montañas de Nueva Guinea, muere si se mantiene demasiado caliente. Muy difícil de aclimatar.",
+      "repro_advice": "Reproducción en cautividad extremadamente rara, requiere fuertes bajadas nocturnas.",
+      "notes": "Considerado el 'Santo Grial' por muchos coleccionistas de pitones."
     },
     "de": {
       "name": "Ultra rare",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Hochgebirgsart aus Neuguinea, stirbt bei zu warmer Haltung. Sehr schwierig zu akklimatisieren.",
+      "repro_advice": "Fortpflanzung in Gefangenschaft extrem selten, erfordert starke nächtliche Temperaturabsenkungen.",
+      "notes": "Gilt bei vielen Pythonsammlern als der 'Heilige Gral'."
     },
     "zh": {
       "name": "Ultra rare",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "来自新几内亚的高山物种，如果环境太热就会死亡。非常难以适应环境。",
+      "repro_advice": "在圈养环境下极难繁殖，需要剧烈的夜间降温。",
+      "notes": "被许多蟒蛇收藏家视为“圣杯”。"
     },
     "nl": {
       "name": "Ultra rare",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Hooggebergtesoort uit Nieuw-Guinea, sterft als hij te warm wordt gehouden. Zeer moeilijk te acclimatiseren.",
+      "repro_advice": "Voortplanting in gevangenschap extreem zeldzaam, vereist sterke nachtelijke dalingen.",
+      "notes": "Beschouwd als de 'Heilige Graal' door veel pythonverzamelaars."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -1428,31 +1803,46 @@
       "name": "Python Tapis / Carpet Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Active semi-arboreal snake, appreciates a high terrarium with solid perches.",
+      "repro_advice": "Females brood their eggs by shivering to generate heat.",
+      "notes": "Juveniles are often very nippy but generally calm down as adults."
     },
     "es": {
       "name": "Python Tapis / Carpet Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Serpiente semiarborícola activa, aprecia un terrario alto con perchas sólidas.",
+      "repro_advice": "Las hembras incuban sus huevos temblando para generar calor.",
+      "notes": "Los jóvenes suelen ser muy mordedores, pero generalmente se calman como adultos."
     },
     "de": {
       "name": "Python Tapis / Carpet Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Aktive, semi-arboricole Schlange, schätzt ein hohes Terrarium mit stabilen Liegeplätzen.",
+      "repro_advice": "Die Weibchen bebrüten ihre Eier, indem sie zittern, um Wärme zu erzeugen.",
+      "notes": "Jungtiere sind oft sehr bissig, beruhigen sich aber in der Regel im Erwachsenenalter."
     },
     "zh": {
       "name": "Python Tapis / Carpet Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "活跃的半树栖蛇，喜欢带有坚固栖息处的高型饲养箱。",
+      "repro_advice": "雌性通过颤抖产生热量来孵卵。",
+      "notes": "幼年个体通常很有攻击性，但成体后通常会冷静下来。"
     },
     "nl": {
       "name": "Python Tapis / Carpet Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Actieve semi-arborale slang, waardeert een hoog terrarium met solide rustplaatsen.",
+      "repro_advice": "Vrouwtjes broeden hun eieren uit door te rillen om warmte te genereren.",
+      "notes": "Jongen zijn vaak erg bijterig, maar worden meestal rustiger als ze volwassen zijn."
     },
     "feed_category": "rodents",
     "temp_hot_min": "32",
@@ -1495,31 +1885,46 @@
       "name": "Green Tree Python",
       "diet": "Rodent/Bird",
       "repro": "Oviparous",
-      "legal_status": "CITES II / Annex B"
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "An arboreal terrarium with multiple horizontal PVC or bamboo perches is essential.",
+      "repro_advice": "The female requires increased surveillance after laying because she can become exhausted quickly.",
+      "notes": "Juveniles are born bright yellow or red and get their green color as they grow (ontogenetic change)."
     },
     "es": {
       "name": "Pitón de árbol verde",
       "diet": "Roedor/Ave",
       "repro": "Ovíparo",
-      "legal_status": "CITES II / Anexo B"
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Es esencial un terrario arborícola con múltiples perchas horizontales de PVC o bambú.",
+      "repro_advice": "La hembra requiere una mayor vigilancia después de la puesta porque puede agotarse rápidamente.",
+      "notes": "Los jóvenes nacen de color amarillo o rojo brillante y adquieren su color verde a medida que crecen (cambio ontogénico)."
     },
     "de": {
       "name": "Grüner Baumpython",
       "diet": "Nagetier/Vogel",
       "repro": "Ovipar",
-      "legal_status": "WA II / Anhang B"
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Ein Baumterrarium mit mehreren horizontalen PVC- oder Bambusstangen ist unerlässlich.",
+      "repro_advice": "Das Weibchen benötigt nach der Eiablage erhöhte Überwachung, da es schnell erschöpft sein kann.",
+      "notes": "Jungtiere werden leuchtend gelb oder rot geboren und erhalten ihre grüne Farbe, wenn sie wachsen (ontogenetische Veränderung)."
     },
     "zh": {
       "name": "绿树蟒",
       "diet": "啮齿动物/鸟类",
       "repro": "卵生",
-      "legal_status": "CITES II / 附录 B"
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "必须使用带有多个水平聚氯乙烯（PVC）或竹制栖息处的树栖饲养箱。",
+      "repro_advice": "雌性在产卵后需要加强监视，因为她可能会迅速精疲力竭。",
+      "notes": "幼年个体出生时呈亮黄色或红色，随着成长会变为绿色（个体发育变化）。"
     },
     "nl": {
       "name": "Groene boompython",
       "diet": "Knaagdier/Vogel",
       "repro": "Eierleggend",
-      "legal_status": "CITES II / Bijlage B"
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Een boomterrarium met meerdere horizontale PVC of bamboe zitstokken is essentieel.",
+      "repro_advice": "Het vrouwtje vereist verhoogd toezicht na de leg omdat ze snel uitgeput kan raken.",
+      "notes": "Jongen worden heldergeel of rood geboren en krijgen hun groene kleur naarmate ze groeien (ontogenetische verandering)."
     },
     "feed_category": "rodents"
   },
@@ -1541,31 +1946,46 @@
       "name": "Cobras",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Dangerous species with strong neurotoxic (and often cytotoxic) venom. Some are spitters. Protective shields required.",
+      "repro_advice": "Very prolific, increased surveillance as babies are born fully venomous.",
+      "notes": "Capable of standing up on a third of their body and deploying their hood."
     },
     "es": {
       "name": "Cobras",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Especies peligrosas con fuerte veneno neurotóxico (y a menudo citotóxico). Algunos son escupidores. Se requieren visores de protección.",
+      "repro_advice": "Muy prolíficos, vigilancia aumentada ya que los bebés nacen plenamente venenosos.",
+      "notes": "Capaces de erguirse sobre un tercio de su cuerpo y desplegar su capucha."
     },
     "de": {
       "name": "Cobras",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Gefährliche Arten mit starkem neurotoxischem (und oft zytotoxischem) Gift. Einige sind Speier. Schutzvisiere erforderlich.",
+      "repro_advice": "Sehr produktiv, erhöhte Überwachung, da die Babys voll giftig geboren werden.",
+      "notes": "In der Lage, sich auf einem Drittel ihres Körpers aufzurichten und ihre Haube auszufahren."
     },
     "zh": {
       "name": "Cobras",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "具有强烈的神经毒素（通常也具有细胞毒素）毒液的危险物种。有些是喷毒类。必须佩戴防护面罩。",
+      "repro_advice": "非常多产，由于幼崽出生时即具有完全毒性，需加强监视。",
+      "notes": "能够用身体的三分之一立起并展开颈部皮褶。"
     },
     "nl": {
       "name": "Cobras",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Gevaarlijke soorten met sterk neurotoxisch (en vaak cytotoxisch) gif. Sommigen zijn spugers. Beschermingsmaskers vereist.",
+      "repro_advice": "Zeer productief, verhoogd toezicht omdat de baby's volledig giftig worden geboren.",
+      "notes": "In staat om op een derde van hun lichaam rechtop te staan en hun hoed uit te vouwen."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -1597,31 +2017,46 @@
       "name": "Cobra royal",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "The longest venomous snake in the world. Extremely intelligent and dangerous, mainly for zoological parks.",
+      "repro_advice": "One of the only snakes in the world to build a real nest of plant debris.",
+      "notes": "Strictly ophiophagous (snake-eater) in the wild."
     },
     "es": {
       "name": "Cobra royal",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "La serpiente venenosa más larga del mundo. Extremadamente inteligente y peligrosa, principalmente para parques zoológicos.",
+      "repro_advice": "Una de las únicas serpientes en el mundo que construye un verdadero nido de desechos vegetales.",
+      "notes": "Estrictamente ofiófago (comedor de serpientes) en la naturaleza."
     },
     "de": {
       "name": "Cobra royal",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Die längste Giftschlange der Welt. Extrem intelligent und gefährlich, hauptsächlich für Zoos.",
+      "repro_advice": "Eine der wenigen Schlangen der Welt, die ein echtes Nest aus Pflanzenresten baut.",
+      "notes": "In der Natur strikt ophiophag (Schlangenfresser)."
     },
     "zh": {
       "name": "Cobra royal",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "世界上最长的毒蛇。极其聪明且危险，主要适合动物园饲养。",
+      "repro_advice": "世界上仅有的几种会用植物碎屑建造真正巢穴的蛇之一。",
+      "notes": "在野外严格属于食蛇性（捕食其他蛇类）。"
     },
     "nl": {
       "name": "Cobra royal",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "De langste giftige slang ter wereld. Extreem intelligent en gevaarlijk, voornamelijk voor dierentuinen.",
+      "repro_advice": "Een van de weinige slangen ter wereld die een echt nest van plantenresten bouwt.",
+      "notes": "Strikt ofiofaag (slangeneter) in het wild."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -1653,31 +2088,46 @@
       "name": "Serpent liane vert",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Excellent camouflager, requires a high vegetated terrarium. Remains very slender throughout its life.",
+      "repro_advice": "Easy to reproduce if offered a good period of climatic distinction.",
+      "notes": "Often sticks out its tongue very slowly and holds it out to mimic an oscillating vine."
     },
     "es": {
       "name": "Serpent liane vert",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Excelente camuflador, requiere un terrario alto y vegetado. Permanece muy delgado durante toda su vida.",
+      "repro_advice": "Fácil de reproducir si se ofrece un buen período de distinción climática.",
+      "notes": "A menudo saca la lengua muy lentamente y la mantiene fuera para imitar una liana oscilante."
     },
     "de": {
       "name": "Serpent liane vert",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Hervorragende Tarnung, benötigt ein hohes bepflanztes Terrarium. Bleibt sein ganzes Leben lang sehr schlank.",
+      "repro_advice": "Leicht zu züchten, wenn eine gute Phase klimatischer Unterscheidung geboten wird.",
+      "notes": "Streckt oft sehr langsam die Zunge heraus und hält sie ausgestreckt, um eine schwankende Liane zu imitieren."
     },
     "zh": {
       "name": "Serpent liane vert",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "出色的伪装者，需要一个高大的植被饲养箱。一生都保持非常纤细。",
+      "repro_advice": "如果提供良好的气候区分期，则很容易繁殖。",
+      "notes": "经常非常缓慢地伸出舌头并保持不动，以模仿摆动的藤蔓。"
     },
     "nl": {
       "name": "Serpent liane vert",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Excellente camoufleerder, vereist een hoog beplant terrarium. Blijft zijn hele leven zeer slank.",
+      "repro_advice": "Gemakkelijk voort te planten als er een goede periode van klimatologisch onderscheid wordt geboden.",
+      "notes": "Steekt vaak zijn tong heel langzaam uit en houdt deze vast om een schommelende liaan te imiteren."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -1720,31 +2170,46 @@
       "name": "Corn Snake",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "The ideal snake for beginners. Ensure the terrarium is escape-proof (they are good at escaping).",
+      "repro_advice": "A strict hibernation period of about 2 to 3 months at 12-15°C is recommended before mating.",
+      "notes": "Excellent eater, very active and curious."
     },
     "es": {
       "name": "Culebra de maíz",
       "diet": "Roedor",
       "repro": "Ovíparo",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "La serpiente ideal para principiantes. Asegurarse de que el terrario sea a prueba de escapes (son buenos para escapar).",
+      "repro_advice": "Se recomienda un período de hibernación estricto de unos 2 a 3 meses a 12-15°C antes del apareamiento.",
+      "notes": "Excelente comedor, muy activo y curioso."
     },
     "de": {
       "name": "Kornnatter",
       "diet": "Nagetier",
       "repro": "Ovipar",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Die ideale Schlange für Anfänger. Stellen Sie sicher, dass das Terrarium ausbruchsicher ist (sie sind gut darin auszubrechen).",
+      "repro_advice": "Eine strikte Winterruhe von etwa 2 bis 3 Monaten bei 12-15°C wird vor der Paarung empfohlen.",
+      "notes": "Hervorragender Fresser, sehr aktiv und neugierig."
     },
     "zh": {
       "name": "玉米蛇",
       "diet": "啮齿动物",
       "repro": "卵生",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "初学者的理想蛇种。确保饲养箱防逃脱（它们非常擅长逃跑）。",
+      "repro_advice": "建议在交配前进行大约2至3个月、温度在12-15°C之间的严格冬眠。",
+      "notes": "食欲很好，非常活跃且好奇。"
     },
     "nl": {
       "name": "Korenslang",
       "diet": "Knaagdier",
       "repro": "Eierleggend",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "De ideale slang voor beginners. Zorg ervoor dat het terrarium ontsnappingsvrij is (ze zijn goed in ontsnappen).",
+      "repro_advice": "Een strikte winterslaapperiode van ongeveer 2 tot 3 maanden op 12-15°C wordt aanbevolen voor het paren.",
+      "notes": "Uitstekende eter, zeer actief en nieuwsgierig."
     },
     "feed_category": "rodents"
   },
@@ -1767,31 +2232,46 @@
       "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Excellent climbers, these rat snakes explore their entire environment. Simple to feed.",
+      "repro_advice": "Easy reproduction, frequent clutches if winter conditions were respected.",
+      "notes": "Some Pantherophis (like P. obsoletus) can reach over 2 meters."
     },
     "es": {
       "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Excelentes trepadores, estas culebras ratoneras exploran todo su entorno. Sencillas de alimentar.",
+      "repro_advice": "Reproducción fácil, puestas frecuentes si se respetaron las condiciones invernales.",
+      "notes": "Algunos Pantherophis (como P. obsoletus) pueden alcanzar más de 2 metros."
     },
     "de": {
       "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Hervorragende Kletterer, diese Kletternattern erkunden ihre gesamte Umgebung. Einfach zu füttern.",
+      "repro_advice": "Einfache Fortpflanzung, häufige Gelege, wenn die Winterbedingungen eingehalten wurden.",
+      "notes": "Einige Pantherophis (wie P. obsoletus) können über 2 Meter erreichen."
     },
     "zh": {
       "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "出色的攀爬者，这些鼠蛇会探索整个环境。喂养简单。",
+      "repro_advice": "如果遵守冬季条件，则繁殖容易，产卵频繁。",
+      "notes": "一些锦蛇属（如黑鼠蛇）体长可超过2米。"
     },
     "nl": {
       "name": "Serpents des blés & Serpents ratiers / Corn Snakes & Rat Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Excellente klimmers, deze rattenslangen verkennen hun hele omgeving. Eenvoudig te voeren.",
+      "repro_advice": "Eenvoudige voortplanting, frequente legsels als de winterse omstandigheden in acht zijn genomen.",
+      "notes": "Sommige Pantherophis (zoals P. obsoletus) kunnen meer dan 2 meter bereiken."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -1823,31 +2303,46 @@
       "name": "Couleuvre de Baron",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Very active snake requiring height. Opisthoglyphous, the bite causes painful edema.",
+      "repro_advice": "The decrease in lighting duration and temperature stimulates reproduction.",
+      "notes": "Often sports a beautiful green color, but there are brown or bluish morphs."
     },
     "es": {
       "name": "Couleuvre de Baron",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Serpiente muy activa que requiere altura. Opistoglifa, la mordedura causa un edema doloroso.",
+      "repro_advice": "La disminución de la duración de la iluminación y de la temperatura estimula la reproducción.",
+      "notes": "A menudo luce un hermoso color verde, pero existen morfos marrones o azulados."
     },
     "de": {
       "name": "Couleuvre de Baron",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Sehr aktive Schlange, die Höhe benötigt. Opisthoglyph, der Biss verursacht schmerzhafte Ödeme.",
+      "repro_advice": "Die Verringerung der Beleuchtungsdauer und der Temperatur stimuliert die Fortpflanzung.",
+      "notes": "Trägt oft eine schöne grüne Farbe, aber es gibt braune oder bläuliche Morphen."
     },
     "zh": {
       "name": "Couleuvre de Baron",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "非常活跃且需要高度的蛇。属于后齿类，咬伤会引起疼痛的水肿。",
+      "repro_advice": "光照时长和温度的降低可以刺激繁殖。",
+      "notes": "通常呈现美丽的绿色，但也有棕色或蓝色的色型。"
     },
     "nl": {
       "name": "Couleuvre de Baron",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zeer actieve slang die hoogte vereist. Opisthoglyfe, de beet veroorzaakt pijnlijk oedeem.",
+      "repro_advice": "De vermindering van de verlichtingsduur en de temperatuur stimuleert de voortplanting.",
+      "notes": "Vertoont vaak een prachtige groene kleur, maar er zijn bruine of blauwachtige morfen."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -1880,31 +2375,46 @@
       "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Large colubrids, very noisy (hiss loudly). Provide a large terrarium with a substrate for burrowing.",
+      "repro_advice": "Classic hibernation necessary. The female lays eggs of imposing size.",
+      "notes": "Their powerful hiss is due to a highly developed epiglottis, designed to intimidate."
     },
     "es": {
       "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Grandes colúbridos, muy ruidosos (sisean fuerte). Proporcionar un gran terrario con un sustrato para excavar.",
+      "repro_advice": "Hibernación clásica necesaria. La hembra pone huevos de tamaño imponente.",
+      "notes": "Su potente silbido se debe a una epiglotis muy desarrollada, diseñada para intimidar."
     },
     "de": {
       "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Große Nattern, sehr lautstark (fauchen laut). Bieten Sie ein großes Terrarium mit einem Substrat zum Wühlen an.",
+      "repro_advice": "Klassische Winterruhe erforderlich. Das Weibchen legt Eier von beachtlicher Größe.",
+      "notes": "Ihr kräftiges Fauchen ist auf eine hochentwickelte Epiglottis zurückzuführen, die zur Einschüchterung dient."
     },
     "zh": {
       "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "大型游蛇，噪音很大（嘶嘶声很大）。提供一个铺有挖掘基质的大型饲养箱。",
+      "repro_advice": "必须进行经典的冬眠。雌性产下的蛋体型巨大。",
+      "notes": "它们强有力的嘶嘶声归功于高度发达的会厌，旨在进行恐吓。"
     },
     "nl": {
       "name": "Serpents Taureaux / Bullsnakes & Gopher Snakes",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Grote toornslangen, zeer luidruchtig (blazen hard). Zorg voor een groot terrarium met een substraat om in te wroeten.",
+      "repro_advice": "Klassieke winterslaap noodzakelijk. Het vrouwtje legt eieren van indrukwekkende grootte.",
+      "notes": "Hun krachtige gesis is te danken aan een sterk ontwikkelde epiglottis, ontworpen om te intimideren."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -1936,31 +2446,46 @@
       "name": "Python birman",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Becomes gigantic (up to 6m). Think very seriously about the final space needed (entire room).",
+      "repro_advice": "Incubation by the mother possible but artificial incubators remain safer.",
+      "notes": "Often very docile if handled young, but its size requires the presence of two adults for handling."
     },
     "es": {
       "name": "Python birman",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Se vuelve gigantesco (hasta 6 m). Pensar muy seriamente en el espacio final necesario (habitación entera).",
+      "repro_advice": "Incubación por la madre posible, pero las incubadoras artificiales siguen siendo más seguras.",
+      "notes": "A menudo muy dócil si se manipula de joven, pero su tamaño requiere la presencia de dos adultos para su manipulación."
     },
     "de": {
       "name": "Python birman",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Wird gigantisch (bis zu 6 m). Denken Sie ernsthaft über den benötigten Endplatz nach (ganzer Raum).",
+      "repro_advice": "Bebrütung durch die Mutter möglich, aber künstliche Inkubatoren bleiben sicherer.",
+      "notes": "Oft sehr friedlich, wenn es jung gehandhabt wird, aber seine Größe erfordert die Anwesenheit von zwei Erwachsenen zur Handhabung."
     },
     "zh": {
       "name": "Python birman",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "体型会变得巨大（可达6米）。非常严肃地考虑最终所需的空间（整个房间）。",
+      "repro_advice": "雌性自行孵卵是可能的，但使用人工孵化器仍然更安全。",
+      "notes": "如果在幼年时期经常处理，通常会非常温顺，但其体型在处理时需要两名成年人在场。"
     },
     "nl": {
       "name": "Python birman",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Wordt gigantisch (tot 6m). Denk zeer serieus na over de benodigde uiteindelijke ruimte (gehele kamer).",
+      "repro_advice": "Incubatie door de moeder mogelijk, maar kunstmatige broedmachines blijven veiliger.",
+      "notes": "Vaak zeer volgzaam als hij jong wordt gehanteerd, maar zijn grootte vereist de aanwezigheid van twee volwassenen voor hantering."
     },
     "feed_category": "rodents",
     "temp_hot_min": "30",
@@ -1993,31 +2518,46 @@
       "name": "Python curtus / Blood Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Not subject"
+      "legal_status": "Not subject",
+      "expert_advice": "Very massive and sedentary. Requires high humidity and often has a (sometimes wrong) reputation for being defensive.",
+      "repro_advice": "Feeds little or not at all before laying.",
+      "notes": "Droppings are rare but very large, plan for good maintenance."
     },
     "es": {
       "name": "Python curtus / Blood Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "No sujeto"
+      "legal_status": "No sujeto",
+      "expert_advice": "Muy masivo y sedentario. Requiere alta humedad y a menudo tiene una (a veces errónea) reputación de ser defensivo.",
+      "repro_advice": "Se alimenta poco o nada antes de la puesta.",
+      "notes": "Los excrementos son raros pero muy voluminosos, prever un buen mantenimiento."
     },
     "de": {
       "name": "Python curtus / Blood Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Nicht unterworfen"
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Sehr massiv und sesshaft. Benötigt hohe Luftfeuchtigkeit und hat oft den (manchmal falschen) Ruf, defensiv zu sein.",
+      "repro_advice": "Frisst vor der Eiablage wenig oder gar nicht.",
+      "notes": "Kotabsatz ist selten, aber sehr umfangreich, planen Sie eine gute Pflege ein."
     },
     "zh": {
       "name": "Python curtus / Blood Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "不受法律约束"
+      "legal_status": "不受法律约束",
+      "expert_advice": "体型非常厚实且不爱活动。需要高湿度，通常被认为具有防御性（有时是错误的）。",
+      "repro_advice": "产卵前进食很少或根本不进食。",
+      "notes": "排泄次数很少但量很大，需做好清理维护工作。"
     },
     "nl": {
       "name": "Python curtus / Blood Python",
       "diet": "Rodent",
       "repro": "Oviparous",
-      "legal_status": "Niet onderworpen"
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Zeer massief en sedentair. Vereist een hoge luchtvochtigheid en heeft vaak de (soms onterechte) reputatie defensief te zijn.",
+      "repro_advice": "Eet weinig of helemaal niet voor de leg.",
+      "notes": "Uitwerpselen zijn zeldzaam maar zeer volumineus, zorg voor goed onderhoud."
     },
     "feed_category": "rodents",
     "temp_hot_min": "28",
@@ -2029,6 +2569,77 @@
     "gestation_days": "45",
     "incubation_days": "90",
     "incubation_temp": "28",
+    "incubation_humidity": "80"
+  },
+  {
+    "scientific_name": "Python Regius",
+    "category": "Serpent",
+    "family": "Pythonidae",
+    "venomous": false,
+    "fr": {
+      "name": "Python Royal",
+      "diet": "Rongeur",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Espèce calme et timide. Attention aux refus de nourriture si les paramètres ou le stress ne sont pas optimaux.",
+      "repro_advice": "Baisse nocturne de la température en hiver pour induire la reproduction.",
+      "notes": "Parfait pour débutants patients."
+    },
+    "en": {
+      "name": "Ball Python",
+      "diet": "Rodent",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Calm and shy species. Watch for food refusals if parameters or stress are not optimal.",
+      "repro_advice": "Nighttime temperature drop in winter to induce reproduction.",
+      "notes": "Perfect for patient beginners."
+    },
+    "es": {
+      "name": "Pitón Real",
+      "diet": "Roedor",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Especie tranquila y tímida. Cuidado con los rechazos de comida si los parámetros o el estrés no son óptimos.",
+      "repro_advice": "Bajada nocturna de la temperatura en invierno para inducir la reproducción.",
+      "notes": "Perfecto para principiantes pacientes."
+    },
+    "de": {
+      "name": "Königspython",
+      "diet": "Nagetier",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Ruhige und schüchterne Art. Achten Sie auf Futterverweigerungen, wenn die Parameter oder der Stress nicht optimal sind.",
+      "repro_advice": "Nächtliche Temperaturabsenkung im Winter zur Induzierung der Fortpflanzung.",
+      "notes": "Perfekt für geduldige Anfänger."
+    },
+    "zh": {
+      "name": "球蟒",
+      "diet": "啮齿动物",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "沉稳害羞的物种。如果环境参数或压力不理想，请注意拒食情况。",
+      "repro_advice": "冬季夜间降温以诱导繁殖。",
+      "notes": "非常适合有耐心的初学者。"
+    },
+    "nl": {
+      "name": "Koningspython",
+      "diet": "Knaagdier",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Rustige en schuwe soort. Pas op voor voedselweigering als de parameters of stress niet optimaal zijn.",
+      "repro_advice": "Nachtelijke temperatuurdaling in de winter om voortplanting te induceren.",
+      "notes": "Perfect voor geduldige beginners."
+    },
+    "feed_category": "rodents",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "60",
+    "humidity_max": "70",
+    "gestation_days": "45",
+    "incubation_days": "60",
+    "incubation_temp": "31",
     "incubation_humidity": "80"
   }
 ]
