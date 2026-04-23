@@ -71,6 +71,219 @@
     "incubation_humidity": "100"
   },
   {
+    "scientific_name": "Crocodylus Niloticus",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Crocodile du Nil",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES II / Annexe B",
+      "expert_advice": "L'un des plus grands crocodiliens. Réservé exclusivement aux structures zoologiques professionnelles.",
+      "repro_advice": "Nidification souterraine dans le sable. Forte garde maternelle.",
+      "notes": "Capable de s'attaquer à de grands mammifères. Très agressif."
+    },
+    "en": {
+      "name": "Nile Crocodile",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "One of the largest crocodilians. Reserved exclusively for professional zoological structures.",
+      "repro_advice": "Underground nesting in sand. Strong maternal guard.",
+      "notes": "Capable of attacking large mammals. Very aggressive."
+    },
+    "es": {
+      "name": "Cocodrilo del Nilo",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "Uno de los crocodilianos más grandes. Reservado exclusivamente para estructuras zoológicas profesionales.",
+      "repro_advice": "Anidación subterránea en arena. Fuerte guardia materna.",
+      "notes": "Capaz de atacar a grandes mamíferos. Muy agresivo."
+    },
+    "de": {
+      "name": "Nilkrokodil",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Eines der größten Krokodile. Ausschließlich professionellen zoologischen Einrichtungen vorbehalten.",
+      "repro_advice": "Unterirdische Nestanlage im Sand. Starker mütterlicher Schutz.",
+      "notes": "Kann große Säugetiere angreifen. Sehr aggressiv."
+    },
+    "zh": {
+      "name": "尼罗鳄",
+      "diet": "肉食性",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "体型最大的鳄鱼之一。仅限专业的动物园机构。",
+      "repro_advice": "在沙中地下筑巢。强大的母性守护。",
+      "notes": "能够攻击大型哺乳动物。非常有攻击性。"
+    },
+    "nl": {
+      "name": "Nijlkrokodil",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Een van de grootste krokodilachtigen. Exclusief voorbehouden aan professionele zoölogische instellingen.",
+      "repro_advice": "Ondergrondse nesten in zand. Sterke moederlijke bewaking.",
+      "notes": "In staat om grote zoogdieren aan te vallen. Zeer agressief."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "32",
+    "temp_hot_max": "34",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "45",
+    "incubation_days": "90",
+    "incubation_temp": "31",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Crocodylus Porosus",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Crocodile marin",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES II / Annexe B",
+      "expert_advice": "Le plus grand reptile vivant au monde. Nécessite des installations colossales.",
+      "repro_advice": "Nid en monticule de végétation. Les femelles sont extrêmement protectrices.",
+      "notes": "Tolère l'eau salée. Connu pour être un prédateur d'hommes opportuniste."
+    },
+    "en": {
+      "name": "Saltwater Crocodile",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES II / Annex B",
+      "expert_advice": "The largest living reptile in the world. Requires colossal facilities.",
+      "repro_advice": "Mound nest made of vegetation. Females are extremely protective.",
+      "notes": "Tolerates salt water. Known to be an opportunistic man-eater."
+    },
+    "es": {
+      "name": "Cocodrilo marino",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES II / Anexo B",
+      "expert_advice": "El reptil vivo más grande del mundo. Requiere instalaciones colosales.",
+      "repro_advice": "Nido en montículo de vegetación. Las hembras son extremadamente protectoras.",
+      "notes": "Tolera el agua salada. Conocido por ser un depredador de hombres oportunista."
+    },
+    "de": {
+      "name": "Leistenkrokodil",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "WA II / Anhang B",
+      "expert_advice": "Das größte lebende Reptil der Welt. Erfordert kolossale Anlagen.",
+      "repro_advice": "Hügelnest aus Vegetation. Weibchen sind extrem beschützerisch.",
+      "notes": "Verträgt Salzwasser. Bekannt als opportunistischer Menschenfresser."
+    },
+    "zh": {
+      "name": "湾鳄",
+      "diet": "肉食性",
+      "repro": "卵生",
+      "legal_status": "CITES II / 附录 B",
+      "expert_advice": "世界上现存最大的爬行动物。需要巨大的设施。",
+      "repro_advice": "用植被筑成土丘巢穴。雌性极具保护欲。",
+      "notes": "耐盐水。被称为机会主义的食人者。"
+    },
+    "nl": {
+      "name": "Zoutwaterkrokodil",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES II / Bijlage B",
+      "expert_advice": "Het grootste levende reptiel ter wereld. Vereist kolossale faciliteiten.",
+      "repro_advice": "Heuvelnest gemaakt van vegetatie. Vrouwtjes zijn extreem beschermend.",
+      "notes": "Toleert zout water. Bekend als een opportunistische menseter."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "32",
+    "temp_hot_max": "34",
+    "temp_cold_min": "26",
+    "temp_cold_max": "28",
+    "humidity_min": "80",
+    "humidity_max": "100",
+    "gestation_days": "45",
+    "incubation_days": "85",
+    "incubation_temp": "31",
+    "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Osteolaemus Tetraspis",
+    "category": "Crocodilien",
+    "family": "Crocodiliens",
+    "venomous": false,
+    "fr": {
+      "name": "Crocodile nain",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "CITES I / Annexe A",
+      "expert_advice": "Petite taille mais comportement très timide et nocturne. Nécessite beaucoup de cachettes.",
+      "repro_advice": "Nid en monticule. Ponte de petite taille (10-20 œufs).",
+      "notes": "Le plus petit crocodile vrai. Originaire d'Afrique de l'Ouest."
+    },
+    "en": {
+      "name": "Dwarf Crocodile",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "CITES I / Annex A",
+      "expert_advice": "Small size but very shy and nocturnal behavior. Requires many hiding places.",
+      "repro_advice": "Mound nest. Small clutch size (10-20 eggs).",
+      "notes": "The smallest true crocodile. Native to West Africa."
+    },
+    "es": {
+      "name": "Cocodrilo enano",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "CITES I / Anexo A",
+      "expert_advice": "Tamaño pequeño pero comportamiento muy tímido y nocturno. Requiere muchos escondites.",
+      "repro_advice": "Nido en montículo. Tamaño de puesta pequeño (10-20 huevos).",
+      "notes": "El cocodrilo verdadero más pequeño. Nativo de África Occidental."
+    },
+    "de": {
+      "name": "Stumpfkrokodil",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "WA I / Anhang A",
+      "expert_advice": "Klein, aber sehr scheu und nachtaktiv. Benötigt viele Versteckmöglichkeiten.",
+      "repro_advice": "Hügelnest. Kleine Gelegegröße (10-20 Eier).",
+      "notes": "Das kleinste echte Krokodil. Heimisch in Westafrika."
+    },
+    "zh": {
+      "name": "非洲侏儒鳄",
+      "diet": "肉食性",
+      "repro": "卵生",
+      "legal_status": "CITES I / 附录 A",
+      "expert_advice": "体型较小，但行为非常胆怯且为夜行性。需要许多躲避处。",
+      "repro_advice": "土丘巢穴。产卵量较小（10-20枚）。",
+      "notes": "最小的真鳄。原产于西非。"
+    },
+    "nl": {
+      "name": "Breedvoorhoofdkrokodil",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "CITES I / Bijlage A",
+      "expert_advice": "Klein formaat maar zeer schuw en nachtactief gedrag. Vereist veel schuilplaatsen.",
+      "repro_advice": "Heuvelnest. Kleine legselgrootte (10-20 eieren).",
+      "notes": "De kleinste echte krokodil. Inheems in West-Afrika."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "30",
+    "temp_hot_max": "32",
+    "temp_cold_min": "24",
+    "temp_cold_max": "26",
+    "humidity_min": "80",
+    "humidity_max": "100",
+    "gestation_days": "40",
+    "incubation_days": "100",
+    "incubation_temp": "30",
+    "incubation_humidity": "100"
+  },
+  {
     "scientific_name": "Paleosuchus Palpebrosus",
     "category": "Crocodilien",
     "family": "Crocodiliens",

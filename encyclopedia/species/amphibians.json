@@ -355,6 +355,77 @@
     "incubation_humidity": "100"
   },
   {
+    "scientific_name": "Hyla Arborea",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette verte",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Protégé (France)",
+      "expert_advice": "Espèce tempérée. Nécessite une période d'hivernage au frais pour stimuler la reproduction.",
+      "repro_advice": "Ponte en amas dans l'eau après la sortie d'hivernage.",
+      "notes": "Capacité à changer de couleur selon son environnement (vert à gris)."
+    },
+    "en": {
+      "name": "European tree frog",
+      "diet": "Insectivorous",
+      "repro": "Oviparous",
+      "legal_status": "Protected (EU)",
+      "expert_advice": "Temperate species. Requires a cool wintering period to stimulate reproduction.",
+      "repro_advice": "Lays eggs in clusters in water after emerging from wintering.",
+      "notes": "Ability to change color depending on its environment (green to gray)."
+    },
+    "es": {
+      "name": "Ranita de San Antonio",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "Protegido",
+      "expert_advice": "Especie templada. Requiere un período de invernada fresco para estimular la reproducción.",
+      "repro_advice": "Puesta en racimos en el agua después de salir de la invernada.",
+      "notes": "Capacidad de cambiar de color según su entorno (de verde a gris)."
+    },
+    "de": {
+      "name": "Europäischer Laubfrosch",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Geschützt",
+      "expert_advice": "Gemäßigte Art. Benötigt eine kühle Überwinterungsphase, um die Vermehrung anzuregen.",
+      "repro_advice": "Eiablage in Klumpen im Wasser nach dem Erwachen aus der Überwinterung.",
+      "notes": "Fähigkeit, die Farbe je nach Umgebung zu ändern (grün bis grau)."
+    },
+    "zh": {
+      "name": "欧洲树蛙",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "受保护物种",
+      "expert_advice": "温带物种。需要寒冷的冬眠期来刺激繁殖。",
+      "repro_advice": "冬眠结束后在水中成团产卵。",
+      "notes": "能根据环境改变颜色（绿色到灰色）。"
+    },
+    "nl": {
+      "name": "Boomkikker",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Beschermd",
+      "expert_advice": "Gematigde soort. Vereist een koele overwinteringsperiode om voortplanting te stimuleren.",
+      "repro_advice": "Eierafzetting in klompjes in het water na de winterrust.",
+      "notes": "Vermogen om van kleur te veranderen afhankelijk van de omgeving (groen naar grijs)."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "22",
+    "temp_hot_max": "25",
+    "temp_cold_min": "18",
+    "temp_cold_max": "20",
+    "humidity_min": "60",
+    "humidity_max": "80",
+    "gestation_days": "10",
+    "incubation_days": "12",
+    "incubation_temp": "20",
+    "incubation_humidity": "100"
+  },
+  {
     "scientific_name": "Lepidobatrachus Laevis",
     "category": "Amphibien",
     "family": "Grenouilles et Crapauds",
@@ -384,7 +455,7 @@
       "legal_status": "No sujeto",
       "expert_advice": "Mitad agua, mitad tierra. Muy agresiva, se pone de pie y grita cuando se siente amenazada.",
       "repro_advice": "Requiere grandes simulaciones de lluvia en verano.",
-      "notes": "A veces llamada 'rana Freddy Krueger' por su defensa."
+      "notes": "A veces llamada 'rana Freddy Krueger' por su defense."
     },
     "de": {
       "name": "Budgetts Frosch",
@@ -568,6 +639,77 @@
     "incubation_humidity": "100"
   },
   {
+    "scientific_name": "Osteopilus Septentrionalis",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette de Cuba",
+      "diet": "Insectivore/Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Grande rainette très vorace. Peut manger d'autres petites grenouilles.",
+      "repro_advice": "Ponte après de fortes pluies dans de petites collections d'eau.",
+      "notes": "Considérée comme invasive dans de nombreuses régions (ex: Floride)."
+    },
+    "en": {
+      "name": "Cuban tree frog",
+      "diet": "Insectivorous/Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Large and very voracious tree frog. Can eat other small frogs.",
+      "repro_advice": "Lays eggs after heavy rains in small water collections.",
+      "notes": "Considered invasive in many regions (e.g., Florida)."
+    },
+    "es": {
+      "name": "Rana arborícola de Cuba",
+      "diet": "Insectívoro/Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Rana arborícola grande y muy voraz. Puede comer otras ranas pequeñas.",
+      "repro_advice": "Puesta tras fuertes lluvias en pequeñas colecciones de agua.",
+      "notes": "Considerada invasora en muchas regiones (ej: Florida)."
+    },
+    "de": {
+      "name": "Kubanischer Laubfrosch",
+      "diet": "Insekten-/Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Großer und sehr gefräßiger Laubfrosch. Kann andere kleine Frösche fressen.",
+      "repro_advice": "Eiablage nach starken Regenfällen in kleinen Wasseransammlungen.",
+      "notes": "In vielen Regionen (z.B. Florida) als invasiv eingestuft."
+    },
+    "zh": {
+      "name": "古巴树蛙",
+      "diet": "食虫/食肉性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "体型巨大且非常贪婪。会吃掉其他小型青蛙。",
+      "repro_advice": "强降雨后在小型积水中产卵。",
+      "notes": "在许多地区（如佛罗里达州）被视为入侵物种。"
+    },
+    "nl": {
+      "name": "Cubaanse boomkikker",
+      "diet": "Insecteneter/Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Grote en zeer vraatzuchtige boomkikker. Kan andere kleine kikkers eten.",
+      "repro_advice": "Eierafzetting na hevige regenval in kleine waterverzamelingen.",
+      "notes": "Beschouwd als invasief in veel regio's (bijv. Florida)."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "26",
+    "temp_hot_max": "29",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "60",
+    "humidity_max": "90",
+    "gestation_days": "10",
+    "incubation_days": "10",
+    "incubation_temp": "26",
+    "incubation_humidity": "90"
+  },
+  {
     "scientific_name": "Phyllobates Spp.",
     "category": "Amphibien",
     "family": "Grenouilles et Crapauds",
@@ -637,5 +779,147 @@
     "incubation_days": "15",
     "incubation_temp": "24",
     "incubation_humidity": "100"
+  },
+  {
+    "scientific_name": "Trachycephalus Kunawalu",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette kunawalu",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Proche de la grenouille de lait, mais plus petite. Nécessite un terrarium arboricole humide.",
+      "repro_advice": "Ponte dans des cavités d'arbres remplies d'eau.",
+      "notes": "Espèce récemment distinguée de T. resinifictrix."
+    },
+    "en": {
+      "name": "Kunawalu tree frog",
+      "diet": "Insectivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Close to the milk frog, but smaller. Requires a humid arboreal terrarium.",
+      "repro_advice": "Lays eggs in water-filled tree cavities.",
+      "notes": "Species recently distinguished from T. resinifictrix."
+    },
+    "es": {
+      "name": "Rana arborícola Kunawalu",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Cercana a la rana lechera, pero más pequeña. Requiere un terrario arborícola húmedo.",
+      "repro_advice": "Puesta en cavidades de árboles llenas de agua.",
+      "notes": "Especie recientemente distinguida de T. resinifictrix."
+    },
+    "de": {
+      "name": "Kunawalu-Laubfrosch",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Ähnlich wie der Milchefrosch, aber kleiner. Benötigt ein feuchtes Baumterrarium.",
+      "repro_advice": "Eiablage in wassergefüllten Baumhöhlen.",
+      "notes": "Kürzlich von T. resinifictrix unterschiedene Art."
+    },
+    "zh": {
+      "name": "昆那瓦鲁树蛙",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "与牛奶蛙相似，但体型更小。需要潮湿的树栖爬虫缸。",
+      "repro_advice": "在充满水的树洞中产卵。",
+      "notes": "最近才从牛奶蛙中分离出来的物种。"
+    },
+    "nl": {
+      "name": "Kunawalu boomkikker",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Verwant aan de melkkikker, maar kleiner. Vereist een vochtig boombewonend terrarium.",
+      "repro_advice": "Eierafzetting in met water gevulde boomholten.",
+      "notes": "Soort die onlangs is onderscheiden van T. resinifictrix."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "26",
+    "temp_hot_max": "28",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "12",
+    "incubation_days": "14",
+    "incubation_temp": "26",
+    "incubation_humidity": "90"
+  },
+  {
+    "scientific_name": "Trachycephalus Resinifictrix",
+    "category": "Amphibien",
+    "family": "Grenouilles et Crapauds",
+    "venomous": false,
+    "fr": {
+      "name": "Rainette de lait (Grenouille de lait)",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis",
+      "expert_advice": "Magnifique coloration contrastée. Sécrète une substance laiteuse collante en cas de stress.",
+      "repro_advice": "Ponte dans les cavités d'arbres. Les têtards se développent rapidement.",
+      "notes": "Aussi appelée 'Mission golden-eyed tree frog'."
+    },
+    "en": {
+      "name": "Mission golden-eyed tree frog",
+      "diet": "Insectivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject",
+      "expert_advice": "Beautiful contrasted coloration. Secretes a sticky milky substance in case of stress.",
+      "repro_advice": "Lays eggs in tree cavities. Tadpoles develop quickly.",
+      "notes": "Also known as the 'Amazon milk frog'."
+    },
+    "es": {
+      "name": "Rana lechera amazónica",
+      "diet": "Insectívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto",
+      "expert_advice": "Hermosa coloración contrastada. Secreta una sustancia lechosa pegajosa en caso de estrés.",
+      "repro_advice": "Puesta en cavidades de árboles. Los renacuajos se desarrollan rápidamente.",
+      "notes": "También llamada 'rana de ojos dorados'."
+    },
+    "de": {
+      "name": "Amazonas-Milchfrosch",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen",
+      "expert_advice": "Wunderschöne kontrastreiche Färbung. Sondert bei Stress eine klebrige, milchige Substanz ab.",
+      "repro_advice": "Eiablage in Baumhöhlen. Kaulquappen entwickeln sich schnell.",
+      "notes": "Auch bekannt als 'Kronenlaubfrosch'."
+    },
+    "zh": {
+      "name": "亚马逊牛奶蛙",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束",
+      "expert_advice": "美丽的对比色。在受到压力时会分泌粘稠的乳状物质。",
+      "repro_advice": "在树洞中产卵。蝌蚪发育迅速。",
+      "notes": "也被称为“金眼树蛙”。"
+    },
+    "nl": {
+      "name": "Amazone-melkkikker",
+      "diet": "Insecteneter",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen",
+      "expert_advice": "Prachtige contrasterende kleuring. Scheidt bij stress een kleverige melkachtige substantie af.",
+      "repro_advice": "Eierafzetting in boomholten. Kikkervisjes ontwikkelen zich snel.",
+      "notes": "Ook bekend als 'Mission golden-eyed tree frog'."
+    },
+    "feed_category": "others",
+    "temp_hot_min": "26",
+    "temp_hot_max": "30",
+    "temp_cold_min": "22",
+    "temp_cold_max": "24",
+    "humidity_min": "70",
+    "humidity_max": "90",
+    "gestation_days": "12",
+    "incubation_days": "14",
+    "incubation_temp": "26",
+    "incubation_humidity": "90"
   }
 ]

@@ -23,7 +23,7 @@
       "zh": "物种",
       "nl": "Soorten"
     },
-    "file": "species.json",
+    "file": "species/index.js",
     "icon": "BookOpen",
     "type": "animal"
   },
