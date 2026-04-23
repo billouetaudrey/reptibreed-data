@@ -468,7 +468,7 @@
       "de": "Niederlande",
       "zh": "荷兰"
     },
-    "latitude": 51.3700,
+    "latitude": 51.37,
     "longitude": 6.1681,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Venlo,+Netherlands",
     "description": {
@@ -570,35 +570,6 @@
     }
   },
   {
-    "id": "20",
-    "name": {
-      "fr": "La Ferme Tropicale",
-      "en": "La Ferme Tropicale",
-      "es": "La Ferme Tropicale",
-      "de": "La Ferme Tropicale",
-      "zh": "La Ferme Tropicale"
-    },
-    "type": "shop",
-    "address": "5 Pl. Pinel, 75013 Paris",
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "es": "Francia",
-      "de": "Frankreich",
-      "zh": "法国"
-    },
-    "latitude": 48.8341,
-    "longitude": 2.3644,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5+Pl.+Pinel,+75013+Paris",
-    "description": {
-      "fr": "Le plus ancien et célèbre magasin de reptiles de Paris.",
-      "en": "The oldest and most famous reptile store in Paris.",
-      "es": "La tienda de reptiles más antigua et famosa de París.",
-      "de": "Das älteste und bekannteste Reptiliengeschäft in Paris.",
-      "zh": "巴黎最古老、最著名的爬行动物商店。"
-    }
-  },
-  {
     "id": "21",
     "name": {
       "fr": "Reptilis",
@@ -674,8 +645,8 @@
       "de": "Deutschland",
       "zh": "德国"
     },
-    "latitude": 48.0600,
-    "longitude": 8.4500,
+    "latitude": 48.06,
+    "longitude": 8.45,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Villingen-Schwenningen,+Germany",
     "description": {
       "fr": "Une référence allemande pour le matériel et les animaux.",
