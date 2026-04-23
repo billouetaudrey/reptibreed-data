@@ -20,6 +20,7 @@
     },
     "latitude": 51.6669,
     "longitude": 7.8286,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ökonomierat-Peitzmeier-Platz+2-4,+59063+Hamm",
     "description": {
       "fr": "La plus grande bourse de reptiles au monde (Zentralhallen).",
       "en": "The largest reptile show in the world (Zentralhallen).",
@@ -49,6 +50,7 @@
     },
     "latitude": 51.6669,
     "longitude": 7.8286,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ökonomierat-Peitzmeier-Platz+2-4,+59063+Hamm",
     "description": {
       "fr": "Édition de rentrée de la bourse de Hamm.",
       "en": "Back-to-school edition of the Hamm reptile show.",
@@ -78,6 +80,7 @@
     },
     "latitude": 51.6669,
     "longitude": 7.8286,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ökonomierat-Peitzmeier-Platz+2-4,+59063+Hamm",
     "description": {
       "fr": "Édition d'hiver de la bourse de Hamm.",
       "en": "Winter edition of the Hamm reptile show.",
@@ -107,6 +110,7 @@
     },
     "latitude": 52.0289,
     "longitude": 5.1437,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meidoornkade+24,+3992+AE+Houten",
     "description": {
       "fr": "Événement majeur aux Pays-Bas à l'Expo Houten, très prisé pour les serpents.",
       "en": "Major event in the Netherlands at Expo Houten, very popular for snakes.",
@@ -136,10 +140,11 @@
     },
     "latitude": 52.0289,
     "longitude": 5.1437,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meidoornkade+24,+3992+AE+Houten",
     "description": {
       "fr": "Édition de septembre à Houten.",
       "en": "September edition in Houten.",
-      "es": "Edición de septiembre en Houten.",
+      "es": "Edición de septembre en Houten.",
       "de": "September-Ausgabe in Houten.",
       "zh": "九月豪滕版。"
     }
@@ -165,6 +170,7 @@
     },
     "latitude": 52.0289,
     "longitude": 5.1437,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meidoornkade+24,+3992+AE+Houten",
     "description": {
       "fr": "La journée mondiale dédiée uniquement aux serpents.",
       "en": "The world day dedicated exclusively to snakes.",
@@ -194,6 +200,7 @@
     },
     "latitude": 51.1895,
     "longitude": 4.3985,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jan+van+Rijswijcklaan+191,+2020+Antwerpen",
     "description": {
       "fr": "Bourse internationale reconnue à l'Antwerp Expo.",
       "en": "Recognized international show at Antwerp Expo.",
@@ -223,6 +230,7 @@
     },
     "latitude": 50.2925,
     "longitude": 2.7937,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50+Av.+Roger+Salengro,+62223+Saint-Laurent-Blangy",
     "description": {
       "fr": "Un des plus grands salons du nord de la France, à Artois Expo.",
       "en": "One of the largest shows in northern France, at Artois Expo.",
@@ -252,6 +260,7 @@
     },
     "latitude": 45.7301,
     "longitude": 4.9545,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bd+de+l'Europe,+69680+Chassieu",
     "description": {
       "fr": "Rendez-vous incontournable à Eurexpo Lyon.",
       "en": "Must-attend event at Eurexpo Lyon.",
@@ -281,6 +290,7 @@
     },
     "latitude": 51.6669,
     "longitude": 7.8286,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ökonomierat-Peitzmeier-Platz+2-4,+59063+Hamm",
     "description": {
       "fr": "Édition de printemps 2027.",
       "en": "Spring 2027 edition.",
@@ -310,6 +320,7 @@
     },
     "latitude": 52.0289,
     "longitude": 5.1437,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meidoornkade+24,+3992+AE+Houten",
     "description": {
       "fr": "Bourse de printemps 2027.",
       "en": "Spring 2027 show.",
@@ -339,6 +350,7 @@
     },
     "latitude": 43.2842,
     "longitude": 5.5843,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=248+Av.+des+Paluds,+13400+Aubagne",
     "description": {
       "fr": "Le grand rassemblement terrariophile au Centre de congrès Agora.",
       "en": "The major terrarist gathering at the Agora Congress Center.",
@@ -368,6 +380,7 @@
     },
     "latitude": 51.0261,
     "longitude": 3.6937,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maaltekouter+1,+9051+Gent",
     "description": {
       "fr": "Une bourse belge réputée à Flanders Expo.",
       "en": "A renowned Belgian show at Flanders Expo.",
@@ -397,6 +410,7 @@
     },
     "latitude": 45.7301,
     "longitude": 4.9545,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bd+de+l'Europe,+69680+Chassieu",
     "description": {
       "fr": "Salon spécialisé dans les reptiles et les NAC (Eurexpo).",
       "en": "Show specialized in reptiles and exotic pets (Eurexpo).",
@@ -426,10 +440,11 @@
     },
     "latitude": 51.4965,
     "longitude": 7.4561,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rheinlanddamm+200,+44139+Dortmund",
     "description": {
       "fr": "Un événement allemand de qualité aux Westfalenhallen.",
       "en": "A high-quality German event at the Westfalenhallen.",
-      "es": "Un evento alemán de qualité en Westfalenhallen.",
+      "es": "Un evento alemán de calidad en Westfalenhallen.",
       "de": "Eine hochwertige deutsche Veranstaltung in den Westfalenhallen.",
       "zh": "在威斯特法伦大厅举行的德国高质量活动。"
     }
@@ -455,6 +470,7 @@
     },
     "latitude": 51.3700,
     "longitude": 6.1681,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Venlo,+Netherlands",
     "description": {
       "fr": "Bourse conviviale à la frontière germano-néerlandaise.",
       "en": "Friendly show on the German-Dutch border.",
@@ -484,6 +500,7 @@
     },
     "latitude": 43.8118,
     "longitude": 4.3435,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=230+Av.+du+Languedoc,+30900+Nîmes",
     "description": {
       "fr": "Exposition et vente de reptiles au Parc Expo de Nîmes.",
       "en": "Exhibition and sale of reptiles at Parc Expo Nîmes.",
@@ -513,6 +530,7 @@
     },
     "latitude": 50.9304,
     "longitude": 5.3582,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gouverneur+Verwilghensingel+70,+3500+Hasselt",
     "description": {
       "fr": "Le rendez-vous de fin d'année en Belgique à la Trixxo Arena.",
       "en": "The end-of-year meeting in Belgium at Trixxo Arena.",
@@ -542,6 +560,7 @@
     },
     "latitude": 50.2925,
     "longitude": 2.7937,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50+Av.+Roger+Salengro,+62223+Saint-Laurent-Blangy",
     "description": {
       "fr": "Édition 2027 du salon phare du Pas-de-Calais à Artois Expo.",
       "en": "2027 edition of the flagship show in Pas-de-Calais at Artois Expo.",
@@ -570,6 +589,7 @@
     },
     "latitude": 48.8341,
     "longitude": 2.3644,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5+Pl.+Pinel,+75013+Paris",
     "description": {
       "fr": "Le plus ancien et célèbre magasin de reptiles de Paris.",
       "en": "The oldest and most famous reptile store in Paris.",
@@ -598,6 +618,7 @@
     },
     "latitude": 50.7303,
     "longitude": 2.7486,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=905+Av.+des+Nations+Unies,+59270+Bailleul",
     "description": {
       "fr": "Expert en élevage et vente de reptiles de qualité.",
       "en": "Expert in breeding and selling quality reptiles.",
@@ -626,6 +647,7 @@
     },
     "latitude": 45.8368,
     "longitude": 4.8465,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chem.+des+Usines,+69270+Fontaines-sur-Saône",
     "description": {
       "fr": "Spécialiste renommé pour les sauriens et tortues, près de Lyon.",
       "en": "Renowned specialist for saurians and turtles, near Lyon.",
@@ -654,6 +676,7 @@
     },
     "latitude": 48.0600,
     "longitude": 8.4500,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Villingen-Schwenningen,+Germany",
     "description": {
       "fr": "Une référence allemande pour le matériel et les animaux.",
       "en": "A German reference for equipment and animals.",
@@ -682,6 +705,7 @@
     },
     "latitude": 51.9189,
     "longitude": 4.2547,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Keucheniusstraat+11,+3144+EM+Maassluis",
     "description": {
       "fr": "L'un des plus grands magasins de reptiles des Pays-Bas.",
       "en": "One of the largest reptile stores in the Netherlands.",
@@ -710,6 +734,7 @@
     },
     "latitude": 50.3922,
     "longitude": 4.4725,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Contrôle,+6010+Charleroi+(Couillet)",
     "description": {
       "fr": "Une institution en Belgique pour les reptiles et le matériel spécialisé.",
       "en": "An institution in Belgium for reptiles and specialized equipment.",
@@ -738,6 +763,7 @@
     },
     "latitude": 50.9833,
     "longitude": 3.5333,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gentsesteenweg+152,+9800+Deinze",
     "description": {
       "fr": "L'un des plus grands spécialistes de Flandre, très axé sur les serpents et lézards.",
       "en": "One of Flanders' leading specialists, highly focused on snakes and lizards.",
@@ -766,6 +792,7 @@
     },
     "latitude": 50.7433,
     "longitude": 3.2133,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue+du+Chemin+de+Fer+141,+7700+Mouscron",
     "description": {
       "fr": "Magasin spécialisé avec un large choix de phasmes, reptiles et invertébrés.",
       "en": "Specialized store with a wide choice of stick insects, reptiles, and invertebrates.",
@@ -794,6 +821,7 @@
     },
     "latitude": 50.6333,
     "longitude": 5.5667,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue+de+l'Indépendance+33,+4020+Liège",
     "description": {
       "fr": "Spécialiste liégeois reconnu pour son rayon terrariophilie et ses conseils avisés.",
       "en": "Liège specialist recognized for its terrarium department and expert advice.",
@@ -822,6 +850,7 @@
     },
     "latitude": 51.1764,
     "longitude": 4.3547,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Antwerpsesteenweg+241,+2660+Antwerpen",
     "description": {
       "fr": "Magasin polyvalent de renom en région anversoise avec une section reptile majeure.",
       "en": "Renowned versatile store in the Antwerp region with a major reptile section.",
@@ -851,6 +880,7 @@
     },
     "latitude": 45.4191,
     "longitude": 10.9785,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Viale+del+Lavoro+8,+37135+Verona+VR",
     "description": {
       "fr": "Le plus grand événement de terrariophilie en Italie (Veronafiere).",
       "en": "The largest terrarium event in Italy (Veronafiere).",
@@ -879,6 +909,7 @@
     },
     "latitude": 51.5074,
     "longitude": -0.1278,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=London,+United+Kingdom",
     "description": {
       "fr": "Boutique spécialisée en éclairage et matériel de pointe.",
       "en": "Shop specialized in high-end lighting and equipment.",
