@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "key": "feat_basic_tracking",
+    "fr": {
+      "title": "Suivi de base (Repas, Mues, Soins)"
+    },
+    "en": {
+      "title": "Basic tracking (Meals, Sheds, Cares)"
+    },
+    "es": {
+      "title": "Seguimiento básico (Comidas, Mudas, Cuidados)"
+    },
+    "de": {
+      "title": "Basis-Tracking (Mahlzeiten, Häutungen, Pflege)"
+    },
+    "zh": {
+      "title": "基础追踪 (喂食, 蜕皮, 护理)"
+    },
+    "free": true,
+    "premium": true
+  },
+  {
+    "id": 2,
+    "key": "feat_snakes_limit",
+    "fr": {
+      "title": "Nombre de Serpents"
+    },
+    "en": {
+      "title": "Number of Snakes"
+    },
+    "es": {
+      "title": "Número de Serpientes"
+    },
+    "de": {
+      "title": "Anzahl der Schlangen"
+    },
+    "zh": {
+      "title": "蛇的数量"
+    },
+    "free": "3 max",
+    "premium": "unlimited"
+  },
+  {
+    "id": 3,
+    "key": "feat_photos_limit",
+    "fr": {
+      "title": "Photos par animal"
+    },
+    "en": {
+      "title": "Photos per animal"
+    },
+    "es": {
+      "title": "Fotos por animal"
+    },
+    "de": {
+      "title": "Fotos pro Tier"
+    },
+    "zh": {
+      "title": "每个动物的照片"
+    },
+    "free": "free_1_max",
+    "premium": "unlimited"
+  },
+  {
+    "id": 4,
+    "key": "feat_breeding_limit",
+    "fr": {
+      "title": "Reproductions & Bébés"
+    },
+    "en": {
+      "title": "Reproductions & Babies"
+    },
+    "es": {
+      "title": "Reproducciones y Bebés"
+    },
+    "de": {
+      "title": "Zucht & Babys"
+    },
+    "zh": {
+      "title": "繁殖和幼崽"
+    },
+    "free": "free_2_max",
+    "premium": "unlimited"
+  },
+  {
+    "id": 5,
+    "key": "feat_pdf_export",
+    "fr": {
+      "title": "Génération de PDF (Cession, Suivi, Repro)"
+    },
+    "en": {
+      "title": "PDF Generation (Transfer, Tracking)"
+    },
+    "es": {
+      "title": "Generación de PDF (Cesión, Seguimiento)"
+    },
+    "de": {
+      "title": "PDF-Generierung (Übergabe, Tracking)"
+    },
+    "zh": {
+      "title": "PDF生成 (转让, 追踪)"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 12,
+    "key": "feat_batch_actions",
+    "fr": {
+      "title": "Actions en masse (Repas, Ventes)"
+    },
+    "en": {
+      "title": "Batch actions (Meals, Sales)"
+    },
+    "es": {
+      "title": "Acciones en masa (Comidas, Ventas)"
+    },
+    "de": {
+      "title": "Stapelaktionen (Mahlzeiten, Verkäufe)"
+    },
+    "zh": {
+      "title": "批量操作 (喂食, 销售)"
+    },
+    "free": "3 max",
+    "premium": "unlimited"
+  },
+  {
+    "id": 13,
+    "key": "feat_stats",
+    "fr": {
+      "title": "Graphiques de croissance complets"
+    },
+    "en": {
+      "title": "Full growth charts"
+    },
+    "es": {
+      "title": "Gráficos de crecimiento completos"
+    },
+    "de": {
+      "title": "Vollständige Wachstumscharts"
+    },
+    "zh": {
+      "title": "完整的成长图表"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 14,
+    "key": "feat_social_cards",
+    "fr": {
+      "title": "Cartes de Partage Pro (Sans filigrane)"
+    },
+    "en": {
+      "title": "Pro Social Cards (No watermark)"
+    },
+    "es": {
+      "title": "Tarjetas sociales profesionales (Sin marca de agua)"
+    },
+    "de": {
+      "title": "Pro Social Cards (Ohne Wasserzeichen)"
+    },
+    "zh": {
+      "title": "专业社交卡 (无水印)"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 15,
+    "key": "feat_exclusive_themes",
+    "fr": {
+      "title": "Thèmes Exclusifs & Design"
+    },
+    "en": {
+      "title": "Exclusive Themes & Design"
+    },
+    "es": {
+      "title": "Temas exclusivos y diseño"
+    },
+    "de": {
+      "title": "Exklusive Themen & Design"
+    },
+    "zh": {
+      "title": "专属主题和设计"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 6,
+    "key": "feat_genetics",
+    "fr": {
+      "title": "Calculateur Génétique"
+    },
+    "en": {
+      "title": "Genetic Calculator"
+    },
+    "es": {
+      "title": "Calculadora genética"
+    },
+    "de": {
+      "title": "Genetik-Rechner"
+    },
+    "zh": {
+      "title": "遗传学计算器"
+    },
+    "free": "free_1_pair",
+    "premium": true
+  },
+  {
+    "id": 16,
+    "key": "feat_hybride",
+    "fr": {
+      "title": "Projets Hybrides"
+    },
+    "en": {
+      "title": "Hybrid Projects"
+    },
+    "es": {
+      "title": "Proyectos híbridos"
+    },
+    "de": {
+      "title": "Hybrid-Projekte"
+    },
+    "zh": {
+      "title": "混合项目"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 17,
+    "key": "update_species",
+    "fr": {
+      "title": "Mise à jour des espèces (Auto)"
+    },
+    "en": {
+      "title": "Species updates"
+    },
+    "es": {
+      "title": "Actualizaciones de especies"
+    },
+    "de": {
+      "title": "Arten-Updates"
+    },
+    "zh": {
+      "title": "物种更新"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 19,
+    "key": "encyclopedia",
+    "fr": {
+      "title": "Encyclopédie et Espèce (Mise à jour auto.)"
+    },
+    "en": {
+      "title": "Encyclopedia (Auto update)"
+    },
+    "es": {
+      "title": "Enciclopedia (Actualización automática)"
+    },
+    "de": {
+      "title": "Enzyklopädie (Auto-Update)"
+    },
+    "zh": {
+      "title": "百科全书 (自动更新)"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 7,
+    "key": "feat_stock",
+    "fr": {
+      "title": "Gestion de Stock (Proies)"
+    },
+    "en": {
+      "title": "Stock Management (Preys)"
+    },
+    "es": {
+      "title": "Gestión de stock (Presas)"
+    },
+    "de": {
+      "title": "Lagerverwaltung (Beute)"
+    },
+    "zh": {
+      "title": "库存管理 (猎物)"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 9,
+    "key": "feat_backupauto",
+    "fr": {
+      "title": "Sauvegarde Cloud Automatique"
+    },
+    "en": {
+      "title": "Automatic Cloud Backup"
+    },
+    "es": {
+      "title": "Copia de seguridad automática en la nube"
+    },
+    "de": {
+      "title": "Automatisches Cloud-Backup"
+    },
+    "zh": {
+      "title": "自动云备份"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 18,
+    "key": "cloud_restoration",
+    "fr": {
+      "title": "Restauration Cloud"
+    },
+    "en": {
+      "title": "Cloud Restoration"
+    },
+    "es": {
+      "title": "Restauración en la nube"
+    },
+    "de": {
+      "title": "Cloud-Wiederherstellung"
+    },
+    "zh": {
+      "title": "云恢复"
+    },
+    "free": false,
+    "premium": true
+  },
+  {
+    "id": 10,
+    "key": "feat_alerts",
+    "fr": {
+      "title": "Rappels Avancés (Ponte, Éclosion)"
+    },
+    "en": {
+      "title": "Advanced Reminders (Laying, Hatching)"
+    },
+    "es": {
+      "title": "Recordatorios avanzados (Puesta, Eclosión)"
+    },
+    "de": {
+      "title": "Erweiterte Erinnerungen (Ablage, Schlüpfen)"
+    },
+    "zh": {
+      "title": "高级提醒 (产卵, 孵化)"
+    },
+    "free": false,
+    "premium": true
+  }
+]
