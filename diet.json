@@ -1,0 +1,305 @@
+{
+  "diet": [
+    {
+      "id": "rodents",
+      "fr": {
+        "name": "Rongeurs",
+        "items": "Souris, Rats, Mastomys",
+        "description": "Base alimentaire pour la plupart des serpents.",
+        "pros": "Profil nutritionnel complet (calcium des os, abats).",
+        "cons": "Le rat est riche en viande rouge (obésité).",
+        "tips": "Le Mastomys stimule les mangeurs difficiles."
+      },
+      "en": {
+        "name": "Rodents",
+        "items": "Mice, Rats, Mastomys",
+        "description": "Staple diet for most snakes.",
+        "pros": "Complete nutritional profile.",
+        "cons": "Rats are high in fat/red meat.",
+        "tips": "Mastomys is ideal for picky pythons."
+      },
+      "es": {
+        "name": "Roedores",
+        "items": "Ratones, Ratas, Mastomys",
+        "description": "Dieta básica para serpientes.",
+        "pros": "Perfil completo.",
+        "cons": "Riesgo de obesidad.",
+        "tips": "Mastomys para comedores difíciles."
+      },
+      "de": {
+        "name": "Nagetiere",
+        "items": "Mäuse, Ratten, Mastomys",
+        "description": "Hauptfutter für Schlangen.",
+        "pros": "Vollständiges Profil.",
+        "cons": "Fetthaltig.",
+        "tips": "Mastomys bei Futterverweigerern."
+      },
+      "zh": {
+        "name": "啮齿动物",
+        "items": "老鼠, 大鼠, 多乳鼠",
+        "description": "大多数蛇类的主食。",
+        "pros": "营养全面。",
+        "cons": "脂肪含量高。",
+        "tips": "多乳鼠适合挑食者。"
+      }
+    },
+    {
+      "id": "insects",
+      "fr": {
+        "name": "Insectes",
+        "items": "Grillons, Blattes, Vers",
+        "description": "Protéines pour lézards et juvéniles.",
+        "pros": "Stimule l'instinct de chasse.",
+        "cons": "Certains sont pauvres en calcium.",
+        "tips": "Toujours faire un 'gut-loading' 24h avant."
+      },
+      "en": {
+        "name": "Insects",
+        "items": "Crickets, Roaches, Worms",
+        "description": "Protein for lizards and neonates.",
+        "pros": "Stimulates hunting behavior.",
+        "cons": "Can be low in calcium.",
+        "tips": "Always gut-load 24h before."
+      },
+      "es": {
+        "name": "Insectos",
+        "items": "Grillos, Cucarachas",
+        "description": "Proteína para lagartos.",
+        "pros": "Instinto de caza.",
+        "cons": "Pobres en calcio.",
+        "tips": "Gut-loading esencial."
+      },
+      "de": {
+        "name": "Insekten",
+        "items": "Grillen, Schaben",
+        "description": "Eiweiß für Echsen.",
+        "pros": "Jagdtrieb.",
+        "cons": "Kalziummangel möglich.",
+        "tips": "24 Std. vorher 'gut-loaden'."
+      },
+      "zh": {
+        "name": "昆虫",
+        "items": "蟋蟀, 蟑螂",
+        "description": "蜥蜴的蛋白质来源。",
+        "pros": "刺激狩猎本能。",
+        "cons": "钙含量可能较低。",
+        "tips": "喂食前24小时进行肠道填充。"
+      }
+    },
+    {
+      "id": "plants",
+      "fr": {
+        "name": "Végétaux",
+        "items": "Légumes, Herbes, Fruits",
+        "description": "Régime principal pour les tortues terrestres et certains lézards.",
+        "pros": "Riche en fibres et vitamines.",
+        "cons": "Certains fruits sont trop sucrés.",
+        "tips": "Favoriser les feuilles vert foncé (Pissenlit, Trèfle)."
+      },
+      "en": {
+        "name": "Plants",
+        "items": "Vegetables, Herbs, Fruits",
+        "description": "Main diet for tortoises and some lizards.",
+        "pros": "High in fiber and vitamins.",
+        "cons": "Some fruits are too high in sugar.",
+        "tips": "Prefer dark leafy greens (Dandelion, Clover)."
+      },
+      "es": {
+        "name": "Vegetales",
+        "items": "Verduras, Hierbas, Frutas",
+        "description": "Dieta principal para tortugas y algunos lagartos.",
+        "pros": "Rica en fibra.",
+        "cons": "Demasiada azúcar en algunas frutas.",
+        "tips": "Preferir hojas verdes oscuras."
+      },
+      "de": {
+        "name": "Pflanzen",
+        "items": "Gemüse, Kräuter, Früchte",
+        "description": "Hauptfutter für Schildkröten und einige Echsen.",
+        "pros": "Ballaststoffreich.",
+        "cons": "Einige Früchte enthalten zu viel Zucker.",
+        "tips": "Dunkelgrünes Blattgemüse bevorzugen."
+      },
+      "zh": {
+        "name": "植物",
+        "items": "蔬菜, 草本, 水果",
+        "description": "陆龟和某些蜥蜴的主食。",
+        "pros": "富含纤维和维生素。",
+        "cons": "某些水果含糖量过高。",
+        "tips": "首选深色叶菜（蒲公英、三叶草）。"
+      }
+    },
+    {
+      "id": "frugivore_commercial",
+      "fr": {
+        "name": "Nectars & Fruits",
+        "items": "Repashy, Pangea, Purées",
+        "description": "Alimentation pour geckos frugivores (Crested, Gargoyle).",
+        "pros": "Équilibré, évite les carences en D3/Calcium.",
+        "cons": "Peut causer une addiction au sucre si non contrôlé.",
+        "tips": "Varier les saveurs pour éviter la lassitude."
+      },
+      "en": {
+        "name": "Nectars & Fruits",
+        "items": "Repashy, Pangea, Purees",
+        "description": "Diet for frugivorous geckos.",
+        "pros": "Complete balance of D3/Calcium.",
+        "cons": "High sugar content.",
+        "tips": "Rotate flavors to prevent boredom."
+      },
+      "es": {
+        "name": "Néctar y Frutas",
+        "items": "Pangea, Purés",
+        "description": "Dieta para geckos frugívoros.",
+        "pros": "Equilibrado.",
+        "cons": "Contenido en azúcar.",
+        "tips": "Variar sabores."
+      },
+      "de": {
+        "name": "Nektar & Früchte",
+        "items": "Repashy, Pangea",
+        "description": "Futter für fruchtfressende Geckos.",
+        "pros": "Ausgewogen.",
+        "cons": "Zuckergehalt.",
+        "tips": "Sorten abwechseln."
+      },
+      "zh": {
+        "name": "花蜜和水果",
+        "items": "Repashy, Pangea",
+        "description": "食果壁虎的饮食。",
+        "pros": "营养均衡。",
+        "cons": "含糖量高。",
+        "tips": "轮换口味以防厌食。"
+      }
+    },
+    {
+      "id": "birds_prey",
+      "fr": {
+        "name": "Oiseaux & Volailles",
+        "items": "Poussins, Cailles, Œufs",
+        "description": "Alternative pour varier le régime des grands serpents.",
+        "pros": "Faible en graisses, riche en plumes (fibres).",
+        "cons": "Selles plus odorantes et liquides.",
+        "tips": "Les œufs sont idéaux pour les espèces spécialisées (Dasypeltis)."
+      },
+      "en": {
+        "name": "Birds & Poultry",
+        "items": "Chicks, Quails, Eggs",
+        "description": "Alternative prey for large snakes.",
+        "pros": "Low fat, high fiber (feathers).",
+        "cons": "Messy/smelly waste.",
+        "tips": "Eggs are mandatory for egg-eating specialists."
+      },
+      "es": {
+        "name": "Aves",
+        "items": "Pollitos, Codornices",
+        "description": "Variedad para grandes serpientes.",
+        "pros": "Baja en grasa.",
+        "cons": "Heces olorosas.",
+        "tips": "Huevos para especialistas."
+      },
+      "de": {
+        "name": "Vögel",
+        "items": "Küken, Wachteln",
+        "description": "Abwechslung für Schlangen.",
+        "pros": "Fettarm.",
+        "cons": "Geruchsintensiver Kot.",
+        "tips": "Eier für Spezialisten."
+      },
+      "zh": {
+        "name": "鸟类和家禽",
+        "items": "小鸡, 鹌鹑",
+        "description": "大型蛇类的替代猎物。",
+        "pros": "低脂肪, 高纤维。",
+        "cons": "粪便较臭。",
+        "tips": "鸡蛋是食卵专家的必备品。"
+      }
+    },
+    {
+      "id": "aquatic_specialists",
+      "fr": {
+        "name": "Spécialistes Aquatiques",
+        "items": "Poissons, Grenouilles, Crevettes",
+        "description": "Régime pour couleuvres d'eau et tortues.",
+        "pros": "Apport en iode et acides gras.",
+        "cons": "Risque de Thiaminase (destruction Vit B1).",
+        "tips": "Éviter les poissons rouges (riches en thiaminase)."
+      },
+      "en": {
+        "name": "Aquatic Specialists",
+        "items": "Fish, Frogs, Shrimp",
+        "description": "Diet for water snakes and turtles.",
+        "pros": "Iodine and fatty acids.",
+        "cons": "Thiaminase risk (Vitamin B1 deficiency).",
+        "tips": "Avoid goldfish (high thiaminase)."
+      },
+      "es": {
+        "name": "Especialistas Acuáticos",
+        "items": "Peces, Ranas",
+        "description": "Dieta para serpientes de agua.",
+        "pros": "Yodo y ácidos grasos.",
+        "cons": "Riesgo de Tiaminasa.",
+        "tips": "Evitar carpas/peces dorados."
+      },
+      "de": {
+        "name": "Wasser-Spezialisten",
+        "items": "Fische, Frösche",
+        "description": "Futter für Wasserschlangen.",
+        "pros": "Jod und Fettsäuren.",
+        "cons": "Thiaminase-Risiko.",
+        "tips": "Goldfische vermeiden."
+      },
+      "zh": {
+        "name": "水生专家",
+        "items": "鱼, 青蛙",
+        "description": "水蛇和乌龟的饮食。",
+        "pros": "碘和脂肪酸。",
+        "cons": "硫胺素酶风险。",
+        "tips": "避免金鱼（硫胺素酶含量高）。"
+      }
+    },
+    {
+      "id": "supplements",
+      "fr": {
+        "name": "Compléments",
+        "items": "Calcium, D3, Multivitamines",
+        "description": "Essentiels pour la structure osseuse.",
+        "pros": "Prévient le MBD.",
+        "cons": "Toxicité possible par surdosage de D3.",
+        "tips": "Calcium sans D3 à chaque repas pour les lézards."
+      },
+      "en": {
+        "name": "Supplements",
+        "items": "Calcium, D3, Multivitamins",
+        "description": "Critical for bone health.",
+        "pros": "Prevents MBD.",
+        "cons": "D3 toxicity if overdosed.",
+        "tips": "Calcium w/o D3 at every meal for lizards."
+      },
+      "es": {
+        "name": "Suplementos",
+        "items": "Calcio, D3",
+        "description": "Estructura ósea.",
+        "pros": "Evita MBD.",
+        "cons": "Toxicidad D3.",
+        "tips": "Calcio sin D3 toujours."
+      },
+      "de": {
+        "name": "Ergänzungsmittel",
+        "items": "Kalzium, D3",
+        "description": "Knochenbau.",
+        "pros": "Verhindert MBD.",
+        "cons": "D3-Vergiftung.",
+        "tips": "Kalzium ohne D3 bei jeder Mahlzeit."
+      },
+      "zh": {
+        "name": "补充剂",
+        "items": "钙, D3",
+        "description": "骨骼结构所需。",
+        "pros": "预防 MBD。",
+        "cons": "D3 过量中毒。",
+        "tips": "每餐都要补充不含 D3 的钙。"
+      }
+    }
+  ]
+}
