@@ -1,1 +1,26 @@
-{}
+{
+  "id": "alert_1777061692952",
+  "messages": {
+    "fr": {
+      "message": "Vous pouvez à présent ajouter tout type de reptiles (lézards, serpents, tortues, etc.). Une sélection de \"morphs\" est désormais disponible pour chaque animal. \nJe vous invite également à découvrir notre encyclopédie, qui sera enrichie au fil du temps.\nBonne utilisation !\n",
+      "title": "Bienvenue sur la toute dernière version de ReptiBreed 3.0 !"
+    },
+    "en": {
+      "message": "You can now add any type of reptile, whether it's a lizard, snake, turtle, or others. A selection of morphs is available for each reptile.\nI also invite you to explore our encyclopedia, which will be updated over time.\nEnjoy!\n",
+      "title": "Welcome to the latest version of ReptiBreed 3.0!"
+    },
+    "es": {
+      "message": "Ahora puedes añadir cualquier tipo de reptil, ya sea lagarto, serpiente, tortuga u otros. Hay una selección de \"morphs\" disponible para cada reptil.\nTambién te invito a descubrir nuestra enciclopedia, que se completará con el tiempo.\n¡Que la disfrutes!\n",
+      "title": "¡Bienvenido a la última versión de ReptiBreed 3.0!"
+    },
+    "de": {
+      "message": "Sie können jetzt jede Art von Reptilien hinzufügen, egal ob Eidechse, Schlange, Schildkröte oder andere. Für jedes Reptil steht eine Auswahl an Morphs zur Verfügung.\nIch lade Sie auch ein, unsere Enzyklopädie zu entdecken, die im Laufe der Zeit ergänzt wird.\nViel Spaß bei der Nutzung!\n",
+      "title": "Willkommen zur neuesten Version von ReptiBreed 3.0!"
+    },
+    "zh": {
+      "message": "现在您可以添加任何类型的爬行动物，无论是蜥蜴、蛇、乌龟还是其他品种。每个爬行动物都有多种形态 (morph) 可供选择。\n此外，欢迎探索我们的百科全书，内容将持续更新。\n祝您使用愉快！\n",
+      "title": "欢迎使用 ReptiBreed 3.0 最新版本！"
+    }
+  },
+  "timestamp": 1777061692952
+}
