@@ -1,0 +1,432 @@
+[
+  {
+    "scientific_name": "Varanus Acanthurus",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan à queue épineuse",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Ackie Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varanus acanthurus",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Stachelschwanzwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "刺尾巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Stekelstaartvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Beccarii",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan noir",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Black Tree Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano negro",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Schwarzer Baumwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "黑巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Zwarte boomvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Exanthematicus",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan des savanes",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Savannah Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano de sabana",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Steppenwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "平原巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Steppenvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Glauerti",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan de Kimberley",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Kimberley Rock Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano de roca de Kimberley",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Kimberley-Felsenwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "金伯利岩巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Kimberley rotsvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Macraei",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan bleu",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Blue-spotted Tree Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano azul",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Blauer Baumwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "蓝尾巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Blauwe boomvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Melinus",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan coing",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Quince Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano membrillo",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Quittenwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "木瓜巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Goudvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Prasinus",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan émeraude",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Emerald Tree Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano esmeralda",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Smaragdwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "翠绿巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Smaragdvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Reisingeri",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan de Reisinger",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Yellow Tree Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano de Reisinger",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Reisingers Baumwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "黄巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Reisingers boomvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  },
+  {
+    "scientific_name": "Varanus Salvator",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan malais",
+      "diet": "Carnivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Water Monitor",
+      "diet": "Carnivorous",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano acuático",
+      "diet": "Carnívoro",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Bindenwaran",
+      "diet": "Fleischfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "圆鼻巨蜥",
+      "diet": "肉食性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Indische watervaraan",
+      "diet": "Carnivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "others"
+  },
+  {
+    "scientific_name": "Varanus Tristis",
+    "category": "Varan",
+    "family": "Varans",
+    "venomous": false,
+    "fr": {
+      "name": "Varan triste",
+      "diet": "Insectivore",
+      "repro": "Ovipare",
+      "legal_status": "Non soumis"
+    },
+    "en": {
+      "name": "Black-headed Monitor",
+      "diet": "Insectivore",
+      "repro": "Oviparous",
+      "legal_status": "Not subject"
+    },
+    "es": {
+      "name": "Varano triste",
+      "diet": "Insectivore",
+      "repro": "Ovíparo",
+      "legal_status": "No sujeto"
+    },
+    "de": {
+      "name": "Trauerwaran",
+      "diet": "Insektenfresser",
+      "repro": "Ovipar",
+      "legal_status": "Nicht unterworfen"
+    },
+    "zh": {
+      "name": "黑头巨蜥",
+      "diet": "食虫性",
+      "repro": "卵生",
+      "legal_status": "不受法律约束"
+    },
+    "nl": {
+      "name": "Treurvaraan",
+      "diet": "Insectivoor",
+      "repro": "Eierleggend",
+      "legal_status": "Niet onderworpen"
+    },
+    "feed_category": "insects"
+  }
+]
