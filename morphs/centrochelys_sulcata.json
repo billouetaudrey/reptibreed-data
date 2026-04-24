@@ -5,9 +5,25 @@
     "en": "African Spurred Tortoise"
   },
   "morphs": [
-    { "fr": "Normal", "en": "Normal", "type": "wildtype" },
-    { "fr": "Ivory", "en": "Ivory", "type": "recessive" },
-    { "fr": "Albino", "en": "Albino", "type": "recessive" },
-    { "fr": "Hypo", "en": "Hypo", "type": "recessive" }
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "type": "wildtype"
+    },
+    {
+      "fr": "Ivory",
+      "en": "Ivory",
+      "type": "recessive"
+    },
+    {
+      "fr": "Albino",
+      "en": "Albino",
+      "type": "recessive"
+    },
+    {
+      "fr": "Hypo",
+      "en": "Hypo",
+      "type": "recessive"
+    }
   ]
 }
