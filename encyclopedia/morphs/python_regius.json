@@ -430,7 +430,8 @@
       "de": "Bumblebee",
       "zh": "Bumblebee",
       "nl": "Bumblebee",
-      "type": "combo"
+      "type": "combo",
+      "ingredients": ["Pastel", "Spider"]
     },
     {
       "fr": "Killer Clown",

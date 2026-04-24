@@ -1,14 +1,7 @@
 {
   "species_scientific": "Geochelone Elegans",
-  "name": {
-    "fr": "Tortue étoilée de l'Inde",
-    "en": "Indian Star Tortoise"
-  },
+  "name": { "fr": "Tortue étoilée de l'Inde", "en": "Indian Star Tortoise" },
   "morphs": [
-    {
-      "fr": "Normal",
-      "en": "Normal",
-      "type": "wildtype"
-    }
+    { "fr": "Normal", "en": "Normal", "type": "wildtype" }
   ]
 }

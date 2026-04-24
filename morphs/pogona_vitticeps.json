@@ -111,7 +111,8 @@
       "de": "Hypo Trans",
       "zh": "Hypo Trans",
       "nl": "Hypo Trans",
-      "type": "combo"
+      "type": "combo",
+      "ingredients": ["Hypomelanistic", "Translucent"]
     },
     {
       "fr": "Hypo Zero",

@@ -331,7 +331,8 @@
       "de": "Snow",
       "zh": "Snow",
       "nl": "Snow",
-      "type": "combo"
+      "type": "combo",
+      "ingredients": ["Amelanistic", "Anerythristic A"]
     },
     {
       "fr": "Blizzard",
@@ -358,7 +359,8 @@
       "de": "Ghost",
       "zh": "Ghost",
       "nl": "Ghost",
-      "type": "combo"
+      "type": "combo",
+      "ingredients": ["Hypomelanistic", "Anerythristic A"]
     },
     {
       "fr": "Opal",
