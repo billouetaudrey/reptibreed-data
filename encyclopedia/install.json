@@ -1,434 +1,114 @@
 [
   {
     "id": "ins-001-rack-setup",
-    "titre": {
-      "en": "Rack System Setup",
-      "fr": "Installation Système Rack",
-      "es": "Configuración de Racks",
-      "de": "Rack-Einrichtung",
-      "zh": "蛇柜系统设置"
-    },
+    "titre": { "en": "Rack System Setup", "fr": "Installation Système Rack", "es": "Configuración de Racks", "de": "Rack-Einrichtung", "zh": "蛇柜系统设置" },
     "icone": "Layout",
-    "description": {
-      "en": "Breeding rack configuration.",
-      "fr": "Setup de rack d'élevage.",
-      "es": "Configuración de racks.",
-      "de": "Zuchtrack-Konfiguration.",
-      "zh": "育种架配置。"
-    },
+    "description": { "en": "Breeding rack configuration.", "fr": "Setup de rack d'élevage.", "es": "Configuración de racks.", "de": "Zuchtrack-Konfiguration.", "zh": "育种架配置。" },
     "contenu_detaille": {
-      "en": [
-        "Select appropriate tub sizes.",
-        "Back-heat or belly-heat placement.",
-        "Place probes on heat source.",
-        "Drill ventilation for RH control."
-      ],
-      "fr": [
-        "Choisir la taille de bac adaptée.",
-        "Chauffage de fond ou au sol.",
-        "Sondes sur la source de chaleur.",
-        "Trous de ventilation pour l'hygro."
-      ],
-      "es": [
-        "Tamaño de bandeja adecuado.",
-        "Calor posterior o inferior.",
-        "Sondas en el calor.",
-        "Ventilación adecuada."
-      ],
-      "de": [
-        "Wannengröße wählen.",
-        "Rück- oder Bodenheizung.",
-        "Sonden auf Wärmequelle.",
-        "Belüftung bohren."
-      ],
-      "zh": [
-        "选择合适的箱子尺寸。",
-        "背面或底部加热。",
-        "探头放在热源上。",
-        "钻孔控制湿度。"
-      ]
+      "en": ["Select appropriate tub sizes.", "Back-heat or belly-heat placement.", "Place probes on heat source.", "Drill ventilation for RH control."],
+      "fr": ["Choisir la taille de bac adaptée.", "Chauffage de fond ou au sol.", "Sondes sur la source de chaleur.", "Trous de ventilation pour l'hygro."],
+      "es": ["Tamaño de bandeja adecuado.", "Calor posterior o inferior.", "Sondas en el calor.", "Ventilación adecuada."],
+      "de": ["Wannengröße wählen.", "Rück- oder Bodenheizung.", "Sonden auf Wärmequelle.", "Belüftung bohren."],
+      "zh": ["选择合适的箱子尺寸。", "背面或底部加热。", "探头放在热源上。", "钻孔控制湿度。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "ins-002-lighting-uvb",
-    "titre": {
-      "en": "UVB Installation",
-      "fr": "Installation UVB",
-      "es": "Instalación UVB",
-      "de": "UVB-Installation",
-      "zh": "UVB 安装"
-    },
+    "titre": { "en": "UVB Installation", "fr": "Installation UVB", "es": "Instalación UVB", "de": "UVB-Installation", "zh": "UVB 安装" },
     "icone": "Sun",
-    "description": {
-      "en": "UVB source positioning.",
-      "fr": "Positionnement des sources UVB.",
-      "es": "Posición de fuentes UVB.",
-      "de": "Positionierung von UVB.",
-      "zh": "UVB 光源定位。"
-    },
+    "description": { "en": "UVB source positioning.", "fr": "Positionnement des sources UVB.", "es": "Posición de fuentes UVB.", "de": "Positionierung von UVB.", "zh": "UVB 光源定位。" },
     "contenu_detaille": {
-      "en": [
-        "Follow Ferguson zones.",
-        "Mount inside or above mesh.",
-        "Check safe distance.",
-        "Replace bulbs periodically."
-      ],
-      "fr": [
-        "Suivre les zones de Ferguson.",
-        "Installer dedans ou sur grille.",
-        "Vérifier distance de sécurité.",
-        "Remplacer les néons régulièrement."
-      ],
-      "es": [
-        "Zonas de Ferguson.",
-        "Montar dentro o sobre malla.",
-        "Distancia de seguridad.",
-        "Cambiar bombillas."
-      ],
-      "de": [
-        "Ferguson-Zonen beachten.",
-        "Innen oder über Gaze.",
-        "Abstand prüfen.",
-        "Röhren regelmäßig tauschen."
-      ],
-      "zh": [
-        "遵循弗格森区域。",
-        "安装在内部或网格上方。",
-        "检查安全距离。",
-        "定期更换灯管。"
-      ]
+      "en": ["Follow Ferguson zones.", "Mount inside or above mesh.", "Check safe distance.", "Replace bulbs periodically."],
+      "fr": ["Suivre les zones de Ferguson.", "Installer dedans ou sur grille.", "Vérifier distance de sécurité.", "Remplacer les néons régulièrement."],
+      "es": ["Zonas de Ferguson.", "Montar dentro o sobre malla.", "Distancia de seguridad.", "Cambiar bombillas."],
+      "de": ["Ferguson-Zonen beachten.", "Innen oder über Gaze.", "Abstand prüfen.", "Röhren regelmäßig tauschen."],
+      "zh": ["遵循弗格森区域。", "安装在内部或网格上方。", "检查安全距离。", "定期更换灯管。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "ins-003-bioactive-enclosure",
-    "titre": {
-      "en": "Bioactive Setup",
-      "fr": "Setup Bioactif",
-      "es": "Configuración Bioactiva",
-      "de": "Bioaktiv-Setup",
-      "zh": "生物活性设置"
-    },
+    "titre": { "en": "Bioactive Setup", "fr": "Setup Bioactif", "es": "Configuración Bioactiva", "de": "Bioaktiv-Setup", "zh": "生物活性设置" },
     "icone": "Bug",
-    "description": {
-      "en": "Self-sustaining ecosystem.",
-      "fr": "Écosystème autonome.",
-      "es": "Ecosistema autónomo.",
-      "de": "Selbsterhaltendes System.",
-      "zh": "自我维持的生态系统。"
-    },
+    "description": { "en": "Self-sustaining ecosystem.", "fr": "Écosystème autonome.", "es": "Ecosistema autónomo.", "de": "Selbsterhaltendes System.", "zh": "自我维持的生态系统。" },
     "contenu_detaille": {
-      "en": [
-        "Layer drainage (clay balls).",
-        "Use mesh separator.",
-        "Specialized soil mix.",
-        "Introduce clean-up crew."
-      ],
-      "fr": [
-        "Couche de drainage (billes d'argile) au fond.",
-        "Filet géotextile de séparation.",
-        "Mélange terreux organique spécifique.",
-        "Lâcher de micro-faune (cloportes, collemboles)."
-      ],
-      "es": [
-        "Drenaje (bolas de arcilla).",
-        "Malla separadora.",
-        "Sustrato específico.",
-        "Equipo de limpieza."
-      ],
-      "de": [
-        "Drainageschicht.",
-        "Trennvlies.",
-        "Spezialerde.",
-        "Bodenpolizei einsetzen."
-      ],
-      "zh": [
-        "排水层（粘土球）。",
-        "丝网分隔物。",
-        "专门的土壤混合物。",
-        "引入清洁团队。"
-      ]
+      "en": ["Layer drainage (clay balls).", "Use mesh separator.", "Specialized soil mix.", "Introduce clean-up crew."],
+      "fr": ["Couche de drainage (billes d'argile) au fond.", "Filet géotextile de séparation.", "Mélange terreux organique spécifique.", "Lâcher de micro-faune (cloportes, collemboles)."],
+      "es": ["Drenaje (bolas de arcilla).", "Malla separadora.", "Sustrato específico.", "Equipo de limpieza."],
+      "de": ["Drainageschicht.", "Trennvlies.", "Spezialerde.", "Bodenpolizei einsetzen."],
+      "zh": ["排水层（粘土球）。", "丝网分隔物。", "专门的土壤混合物。", "引入清洁团队。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "ins-004-thermostat-calibration",
-    "titre": {
-      "en": "Calibration",
-      "fr": "Calibration",
-      "es": "Calibración",
-      "de": "Kalibrierung",
-      "zh": "校准"
-    },
+    "titre": { "en": "Calibration", "fr": "Calibration", "es": "Calibración", "de": "Kalibrierung", "zh": "校准" },
     "icone": "Wrench",
-    "description": {
-      "en": "Ensuring accuracy.",
-      "fr": "Garantir la précision.",
-      "es": "Garantizar precisión.",
-      "de": "Präzision sichern.",
-      "zh": "确保准确性。"
-    },
+    "description": { "en": "Ensuring accuracy.", "fr": "Garantir la précision.", "es": "Garantizar precisión.", "de": "Präzision sichern.", "zh": "确保准确性。" },
     "contenu_detaille": {
-      "en": [
-        "Use independent thermometer.",
-        "Compare 24h readings.",
-        "Adjust offset settings.",
-        "Check every 6 months."
-      ],
-      "fr": [
-        "Utiliser un thermomètre externe indépendant.",
-        "Comparer les relevés sur 24h.",
-        "Ajuster l'offset (décalage).",
-        "Contrôler tous les 6 mois."
-      ],
-      "es": [
-        "Termómetro independiente.",
-        "Comparar en 24h.",
-        "Ajustar offset.",
-        "Revisar cada 6 meses."
-      ],
-      "de": [
-        "Externes Thermometer.",
-        "24h-Vergleich.",
-        "Offset anpassen.",
-        "Alle 6 Monate prüfen."
-      ],
-      "zh": [
-        "使用独立的温度计。",
-        "比较 24 小时读数。",
-        "调整偏移设置。",
-        "每 6 个月检查一次。"
-      ]
+      "en": ["Use independent thermometer.", "Compare 24h readings.", "Adjust offset settings.", "Check every 6 months."],
+      "fr": ["Utiliser un thermomètre externe indépendant.", "Comparer les relevés sur 24h.", "Ajuster l'offset (décalage).", "Contrôler tous les 6 mois."],
+      "es": ["Termómetro independiente.", "Comparar en 24h.", "Ajustar offset.", "Revisar cada 6 meses."],
+      "de": ["Externes Thermometer.", "24h-Vergleich.", "Offset anpassen.", "Alle 6 Monate prüfen."],
+      "zh": ["使用独立的温度计。", "比较 24 小时读数。", "调整偏移设置。", "每 6 个月检查一次。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "ins-005-ventilation-design",
-    "titre": {
-      "en": "Ventilation",
-      "fr": "Ventilation",
-      "es": "Ventilación",
-      "de": "Belüftung",
-      "zh": "通风"
-    },
+    "titre": { "en": "Ventilation", "fr": "Ventilation", "es": "Ventilación", "de": "Belüftung", "zh": "通风" },
     "icone": "Wind",
-    "description": {
-      "en": "Air flow optimization.",
-      "fr": "Optimisation des flux d'air.",
-      "es": "Optimizar flujo de aire.",
-      "de": "Luftstrom optimieren.",
-      "zh": "空气流通优化。"
-    },
+    "description": { "en": "Air flow optimization.", "fr": "Optimisation des flux d'air.", "es": "Optimizar flujo de aire.", "de": "Luftstrom optimieren.", "zh": "空气流通优化。" },
     "contenu_detaille": {
-      "en": [
-        "Cross-ventilation pattern.",
-        "Hole size vs species.",
-        "Mesh for high flow.",
-        "Check for stagnant pockets."
-      ],
-      "fr": [
-        "Schéma de flux d'air croisé.",
-        "Taille des trous selon l'espèce.",
-        "Grillage pour haut débit.",
-        "Éliminer les poches d'air stagnant."
-      ],
-      "es": [
-        "Ventilación cruzada.",
-        "Agujeros según especie.",
-        "Malla para flujo alto.",
-        "Evitar aire estancado."
-      ],
-      "de": [
-        "Querbelüftung.",
-        "Lochgröße angepasst.",
-        "Gaze für Durchzug.",
-        "Tote Zonen vermeiden."
-      ],
-      "zh": [
-        "交叉通风模式。",
-        "孔径与物种匹配。",
-        "高流量使用网格。",
-        "检查停滞区域。"
-      ]
+      "en": ["Cross-ventilation pattern.", "Hole size vs species.", "Mesh for high flow.", "Check for stagnant pockets."],
+      "fr": ["Schéma de flux d'air croisé.", "Taille des trous selon l'espèce.", "Grillage pour haut débit.", "Éliminer les poches d'air stagnant."],
+      "es": ["Ventilación cruzada.", "Agujeros según especie.", "Malla para flujo alto.", "Evitar aire estancado."],
+      "de": ["Querbelüftung.", "Lochgröße angepasst.", "Gaze für Durchzug.", "Tote Zonen vermeiden."],
+      "zh": ["交叉通风模式。", "孔径与物种匹配。", "高流量使用网格。", "检查停滞区域。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "ins-006-thermostat-types",
-    "titre": {
-      "en": "Thermostat Types",
-      "fr": "Types de Thermostats",
-      "es": "Tipos de Termostatos",
-      "de": "Thermostat-Typen",
-      "zh": "温控器类型"
-    },
+    "titre": { "en": "Thermostat Types", "fr": "Types de Thermostats", "es": "Tipos de Termostatos", "de": "Thermostat-Typen", "zh": "温控器类型" },
     "icone": "Settings",
-    "description": {
-      "en": "Heating control modes.",
-      "fr": "Modes de régulation.",
-      "es": "Modos de regulación.",
-      "de": "Regelungsarten.",
-      "zh": "加热控制模式。"
-    },
+    "description": { "en": "Heating control modes.", "fr": "Modes de régulation.", "es": "Modos de regulación.", "de": "Regelungsarten.", "zh": "加热控制模式。" },
     "contenu_detaille": {
-      "en": [
-        "On/Off for mats.",
-        "Dimming for lamps.",
-        "Pulse for ceramics.",
-        "Check wattage limit."
-      ],
-      "fr": [
-        "On/Off pour tapis/câbles.",
-        "Dimming (variateur) pour lampes.",
-        "Pulse pour céramiques.",
-        "Vérifier la puissance max (Watt)."
-      ],
-      "es": [
-        "On/Off para mantas.",
-        "Dimming para bombillas.",
-        "Pulse para cerámicas.",
-        "Vataje máximo."
-      ],
-      "de": [
-        "An/Aus für Matten.",
-        "Dimming für Lampen.",
-        "Pulse für Keramik.",
-        "Wattlimit beachten."
-      ],
-      "zh": [
-        "垫子开关。",
-        "灯具调光。",
-        "陶瓷脉冲。",
-        "检查功率限制。"
-      ]
+      "en": ["On/Off for mats.", "Dimming for lamps.", "Pulse for ceramics.", "Check wattage limit."],
+      "fr": ["On/Off pour tapis/câbles.", "Dimming (variateur) pour lampes.", "Pulse pour céramiques.", "Vérifier la puissance max (Watt)."],
+      "es": ["On/Off para mantas.", "Dimming para bombillas.", "Pulse para cerámicas.", "Vataje máximo."],
+      "de": ["An/Aus für Matten.", "Dimming für Lampen.", "Pulse für Keramik.", "Wattlimit beachten."],
+      "zh": ["垫子开关。", "灯具调光。", "陶瓷脉冲。", "检查功率限制。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "ins-007-substrate-impaction",
-    "titre": {
-      "en": "Impaction Risks",
-      "fr": "Risques d'Occlusion",
-      "es": "Riesgo de Impactación",
-      "de": "Verstopfungsrisiko",
-      "zh": "嵌塞风险"
-    },
+    "titre": { "en": "Impaction Risks", "fr": "Risques d'Occlusion", "es": "Riesgo de Impactación", "de": "Verstopfungsrisiko", "zh": "嵌塞风险" },
     "icone": "Droplets",
-    "description": {
-      "en": "Substrate ingestion.",
-      "fr": "Ingestion de substrat.",
-      "es": "Ingestión de sustrato.",
-      "de": "Substratverschlucken.",
-      "zh": "基质摄入。"
-    },
+    "description": { "en": "Substrate ingestion.", "fr": "Ingestion de substrat.", "es": "Ingestión de sustrato.", "de": "Substratverschlucken.", "zh": "基质摄入。" },
     "contenu_detaille": {
-      "en": [
-        "Avoid loose sand.",
-        "No calcium-sand.",
-        "Bowl feeding.",
-        "Proper hydration."
-      ],
-      "fr": [
-        "Éviter le sable en vrac.",
-        "Bannir le sable calcique.",
-        "Nourrir dans un bol.",
-        "Maintenir une hydratation correcte."
-      ],
-      "es": [
-        "Evitar arena suelta.",
-        "No arena de calcio.",
-        "Alimentar en cuenco.",
-        "Hidratación."
-      ],
-      "de": [
-        "Losen Sand vermeiden.",
-        "Kein Kalziumsand.",
-        "In Schale füttern.",
-        "Hydratation."
-      ],
-      "zh": [
-        "避免松散沙子。",
-        "禁止使用钙沙。",
-        "用碗喂食。",
-        "保持水分。"
-      ]
+      "en": ["Avoid loose sand.", "No calcium-sand.", "Bowl feeding.", "Proper hydration."],
+      "fr": ["Éviter le sable en vrac.", "Bannir le sable calcique.", "Nourrir dans un bol.", "Maintenir une hydratation correcte."],
+      "es": ["Evitar arena suelta.", "No arena de calcio.", "Alimentar en cuenco.", "Hidratación."],
+      "de": ["Losen Sand vermeiden.", "Kein Kalziumsand.", "In Schale füttern.", "Hydratation."],
+      "zh": ["避免松散沙子。", "禁止使用钙沙。", "用碗喂食。", "保持水分。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "ins-008-water-quality",
-    "titre": {
-      "en": "Water Quality",
-      "fr": "Qualité de l'Eau",
-      "es": "Calidad del Agua",
-      "de": "Wasserqualität",
-      "zh": "水质"
-    },
+    "titre": { "en": "Water Quality", "fr": "Qualité de l'Eau", "es": "Calidad del Agua", "de": "Wasserqualität", "zh": "水质" },
     "icone": "Droplets",
-    "description": {
-      "en": "Safe hydration sources.",
-      "fr": "Hydratation sécurisée.",
-      "es": "Fuentes seguras.",
-      "de": "Sicheres Trinkwasser.",
-      "zh": "安全水源。"
-    },
+    "description": { "en": "Safe hydration sources.", "fr": "Hydratation sécurisée.", "es": "Fuentes seguras.", "de": "Sicheres Trinkwasser.", "zh": "安全水源。" },
     "contenu_detaille": {
-      "en": [
-        "Dechlorinate tap water.",
-        "Reverse osmosis pros/cons.",
-        "Avoid high mineral buildup.",
-        "Regular bowl disinfection."
-      ],
-      "fr": [
-        "Déchlorer l'eau du robinet.",
-        "Avantages Osmose Inverse.",
-        "Éviter les dépôts minéraux.",
-        "Désinfection régulière des bols."
-      ],
-      "es": [
-        "Declorar agua.",
-        "Pros/Contras Osmosis.",
-        "Evitar minerales altos.",
-        "Desinfectar cuencos."
-      ],
-      "de": [
-        "Leitungswasser entchloren.",
-        "Osmosewasser nutzen.",
-        "Mineralablagerungen vermeiden.",
-        "Näpfe desinfizieren."
-      ],
-      "zh": [
-        "自来水除氯。",
-        "反渗透优缺点。",
-        "避免矿物质堆积。",
-        "定期对水碗进行消毒。"
-      ]
+      "en": ["Dechlorinate tap water.", "Reverse osmosis pros/cons.", "Avoid high mineral buildup.", "Regular bowl disinfection."],
+      "fr": ["Déchlorer l'eau du robinet.", "Avantages Osmose Inverse.", "Éviter les dépôts minéraux.", "Désinfection régulière des bols."],
+      "es": ["Declorar agua.", "Pros/Contras Osmosis.", "Evitar minerales altos.", "Desinfectar cuencos."],
+      "de": ["Leitungswasser entchloren.", "Osmosewasser nutzen.", "Mineralablagerungen vermeiden.", "Näpfe desinfizieren."],
+      "zh": ["自来水除氯。", "反渗透优缺点。", "避免矿物质堆积。", "定期对水碗进行消毒。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   }
 ]

@@ -1,272 +1,72 @@
 [
   {
     "id": "trb-001-thermostat-failure",
-    "titre": {
-      "en": "Thermostat Fail",
-      "fr": "Panne Thermostat",
-      "es": "Fallo Termostato",
-      "de": "Thermostatdefekt",
-      "zh": "温控器故障"
-    },
+    "titre": { "en": "Thermostat Fail", "fr": "Panne Thermostat", "es": "Fallo Termostato", "de": "Thermostatdefekt", "zh": "温控器故障" },
     "icone": "Wrench",
-    "description": {
-      "en": "Heating failure.",
-      "fr": "Chauffage HS.",
-      "es": "Sin calor.",
-      "de": "Heizungsausfall.",
-      "zh": "加热故障。"
-    },
+    "description": { "en": "Heating failure.", "fr": "Chauffage HS.", "es": "Sin calor.", "de": "Heizungsausfall.", "zh": "加热故障。" },
     "contenu_detaille": {
-      "en": [
-        "Check fuses.",
-        "Test wall outlet.",
-        "Verify probe.",
-        "Use backup unit."
-      ],
-      "fr": [
-        "Vérifier les fusibles du thermostat.",
-        "Tester la prise murale avec un autre appareil.",
-        "Vérifier que la sonde n'est pas délogée ou mouillée.",
-        "Toujours avoir une unité de thermostat de secours."
-      ],
-      "es": [
-        "Fusibles.",
-        "Enchufe directo.",
-        "Sonda.",
-        "Unidad repuesto."
-      ],
-      "de": [
-        "Sicherungen.",
-        "Steckdose prüfen.",
-        "Sonde prüfen.",
-        "Ersatzgerät."
-      ],
-      "zh": [
-        "检查保险丝。",
-        "测试墙壁插座。",
-        "验证探头。",
-        "使用备用设备。"
-      ]
+      "en": ["Check fuses.", "Test wall outlet.", "Verify probe.", "Use backup unit."],
+      "fr": ["Vérifier les fusibles du thermostat.", "Tester la prise murale avec un autre appareil.", "Vérifier que la sonde n'est pas délogée ou mouillée.", "Toujours avoir une unité de thermostat de secours."],
+      "es": ["Fusibles.", "Enchufe directo.", "Sonda.", "Unidad repuesto."],
+      "de": ["Sicherungen.", "Steckdose prüfen.", "Sonde prüfen.", "Ersatzgerät."],
+      "zh": ["检查保险丝。", "测试墙壁插座。", "验证探头。", "使用备用设备。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "trb-002-humidity-issues",
-    "titre": {
-      "en": "Humidity Issues",
-      "fr": "Problèmes Hygro",
-      "es": "Humedad",
-      "de": "Luftfeuchte",
-      "zh": "湿度问题"
-    },
+    "titre": { "en": "Humidity Issues", "fr": "Problèmes Hygro", "es": "Humedad", "de": "Luftfeuchte", "zh": "湿度问题" },
     "icone": "CloudRain",
-    "description": {
-      "en": "RH correction.",
-      "fr": "Corriger l'hygro.",
-      "es": "Corregir RH.",
-      "de": "LF anpassen.",
-      "zh": "湿度校正。"
-    },
+    "description": { "en": "RH correction.", "fr": "Corriger l'hygro.", "es": "Corregir RH.", "de": "LF anpassen.", "zh": "湿度校正。" },
     "contenu_detaille": {
-      "en": [
-        "Ventilation adjust.",
-        "Substrate change.",
-        "Hygrometer salt test.",
-        "Misting systems."
-      ],
-      "fr": [
-        "Ajuster les aérations (boucher ou ouvrir).",
-        "Changer le type de substrat (plus ou moins rétenteur).",
-        "Calibrer l'hygromètre avec le test du sel.",
-        "Vérifier les buses des systèmes de brumisation."
-      ],
-      "es": [
-        "Ventilación.",
-        "Sustrato.",
-        "Test sal.",
-        "Nebulización."
-      ],
-      "de": [
-        "Belüftung.",
-        "Substrat.",
-        "Salztest.",
-        "Beregnung."
-      ],
-      "zh": [
-        "调整通风。",
-        "更换基质。",
-        "盐测试。",
-        "喷雾系统。"
-      ]
+      "en": ["Ventilation adjust.", "Substrate change.", "Hygrometer salt test.", "Misting systems."],
+      "fr": ["Ajuster les aérations (boucher ou ouvrir).", "Changer le type de substrat (plus ou moins rétenteur).", "Calibrer l'hygromètre avec le test du sel.", "Vérifier les buses des systèmes de brumisation."],
+      "es": ["Ventilación.", "Sustrato.", "Test sal.", "Nebulización."],
+      "de": ["Belüftung.", "Substrat.", "Salztest.", "Beregnung."],
+      "zh": ["调整通风。", "更换基质。", "盐测试。", "喷雾系统。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "trb-003-power-outage",
-    "titre": {
-      "en": "Power Outage",
-      "fr": "Coupure Courant",
-      "es": "Corte Eléctrico",
-      "de": "Stromausfall",
-      "zh": "停电"
-    },
+    "titre": { "en": "Power Outage", "fr": "Coupure Courant", "es": "Corte Eléctrico", "de": "Stromausfall", "zh": "停电" },
     "icone": "Zap",
-    "description": {
-      "en": "Heat loss.",
-      "fr": "Perte de chaleur.",
-      "es": "Pérdida calor.",
-      "de": "Wärmeverlust.",
-      "zh": "热量流失。"
-    },
+    "description": { "en": "Heat loss.", "fr": "Perte de chaleur.", "es": "Pérdida calor.", "de": "Wärmeverlust.", "zh": "热量流失。" },
     "contenu_detaille": {
-      "en": [
-        "Enclosures closed.",
-        "Blanket insulation.",
-        "Heat packs.",
-        "Battery monitors."
-      ],
-      "fr": [
-        "Garder les bacs fermés pour conserver la chaleur.",
-        "Recouvrir les terrariums avec des couvertures isolantes.",
-        "Utiliser des chaufferettes chimiques si besoin (sans contact direct).",
-        "Installer des alarmes de température à piles."
-      ],
-      "es": [
-        "No abrir.",
-        "Mantas.",
-        "Calor químico.",
-        "Pilas."
-      ],
-      "de": [
-        "Box zu lassen.",
-        "Decken.",
-        "Heatpacks.",
-        "Batterie-Monitor."
-      ],
-      "zh": [
-        "保持关闭。",
-        "毯子绝缘。",
-        "加热包。",
-        "电池监视器。"
-      ]
+      "en": ["Enclosures closed.", "Blanket insulation.", "Heat packs.", "Battery monitors."],
+      "fr": ["Garder les bacs fermés pour conserver la chaleur.", "Recouvrir les terrariums avec des couvertures isolantes.", "Utiliser des chaufferettes chimiques si besoin (sans contact direct).", "Installer des alarmes de température à piles."],
+      "es": ["No abrir.", "Mantas.", "Calor químico.", "Pilas."],
+      "de": ["Box zu lassen.", "Decken.", "Heatpacks.", "Batterie-Monitor."],
+      "zh": ["保持关闭。", "毯子绝缘。", "加热包。", "电池监视器。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "trb-004-sensor-misplacement",
-    "titre": {
-      "en": "Sensor Errors",
-      "fr": "Erreurs Sondes",
-      "es": "Error Sensores",
-      "de": "Sondenfehler",
-      "zh": "传感器错误"
-    },
+    "titre": { "en": "Sensor Errors", "fr": "Erreurs Sondes", "es": "Error Sensores", "de": "Sondenfehler", "zh": "传感器错误" },
     "icone": "Settings",
-    "description": {
-      "en": "Inaccurate readings.",
-      "fr": "Mesures faussées.",
-      "es": "Medidas falsas.",
-      "de": "Falsche Werte.",
-      "zh": "不准确的读数。"
-    },
+    "description": { "en": "Inaccurate readings.", "fr": "Mesures faussées.", "es": "Medidas falsas.", "de": "Falsche Werte.", "zh": "不准确的读数。" },
     "contenu_detaille": {
-      "en": [
-        "Probe too close.",
-        "Direct light error.",
-        "Soil vs Air temp.",
-        "Cable kinks."
-      ],
-      "fr": [
-        "Sonde placée trop près de la source de chaleur.",
-        "Erreur de mesure due à la lumière directe du soleil.",
-        "Différence notable entre T° au sol et T° de l'air.",
-        "Vérifier que le câble n'est pas pincé ou sectionné."
-      ],
-      "es": [
-        "Sonda mal puesta.",
-        "Luz directa.",
-        "Suelo vs Aire.",
-        "Cables."
-      ],
-      "de": [
-        "Sonde zu nah.",
-        "Direktes Licht.",
-        "Boden vs Luft.",
-        "Kabelknick."
-      ],
-      "zh": [
-        "探头太近。",
-        "直射光错误。",
-        "土壤与空气温度。",
-        "电缆扭结。"
-      ]
+      "en": ["Probe too close.", "Direct light error.", "Soil vs Air temp.", "Cable kinks."],
+      "fr": ["Sonde placée trop près de la source de chaleur.", "Erreur de mesure due à la lumière directe du soleil.", "Différence notable entre T° au sol et T° de l'air.", "Vérifier que le câble n'est pas pincé ou sectionné."],
+      "es": ["Sonda mal puesta.", "Luz directa.", "Suelo vs Aire.", "Cables."],
+      "de": ["Sonde zu nah.", "Direktes Licht.", "Boden vs Luft.", "Kabelknick."],
+      "zh": ["探头太近。", "直射光错误。", "土壤与空气温度。", "电缆扭结。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   },
   {
     "id": "trb-005-flooding-leak",
-    "titre": {
-      "en": "Flooding",
-      "fr": "Inondation",
-      "es": "Inundación",
-      "de": "Überschwemmung",
-      "zh": "淹没"
-    },
+    "titre": { "en": "Flooding", "fr": "Inondation", "es": "Inundación", "de": "Überschwemmung", "zh": "淹没" },
     "icone": "Droplets",
-    "description": {
-      "en": "Water system leak.",
-      "fr": "Fuite d'eau.",
-      "es": "Fuga de agua.",
-      "de": "Wasserschaden.",
-      "zh": "水系统泄漏。"
-    },
+    "description": { "en": "Water system leak.", "fr": "Fuite d'eau.", "es": "Fuga de agua.", "de": "Wasserschaden.", "zh": "水系统泄漏。" },
     "contenu_detaille": {
-      "en": [
-        "Mist system check.",
-        "Check bowl leaks.",
-        "Dry substrate fast.",
-        "Prevent mold bloom."
-      ],
-      "fr": [
-        "Vérifier les raccords du système de pluie.",
-        "Contrôler les fissures éventuelles des bols d'eau.",
-        "Éponger et sécher le substrat rapidement.",
-        "Surveiller l'apparition de moisissures après le séchage."
-      ],
-      "es": [
-        "Revisar lluvia.",
-        "Fugas cuencos.",
-        "Secar sustrato.",
-        "Evitar moho."
-      ],
-      "de": [
-        "Beregnung prüfen.",
-        "Näpfe prüfen.",
-        "Substrat trocknen.",
-        "Schimmel vermeiden."
-      ],
-      "zh": [
-        "喷雾系统检查。",
-        "检查碗泄漏。",
-        "快速干燥基质。",
-        "防止霉菌开花。"
-      ]
+      "en": ["Mist system check.", "Check bowl leaks.", "Dry substrate fast.", "Prevent mold bloom."],
+      "fr": ["Vérifier les raccords du système de pluie.", "Contrôler les fissures éventuelles des bols d'eau.", "Éponger et sécher le substrat rapidement.", "Surveiller l'apparition de moisissures après le séchage."],
+      "es": ["Revisar lluvia.", "Fugas cuencos.", "Secar sustrato.", "Evitar moho."],
+      "de": ["Beregnung prüfen.", "Näpfe prüfen.", "Substrat trocknen.", "Schimmel vermeiden."],
+      "zh": ["喷雾系统检查。", "检查碗泄漏。", "快速干燥基质。", "防止霉菌开花。"]
     },
-    "metadata": {
-      "last_updated": "2026-04-13T15:00:00Z",
-      "version": "2.0.0"
-    }
+    "metadata": { "last_updated": "2026-04-13T15:00:00Z", "version": "2.0.0" }
   }
 ]
