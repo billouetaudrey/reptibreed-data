@@ -5,25 +5,9 @@
     "en": "Red-eared Slider"
   },
   "morphs": [
-    {
-      "fr": "Normal",
-      "en": "Normal",
-      "type": "wildtype"
-    },
-    {
-      "fr": "Albino",
-      "en": "Albino",
-      "type": "recessive"
-    },
-    {
-      "fr": "Pastel",
-      "en": "Pastel",
-      "type": "recessive"
-    },
-    {
-      "fr": "Caramel Pink",
-      "en": "Caramel Pink",
-      "type": "recessive"
-    }
+    { "fr": "Normal", "en": "Normal", "type": "wildtype" },
+    { "fr": "Albino", "en": "Albino", "type": "recessive" },
+    { "fr": "Pastel", "en": "Pastel", "type": "recessive" },
+    { "fr": "Caramel Pink", "en": "Caramel Pink", "type": "recessive" }
   ]
 }
