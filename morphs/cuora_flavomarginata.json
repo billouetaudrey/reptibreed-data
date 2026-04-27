@@ -1,7 +1,14 @@
 {
   "species_scientific": "Cuora Flavomarginata",
-  "name": { "fr": "Tortue-boîte à bords jaunes", "en": "Yellow-margined Box Turtle" },
+  "name": {
+    "fr": "Tortue-boîte à bords jaunes",
+    "en": "Yellow-margined Box Turtle"
+  },
   "morphs": [
-    { "fr": "Normal", "en": "Normal", "type": "wildtype" }
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "type": "wildtype"
+    }
   ]
 }
