@@ -1,7 +1,14 @@
 {
   "species_scientific": "Sternotherus Odoratus",
-  "name": { "fr": "Tortue musquée", "en": "Common Musk Turtle" },
+  "name": {
+    "fr": "Tortue musquée",
+    "en": "Common Musk Turtle"
+  },
   "morphs": [
-    { "fr": "Normal", "en": "Normal", "type": "wildtype" }
+    {
+      "fr": "Normal",
+      "en": "Normal",
+      "type": "wildtype"
+    }
   ]
 }
