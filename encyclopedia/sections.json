@@ -28,6 +28,62 @@
     "type": "animal"
   },
   {
+    "id": "snakes",
+    "title": {
+      "fr": "Serpents",
+      "en": "Snakes",
+      "es": "Serpientes",
+      "de": "Schlangen",
+      "zh": "蛇",
+      "nl": "Slangen"
+    },
+    "file": "species/snakes.json",
+    "icon": "BookOpen",
+    "type": "animal"
+  },
+  {
+    "id": "lizards",
+    "title": {
+      "fr": "Lézards",
+      "en": "Lizards",
+      "es": "Lagartos",
+      "de": "Eidechsen",
+      "zh": "蜥蜴",
+      "nl": "Hagedissen"
+    },
+    "file": "species/lizards.json",
+    "icon": "BookOpen",
+    "type": "animal"
+  },
+  {
+    "id": "varan",
+    "title": {
+      "fr": "Varans",
+      "en": "Monitors",
+      "es": "Varanos",
+      "de": "Warane",
+      "zh": "巨蜥",
+      "nl": "Varanen"
+    },
+    "file": "species/varanidae.json",
+    "icon": "BookOpen",
+    "type": "animal"
+  },
+  {
+    "id": "turtles",
+    "title": {
+      "fr": "Tortues",
+      "en": "Turtles",
+      "es": "Tortugas",
+      "de": "Schildkröten",
+      "zh": "龟",
+      "nl": "Schildpadden"
+    },
+    "file": "species/turtles.json",
+    "icon": "BookOpen",
+    "type": "animal"
+  },
+  {
     "id": "medical",
     "title": {
       "fr": "Guides",
