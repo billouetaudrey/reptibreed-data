@@ -431,7 +431,10 @@
       "zh": "Bumblebee",
       "nl": "Bumblebee",
       "type": "combo",
-      "ingredients": ["Pastel", "Spider"]
+      "ingredients": [
+        "Pastel",
+        "Spider"
+      ]
     },
     {
       "fr": "Killer Clown",
