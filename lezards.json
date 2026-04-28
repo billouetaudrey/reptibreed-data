@@ -1,0 +1,43 @@
+{
+  "agames": [
+    {
+      "name": "Pogona Vitticeps",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Insectivore",
+      "category": "Lézard"
+    },
+    {
+      "name": "Physignathus Cocincinus",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Insectivore",
+      "category": "Lézard"
+    }
+  ],
+  "geckos": [
+    {
+      "name": "Eublepharis Macularius",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Insectivore",
+      "category": "Lézard"
+    },
+    {
+      "name": "Correlophus Ciliatus",
+      "venomous": false,
+      "repro": "Ovipare",
+      "diet": "Insectivore",
+      "category": "Lézard"
+    }
+  ],
+  "varans": [
+    {
+      "name": "Varanus Exanthematicus",
+      "venomous": true,
+      "repro": "Ovipare",
+      "diet": "Carnivore",
+      "category": "Lézard"
+    }
+  ]
+}
