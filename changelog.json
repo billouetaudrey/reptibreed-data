@@ -96,6 +96,145 @@
         "zh": "二维码扫描与快捷方式"
       },
       "description": {
+        "fr": "- Raccourci de scan QR sur l'accueil avec menu d'actions rapides (Repas, Soin, Mue, Profil).\n- Raccourcis d'ajout rapide (icône plus cliquable séparément) sur les fiches reptiles et bébés pour les repas, mues, soins et poids.\n- Enregistrement et enchaînement des ajouts de reptiles : sauvegarde immédiate de chaque animal avec conservation automatique des informations saisies pour enchaîner les ajouts successifs sans ressaisie.",
+        "en": "- QR scan shortcut on the home screen with a quick action menu (Meal, Care, Shed, Profile).\n- Quick add shortcuts (individually clickable plus icon) on reptile and baby cards for meals, sheds, cares, and weight.\n- Chained reptile additions: immediate saving when creating a reptile with automatic retention of entered information to seamlessly chain multiple additions without re-entry.",
+        "es": "- Acceso directo de escaneo QR en la pantalla de inicio con menú de acciones rápidas (Comida, Cuidado, Muda, Perfil).\n- Accesos directos de adición rápida (icono más cliqueable por separado) en tarjetas de reptiles y bebés para comidas, mudas, cuidados y peso.\n- Adición encadenada de reptiles: guardado inmediato al crear un reptil con conservación automática de los datos introducidos para encadenar altas rápidamente sin tener que volver a escribirlos.",
+        "de": "- QR-Scan-Verknüpfung auf dem Startbildschirm mit Schnellaktionsmenü (Mahlzeit, Pflege, Häutung, Profil).\n- Schnellverknüpfungen zum Hinzufügen (separat anklickbares Plus-Symbol) auf Reptilien- und Babykarten für Mahlzeiten, Häutungen, Pflege und Gewicht.\n- Fortlaufendes Hinzufügen von Reptilien: Sofortiges Speichern beim Erstellen eines Reptils mit automatischer Beibehaltung der eingegebenen Daten, um mehrere Tiere schnell und ohne Neueingabe nacheinander anzulegen.",
+        "zh": "- 主页集成二维码扫描快捷键，并提供快捷操作菜单（喂食、医疗护理、蜕皮、个人资料）。\n- 在爬宠和幼体卡片上新增快速添加快捷键（可单独点击的加号图标），直接跳转至对应的喂食、蜕皮、护理和称重表单。\n- 连续快速添加爬宠：创建爬宠时即时保存入库，并自动保留当前填写的表单信息，无需重复输入即可快速连续添加多只动物。"
+      }
+    },
+    {
+      "icon": "CheckCircle",
+      "title": {
+        "fr": "Finances & CRM",
+        "en": "Finances & CRM",
+        "es": "Finanzas y CRM",
+        "de": "Finanzen & CRM",
+        "zh": "财务与客户关系管理 (CRM)"
+      },
+      "description": {
+        "fr": "- Unification des calculs financiers (acomptes, ventes par lot) et gestion centralisée des contacts (acheteurs/vendeurs) avec sauvegarde automatisée.\n- Option d'export automatique d'attestation de cession et de fiche de suivi dès la finalisation d'une vente.",
+        "en": "- Unified financial calculations (deposits, batch sales) and centralized contact management (buyers/sellers) with automated saving.\n- Option to automatically export transfer certificates and tracking sheets upon finalizing a sale.",
+        "es": "- Cálculos financieros unificados (depósitos, ventas por lotes) y gestión de contactos (compradores/vendedores) centralizada con guardado automático.\n- Opción de exportar automáticamente certificados de transferencia y hojas de seguimiento al finalizar una venta.",
+        "de": "- Einheitliche Finanzberechnungen (Anzahlungen, Gruppenverkäufe) und zentralisierte Kontaktverwaltung (Käufer/Verkäufer) mit automatischer Speicherung.\n- Option zum automatischen Export von Abtretungserklärungen und Verfolgungsblättern nach Abschluss eines Verkaufs.",
+        "zh": "- 统一了财务计算逻辑（包含定金、批量销售等），并实现了联系人（买家/卖家）的自动化管理与保存。\n- 销售完成后，支持自动导出转让证书及跟踪表。"
+      }
+    },
+    {
+      "icon": "Info",
+      "title": {
+        "fr": "Sauvegarde Cloud",
+        "en": "Cloud Backup",
+        "es": "Copia de Seguridad en la Nube",
+        "de": "Cloud-Backup",
+        "zh": "云端备份"
+      },
+      "description": {
+        "fr": "- Synchronisation et sauvegarde automatique vers Google Drive (appDataFolder) avec suivi de progression en temps réel (Resumable Upload) et estimation de la taille.\n- Priorisation des sauvegardes .zip contenant les photos pour la restauration locale ou cloud.",
+        "en": "- Cloud backup and sync to Google Drive (appDataFolder) with real-time progress tracking (Resumable Upload) and size estimation.\n- Prioritization of .zip backups containing photos during local or cloud restorations.",
+        "es": "- Copia de seguridad y sincronización en la nube con Google Drive (appDataFolder) con seguimiento del progreso en tiempo real (Resumable Upload) y estimación del tamaño.\n- Priorización de copias de seguridad .zip que contienen fotos durante restauraciones locales o en la nube.",
+        "de": "- Cloud-Backup und Synchronisation mit Google Drive (appDataFolder) mit Echtzeit-Fortschrittsanzeige (Resumable Upload) und Größenschätzung.\n- Priorisierung von .zip-Backups mit Fotos bei der lokalen oder Cloud-Wiederherstellung.",
+        "zh": "- 支持将数据同步与备份至 Google Drive (appDataFolder)，提供实时上传进度（Resumable Upload）及文件大小预估功能。\n- 在本地或云端恢复数据时，优先推荐使用包含照片的 .zip 格式备份文件。"
+      }
+    },
+    {
+      "icon": "Heart",
+      "title": {
+        "fr": "Soins & Suivi médical",
+        "en": "Care & Medical tracking",
+        "es": "Cuidados y Seguimiento Médico",
+        "de": "Pflege & Medizinische Überwachung",
+        "zh": "医疗护理与健康监测"
+      },
+      "description": {
+        "fr": "- Gestion unifiée des soins basée sur la durée en jours, calcul automatique de la date de fin, enregistrement automatique de la dose initiale et indicateurs d'hibernation (icône flocon).\n- Progression quotidienne des traitements médicaux (ex: Prise 1/3) affichée sur le tableau de bord et les listes.",
+        "en": "- Care management based on duration in days, automatic end date calculation, automatic initial dose recording, and hibernation indicators (snowflake icon).\n- Daily progress tracking for medical treatments (e.g., Dose 1/3) displayed on the dashboard and lists.",
+        "es": "- Gestión unificada de cuidados basada en la duración en días, cálculo automático de la fecha de finalización, registro automático de la dosis inicial e indicadores de hibernación (icono de copo de nieve).\n- Seguimiento diario del progreso de tratamientos médicos (ej. Dosis 1/3) en el panel de control y listas.",
+        "de": "- Einheitliche Pflegeverwaltung basierend auf der Dauer in Tagen, automatischer Enddatumsberechnung, automatischer Aufzeichnung der Anfangsdosis und Überwinterungsanzeigen (Schneeflockensymbol).\n- Täglicher Fortschritt medizinischer Behandlungen (z. B. Dosis 1/3) auf dem Dashboard und in Listen angezeigt.",
+        "zh": "- 医疗护理管理重构：支持以“天”为单位设定疗程并自动计算结束日期，自动记录初始剂量，并为冬眠状态添加雪花图标标识。\n- 在仪表板和列表中实时展示医疗疗程的每日进度（例如：剂量 1/3）。"
+      }
+    },
+    {
+      "icon": "CheckCircle",
+      "title": {
+        "fr": "Corrections",
+        "en": "Fixes",
+        "es": "Correcciones",
+        "de": "Korrekturen",
+        "zh": "修复"
+      },
+      "description": {
+        "fr": "- Corrections diverses",
+        "en": "- Miscellaneous fixes",
+        "es": "- Correcciones diversas",
+        "de": "- Verschiedene Korrekturen",
+        "zh": "- 各种修复"
+      }
+    }
+  ]
+}
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": {
+        "fr": "Gestion des Stocks",
+        "en": "Stock & Inventory Management",
+        "es": "Gestión de Inventario (Prey Stock)",
+        "de": "Bestandsverwaltung (Prey Inventory)",
+        "zh": "库存管理"
+      },
+      "description": {
+        "fr": "- Suivi optionnel du stock de proies par quantité ou par poids avec conversion automatique de grammes à kilogrammes à partir de 50g.\n- Alertes de stock bas basées sur la quantité et le poids avec seuils de poids configurables dans les paramètres et affichage sur le tableau de bord.\n- Intégration dynamique de toutes les catégories et types de proies personnalisés du fichier de configuration (feed.json) dans l'inventaire et les formulaires.",
+        "en": "- Optional prey stock tracking by quantity or weight with automatic conversion from grams to kilograms starting at 50g.\n- Low stock alerts based on both quantity and weight, with configurable weight thresholds in settings and dashboard display.\n- Dynamic integration of all prey categories and custom types from the configuration file (feed.json) into the inventory and forms.",
+        "es": "- Seguimiento opcional de presas por cantidad o peso con conversión automática de gramos a kilogramos a partir de 50g.\n- Alertas de stock bajo basadas en cantidad y peso con umbrales de peso configurables en ajustes y visualización en el panel.\n- Integración dinámica de todas las categorías y tipos personalizados de presas del archivo de configuración (feed.json) en el inventario y formularios.",
+        "de": "- Optionale Beutebestandsverfolgung nach Menge oder Gewicht mit automatischer Umrechnung von Gramm in Kilogramm ab 50 g.\n- Warnmeldungen bei niedrigem Lagerbestand basierend auf Menge und Gewicht mit konfigurierbaren Gewichtsschwellen in den Einstellungen und Dashboard-Anzeige.\n- Dynamische Integration aller Beutekategorien und benutzerdefinierten Typen aus der Konfigurationsdatei (feed.json) in Inventar und Formulare.",
+        "zh": "- 可选的猎物库存追踪模式（按数量或重量），并在重量达到 50g 及以上时自动将克转换为千克。\n- 结合数量与重量的双重低库存警报，支持在设置中自定义重量阈值，并在仪表板中直观显示。\n- 将配置文件 (feed.json) 中的所有猎物类别及自定义类型动态集成至库存和表单中。"
+      }
+    },
+    {
+      "icon": "Star",
+      "title": {
+        "fr": "Reproduction & Génétique",
+        "en": "Reproduction & Genetics",
+        "es": "Reproducción y Genética",
+        "de": "Zucht & Genetik",
+        "zh": "繁殖与遗传学"
+      },
+      "description": {
+        "fr": "- Restructuration de la reproduction en 4 onglets (Accouplement, Gestation, Incubation, Historique) avec gestion des dates d'incubation et gestation synchronisées sur l'encyclopédie.\n- Suivi de l'ovulation pour les femelles et intégration de la recherche globale sur tous les onglets de reproduction.\n- Rapprochement et sélection fine des bébés par lots lors de la naissance avec liaison automatique de leur lignée et héritage du régime de la mère avec taille minimale forcée.\n- Affichage des photos des parents dans les pickers et listes de reproduction.",
+        "en": "- Restructuring of the breeding section into 4 tabs (Mating, Gestation, Incubation, History) with incubation and gestation dates synchronized with the species encyclopedia.\n- Ovulation tracking for females and global search integration across all breeding tabs.\n- Clutch grouping and fine-grained batch selection of babies at birth with automatic lineage linking and default diet inheritance with forced minimum size.\n- Parents' photos displayed in pickers and breeding lists.",
+        "es": "- Reestructuración de la sección de reproducción en 4 pestañas (Apareamiento, Gestación, Incubación, Historial) con fechas de incubación y gestación sincronizadas con la enciclopedia.\n- Seguimiento de la ovulación para hembras e integración de búsqueda global en todas las pestañas de reproducción.\n- Agrupación de puestas y selección detallada por lotes de bebés al nacer con vinculación automática de su linaje y herencia de la dieta de la madre con tamaño mínimo forzado.\n- Fotos de los padres mostradas en selectores y listas de reproducción.",
+        "de": "- Umstrukturierung der Zucht in 4 Registerkarten (Paarung, Trächtigkeit, Inkubation, Verlauf) mit Synchronisation der Inkubations- und Trächtigkeitsdaten mit der Enzyklopädie.\n- Eisprung-Verfolgung (Ovulation) für Weibchen und Integration der globalen Suche über alle Zucht-Registerkarten hinweg.\n- Gelegegruppierung und feingliedrige Gruppenauswahl von Babys bei der Geburt mit automatischer Abstammungsverknüpfung und Vererbung der Diät der Mutter bei minimaler Größe.\n- Fotos der Eltern werden in Pickern und Zuchtlisten angezeigt.",
+        "zh": "- 繁殖界面重构为 4 个标签页（交配、妊娠、孵化、历史），妊娠与孵化日期同物种百科全书数据深度同步。\n- 雌性排卵追踪支持，并在所有繁殖标签页中集成全局搜索功能。\n- 出生时支持按窝分组和精细化批量选择幼体，自动关联其亲本系谱，并继承母体饮食（强制设定最小规格）。\n- 在选择器及繁殖列表中显示父本和母本的照片。"
+      }
+    },
+    {
+      "icon": "Smartphone",
+      "title": {
+        "fr": "Interface, Thèmes & Navigation",
+        "en": "Interface, Themes & Navigation",
+        "es": "Interfaz, Temas y Navegación",
+        "de": "Benutzeroberfläche, Designs & Navigation",
+        "zh": "界面、主题与导航"
+      },
+      "description": {
+        "fr": "- Mode Hors Ligne (Beta) activable depuis l'onboarding ou les paramètres pour désactiver les fonctionnalités dépendantes du réseau.\n- Standardisation visuelle globale grâce au composant ThemedModal et optimisation de la gestion du clavier sur Android pour toutes les listes et modales.\n- Galerie photos avec timeline chronologique de l'évolution de l'animal et diaporama plein écran.\n- Ajout de tooltips interactifs (toasts de clic long) sur les boutons principaux.\n- Personnalisation avancée de l'accueil, choix de disposition du header et thèmes saisonniers automatisés avec suggestions de couleurs d'accentuation.\n- Choix de l'écran de démarrage de l'application avec persistance.",
+        "en": "- Offline Mode (Beta) toggleable from onboarding or settings to disable network-dependent features.\n- Global visual standardization using the ThemedModal component and optimized keyboard behavior on Android for lists and modals.\n- Photo gallery with a chronological timeline of the animal's growth/evolution and full-screen viewer.\n- Added interactive tooltips on long-press for main action buttons.\n- Advanced home screen customization, header layout options, and automated seasonal themes with accent color recommendations.\n- Start screen selection with database persistence.",
+        "es": "- Modo sin conexión (Beta) activable desde el onboarding o ajustes para desactivar funciones dependientes de la red.\n- Estandarización visual global utilizando el componente ThemedModal y comportamiento del teclado optimizado en Android para listas y modales.\n- Galería de fotos con línea de tiempo cronológica del crecimiento/evolución del animal y visor a pantalla completa.\n- Añadidos tooltips interactivos (toasts al mantener pulsado) en los botones principales.\n- Personalización avanzada de la pantalla de inicio, opciones de diseño del encabezado y temas estacionales automatizados con recomendaciones de color de acento.\n- Selección de la pantalla de inicio de la aplicação con persistencia.",
+        "de": "- Offline-Modus (Beta) im Onboarding oder in den Einstellungen aktivierbar, um netzwerkabhängige Funktionen zu deaktivieren.\n- Globale visuelle Standardisierung durch die ThemedModal-Komponente und optimierte Tastaturnutzung unter Android für Listen und Modale.\n- Fotogalerie mit einer chronologischen Zeitleiste des Tierwachstums und Vollbild-Diashow.\n- Interaktive Tooltips bei langem Drücken auf die Hauptbedienknöpfe hinzugefügt.\n- Erweiterte Startbildschirm-Anpassung, Header-Layout-Optionen und automatisierte saisonale Designs mit Akzentfarbempfehlungen.\n- Auswahl des Startbildschirms der App mit dauerhafter Speicherung.",
+        "zh": "- 离线模式（测试版）支持在引导流程（Onboarding）或设置中开启，以停用依赖网络的功能。\n- 采用统一的 ThemedModal 组件实现全局视觉标准化，并优化了 Android 设备上列表和弹窗的键盘交互体验。\n- 画廊照片管理支持以时间轴形式直观展示动物的成长与进化轨迹，并提供全屏查看器。\n- 在主操作/导航按钮上新增了长按显示交互式工具提示的功能。\n- 支持高度自定义的主页、多种头部布局选项以及自动切换的季节性主题（包含建议搭配的强调色）。\n- 支持设置及持久化应用启动首屏。"
+      }
+    },
+    {
+      "icon": "Zap",
+      "title": {
+        "fr": "Scanner QR & Raccourcis",
+        "en": "QR Scanner & Shortcuts",
+        "es": "Escáner QR y Accesos Directos",
+        "de": "QR-Scanner & Verknüpfungen",
+        "zh": "二维码扫描与快捷方式"
+      },
+      "description": {
         "fr": "- Raccourci de scan QR sur l'accueil avec menu d'actions rapides (Repas, Soin, Mue, Profil).\n- Raccourcis d'ajout rapide (icône plus cliquable séparément) sur les fiches reptiles et bébés pour les repas, mues, soins et poids.",
         "en": "- QR scan shortcut on the home screen with a quick action menu (Meal, Care, Shed, Profile).\n- Quick add shortcuts (individually clickable plus icon) on reptile and baby cards for meals, sheds, cares, and weight.",
         "es": "- Acceso directo de escaneo QR en la pantalla de inicio con menú de acciones rápidas (Comida, Cuidado, Muda, Perfil).\n- Accesos directos de adición rápida (icono más cliqueable por separado) en tarjetas de reptiles y bebés para comidas, mudas, cuidados y peso.",
